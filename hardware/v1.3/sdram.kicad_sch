@@ -10614,7 +10614,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "W9825G6KH"
+		(property "Value" "AS4C16M16SA"
 			(at 177.4033 64.77 0)
 			(effects
 				(font
@@ -10623,7 +10623,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Package_SO:TSOP-II-54_22.2x10.16mm_P0.8mm"
+		(property "Footprint" "Package_BGA:Alliance_TFBGA-54_8x8mm_Layout9x9_P0.8mm"
 			(at 175.26 135.89 0)
 			(effects
 				(font
@@ -10633,7 +10633,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.micron.com/-/media/client/global/documents/products/data-sheet/dram/256mb_sdr.pdf"
+		(property "Datasheet" "https://www.alliancememory.com/wp-content/uploads/256Mb-AS4C16M16SA-CI_V3.0_March-2015.pdf"
 			(at 175.26 106.68 0)
 			(effects
 				(font
@@ -10642,7 +10642,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "256M – (16M x 16 bit) Synchronous DRAM (SDRAM), TSOP-II-54"
+		(property "Description" "SDRAM Memory IC 256Mbit Parallel 166 MHz 5 ns 54-TFBGA (8x8)"
 			(at 175.26 100.33 0)
 			(effects
 				(font
@@ -10651,7 +10651,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC Part #" "C62246"
+		(property "LCSC Part #" "C17570045"
 			(at 175.26 100.33 0)
 			(effects
 				(font
@@ -10660,7 +10660,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC Link" "https://lcsc.com/product-detail/SDRAM_Winbond-W9825G6KH-6_C62246.html"
+		(property "LCSC Link" "https://www.lcsc.com/product-detail/C17570045.html?s_z=n_AS4C16M16SA-6BAN"
 			(at 175.26 100.33 0)
 			(effects
 				(font
@@ -10669,7 +10669,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufactuer Part Number" "W9825G6KH-6"
+		(property "Manufactuer Part Number" "AS4C16M16SA-6BAN"
 			(at 175.26 100.33 0)
 			(effects
 				(font
