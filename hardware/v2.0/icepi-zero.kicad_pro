@@ -752,6 +752,10 @@
     [
       "17c9c9b3-f379-4e1f-a876-d3fcf0529a4d",
       "Unused IO"
+    ],
+    [
+      "b5a9aa02-311b-4a9a-a7d4-646f15cdd9c2",
+      "ADC"
     ]
   ],
   "text_variables": {}

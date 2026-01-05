@@ -686,7 +686,7 @@
 		(in_bom yes)
 		(on_board yes)
 		(property "Reference" "U"
-			(at 48.768 1.016 0)
+			(at -1.524 27.686 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -694,7 +694,7 @@
 			)
 		)
 		(property "Value" "ECP5U-25F-CABGA256"
-			(at 59.436 -1.27 0)
+			(at 26.67 -13.462 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4114,24 +4114,6 @@
 				)
 			)
 			(pin bidirectional line
-				(at -58.42 30.48 0)
-				(length 5.08)
-				(name "PL2D/-/LDQ8"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "D3"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-			(pin bidirectional line
 				(at -58.42 27.94 0)
 				(length 5.08)
 				(name "PL8C/+/LDQ8"
@@ -4582,106 +4564,16 @@
 				)
 			)
 			(pin bidirectional line
-				(at -27.94 43.18 270)
-				(length 5.08)
-				(name "PT13B/-"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "D5"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-			(pin bidirectional line
-				(at -25.4 43.18 270)
-				(length 5.08)
-				(name "PT13A/+"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "E5"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-			(pin bidirectional line
-				(at -22.86 43.18 270)
-				(length 5.08)
-				(name "PT20B/-"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "D6"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-			(pin bidirectional line
-				(at -20.32 43.18 270)
-				(length 5.08)
-				(name "PT20A/+"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "E6"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-			(pin bidirectional line
-				(at -17.78 43.18 270)
-				(length 5.08)
-				(name "PT22A/+"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "C6"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-			(pin bidirectional line
 				(at -15.24 43.18 270)
 				(length 5.08)
-				(name "PT24B/-/GR_PCLK0_0"
+				(name "PT44B/-"
 					(effects
 						(font
 							(size 1.27 1.27)
 						)
 					)
 				)
-				(number "D7"
+				(number "C10"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -4692,14 +4584,14 @@
 			(pin bidirectional line
 				(at -12.7 43.18 270)
 				(length 5.08)
-				(name "PT24A/+/GR_PCLK0_1"
+				(name "PT49B/-"
 					(effects
 						(font
 							(size 1.27 1.27)
 						)
 					)
 				)
-				(number "E7"
+				(number "C11"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -4710,14 +4602,14 @@
 			(pin bidirectional line
 				(at -10.16 43.18 270)
 				(length 5.08)
-				(name "PT33B/-/PCLKC1_1"
+				(name "PT56B/-"
 					(effects
 						(font
 							(size 1.27 1.27)
 						)
 					)
 				)
-				(number "D8"
+				(number "C12"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -4744,24 +4636,6 @@
 				)
 			)
 			(pin bidirectional line
-				(at -7.62 43.18 270)
-				(length 5.08)
-				(name "PT33A/+/PCLKT1_1"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "E8"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-			(pin bidirectional line
 				(at -7.62 -46.99 90)
 				(length 5.08)
 				(name "PB15B/0/DOUT/CSON"
@@ -4780,16 +4654,16 @@
 				)
 			)
 			(pin bidirectional line
-				(at -5.08 43.18 270)
+				(at -6.35 43.18 270)
 				(length 5.08)
-				(name "PT38B/-/GR_PCLK1_1"
+				(name "PT58A/+"
 					(effects
 						(font
 							(size 1.27 1.27)
 						)
 					)
 				)
-				(number "C9"
+				(number "D12"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -4816,16 +4690,16 @@
 				)
 			)
 			(pin bidirectional line
-				(at -2.54 43.18 270)
+				(at -3.81 43.18 270)
 				(length 5.08)
-				(name "PT40B/-"
+				(name "PT51A/+"
 					(effects
 						(font
 							(size 1.27 1.27)
 						)
 					)
 				)
-				(number "E9"
+				(number "D11"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -4852,16 +4726,16 @@
 				)
 			)
 			(pin bidirectional line
-				(at 0 43.18 270)
+				(at -1.27 43.18 270)
 				(length 5.08)
-				(name "PT40A/+"
+				(name "PT47A/+"
 					(effects
 						(font
 							(size 1.27 1.27)
 						)
 					)
 				)
-				(number "D9"
+				(number "D10"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -4888,16 +4762,16 @@
 				)
 			)
 			(pin bidirectional line
-				(at 2.54 43.18 270)
+				(at 1.27 43.18 270)
 				(length 5.08)
-				(name "PT44B/-"
+				(name "PT33B/-/PCLKC1_1"
 					(effects
 						(font
 							(size 1.27 1.27)
 						)
 					)
 				)
-				(number "C10"
+				(number "D8"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -4924,16 +4798,16 @@
 				)
 			)
 			(pin bidirectional line
-				(at 5.08 43.18 270)
+				(at 3.81 43.18 270)
 				(length 5.08)
-				(name "PT47B/-"
+				(name "PT24B/-/GR_PCLK0_0"
 					(effects
 						(font
 							(size 1.27 1.27)
 						)
 					)
 				)
-				(number "E10"
+				(number "D7"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -4960,16 +4834,16 @@
 				)
 			)
 			(pin bidirectional line
-				(at 7.62 43.18 270)
+				(at 6.35 43.18 270)
 				(length 5.08)
-				(name "PT47A/+"
+				(name "PT13B/-"
 					(effects
 						(font
 							(size 1.27 1.27)
 						)
 					)
 				)
-				(number "D10"
+				(number "D5"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -4996,16 +4870,16 @@
 				)
 			)
 			(pin bidirectional line
-				(at 10.16 43.18 270)
+				(at 8.89 43.18 270)
 				(length 5.08)
-				(name "PT49B/-"
+				(name "PT47B/-"
 					(effects
 						(font
 							(size 1.27 1.27)
 						)
 					)
 				)
-				(number "C11"
+				(number "E10"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -5014,16 +4888,16 @@
 				)
 			)
 			(pin bidirectional line
-				(at 12.7 43.18 270)
+				(at 11.43 43.18 270)
 				(length 5.08)
-				(name "PT51A/+"
+				(name "PT40B/-"
 					(effects
 						(font
 							(size 1.27 1.27)
 						)
 					)
 				)
-				(number "D11"
+				(number "E9"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -5032,16 +4906,16 @@
 				)
 			)
 			(pin bidirectional line
-				(at 15.24 43.18 270)
+				(at 13.97 43.18 270)
 				(length 5.08)
-				(name "PT56B/-"
+				(name "PT33A/+/PCLKT1_1"
 					(effects
 						(font
 							(size 1.27 1.27)
 						)
 					)
 				)
-				(number "C12"
+				(number "E8"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -5050,16 +4924,52 @@
 				)
 			)
 			(pin bidirectional line
-				(at 17.78 43.18 270)
+				(at 16.51 43.18 270)
 				(length 5.08)
-				(name "PT58A/+"
+				(name "PT24A/+/GR_PCLK0_1"
 					(effects
 						(font
 							(size 1.27 1.27)
 						)
 					)
 				)
-				(number "D12"
+				(number "E7"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin bidirectional line
+				(at 19.05 43.18 270)
+				(length 5.08)
+				(name "PT20A/+"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "E6"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin bidirectional line
+				(at 21.59 43.18 270)
+				(length 5.08)
+				(name "PT13A/+"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "E5"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -5546,6 +5456,117 @@
 					)
 				)
 				(number "F14"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+		)
+		(symbol "LFE5U-25F-6BG256x_11_1"
+			(rectangle
+				(start -12.0015 25.019)
+				(end 12.7635 -24.511)
+				(stroke
+					(width 0)
+					(type solid)
+				)
+				(fill
+					(type background)
+				)
+			)
+			(text "ADC Block"
+				(at 0.762 23.114 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(pin bidirectional line
+				(at -16.51 16.51 0)
+				(length 5.08)
+				(name "PL2D/-/LDQ8"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "D3"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin bidirectional line
+				(at -16.51 11.43 0)
+				(length 5.08)
+				(name "PT40A/+"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "D9"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin bidirectional line
+				(at -16.51 8.89 0)
+				(length 5.08)
+				(name "PT38B/-/GR_PCLK1_1"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "C9"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin bidirectional line
+				(at -16.51 3.81 0)
+				(length 5.08)
+				(name "PT20B/-"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "D6"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin bidirectional line
+				(at -16.51 1.27 0)
+				(length 5.08)
+				(name "PT22A/+"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "C6"
 					(effects
 						(font
 							(size 1.27 1.27)
