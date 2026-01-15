@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP LTC2256CUJ-12#PBF
+D 12-Bit, 25Msps Ultralow Power 1.8V ADCs  40-Lead (6mm  6mm) Plastic QFN 0C to 70C
+K
+F https://www.analog.com/LTC2256-12/datasheet
+$ENDCMP
+#
+#End Doc Library

@@ -3,7 +3,7 @@
   (lib (name "icepi-lib")(type "KiCad")(uri "${KIPRJMOD}/libraries/icepi-lib.petty")(options "")(descr ""))
   (lib (name "oshw")(type "KiCad")(uri "${KIPRJMOD}/libraries/certification-mark/eda/kicad/OSHW_Certification_Mark.pretty")(options "")(descr ""))
   (lib (name "IS42S16160J-6BLI")(type "KiCad")(uri "${KIPRJMOD}/libraries/icepi-lib.petty/IS42S16160J-6BLI")(options "")(descr ""))
-  (lib (name "AD9629BCPZ-80")(type "KiCad")(uri "${KIPRJMOD}/libraries/icepi-lib.petty/AD9629BCPZ-80")(options "")(descr ""))
   (lib (name "RSP-122811-01")(type "KiCad")(uri "${KIPRJMOD}/libraries/icepi-lib.petty/RSP-122811-01")(options "")(descr ""))
   (lib (name "LTC3407AEDD-2_PBF")(type "KiCad")(uri "${KIPRJMOD}/libraries/icepi-lib.petty/LTC3407AEDD-2_PBF")(options "")(descr ""))
+  (lib (name "LTC2256CUJ-12#PBF")(type "KiCad")(uri "${KIPRJMOD}/libraries/icepi-lib.petty/LTC2256CUJ-12#PBF")(options "")(descr ""))
 )

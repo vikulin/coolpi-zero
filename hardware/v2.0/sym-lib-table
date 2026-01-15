@@ -5,4 +5,5 @@
   (lib (name "IS42S16160J-6BLI")(type "KiCad")(uri "${KIPRJMOD}/libraries/icepi-lib.petty/IS42S16160J-6BLI/IS42S16160J-6BLI.kicad_sym")(options "")(descr ""))
   (lib (name "RSP-122811-01")(type "KiCad")(uri "${KIPRJMOD}/libraries/icepi-lib.petty/RSP-122811-01/RSP-122811-01.kicad_sym")(options "")(descr ""))
   (lib (name "LTC3407AEDD-2_PBF")(type "KiCad")(uri "${KIPRJMOD}/libraries/icepi-lib.petty/LTC3407AEDD-2_PBF/LTC3407AEDD-2_PBF.kicad_sym")(options "")(descr ""))
+  (lib (name "LTC2256CUJ-12#PBF")(type "KiCad")(uri "${KIPRJMOD}/libraries/icepi-lib.petty/LTC2256CUJ-12#PBF/LTC2256CUJ-12#PBF.kicad_sym")(options "")(descr ""))
 )

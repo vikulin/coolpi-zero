@@ -10574,7 +10574,7 @@
 				)
 			)
 		)
-		(property "Value" "470"
+		(property "Value" "549"
 			(at 33.02 157.48 90)
 			(effects
 				(font
@@ -10609,7 +10609,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC Part #" "C25117"
+		(property "LCSC Part #" "C474081"
 			(at 33.02 161.29 0)
 			(effects
 				(font
@@ -10618,7 +10618,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC Link" "https://lcsc.com/product-detail/Chip-Resistor-Surface-Mount_UNI-ROYAL-0402WGF4700TCE_C25117.html"
+		(property "LCSC Link" "https://www.lcsc.com/product-detail/C474081.html"
 			(at 33.02 161.29 90)
 			(effects
 				(font
@@ -10627,7 +10627,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufactuer Part Number" "0402WGF4700TCE"
+		(property "Manufactuer Part Number" "0402WGF5490TCE"
 			(at 33.02 161.29 90)
 			(effects
 				(font
@@ -10754,7 +10754,7 @@
 				)
 			)
 		)
-		(property "Value" "470"
+		(property "Value" "549"
 			(at 33.02 180.34 90)
 			(effects
 				(font
@@ -10789,7 +10789,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC Part #" "C25117"
+		(property "LCSC Part #" "C474081"
 			(at 33.02 184.15 0)
 			(effects
 				(font
@@ -10798,7 +10798,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC Link" "https://lcsc.com/product-detail/Chip-Resistor-Surface-Mount_UNI-ROYAL-0402WGF4700TCE_C25117.html"
+		(property "LCSC Link" "https://www.lcsc.com/product-detail/C474081.html"
 			(at 33.02 184.15 90)
 			(effects
 				(font
@@ -10807,7 +10807,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufactuer Part Number" "0402WGF4700TCE"
+		(property "Manufactuer Part Number" "0402WGF5490TCE"
 			(at 33.02 184.15 90)
 			(effects
 				(font
@@ -10934,7 +10934,7 @@
 				)
 			)
 		)
-		(property "Value" "470"
+		(property "Value" "549"
 			(at 33.02 133.35 90)
 			(effects
 				(font
@@ -10969,7 +10969,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC Part #" "C25117"
+		(property "LCSC Part #" "C474081"
 			(at 33.02 137.16 0)
 			(effects
 				(font
@@ -10978,7 +10978,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC Link" "https://lcsc.com/product-detail/Chip-Resistor-Surface-Mount_UNI-ROYAL-0402WGF4700TCE_C25117.html"
+		(property "LCSC Link" "https://www.lcsc.com/product-detail/C474081.html"
 			(at 33.02 137.16 90)
 			(effects
 				(font
@@ -10987,7 +10987,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufactuer Part Number" "0402WGF4700TCE"
+		(property "Manufactuer Part Number" "0402WGF5490TCE"
 			(at 33.02 137.16 90)
 			(effects
 				(font
@@ -12242,7 +12242,7 @@
 				)
 			)
 		)
-		(property "Value" "470"
+		(property "Value" "549"
 			(at 33.02 146.05 90)
 			(effects
 				(font
@@ -12277,7 +12277,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC Part #" "C25117"
+		(property "LCSC Part #" "C474081"
 			(at 33.02 149.86 0)
 			(effects
 				(font
@@ -12286,7 +12286,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC Link" "https://lcsc.com/product-detail/Chip-Resistor-Surface-Mount_UNI-ROYAL-0402WGF4700TCE_C25117.html"
+		(property "LCSC Link" "https://www.lcsc.com/product-detail/C474081.html"
 			(at 33.02 149.86 90)
 			(effects
 				(font
@@ -12295,7 +12295,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufactuer Part Number" "0402WGF4700TCE"
+		(property "Manufactuer Part Number" "0402WGF5490TCE"
 			(at 33.02 149.86 90)
 			(effects
 				(font
@@ -12457,7 +12457,7 @@
 				)
 			)
 		)
-		(property "Value" "470"
+		(property "Value" "549"
 			(at 33.02 168.91 90)
 			(effects
 				(font
@@ -12492,7 +12492,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC Part #" "C25117"
+		(property "LCSC Part #" "C474081"
 			(at 33.02 172.72 0)
 			(effects
 				(font
@@ -12501,7 +12501,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC Link" "https://lcsc.com/product-detail/Chip-Resistor-Surface-Mount_UNI-ROYAL-0402WGF4700TCE_C25117.html"
+		(property "LCSC Link" "https://www.lcsc.com/product-detail/C474081.html"
 			(at 33.02 172.72 90)
 			(effects
 				(font
@@ -12510,7 +12510,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufactuer Part Number" "0402WGF4700TCE"
+		(property "Manufactuer Part Number" "0402WGF5490TCE"
 			(at 33.02 172.72 90)
 			(effects
 				(font
