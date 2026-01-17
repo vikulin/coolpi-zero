@@ -9684,6 +9684,16 @@
 		)
 		(uuid "01e1e640-97bc-4f07-8594-f42ecb6a30fd")
 	)
+	(label "GPIO2"
+		(at 118.11 97.79 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "06dd79f6-5ffa-4a47-b97e-36cf1925f1ba")
+	)
 	(label "GPIO14"
 		(at 276.86 102.87 180)
 		(effects
@@ -9753,16 +9763,6 @@
 			(justify left bottom)
 		)
 		(uuid "29cdc2e2-9e50-45b0-9d4e-c00a5cd4a3e0")
-	)
-	(label "GPIO23"
-		(at 222.25 109.22 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "2a10282e-bd1e-402f-8f28-74fdefaad108")
 	)
 	(label "GPIO23"
 		(at 276.86 113.03 180)
@@ -9843,16 +9843,6 @@
 			(justify left bottom)
 		)
 		(uuid "3f9376ff-e37b-425c-8c5e-326c2a6929f7")
-	)
-	(label "GPIO3"
-		(at 118.11 100.33 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "448e5559-3c66-4ac2-9afc-ca600ac30865")
 	)
 	(label "LED4"
 		(at 58.42 123.19 0)
@@ -10094,6 +10084,16 @@
 		)
 		(uuid "9385e434-7dbc-4659-83bb-5b6b8644ceb3")
 	)
+	(label "GPIO3"
+		(at 118.11 100.33 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "95c35e13-0b53-4498-b9f2-c466f2b9f969")
+	)
 	(label "GPIO5"
 		(at 233.68 130.81 0)
 		(effects
@@ -10153,6 +10153,16 @@
 			(justify left bottom)
 		)
 		(uuid "ab52a178-03c5-43c4-b759-e30eee36da60")
+	)
+	(label "GPIO23"
+		(at 222.25 109.22 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "b108f6c7-6915-4534-87a8-e3ad2ebb3ec8")
 	)
 	(label "GPIO26"
 		(at 118.11 140.97 0)
@@ -10353,16 +10363,6 @@
 			(justify left bottom)
 		)
 		(uuid "e4c34646-d1b9-4dfe-9891-39cee38747f5")
-	)
-	(label "GPIO2"
-		(at 118.11 97.79 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "e4c8cdd5-71df-41d9-a01a-065905b5e4a9")
 	)
 	(label "GPIO4"
 		(at 118.11 102.87 0)
