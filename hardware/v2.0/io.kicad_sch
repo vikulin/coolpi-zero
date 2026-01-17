@@ -3081,6 +3081,42 @@
 					)
 				)
 				(pin bidirectional line
+					(at 39.37 7.62 180)
+					(length 5.08)
+					(name "PL47A/+/HS/LDQ44"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "M6"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at 39.37 5.08 180)
+					(length 5.08)
+					(name "PL32C/+/LDQ32"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "L3"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
 					(at 39.37 1.27 180)
 					(length 5.08)
 					(name "PL23B/-/HS/LDQ20/PCLKC7_1"
@@ -3127,6 +3163,42 @@
 						)
 					)
 					(number "G1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at 39.37 -6.35 180)
+					(length 5.08)
+					(name "PL41C/+/LD44"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "R4"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at 39.37 -8.89 180)
+					(length 5.08)
+					(name "PL32D/-/LDQ32"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "M3"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -3501,42 +3573,6 @@
 					)
 				)
 				(pin bidirectional line
-					(at -58.42 -7.62 0)
-					(length 5.08)
-					(name "PL32C/+/LDQ32"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "L3"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin bidirectional line
-					(at -58.42 -10.16 0)
-					(length 5.08)
-					(name "PL32D/-/LDQ32"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "M3"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin bidirectional line
 					(at -58.42 -12.7 0)
 					(length 5.08)
 					(name "PL35C/+/LDQ32"
@@ -3573,24 +3609,6 @@
 					)
 				)
 				(pin bidirectional line
-					(at -58.42 -20.32 0)
-					(length 5.08)
-					(name "PL41C/+/LD44"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "R4"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin bidirectional line
 					(at -58.42 -22.86 0)
 					(length 5.08)
 					(name "PL44C/+/LDQ44"
@@ -3619,24 +3637,6 @@
 						)
 					)
 					(number "N5"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin bidirectional line
-					(at -58.42 -27.94 0)
-					(length 5.08)
-					(name "PL47A/+/HS/LDQ44"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "M6"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -4694,14 +4694,14 @@
 				(pin bidirectional line
 					(at -24.13 19.05 0)
 					(length 5.08)
-					(name "PL26B/-/HS/LDQ32/PCLKC6_1"
+					(name "PL41B/-/HS/LDQ44"
 						(effects
 							(font
 								(size 1.27 1.27)
 							)
 						)
 					)
-					(number "L2"
+					(number "R3"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -4712,14 +4712,14 @@
 				(pin bidirectional line
 					(at -24.13 16.51 0)
 					(length 5.08)
-					(name "PL26A/+/HS/LDQ32/PCLKT6_1"
+					(name "PL41A/+/HS/LDQ44"
 						(effects
 							(font
 								(size 1.27 1.27)
 							)
 						)
 					)
-					(number "L1"
+					(number "P4"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -4766,6 +4766,42 @@
 				(pin bidirectional line
 					(at -24.13 3.81 0)
 					(length 5.08)
+					(name "PL32B/-/HS/LDQSN32"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "P2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at -24.13 1.27 0)
+					(length 5.08)
+					(name "PL32A/+/HS/LDQS32"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "N1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at -24.13 -3.81 0)
+					(length 5.08)
 					(name "PL38B/-/HS/LDQ44"
 						(effects
 							(font
@@ -4782,7 +4818,7 @@
 					)
 				)
 				(pin bidirectional line
-					(at -24.13 1.27 0)
+					(at -24.13 -6.35 0)
 					(length 5.08)
 					(name "PL38A/+/HS/LDQ44"
 						(effects
@@ -4800,52 +4836,16 @@
 					)
 				)
 				(pin bidirectional line
-					(at -24.13 -3.81 0)
-					(length 5.08)
-					(name "PL41B/-/HS/LDQ44"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "R3"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin bidirectional line
-					(at -24.13 -6.35 0)
-					(length 5.08)
-					(name "PL41A/+/HS/LDQ44"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "P4"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin bidirectional line
 					(at -24.13 -11.43 0)
 					(length 5.08)
-					(name "PL32B/-/HS/LDQSN32"
+					(name "PL26B/-/HS/LDQ32/PCLKC6_1"
 						(effects
 							(font
 								(size 1.27 1.27)
 							)
 						)
 					)
-					(number "P2"
+					(number "L2"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -4856,14 +4856,14 @@
 				(pin bidirectional line
 					(at -24.13 -13.97 0)
 					(length 5.08)
-					(name "PL32A/+/HS/LDQS32"
+					(name "PL26A/+/HS/LDQ32/PCLKT6_1"
 						(effects
 							(font
 								(size 1.27 1.27)
 							)
 						)
 					)
-					(number "N1"
+					(number "L1"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -6469,10 +6469,6 @@
 		(instances
 			(project "icepi-zero"
 				(path "/f88da08e-cf42-4d03-a08f-3f602fe6658d/17c9c9b3-f379-4e1f-a876-d3fcf0529a4d"
-					(reference "U1")
-					(unit 10)
-				)
-				(path "/f88da08e-cf42-4d03-a08f-3f602fe6658d/b5a9aa02-311b-4a9a-a7d4-646f15cdd9c2"
 					(reference "U1")
 					(unit 10)
 				)
