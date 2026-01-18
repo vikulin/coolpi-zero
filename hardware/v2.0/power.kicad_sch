@@ -6,10 +6,10 @@
 	(paper "A4")
 	(title_block
 		(title "Icepi Zero")
-		(date "2026-01-05")
-		(rev "v2.0")
-		(company "Chengyin Yao (cheyao), Vadym Vikulin")
-		(comment 1 "https://github.com/cheyao/icepi-zero")
+		(date "2026-01-17")
+		(rev "v2.1")
+		(company "Vadym Vikulin, Chengyin Yao (cheyao)")
+		(comment 1 "https://github.com/vikulin/icepi-zero")
 		(comment 2 "License: Solderpad")
 		(comment 9 "OSHWA FR000026")
 	)
@@ -4062,24 +4062,6 @@
 					)
 				)
 				(pin bidirectional line
-					(at -39.37 16.51 0)
-					(length 5.08)
-					(name "PL11A/+/HS/LDQ8"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "G5"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin bidirectional line
 					(at -39.37 13.97 0)
 					(length 5.08)
 					(name "PL11B/-/HS/LDQ8"
@@ -4090,78 +4072,6 @@
 						)
 					)
 					(number "G4"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin bidirectional line
-					(at -39.37 11.43 0)
-					(length 5.08)
-					(name "PL17A/+/HS/LDQ20"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "H5"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin bidirectional line
-					(at -39.37 8.89 0)
-					(length 5.08)
-					(name "PL17C/+/LDQ20"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "J4"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin bidirectional line
-					(at -39.37 6.35 0)
-					(length 5.08)
-					(name "PL17B/-/HS/LDQ20"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "H4"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin bidirectional line
-					(at -39.37 3.81 0)
-					(length 5.08)
-					(name "PL17D/-/LDQ20"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "J5"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -4314,42 +4224,6 @@
 					)
 				)
 				(pin bidirectional line
-					(at 39.37 17.78 180)
-					(length 5.08)
-					(name "PL23C/+/LDQ20/PCLKT7_0"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "K1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin bidirectional line
-					(at 39.37 15.24 180)
-					(length 5.08)
-					(name "PL23D/-/LDQ20/PCLKC7_0"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "K2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin bidirectional line
 					(at 39.37 12.7 180)
 					(length 5.08)
 					(name "PL20D/-/LDQS20"
@@ -4378,24 +4252,6 @@
 						)
 					)
 					(number "M2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin bidirectional line
-					(at 39.37 7.62 180)
-					(length 5.08)
-					(name "PL47A/+/HS/LDQ44"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "M6"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -4787,7 +4643,7 @@
 			)
 			(symbol "LFE5U-25F-6BG256x_10_1"
 				(rectangle
-					(start -53.34 38.1)
+					(start -52.832 38.1)
 					(end 53.34 -41.91)
 					(stroke
 						(width 0)
@@ -4806,7 +4662,7 @@
 					)
 				)
 				(pin bidirectional line
-					(at -58.42 27.94 0)
+					(at -57.912 27.94 0)
 					(length 5.08)
 					(name "PL8C/+/LDQ8"
 						(effects
@@ -4824,7 +4680,7 @@
 					)
 				)
 				(pin bidirectional line
-					(at -58.42 25.4 0)
+					(at -57.912 25.4 0)
 					(length 5.08)
 					(name "PL8D/-/LDQ8"
 						(effects
@@ -4842,7 +4698,133 @@
 					)
 				)
 				(pin bidirectional line
-					(at -58.42 -2.54 0)
+					(at -57.912 18.796 0)
+					(length 5.08)
+					(name "PL23D/-/LDQ20/PCLKC7_0"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "K2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at -57.912 16.256 0)
+					(length 5.08)
+					(name "PL23C/+/LDQ20/PCLKT7_0"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "K1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at -57.912 13.97 0)
+					(length 5.08)
+					(name "PL11A/+/HS/LDQ8"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "G5"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at -57.912 11.43 0)
+					(length 5.08)
+					(name "PL17A/+/HS/LDQ20"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "H5"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at -57.912 8.89 0)
+					(length 5.08)
+					(name "PL17C/+/LDQ20"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "J4"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at -57.912 6.35 0)
+					(length 5.08)
+					(name "PL17B/-/HS/LDQ20"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "H4"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at -57.912 3.81 0)
+					(length 5.08)
+					(name "PL17D/-/LDQ20"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "J5"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at -57.912 -2.54 0)
 					(length 5.08)
 					(name "PL29C/+/LDQ32/GR_PCLK6_1"
 						(effects
@@ -4860,7 +4842,7 @@
 					)
 				)
 				(pin bidirectional line
-					(at -58.42 -5.08 0)
+					(at -57.912 -5.08 0)
 					(length 5.08)
 					(name "PL29D/-/LDQ32"
 						(effects
@@ -4878,7 +4860,7 @@
 					)
 				)
 				(pin bidirectional line
-					(at -58.42 -12.7 0)
+					(at -57.912 -12.7 0)
 					(length 5.08)
 					(name "PL35C/+/LDQ32"
 						(effects
@@ -4896,7 +4878,7 @@
 					)
 				)
 				(pin bidirectional line
-					(at -58.42 -15.24 0)
+					(at -57.912 -15.24 0)
 					(length 5.08)
 					(name "PL35D/-/LDQ32"
 						(effects
@@ -4914,7 +4896,7 @@
 					)
 				)
 				(pin bidirectional line
-					(at -58.42 -22.86 0)
+					(at -57.912 -22.86 0)
 					(length 5.08)
 					(name "PL44C/+/LDQ44"
 						(effects
@@ -4932,7 +4914,7 @@
 					)
 				)
 				(pin bidirectional line
-					(at -58.42 -25.4 0)
+					(at -57.912 -25.4 0)
 					(length 5.08)
 					(name "PL44D/-/LDQ44"
 						(effects
@@ -4950,7 +4932,7 @@
 					)
 				)
 				(pin bidirectional line
-					(at -58.42 -30.48 0)
+					(at -57.912 -30.48 0)
 					(length 5.08)
 					(name "PL47B/-/HS/LDQ44"
 						(effects
@@ -4968,7 +4950,7 @@
 					)
 				)
 				(pin bidirectional line
-					(at -58.42 -33.02 0)
+					(at -57.912 -33.02 0)
 					(length 5.08)
 					(name "PL47C/+/LDQ44/LLC+GPLL0T_IN"
 						(effects
@@ -5979,7 +5961,7 @@
 			(symbol "LFE5U-25F-6BG256x_11_1"
 				(rectangle
 					(start -19.0499 25.019)
-					(end 15.7479 -27.178)
+					(end 16.5099 -27.178)
 					(stroke
 						(width 0)
 						(type solid)
@@ -6107,42 +6089,6 @@
 				(pin bidirectional line
 					(at -24.13 -3.81 0)
 					(length 5.08)
-					(name "PL38B/-/HS/LDQ44"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "P3"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin bidirectional line
-					(at -24.13 -6.35 0)
-					(length 5.08)
-					(name "PL38A/+/HS/LDQ44"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "N4"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin bidirectional line
-					(at -24.13 -11.43 0)
-					(length 5.08)
 					(name "PL26B/-/HS/LDQ32/PCLKC6_1"
 						(effects
 							(font
@@ -6159,7 +6105,7 @@
 					)
 				)
 				(pin bidirectional line
-					(at -24.13 -13.97 0)
+					(at -24.13 -6.35 0)
 					(length 5.08)
 					(name "PL26A/+/HS/LDQ32/PCLKT6_1"
 						(effects
@@ -6169,6 +6115,42 @@
 						)
 					)
 					(number "L1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at -24.13 -11.43 0)
+					(length 5.08)
+					(name "PL38B/-/HS/LDQ44"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "P3"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at -24.13 -13.97 0)
+					(length 5.08)
+					(name "PL38A/+/HS/LDQ44"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "N4"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -6205,6 +6187,42 @@
 						)
 					)
 					(number "K4"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at 21.59 19.05 180)
+					(length 5.08)
+					(name "PL47A/+/HS/LDQ44"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "M6"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at 21.59 16.51 180)
+					(length 5.08)
+					(name "PL47B/-/HS/LDQ44"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "N6"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -16269,6 +16287,9 @@
 		)
 		(pin "P11"
 			(uuid "b64ac057-6322-42f1-862a-b499ff61ee4e")
+		)
+		(pin "N6"
+			(uuid "9984bdad-a557-4844-952c-9630a7085b12")
 		)
 		(instances
 			(project ""
