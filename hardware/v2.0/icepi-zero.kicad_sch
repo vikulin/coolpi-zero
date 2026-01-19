@@ -1504,189 +1504,6 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "Device:LED"
-			(pin_numbers
-				(hide yes)
-			)
-			(pin_names
-				(offset 1.016)
-				(hide yes)
-			)
-			(exclude_from_sim no)
-			(in_bom yes)
-			(on_board yes)
-			(property "Reference" "D"
-				(at 0 2.54 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Value" "LED"
-				(at 0 -2.54 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Footprint" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Datasheet" "~"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Description" "Light emitting diode"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Sim.Pins" "1=K 2=A"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "ki_keywords" "LED diode"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "ki_fp_filters" "LED* LED_SMD:* LED_THT:*"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(symbol "LED_0_1"
-				(polyline
-					(pts
-						(xy -3.048 -0.762) (xy -4.572 -2.286) (xy -3.81 -2.286) (xy -4.572 -2.286) (xy -4.572 -1.524)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy -1.778 -0.762) (xy -3.302 -2.286) (xy -2.54 -2.286) (xy -3.302 -2.286) (xy -3.302 -1.524)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy -1.27 0) (xy 1.27 0)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy -1.27 -1.27) (xy -1.27 1.27)
-					)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 1.27 -1.27) (xy 1.27 1.27) (xy -1.27 0) (xy 1.27 -1.27)
-					)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-			)
-			(symbol "LED_1_1"
-				(pin passive line
-					(at -3.81 0 0)
-					(length 2.54)
-					(name "K"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 3.81 0 180)
-					(length 2.54)
-					(name "A"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-			)
-			(embedded_fonts no)
-		)
 		(symbol "Device:R"
 			(pin_numbers
 				(hide yes)
@@ -1794,6 +1611,194 @@
 					(at 0 -3.81 90)
 					(length 1.27)
 					(name "~"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
+		(symbol "IN-PI15TAT5R5G5B:IN-PI15TAT5R5G5B"
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "LED"
+				(at 24.13 7.62 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+				)
+			)
+			(property "Value" "IN-PI15TAT5R5G5B"
+				(at 24.13 5.08 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+				)
+			)
+			(property "Footprint" "INPI15TAT5R5G5B"
+				(at 24.13 -94.92 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" ""
+				(at 24.13 -194.92 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+					(hide yes)
+				)
+			)
+			(property "Description" "TOP MOUNT / 1515 / 1.5 X 1.5 X 0"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Height" "0.75"
+				(at 24.13 -394.92 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+					(hide yes)
+				)
+			)
+			(property "Mouser Part Number" "743-IN-PI15TAT5R5G5B"
+				(at 24.13 -494.92 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+					(hide yes)
+				)
+			)
+			(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Inolux/IN-PI15TAT5R5G5B?qs=stqOd1AaK79AxVQMebgHsw%3D%3D"
+				(at 24.13 -594.92 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+					(hide yes)
+				)
+			)
+			(property "Manufacturer_Name" "Inolux"
+				(at 24.13 -694.92 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+					(hide yes)
+				)
+			)
+			(property "Manufacturer_Part_Number" "IN-PI15TAT5R5G5B"
+				(at 24.13 -794.92 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+					(hide yes)
+				)
+			)
+			(symbol "IN-PI15TAT5R5G5B_1_1"
+				(rectangle
+					(start 5.08 2.54)
+					(end 22.86 -5.08)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type background)
+					)
+				)
+				(pin passive line
+					(at 0 0 0)
+					(length 5.08)
+					(name "GND"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "4"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 0 -2.54 0)
+					(length 5.08)
+					(name "DIN"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 27.94 0 180)
+					(length 5.08)
+					(name "DOUT"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "3"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 27.94 -2.54 180)
+					(length 5.08)
+					(name "VDD"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -8176,28 +8181,10 @@
 		(uuid "0ef0fea0-98ef-4fe6-a5bd-9e4c25140413")
 	)
 	(junction
-		(at 48.26 149.86)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "488fa616-e8d7-4b89-a889-2452263dbd46")
-	)
-	(junction
 		(at 82.55 166.37)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "497fb72c-7f5d-4ca6-9140-98694cc2891b")
-	)
-	(junction
-		(at 48.26 161.29)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "571ba4ec-b75b-4dac-96c1-cf71cfe9ed74")
-	)
-	(junction
-		(at 48.26 184.15)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "5f19359a-3432-48e3-807d-51d7384d5103")
 	)
 	(junction
 		(at 74.93 166.37)
@@ -8206,13 +8193,7 @@
 		(uuid "72daa8a7-d61b-49eb-860d-12493f3a8c15")
 	)
 	(junction
-		(at 48.26 172.72)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "b7c2d129-595e-46aa-b327-b7bd5686f7b1")
-	)
-	(junction
-		(at 48.26 115.57)
+		(at 48.26 90.17)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "d3a2e655-a69a-45e0-8d34-bcf7990f8415")
@@ -8224,6 +8205,10 @@
 	(no_connect
 		(at 261.62 113.03)
 		(uuid "3fe9024c-e0e1-4347-9059-037223531a0a")
+	)
+	(no_connect
+		(at 16.51 179.07)
+		(uuid "69fae933-1e55-40a9-8240-d96e21775e96")
 	)
 	(no_connect
 		(at 248.92 113.03)
@@ -8249,7 +8234,7 @@
 	)
 	(wire
 		(pts
-			(xy 41.91 115.57) (xy 48.26 115.57)
+			(xy 41.91 90.17) (xy 48.26 90.17)
 		)
 		(stroke
 			(width 0)
@@ -8269,7 +8254,7 @@
 	)
 	(wire
 		(pts
-			(xy 58.42 115.57) (xy 71.12 115.57)
+			(xy 62.23 115.57) (xy 74.93 115.57)
 		)
 		(stroke
 			(width 0)
@@ -8279,13 +8264,23 @@
 	)
 	(wire
 		(pts
-			(xy 58.42 113.03) (xy 71.12 113.03)
+			(xy 62.23 113.03) (xy 74.93 113.03)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
 		(uuid "184adbeb-dfe7-4684-a91c-3d90130a0ec6")
+	)
+	(wire
+		(pts
+			(xy 16.51 168.91) (xy 44.45 168.91)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "196470a8-7a00-479d-b771-3e5960b1f9a5")
 	)
 	(wire
 		(pts
@@ -8309,7 +8304,7 @@
 	)
 	(wire
 		(pts
-			(xy 41.91 105.41) (xy 48.26 105.41)
+			(xy 41.91 80.01) (xy 48.26 80.01)
 		)
 		(stroke
 			(width 0)
@@ -8339,7 +8334,7 @@
 	)
 	(wire
 		(pts
-			(xy 58.42 120.65) (xy 71.12 120.65)
+			(xy 62.23 120.65) (xy 74.93 120.65)
 		)
 		(stroke
 			(width 0)
@@ -8369,7 +8364,7 @@
 	)
 	(wire
 		(pts
-			(xy 58.42 135.89) (xy 71.12 135.89)
+			(xy 62.23 135.89) (xy 74.93 135.89)
 		)
 		(stroke
 			(width 0)
@@ -8406,16 +8401,6 @@
 			(type default)
 		)
 		(uuid "354ea072-0122-4da6-8fb4-ed41b4453b97")
-	)
-	(wire
-		(pts
-			(xy 21.59 137.16) (xy 29.21 137.16)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "3912d3a4-15b3-43ee-a5bc-01fb61fdd4b2")
 	)
 	(wire
 		(pts
@@ -8489,26 +8474,6 @@
 	)
 	(wire
 		(pts
-			(xy 48.26 185.42) (xy 48.26 184.15)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "54033282-4d42-4290-b96f-42eda9a9630d")
-	)
-	(wire
-		(pts
-			(xy 21.59 184.15) (xy 29.21 184.15)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "553e7bf9-6715-4135-92ec-61931ebc542f")
-	)
-	(wire
-		(pts
 			(xy 261.62 138.43) (xy 276.86 138.43)
 		)
 		(stroke
@@ -8559,7 +8524,7 @@
 	)
 	(wire
 		(pts
-			(xy 58.42 118.11) (xy 71.12 118.11)
+			(xy 62.23 118.11) (xy 74.93 118.11)
 		)
 		(stroke
 			(width 0)
@@ -8569,17 +8534,27 @@
 	)
 	(wire
 		(pts
-			(xy 48.26 149.86) (xy 45.72 149.86)
+			(xy 16.51 152.4) (xy 44.45 152.4)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "77a3f186-763b-4d7b-be4f-63deb1acf746")
+		(uuid "725836be-73d4-4c26-97b1-cd1ee66ba6f6")
 	)
 	(wire
 		(pts
-			(xy 48.26 105.41) (xy 48.26 115.57)
+			(xy 44.45 119.38) (xy 44.45 127)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "76925c40-3e92-4a2e-93c8-e332e9b22403")
+	)
+	(wire
+		(pts
+			(xy 48.26 80.01) (xy 48.26 90.17)
 		)
 		(stroke
 			(width 0)
@@ -8599,23 +8574,13 @@
 	)
 	(wire
 		(pts
-			(xy 36.83 172.72) (xy 38.1 172.72)
+			(xy 16.51 119.38) (xy 44.45 119.38)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "79f20af8-a176-455f-b5a0-b014fcb33c4c")
-	)
-	(wire
-		(pts
-			(xy 48.26 137.16) (xy 48.26 149.86)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "7ce7655b-8ab8-4274-b758-92aea29cedf9")
+		(uuid "790ab33e-6d40-46e6-b062-a55f318fb841")
 	)
 	(wire
 		(pts
@@ -8626,6 +8591,16 @@
 			(type default)
 		)
 		(uuid "7e441578-db72-45d8-9fb4-bdbd3057eebe")
+	)
+	(wire
+		(pts
+			(xy 16.51 129.54) (xy 16.51 135.89)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "804c6f4c-404b-4bef-90b8-ebb472dc5b1b")
 	)
 	(wire
 		(pts
@@ -8649,6 +8624,16 @@
 	)
 	(wire
 		(pts
+			(xy 16.51 135.89) (xy 44.45 135.89)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "86c35aad-650a-4dff-9a82-cfa63b530fa7")
+	)
+	(wire
+		(pts
 			(xy 209.55 139.7) (xy 222.25 139.7)
 		)
 		(stroke
@@ -8659,7 +8644,17 @@
 	)
 	(wire
 		(pts
-			(xy 21.59 105.41) (xy 31.75 105.41)
+			(xy 16.51 113.03) (xy 16.51 119.38)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8952db78-e6bb-48a8-8183-f8a55e48385d")
+	)
+	(wire
+		(pts
+			(xy 21.59 80.01) (xy 31.75 80.01)
 		)
 		(stroke
 			(width 0)
@@ -8679,7 +8674,7 @@
 	)
 	(wire
 		(pts
-			(xy 58.42 130.81) (xy 71.12 130.81)
+			(xy 62.23 130.81) (xy 74.93 130.81)
 		)
 		(stroke
 			(width 0)
@@ -8696,16 +8691,6 @@
 			(type default)
 		)
 		(uuid "90aa27c6-fe17-44d4-9095-8aa3c49c270e")
-	)
-	(wire
-		(pts
-			(xy 48.26 137.16) (xy 45.72 137.16)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "91ceec31-5d5c-41f6-bcdc-da0b7a7bc2b3")
 	)
 	(wire
 		(pts
@@ -8739,16 +8724,6 @@
 	)
 	(wire
 		(pts
-			(xy 21.59 172.72) (xy 29.21 172.72)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "9c0e778c-6e95-415f-a085-f270d542f038")
-	)
-	(wire
-		(pts
 			(xy 233.68 130.81) (xy 248.92 130.81)
 		)
 		(stroke
@@ -8756,6 +8731,26 @@
 			(type default)
 		)
 		(uuid "a0fa60bb-704d-4046-a808-164cb569e346")
+	)
+	(wire
+		(pts
+			(xy 52.07 110.49) (xy 57.15 110.49)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a32c7859-0e9a-40e5-9418-1db4dbe6ac60")
+	)
+	(wire
+		(pts
+			(xy 44.45 135.89) (xy 44.45 143.51)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a4d532ab-5afb-405e-9f43-823ec4deb272")
 	)
 	(wire
 		(pts
@@ -8809,7 +8804,7 @@
 	)
 	(wire
 		(pts
-			(xy 58.42 123.19) (xy 71.12 123.19)
+			(xy 62.23 123.19) (xy 74.93 123.19)
 		)
 		(stroke
 			(width 0)
@@ -8829,16 +8824,6 @@
 	)
 	(wire
 		(pts
-			(xy 48.26 172.72) (xy 45.72 172.72)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "b9c868ff-e2c5-4000-af7f-10f19a677f78")
-	)
-	(wire
-		(pts
 			(xy 209.55 123.19) (xy 222.25 123.19)
 		)
 		(stroke
@@ -8846,16 +8831,6 @@
 			(type default)
 		)
 		(uuid "bc2a35c5-232a-42df-8b61-a971deac4791")
-	)
-	(wire
-		(pts
-			(xy 36.83 137.16) (xy 38.1 137.16)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "bcb5933e-fc7d-41cd-828f-37e49334a988")
 	)
 	(wire
 		(pts
@@ -8869,33 +8844,13 @@
 	)
 	(wire
 		(pts
-			(xy 58.42 128.27) (xy 71.12 128.27)
+			(xy 62.23 128.27) (xy 74.93 128.27)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
 		(uuid "c1e3c612-7b06-42bc-8fc3-e4ba6521875d")
-	)
-	(wire
-		(pts
-			(xy 48.26 172.72) (xy 48.26 184.15)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "c2250aac-954d-41cc-b391-6518a444c39b")
-	)
-	(wire
-		(pts
-			(xy 21.59 161.29) (xy 29.21 161.29)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "c2b91050-5239-4642-92f3-751701083809")
 	)
 	(wire
 		(pts
@@ -8909,23 +8864,13 @@
 	)
 	(wire
 		(pts
-			(xy 36.83 161.29) (xy 38.1 161.29)
+			(xy 44.45 168.91) (xy 44.45 176.53)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "cae3cc6b-c1f9-4424-bc90-6ac2d742bc3e")
-	)
-	(wire
-		(pts
-			(xy 48.26 161.29) (xy 48.26 172.72)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "cfc1c8fa-0106-431c-b50c-2fdb3d8dc356")
+		(uuid "c69af967-b0c1-4897-8703-4ea85d01b41c")
 	)
 	(wire
 		(pts
@@ -8969,26 +8914,6 @@
 	)
 	(wire
 		(pts
-			(xy 48.26 161.29) (xy 45.72 161.29)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "d3cf20c7-2291-41b8-8513-f8a5521de62b")
-	)
-	(wire
-		(pts
-			(xy 48.26 184.15) (xy 45.72 184.15)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "d4d91e42-5f15-4a69-99bf-56cd03fda23c")
-	)
-	(wire
-		(pts
 			(xy 67.31 181.61) (xy 82.55 181.61)
 		)
 		(stroke
@@ -8999,7 +8924,7 @@
 	)
 	(wire
 		(pts
-			(xy 58.42 107.95) (xy 71.12 107.95)
+			(xy 62.23 107.95) (xy 74.93 107.95)
 		)
 		(stroke
 			(width 0)
@@ -9009,7 +8934,17 @@
 	)
 	(wire
 		(pts
-			(xy 48.26 115.57) (xy 48.26 118.11)
+			(xy 44.45 152.4) (xy 44.45 160.02)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d8b792fc-4905-44dc-a5fb-1f198088f0ed")
+	)
+	(wire
+		(pts
+			(xy 48.26 90.17) (xy 48.26 92.71)
 		)
 		(stroke
 			(width 0)
@@ -9026,6 +8961,16 @@
 			(type default)
 		)
 		(uuid "e3b0ab62-7ca1-4b3c-b043-d912119892eb")
+	)
+	(wire
+		(pts
+			(xy 16.51 146.05) (xy 16.51 152.4)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e496ff82-94bd-4ea0-b7a4-e03607db4d9e")
 	)
 	(wire
 		(pts
@@ -9069,26 +9014,6 @@
 	)
 	(wire
 		(pts
-			(xy 36.83 149.86) (xy 38.1 149.86)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "ebb5c233-35e4-47ea-afdb-3cb8cb1f7f36")
-	)
-	(wire
-		(pts
-			(xy 21.59 149.86) (xy 29.21 149.86)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "eebe4be3-d298-46bc-a12d-763e8a2695c4")
-	)
-	(wire
-		(pts
 			(xy 261.62 115.57) (xy 276.86 115.57)
 		)
 		(stroke
@@ -9096,6 +9021,16 @@
 			(type default)
 		)
 		(uuid "ef06ced7-b872-4628-9908-d03574fe5e71")
+	)
+	(wire
+		(pts
+			(xy 16.51 162.56) (xy 16.51 168.91)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f023b7c4-e313-40a3-a28a-2fc6d18a3e86")
 	)
 	(wire
 		(pts
@@ -9139,17 +9074,7 @@
 	)
 	(wire
 		(pts
-			(xy 36.83 184.15) (xy 38.1 184.15)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "f8d59adc-8f59-4f1a-aaaf-75cdeaadbaca")
-	)
-	(wire
-		(pts
-			(xy 21.59 115.57) (xy 31.75 115.57)
+			(xy 21.59 90.17) (xy 31.75 90.17)
 		)
 		(stroke
 			(width 0)
@@ -9159,23 +9084,13 @@
 	)
 	(wire
 		(pts
-			(xy 58.42 105.41) (xy 71.12 105.41)
+			(xy 62.23 105.41) (xy 74.93 105.41)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
 		(uuid "fb0e1d7b-d888-4adc-a22d-6ff16413771d")
-	)
-	(wire
-		(pts
-			(xy 48.26 149.86) (xy 48.26 161.29)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "fb511cb8-8840-4254-bf4a-6d87f46be811")
 	)
 	(image
 		(at 277.114 173.736)
@@ -9762,18 +9677,8 @@
 		)
 		(uuid "3a7c9f7c-8174-44bd-8103-59322ed0c3e5")
 	)
-	(label "LED3"
-		(at 21.59 172.72 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "3f9376ff-e37b-425c-8c5e-326c2a6929f7")
-	)
 	(label "LED4"
-		(at 58.42 123.19 0)
+		(at 62.23 123.19 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9811,16 +9716,6 @@
 			(justify right bottom)
 		)
 		(uuid "5b263632-aa57-4627-9ce7-159b8f7cd01e")
-	)
-	(label "LED2"
-		(at 21.59 161.29 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "5b840f88-f5e8-468c-91ed-fbce868014b9")
 	)
 	(label "GPIO2"
 		(at 233.68 97.79 0)
@@ -9863,7 +9758,7 @@
 		(uuid "6518c14b-3adc-4638-82b7-fd71c18eb8e4")
 	)
 	(label "LED2"
-		(at 58.42 118.11 0)
+		(at 62.23 118.11 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9883,7 +9778,7 @@
 		(uuid "6ca75be2-4d17-4910-a766-e45164c2c613")
 	)
 	(label "SW0"
-		(at 21.59 105.41 0)
+		(at 21.59 80.01 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -10032,16 +9927,6 @@
 		)
 		(uuid "a6ec0c87-6f1d-462e-94a8-2b4377370e8a")
 	)
-	(label "LED4"
-		(at 21.59 184.15 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "a75ad522-f368-4842-918a-cdbe2fd009b1")
-	)
 	(label "GPIO26"
 		(at 118.11 140.97 0)
 		(effects
@@ -10053,7 +9938,7 @@
 		(uuid "b711e7f8-69ce-405a-9fb5-e939396547a8")
 	)
 	(label "SW0"
-		(at 58.42 105.41 0)
+		(at 62.23 105.41 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -10063,7 +9948,7 @@
 		(uuid "b8e7792e-f83b-4a96-b404-5c17ee072cc5")
 	)
 	(label "SW1"
-		(at 21.59 115.57 0)
+		(at 21.59 90.17 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -10083,7 +9968,7 @@
 		(uuid "bb7a24ee-65f5-40c7-8152-36c44a754be1")
 	)
 	(label "SW1"
-		(at 58.42 107.95 0)
+		(at 62.23 107.95 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -10093,7 +9978,7 @@
 		(uuid "be2c4eee-6dbc-41d3-8ef0-b47cd9897366")
 	)
 	(label "LED0"
-		(at 21.59 137.16 0)
+		(at 52.07 110.49 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -10103,7 +9988,7 @@
 		(uuid "be6bac2c-a79f-4909-9844-c2fa5e85b3e1")
 	)
 	(label "GLOBAL_CLK"
-		(at 58.42 135.89 0)
+		(at 62.23 135.89 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -10133,7 +10018,7 @@
 		(uuid "c6f793de-7643-4a62-bb66-17554d1274bc")
 	)
 	(label "DBG1"
-		(at 58.42 128.27 0)
+		(at 62.23 128.27 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -10173,7 +10058,7 @@
 		(uuid "cc45e196-b58b-4af5-8551-e631d4376874")
 	)
 	(label "DBG2"
-		(at 58.42 130.81 0)
+		(at 62.23 130.81 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -10182,18 +10067,8 @@
 		)
 		(uuid "d369ebb5-676f-4fe0-a0eb-a151d9d851bf")
 	)
-	(label "LED1"
-		(at 21.59 149.86 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "d69b6fa0-a244-402c-bd28-469069ebdd8f")
-	)
 	(label "LED3"
-		(at 58.42 120.65 0)
+		(at 62.23 120.65 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -10213,7 +10088,7 @@
 		(uuid "e40cb0d4-cf8b-4ca6-824b-1aa519e4b7ef")
 	)
 	(label "LED1"
-		(at 58.42 115.57 0)
+		(at 62.23 115.57 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -10223,7 +10098,7 @@
 		(uuid "e4c34646-d1b9-4dfe-9891-39cee38747f5")
 	)
 	(label "LED0"
-		(at 58.42 113.03 0)
+		(at 62.23 113.03 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -10273,33 +10148,17 @@
 		(uuid "fd4fa753-593e-4c6f-9c1e-bc737fa6b4af")
 	)
 	(symbol
-		(lib_id "Device:LED")
-		(at 41.91 137.16 180)
+		(lib_id "power:GND")
+		(at 44.45 129.54 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
-		(uuid "0195455f-eefd-45f2-8536-9a1d880aa259")
-		(property "Reference" "D1"
-			(at 43.4975 129.54 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "WHITE"
-			(at 43.4975 132.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "LED_SMD:LED_0603_1608Metric"
-			(at 41.91 137.16 0)
+		(uuid "00844e41-0aaa-4ad8-ab38-96ca02ae5235")
+		(property "Reference" "#PWR023"
+			(at 44.45 135.89 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10307,8 +10166,16 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
-			(at 41.91 137.16 0)
+		(property "Value" "GND"
+			(at 44.45 134.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 44.45 129.54 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10316,8 +10183,8 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Light emitting diode"
-			(at 41.91 137.16 0)
+		(property "Datasheet" ""
+			(at 44.45 129.54 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10325,53 +10192,8 @@
 				(hide yes)
 			)
 		)
-		(property "Sim.Pins" "1=K 2=A"
-			(at 41.91 137.16 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC Part #" "C2290"
-			(at 41.91 137.16 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC Link" "https://lcsc.com/product-detail/LED-Indication-Discrete_Hubei-KENTO-Elec-KT-0603W_C2290.html"
-			(at 41.91 137.16 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Manufactuer Part Number" "KT-0603W"
-			(at 41.91 137.16 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Note" ""
-			(at 41.91 137.16 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Notes" ""
-			(at 41.91 137.16 0)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 44.45 129.54 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10380,48 +10202,29 @@
 			)
 		)
 		(pin "1"
-			(uuid "1771d73b-28ff-4e07-9d73-e462893484cb")
-		)
-		(pin "2"
-			(uuid "01629635-6a9c-4831-860e-f2eda8844aa3")
+			(uuid "55d91bf9-8d7f-451f-960b-682c05f0e17e")
 		)
 		(instances
 			(project "icepi-zero"
 				(path "/f88da08e-cf42-4d03-a08f-3f602fe6658d"
-					(reference "D1")
+					(reference "#PWR023")
 					(unit 1)
 				)
 			)
 		)
 	)
 	(symbol
-		(lib_id "Device:R")
-		(at 33.02 161.29 90)
+		(lib_id "power:GND")
+		(at 44.45 113.03 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
-		(uuid "029f532a-64b2-4660-8e84-b40f8294a3f8")
-		(property "Reference" "R3"
-			(at 33.02 154.94 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "549"
-			(at 33.02 157.48 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
-			(at 33.02 163.068 90)
+		(uuid "04131113-ea7b-4a7a-8c5f-a8f598c124f0")
+		(property "Reference" "#PWR0115"
+			(at 44.45 119.38 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10429,8 +10232,16 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
-			(at 33.02 161.29 0)
+		(property "Value" "GND"
+			(at 44.45 118.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 44.45 113.03 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10438,8 +10249,8 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Resistor"
-			(at 33.02 161.29 0)
+		(property "Datasheet" ""
+			(at 44.45 113.03 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10447,61 +10258,22 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC Part #" "C474081"
-			(at 33.02 161.29 0)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 44.45 113.03 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(hide yes)
 			)
-		)
-		(property "LCSC Link" "https://www.lcsc.com/product-detail/C474081.html"
-			(at 33.02 161.29 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Manufactuer Part Number" "0402WGF5490TCE"
-			(at 33.02 161.29 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Note" ""
-			(at 33.02 161.29 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Notes" ""
-			(at 33.02 161.29 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "04078df0-9a5f-4f32-9f10-72217253d370")
 		)
 		(pin "1"
-			(uuid "eff31262-483b-4003-92ba-2c2bf7c2a983")
+			(uuid "88f4734b-9f24-4bae-87c3-c7ffeb040c97")
 		)
 		(instances
-			(project ""
+			(project "icepi-zero"
 				(path "/f88da08e-cf42-4d03-a08f-3f602fe6658d"
-					(reference "R3")
+					(reference "#PWR0115")
 					(unit 1)
 				)
 			)
@@ -10569,119 +10341,6 @@
 			(project "icepi-zero"
 				(path "/f88da08e-cf42-4d03-a08f-3f602fe6658d"
 					(reference "#PWR011")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:R")
-		(at 33.02 184.15 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "17cb2c21-9574-4c53-a056-49f48c879345")
-		(property "Reference" "R5"
-			(at 33.02 177.8 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "549"
-			(at 33.02 180.34 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
-			(at 33.02 185.928 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 33.02 184.15 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Resistor"
-			(at 33.02 184.15 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC Part #" "C474081"
-			(at 33.02 184.15 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC Link" "https://www.lcsc.com/product-detail/C474081.html"
-			(at 33.02 184.15 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Manufactuer Part Number" "0402WGF5490TCE"
-			(at 33.02 184.15 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Note" ""
-			(at 33.02 184.15 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Notes" ""
-			(at 33.02 184.15 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "1e98e15d-277f-4b20-bf2e-e855968f481b")
-		)
-		(pin "1"
-			(uuid "b0688d74-3aa3-47ba-8b3e-616dc8e37563")
-		)
-		(instances
-			(project "icepi-zero"
-				(path "/f88da08e-cf42-4d03-a08f-3f602fe6658d"
-					(reference "R5")
 					(unit 1)
 				)
 			)
@@ -10756,7 +10415,7 @@
 	)
 	(symbol
 		(lib_id "Device:R")
-		(at 33.02 137.16 90)
+		(at 48.26 110.49 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -10765,7 +10424,7 @@
 		(fields_autoplaced yes)
 		(uuid "1d7e2e85-6431-42e8-8eed-c7b20b0cf6f1")
 		(property "Reference" "R1"
-			(at 33.02 130.81 90)
+			(at 48.26 104.14 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10773,7 +10432,7 @@
 			)
 		)
 		(property "Value" "549"
-			(at 33.02 133.35 90)
+			(at 48.26 106.68 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10781,7 +10440,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
-			(at 33.02 138.938 90)
+			(at 48.26 112.268 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10790,7 +10449,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 33.02 137.16 0)
+			(at 48.26 110.49 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10799,7 +10458,7 @@
 			)
 		)
 		(property "Description" "Resistor"
-			(at 33.02 137.16 0)
+			(at 48.26 110.49 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10808,7 +10467,7 @@
 			)
 		)
 		(property "LCSC Part #" "C474081"
-			(at 33.02 137.16 0)
+			(at 48.26 110.49 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10817,7 +10476,7 @@
 			)
 		)
 		(property "LCSC Link" "https://www.lcsc.com/product-detail/C474081.html"
-			(at 33.02 137.16 90)
+			(at 48.26 110.49 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10826,7 +10485,7 @@
 			)
 		)
 		(property "Manufactuer Part Number" "0402WGF5490TCE"
-			(at 33.02 137.16 90)
+			(at 48.26 110.49 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10835,7 +10494,7 @@
 			)
 		)
 		(property "Note" ""
-			(at 33.02 137.16 90)
+			(at 48.26 110.49 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10844,7 +10503,7 @@
 			)
 		)
 		(property "Notes" ""
-			(at 33.02 137.16 90)
+			(at 48.26 110.49 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10868,43 +10527,52 @@
 		)
 	)
 	(symbol
-		(lib_id "power:GND")
-		(at 48.26 185.42 0)
+		(lib_id "IN-PI15TAT5R5G5B:IN-PI15TAT5R5G5B")
+		(at 44.45 146.05 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "1e8a81cd-c6b1-42ff-8b6d-23e616cd74fc")
-		(property "Reference" "#PWR023"
-			(at 48.26 191.77 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "GND"
-			(at 48.26 190.5 0)
+		(uuid "276670e5-1a6f-4b32-aae6-3f44ec6fbb80")
+		(property "Reference" "LED3"
+			(at 30.48 144.526 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Footprint" ""
-			(at 48.26 185.42 0)
+		(property "Value" "IN-PI15TAT5R5G5B"
+			(at 30.48 138.43 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+			)
+		)
+		(property "Footprint" "INPI15TAT5R5G5B"
+			(at 20.32 51.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
 				(hide yes)
 			)
 		)
 		(property "Datasheet" ""
-			(at 48.26 185.42 0)
+			(at 20.32 -48.87 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Description" "TOP MOUNT / 1515 / 1.5 X 1.5 X 0"
+			(at 44.45 146.05 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10912,144 +10580,72 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 48.26 185.42 0)
+		(property "Height" "0.75"
+			(at 20.32 -248.87 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(justify left top)
 				(hide yes)
 			)
 		)
-		(pin "1"
-			(uuid "32380213-3e77-4e0e-a510-8a77e2181047")
-		)
-		(instances
-			(project ""
-				(path "/f88da08e-cf42-4d03-a08f-3f602fe6658d"
-					(reference "#PWR023")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:LED")
-		(at 41.91 161.29 180)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "27e2b868-3d9f-4ece-9340-a965bfa2ebfc")
-		(property "Reference" "D3"
-			(at 43.4975 153.67 0)
+		(property "Mouser Part Number" "743-IN-PI15TAT5R5G5B"
+			(at 20.32 -348.87 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-			)
-		)
-		(property "Value" "WHITE"
-			(at 43.4975 156.21 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "LED_SMD:LED_0603_1608Metric"
-			(at 41.91 161.29 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
+				(justify left top)
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
-			(at 41.91 161.29 0)
+		(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Inolux/IN-PI15TAT5R5G5B?qs=stqOd1AaK79AxVQMebgHsw%3D%3D"
+			(at 20.32 -448.87 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(justify left top)
 				(hide yes)
 			)
 		)
-		(property "Description" "Light emitting diode"
-			(at 41.91 161.29 0)
+		(property "Manufacturer_Name" "Inolux"
+			(at 20.32 -548.87 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(justify left top)
 				(hide yes)
 			)
 		)
-		(property "Sim.Pins" "1=K 2=A"
-			(at 41.91 161.29 0)
+		(property "Manufacturer_Part_Number" "IN-PI15TAT5R5G5B"
+			(at 20.32 -648.87 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(justify left top)
 				(hide yes)
 			)
 		)
-		(property "LCSC Part #" "C2290"
-			(at 41.91 161.29 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC Link" "https://lcsc.com/product-detail/LED-Indication-Discrete_Hubei-KENTO-Elec-KT-0603W_C2290.html"
-			(at 41.91 161.29 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Manufactuer Part Number" "KT-0603W"
-			(at 41.91 161.29 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Note" ""
-			(at 41.91 161.29 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Notes" ""
-			(at 41.91 161.29 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "5d650799-4274-4936-b546-fa23dcd2ebcd")
+		(pin "3"
+			(uuid "b5d971fe-863e-45c5-ae1b-70db44279a5d")
 		)
 		(pin "2"
-			(uuid "8753fd9a-e925-4ce6-bbcb-3ce218681b0d")
+			(uuid "3256c975-9069-42a6-8e91-3095d07bbe5f")
+		)
+		(pin "1"
+			(uuid "985f7131-17e5-4146-80a7-d844bfe28483")
+		)
+		(pin "4"
+			(uuid "2eac52e9-5efc-4719-94b2-1b9bb9aa4013")
 		)
 		(instances
-			(project ""
+			(project "icepi-zero"
 				(path "/f88da08e-cf42-4d03-a08f-3f602fe6658d"
-					(reference "D3")
+					(reference "LED3")
 					(unit 1)
 				)
 			)
@@ -11152,6 +10748,72 @@
 			(project "icepi-zero"
 				(path "/f88da08e-cf42-4d03-a08f-3f602fe6658d"
 					(reference "TP8")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 44.45 162.56 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "2fc3dd4e-8d4f-4809-b421-a3ac025bf413")
+		(property "Reference" "#PWR0122"
+			(at 44.45 168.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 44.45 167.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 44.45 162.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 44.45 162.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 44.45 162.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "aa3a2659-fa37-4865-bb0b-8ae498b494fb")
+		)
+		(instances
+			(project "icepi-zero"
+				(path "/f88da08e-cf42-4d03-a08f-3f602fe6658d"
+					(reference "#PWR0122")
 					(unit 1)
 				)
 			)
@@ -12063,33 +11725,17 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:R")
-		(at 33.02 149.86 90)
+		(lib_id "power:GND")
+		(at 44.45 146.05 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
-		(uuid "4613a34a-ce5e-4776-93da-5d55ef53bf95")
-		(property "Reference" "R2"
-			(at 33.02 143.51 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "549"
-			(at 33.02 146.05 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
-			(at 33.02 151.638 90)
+		(uuid "47405b51-2274-4366-86b8-0f5029efc751")
+		(property "Reference" "#PWR0116"
+			(at 44.45 152.4 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12097,8 +11743,16 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
-			(at 33.02 149.86 0)
+		(property "Value" "GND"
+			(at 44.45 151.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 44.45 146.05 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12106,8 +11760,8 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Resistor"
-			(at 33.02 149.86 0)
+		(property "Datasheet" ""
+			(at 44.45 146.05 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12115,61 +11769,22 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC Part #" "C474081"
-			(at 33.02 149.86 0)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 44.45 146.05 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(hide yes)
 			)
-		)
-		(property "LCSC Link" "https://www.lcsc.com/product-detail/C474081.html"
-			(at 33.02 149.86 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Manufactuer Part Number" "0402WGF5490TCE"
-			(at 33.02 149.86 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Note" ""
-			(at 33.02 149.86 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Notes" ""
-			(at 33.02 149.86 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "cd7d3373-c2f4-43e7-93a2-b3d3fdcd0909")
 		)
 		(pin "1"
-			(uuid "8fdc9ab9-65b6-44bb-964b-fa0153c763ac")
+			(uuid "6b6636d9-2a56-4156-9527-65a809190d92")
 		)
 		(instances
 			(project "icepi-zero"
 				(path "/f88da08e-cf42-4d03-a08f-3f602fe6658d"
-					(reference "R2")
+					(reference "#PWR0116")
 					(unit 1)
 				)
 			)
@@ -12278,119 +11893,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:R")
-		(at 33.02 172.72 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "5168db94-30f5-4f0e-842c-a84eb9c35215")
-		(property "Reference" "R4"
-			(at 33.02 166.37 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "549"
-			(at 33.02 168.91 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
-			(at 33.02 174.498 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 33.02 172.72 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Resistor"
-			(at 33.02 172.72 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC Part #" "C474081"
-			(at 33.02 172.72 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC Link" "https://www.lcsc.com/product-detail/C474081.html"
-			(at 33.02 172.72 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Manufactuer Part Number" "0402WGF5490TCE"
-			(at 33.02 172.72 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Note" ""
-			(at 33.02 172.72 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Notes" ""
-			(at 33.02 172.72 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "addff53a-4edf-4203-9822-b741487546db")
-		)
-		(pin "1"
-			(uuid "e59c9428-02b9-4231-9004-dc738c899342")
-		)
-		(instances
-			(project "icepi-zero"
-				(path "/f88da08e-cf42-4d03-a08f-3f602fe6658d"
-					(reference "R4")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "power:+3V3")
 		(at 248.92 95.25 90)
 		(unit 1)
@@ -12452,6 +11954,72 @@
 			(project ""
 				(path "/f88da08e-cf42-4d03-a08f-3f602fe6658d"
 					(reference "#PWR07")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 44.45 179.07 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "5616d1c5-268f-4ed8-b4ee-6b560cc1ff51")
+		(property "Reference" "#PWR0123"
+			(at 44.45 185.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 44.45 184.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 44.45 179.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 44.45 179.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 44.45 179.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "7276c8ce-0013-4a96-824a-fa5ab4448b05")
+		)
+		(instances
+			(project "icepi-zero"
+				(path "/f88da08e-cf42-4d03-a08f-3f602fe6658d"
+					(reference "#PWR0123")
 					(unit 1)
 				)
 			)
@@ -13726,128 +13294,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:LED")
-		(at 41.91 172.72 180)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "7bda0f75-4dd4-4344-9589-f9548cf8fe25")
-		(property "Reference" "D4"
-			(at 43.4975 165.1 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "WHITE"
-			(at 43.4975 167.64 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "LED_SMD:LED_0603_1608Metric"
-			(at 41.91 172.72 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 41.91 172.72 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Light emitting diode"
-			(at 41.91 172.72 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Pins" "1=K 2=A"
-			(at 41.91 172.72 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC Part #" "C2290"
-			(at 41.91 172.72 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC Link" "https://lcsc.com/product-detail/LED-Indication-Discrete_Hubei-KENTO-Elec-KT-0603W_C2290.html"
-			(at 41.91 172.72 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Manufactuer Part Number" "KT-0603W"
-			(at 41.91 172.72 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Note" ""
-			(at 41.91 172.72 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Notes" ""
-			(at 41.91 172.72 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "d2b7e992-c327-4ecf-8547-2ea06c38a865")
-		)
-		(pin "2"
-			(uuid "b2dfd43c-d3ca-4f93-a729-a668980fae0a")
-		)
-		(instances
-			(project "icepi-zero"
-				(path "/f88da08e-cf42-4d03-a08f-3f602fe6658d"
-					(reference "D4")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "power:PWR_FLAG")
 		(at 264.16 172.72 0)
 		(unit 1)
@@ -14251,7 +13697,7 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_Push")
-		(at 36.83 115.57 0)
+		(at 36.83 90.17 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -14260,7 +13706,7 @@
 		(fields_autoplaced yes)
 		(uuid "8c594245-d455-4609-b6fd-f1e27e1431c5")
 		(property "Reference" "SW2"
-			(at 36.83 107.95 0)
+			(at 36.83 82.55 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14268,7 +13714,7 @@
 			)
 		)
 		(property "Value" "SW_Push"
-			(at 36.83 110.49 0)
+			(at 36.83 85.09 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14276,7 +13722,7 @@
 			)
 		)
 		(property "Footprint" "icepi-lib:switch_button_TS-1088-AR02016"
-			(at 36.83 110.49 0)
+			(at 36.83 85.09 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14285,7 +13731,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 36.83 110.49 0)
+			(at 36.83 85.09 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14294,7 +13740,7 @@
 			)
 		)
 		(property "Description" "Push button switch, generic, two pins"
-			(at 36.83 115.57 0)
+			(at 36.83 90.17 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14303,7 +13749,7 @@
 			)
 		)
 		(property "LCSC Part #" "C720477"
-			(at 36.83 115.57 0)
+			(at 36.83 90.17 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14312,7 +13758,7 @@
 			)
 		)
 		(property "LCSC Link" "https://lcsc.com/product-detail/Tactile-Switches_XUNPU-TS-1088-AR02016_C720477.html"
-			(at 36.83 115.57 0)
+			(at 36.83 90.17 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14321,7 +13767,7 @@
 			)
 		)
 		(property "Manufactuer Part Number" "TS-1088-AR02016"
-			(at 36.83 115.57 0)
+			(at 36.83 90.17 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14330,7 +13776,7 @@
 			)
 		)
 		(property "Note" ""
-			(at 36.83 115.57 0)
+			(at 36.83 90.17 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14339,7 +13785,7 @@
 			)
 		)
 		(property "Notes" ""
-			(at 36.83 115.57 0)
+			(at 36.83 90.17 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14363,17 +13809,17 @@
 		)
 	)
 	(symbol
-		(lib_id "power:GND")
-		(at 48.26 118.11 0)
+		(lib_id "power:+5V")
+		(at 16.51 143.51 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
-		(uuid "95f266ed-7a2b-45a1-898e-da8999819aec")
-		(property "Reference" "#PWR014"
-			(at 48.26 124.46 0)
+		(uuid "8e7a7d6c-2779-4349-a912-1da0322beab3")
+		(property "Reference" "#PWR0126"
+			(at 16.51 147.32 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14381,8 +13827,8 @@
 				(hide yes)
 			)
 		)
-		(property "Value" "GND"
-			(at 48.26 123.19 0)
+		(property "Value" "+5V"
+			(at 16.51 138.43 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14390,7 +13836,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 48.26 118.11 0)
+			(at 16.51 143.51 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14399,7 +13845,198 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 48.26 118.11 0)
+			(at 16.51 143.51 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"+5V\""
+			(at 16.51 143.51 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "0b8f2368-8612-497d-b068-fae190c00fe4")
+		)
+		(instances
+			(project "icepi-zero"
+				(path "/f88da08e-cf42-4d03-a08f-3f602fe6658d"
+					(reference "#PWR0126")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "IN-PI15TAT5R5G5B:IN-PI15TAT5R5G5B")
+		(at 44.45 113.03 180)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "956d7ce7-f989-41d7-8892-b3a4d4a744ce")
+		(property "Reference" "LED1"
+			(at 30.48 111.506 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "IN-PI15TAT5R5G5B"
+			(at 30.48 105.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "INPI15TAT5R5G5B"
+			(at 20.32 18.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 20.32 -81.89 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Description" "TOP MOUNT / 1515 / 1.5 X 1.5 X 0"
+			(at 44.45 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Height" "0.75"
+			(at 20.32 -281.89 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Mouser Part Number" "743-IN-PI15TAT5R5G5B"
+			(at 20.32 -381.89 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Inolux/IN-PI15TAT5R5G5B?qs=stqOd1AaK79AxVQMebgHsw%3D%3D"
+			(at 20.32 -481.89 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Name" "Inolux"
+			(at 20.32 -581.89 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "IN-PI15TAT5R5G5B"
+			(at 20.32 -681.89 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(pin "3"
+			(uuid "d6a8a5ab-1188-4675-8e3a-20baeb416fbb")
+		)
+		(pin "2"
+			(uuid "a27f8eb1-8606-46c3-a5c5-13696778ccb6")
+		)
+		(pin "1"
+			(uuid "3f38b8b1-81af-4613-b445-545db09e7d47")
+		)
+		(pin "4"
+			(uuid "bfbf473c-5a1b-427b-abaf-f1ef749d7e02")
+		)
+		(instances
+			(project ""
+				(path "/f88da08e-cf42-4d03-a08f-3f602fe6658d"
+					(reference "LED1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 48.26 92.71 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "95f266ed-7a2b-45a1-898e-da8999819aec")
+		(property "Reference" "#PWR014"
+			(at 48.26 99.06 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 48.26 97.79 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 48.26 92.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 48.26 92.71 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14408,7 +14045,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 48.26 118.11 0)
+			(at 48.26 92.71 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14598,7 +14235,7 @@
 	)
 	(symbol
 		(lib_id "icepi-lib:LFE5U-25F-6BG256x")
-		(at 91.44 120.65 0)
+		(at 95.25 120.65 0)
 		(unit 9)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -14606,7 +14243,7 @@
 		(dnp no)
 		(uuid "a6788076-606b-4332-82f6-925036729350")
 		(property "Reference" "U1"
-			(at 90.424 90.17 0)
+			(at 94.234 90.17 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14614,7 +14251,7 @@
 			)
 		)
 		(property "Value" "ECP5U-25F-CABGA256"
-			(at 90.424 92.71 0)
+			(at 94.234 92.71 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14622,7 +14259,7 @@
 			)
 		)
 		(property "Footprint" "Package_BGA:BGA-256_14.0x14.0mm_Layout16x16_P0.8mm_Ball0.45mm_Pad0.32mm_NSMD"
-			(at 89.662 50.292 0)
+			(at 93.472 50.292 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14631,7 +14268,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 91.44 120.65 0)
+			(at 95.25 120.65 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14640,7 +14277,7 @@
 			)
 		)
 		(property "Description" "ECP5 FPGA, 24K LUTs, 1.2V, BGA-256"
-			(at 89.662 52.832 0)
+			(at 93.472 52.832 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15429,6 +15066,197 @@
 		)
 	)
 	(symbol
+		(lib_id "power:+5V")
+		(at 16.51 110.49 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "a76d1b1e-42f7-4f78-93d0-76b4ee3172f4")
+		(property "Reference" "#PWR0124"
+			(at 16.51 114.3 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "+5V"
+			(at 16.51 105.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 16.51 110.49 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 16.51 110.49 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"+5V\""
+			(at 16.51 110.49 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "d1dbb2e3-bae2-438c-bdcc-b20749a89b71")
+		)
+		(instances
+			(project "icepi-zero"
+				(path "/f88da08e-cf42-4d03-a08f-3f602fe6658d"
+					(reference "#PWR0124")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "IN-PI15TAT5R5G5B:IN-PI15TAT5R5G5B")
+		(at 44.45 162.56 180)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "a81010cb-fdf9-4993-b31c-a1c31e8b697b")
+		(property "Reference" "LED4"
+			(at 30.48 161.036 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "IN-PI15TAT5R5G5B"
+			(at 30.48 154.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "INPI15TAT5R5G5B"
+			(at 20.32 67.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 20.32 -32.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Description" "TOP MOUNT / 1515 / 1.5 X 1.5 X 0"
+			(at 44.45 162.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Height" "0.75"
+			(at 20.32 -232.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Mouser Part Number" "743-IN-PI15TAT5R5G5B"
+			(at 20.32 -332.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Inolux/IN-PI15TAT5R5G5B?qs=stqOd1AaK79AxVQMebgHsw%3D%3D"
+			(at 20.32 -432.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Name" "Inolux"
+			(at 20.32 -532.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "IN-PI15TAT5R5G5B"
+			(at 20.32 -632.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(pin "3"
+			(uuid "2b8f9c65-16e6-49a0-b2f7-197654f7b08d")
+		)
+		(pin "2"
+			(uuid "db906330-c6bb-48c3-a3a5-b3ca315d00fe")
+		)
+		(pin "1"
+			(uuid "d3d608e4-67d5-412e-9a01-e68279db6f30")
+		)
+		(pin "4"
+			(uuid "847afb95-e28c-44f6-a1fb-816e203de67a")
+		)
+		(instances
+			(project "icepi-zero"
+				(path "/f88da08e-cf42-4d03-a08f-3f602fe6658d"
+					(reference "LED4")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Connector:TestPoint")
 		(at 254 41.91 180)
 		(unit 1)
@@ -15531,33 +15359,17 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:LED")
-		(at 41.91 149.86 180)
+		(lib_id "power:+5V")
+		(at 16.51 127 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
-		(uuid "bcdc1b95-b9d2-46b2-8306-de528b4e64a2")
-		(property "Reference" "D2"
-			(at 43.4975 142.24 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "WHITE"
-			(at 43.4975 144.78 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "LED_SMD:LED_0603_1608Metric"
-			(at 41.91 149.86 0)
+		(uuid "b7065d26-a9ca-44cd-8431-89d8d459af97")
+		(property "Reference" "#PWR0125"
+			(at 16.51 130.81 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15565,8 +15377,16 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
-			(at 41.91 149.86 0)
+		(property "Value" "+5V"
+			(at 16.51 121.92 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 16.51 127 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15574,8 +15394,8 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Light emitting diode"
-			(at 41.91 149.86 0)
+		(property "Datasheet" ""
+			(at 16.51 127 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15583,53 +15403,8 @@
 				(hide yes)
 			)
 		)
-		(property "Sim.Pins" "1=K 2=A"
-			(at 41.91 149.86 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC Part #" "C2290"
-			(at 41.91 149.86 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC Link" "https://lcsc.com/product-detail/LED-Indication-Discrete_Hubei-KENTO-Elec-KT-0603W_C2290.html"
-			(at 41.91 149.86 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Manufactuer Part Number" "KT-0603W"
-			(at 41.91 149.86 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Note" ""
-			(at 41.91 149.86 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Notes" ""
-			(at 41.91 149.86 0)
+		(property "Description" "Power symbol creates a global label with name \"+5V\""
+			(at 16.51 127 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15638,48 +15413,154 @@
 			)
 		)
 		(pin "1"
-			(uuid "0b2315f1-362f-4eee-89e6-53052526f6f4")
-		)
-		(pin "2"
-			(uuid "a0365a07-9586-4cda-88cc-2de1782b653c")
+			(uuid "28e32edf-6ca4-4c81-904c-dcc516fecf0e")
 		)
 		(instances
 			(project "icepi-zero"
 				(path "/f88da08e-cf42-4d03-a08f-3f602fe6658d"
-					(reference "D2")
+					(reference "#PWR0125")
 					(unit 1)
 				)
 			)
 		)
 	)
 	(symbol
-		(lib_id "Device:LED")
-		(at 41.91 184.15 180)
+		(lib_id "IN-PI15TAT5R5G5B:IN-PI15TAT5R5G5B")
+		(at 44.45 129.54 180)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "b88976a8-ca4f-4945-853b-6941b0d06281")
+		(property "Reference" "LED2"
+			(at 30.48 128.016 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "IN-PI15TAT5R5G5B"
+			(at 30.48 121.92 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "INPI15TAT5R5G5B"
+			(at 20.32 34.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 20.32 -65.38 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Description" "TOP MOUNT / 1515 / 1.5 X 1.5 X 0"
+			(at 44.45 129.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Height" "0.75"
+			(at 20.32 -265.38 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Mouser Part Number" "743-IN-PI15TAT5R5G5B"
+			(at 20.32 -365.38 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Inolux/IN-PI15TAT5R5G5B?qs=stqOd1AaK79AxVQMebgHsw%3D%3D"
+			(at 20.32 -465.38 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Name" "Inolux"
+			(at 20.32 -565.38 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "IN-PI15TAT5R5G5B"
+			(at 20.32 -665.38 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(pin "3"
+			(uuid "228f74d4-2541-419f-8a0e-037510848178")
+		)
+		(pin "2"
+			(uuid "a71a6fc4-2931-47ab-9dfe-e0798afaca7b")
+		)
+		(pin "1"
+			(uuid "cf8f2050-2687-4faf-b5da-07468949b394")
+		)
+		(pin "4"
+			(uuid "be8e9860-547c-4947-8dc8-25bfdc629a9e")
+		)
+		(instances
+			(project "icepi-zero"
+				(path "/f88da08e-cf42-4d03-a08f-3f602fe6658d"
+					(reference "LED2")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:+5V")
+		(at 16.51 160.02 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
-		(uuid "c22343b2-e6a7-40d4-b487-cb8d6be7b05f")
-		(property "Reference" "D5"
-			(at 43.4975 176.53 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "WHITE"
-			(at 43.4975 179.07 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "LED_SMD:LED_0603_1608Metric"
-			(at 41.91 184.15 0)
+		(uuid "c16a20b3-a11a-422f-bbc8-002baa47ce50")
+		(property "Reference" "#PWR0127"
+			(at 16.51 163.83 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15687,8 +15568,16 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
-			(at 41.91 184.15 0)
+		(property "Value" "+5V"
+			(at 16.51 154.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 16.51 160.02 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15696,8 +15585,8 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Light emitting diode"
-			(at 41.91 184.15 0)
+		(property "Datasheet" ""
+			(at 16.51 160.02 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15705,53 +15594,8 @@
 				(hide yes)
 			)
 		)
-		(property "Sim.Pins" "1=K 2=A"
-			(at 41.91 184.15 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC Part #" "C2290"
-			(at 41.91 184.15 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC Link" "https://lcsc.com/product-detail/LED-Indication-Discrete_Hubei-KENTO-Elec-KT-0603W_C2290.html"
-			(at 41.91 184.15 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Manufactuer Part Number" "KT-0603W"
-			(at 41.91 184.15 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Note" ""
-			(at 41.91 184.15 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Notes" ""
-			(at 41.91 184.15 0)
+		(property "Description" "Power symbol creates a global label with name \"+5V\""
+			(at 16.51 160.02 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15760,15 +15604,12 @@
 			)
 		)
 		(pin "1"
-			(uuid "b38a5c47-455d-465b-9202-ecf2f2e5c3f9")
-		)
-		(pin "2"
-			(uuid "2c68fe27-c10f-488f-95fa-bb0f83808a9c")
+			(uuid "027b6c47-9a55-4d55-bb7e-1436672fc121")
 		)
 		(instances
 			(project "icepi-zero"
 				(path "/f88da08e-cf42-4d03-a08f-3f602fe6658d"
-					(reference "D5")
+					(reference "#PWR0127")
 					(unit 1)
 				)
 			)
@@ -15836,6 +15677,72 @@
 			(project "icepi-zero"
 				(path "/f88da08e-cf42-4d03-a08f-3f602fe6658d"
 					(reference "#PWR08")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:+5V")
+		(at 16.51 176.53 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "c4c8fadf-527a-4133-be52-a199de87719d")
+		(property "Reference" "#PWR0128"
+			(at 16.51 180.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "+5V"
+			(at 16.51 171.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 16.51 176.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 16.51 176.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"+5V\""
+			(at 16.51 176.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "a90c85a2-cfee-441f-9d03-db0f0045054b")
+		)
+		(instances
+			(project "icepi-zero"
+				(path "/f88da08e-cf42-4d03-a08f-3f602fe6658d"
+					(reference "#PWR0128")
 					(unit 1)
 				)
 			)
@@ -16256,6 +16163,131 @@
 		)
 	)
 	(symbol
+		(lib_id "IN-PI15TAT5R5G5B:IN-PI15TAT5R5G5B")
+		(at 44.45 179.07 180)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "dbfb7ebd-53a9-40c8-abca-3ad6307383ef")
+		(property "Reference" "LED5"
+			(at 30.48 177.546 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "IN-PI15TAT5R5G5B"
+			(at 30.48 171.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "INPI15TAT5R5G5B"
+			(at 20.32 84.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 20.32 -15.85 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Description" "TOP MOUNT / 1515 / 1.5 X 1.5 X 0"
+			(at 44.45 179.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Height" "0.75"
+			(at 20.32 -215.85 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Mouser Part Number" "743-IN-PI15TAT5R5G5B"
+			(at 20.32 -315.85 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Inolux/IN-PI15TAT5R5G5B?qs=stqOd1AaK79AxVQMebgHsw%3D%3D"
+			(at 20.32 -415.85 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Name" "Inolux"
+			(at 20.32 -515.85 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "IN-PI15TAT5R5G5B"
+			(at 20.32 -615.85 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(pin "3"
+			(uuid "d77224d1-a3a3-484d-8c52-1351caa862ff")
+		)
+		(pin "2"
+			(uuid "03df483d-5bc6-47a6-878d-d7c2aabaea16")
+		)
+		(pin "1"
+			(uuid "350f90d1-e544-4a3b-8088-01c569344526")
+		)
+		(pin "4"
+			(uuid "0ecbc057-9fd2-44d3-9e9c-e75464b3e2b4")
+		)
+		(instances
+			(project "icepi-zero"
+				(path "/f88da08e-cf42-4d03-a08f-3f602fe6658d"
+					(reference "LED5")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "power:GND")
 		(at 261.62 130.81 90)
 		(unit 1)
@@ -16324,7 +16356,7 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_Push")
-		(at 36.83 105.41 0)
+		(at 36.83 80.01 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -16333,7 +16365,7 @@
 		(fields_autoplaced yes)
 		(uuid "e45ff771-8ff6-4aea-bcfb-62051f314f41")
 		(property "Reference" "SW1"
-			(at 36.83 97.79 0)
+			(at 36.83 72.39 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16341,7 +16373,7 @@
 			)
 		)
 		(property "Value" "SW_Push"
-			(at 36.83 100.33 0)
+			(at 36.83 74.93 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16349,7 +16381,7 @@
 			)
 		)
 		(property "Footprint" "icepi-lib:switch_button_TS-1088-AR02016"
-			(at 36.83 100.33 0)
+			(at 36.83 74.93 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16358,7 +16390,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 36.83 100.33 0)
+			(at 36.83 74.93 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16367,7 +16399,7 @@
 			)
 		)
 		(property "Description" "Push button switch, generic, two pins"
-			(at 36.83 105.41 0)
+			(at 36.83 80.01 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16376,7 +16408,7 @@
 			)
 		)
 		(property "LCSC Part #" "C720477"
-			(at 36.83 105.41 0)
+			(at 36.83 80.01 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16385,7 +16417,7 @@
 			)
 		)
 		(property "LCSC Link" "https://lcsc.com/product-detail/Tactile-Switches_XUNPU-TS-1088-AR02016_C720477.html"
-			(at 36.83 105.41 0)
+			(at 36.83 80.01 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16394,7 +16426,7 @@
 			)
 		)
 		(property "Manufactuer Part Number" "TS-1088-AR02016"
-			(at 36.83 105.41 0)
+			(at 36.83 80.01 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16403,7 +16435,7 @@
 			)
 		)
 		(property "Note" ""
-			(at 36.83 105.41 0)
+			(at 36.83 80.01 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16412,7 +16444,7 @@
 			)
 		)
 		(property "Notes" ""
-			(at 36.83 105.41 0)
+			(at 36.83 80.01 0)
 			(effects
 				(font
 					(size 1.27 1.27)
