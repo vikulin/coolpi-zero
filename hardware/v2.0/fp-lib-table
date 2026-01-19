@@ -6,4 +6,5 @@
   (lib (name "RSP-122811-01")(type "KiCad")(uri "${KIPRJMOD}/libraries/icepi-lib.petty/RSP-122811-01")(options "")(descr ""))
   (lib (name "LTC3407AEDD-2_PBF")(type "KiCad")(uri "${KIPRJMOD}/libraries/icepi-lib.petty/LTC3407AEDD-2_PBF")(options "")(descr ""))
   (lib (name "LTC2256CUJ-12#PBF")(type "KiCad")(uri "${KIPRJMOD}/libraries/icepi-lib.petty/LTC2256CUJ-12#PBF")(options "")(descr ""))
+  (lib (name "B3U_1000PM")(type "KiCad")(uri "${KIPRJMOD}/libraries/icepi-lib.petty/B3U_1000PM")(options "")(descr ""))
 )

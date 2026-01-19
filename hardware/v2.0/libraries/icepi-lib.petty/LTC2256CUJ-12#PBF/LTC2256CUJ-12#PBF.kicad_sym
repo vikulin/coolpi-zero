@@ -244,14 +244,14 @@
 			(pin passive line
 				(at 0 -19.05 0)
 				(length 5.08)
-				(name "OGND"
+				(name "OVDD"
 					(effects
 						(font
 							(size 1.27 1.27)
 						)
 					)
 				)
-				(number "25"
+				(number "26"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -262,14 +262,14 @@
 			(pin passive line
 				(at 0 -21.59 0)
 				(length 5.08)
-				(name "OVDD"
+				(name "OGND"
 					(effects
 						(font
 							(size 1.27 1.27)
 						)
 					)
 				)
-				(number "26"
+				(number "25"
 					(effects
 						(font
 							(size 1.27 1.27)
