@@ -8230,18 +8230,12 @@
 		(uuid "c43a71c4-7f53-41d1-92e9-54cacc94af05")
 	)
 	(no_connect
+		(at 248.92 102.87)
+		(uuid "e4074a63-0f36-4ceb-9deb-e50d859641b4")
+	)
+	(no_connect
 		(at 248.92 107.95)
 		(uuid "ec3bed63-df5d-4771-8e04-5ce1baa1ac7e")
-	)
-	(wire
-		(pts
-			(xy 233.68 102.87) (xy 248.92 102.87)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "0269b6eb-38ff-44e8-8ea0-a15bb8f97e9b")
 	)
 	(wire
 		(pts
@@ -9857,16 +9851,6 @@
 			(justify right bottom)
 		)
 		(uuid "60db815a-5b21-44c7-961a-3dbbc7b66841")
-	)
-	(label "GPIO4"
-		(at 233.68 102.87 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "6236954b-6057-403a-8b23-3569f1cb18b7")
 	)
 	(label "GPIO0"
 		(at 233.68 128.27 0)

@@ -293,155 +293,6 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "Device:FerriteBead"
-			(pin_numbers
-				(hide yes)
-			)
-			(pin_names
-				(offset 0)
-			)
-			(exclude_from_sim no)
-			(in_bom yes)
-			(on_board yes)
-			(property "Reference" "FB"
-				(at -3.81 0.635 90)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Value" "FerriteBead"
-				(at 3.81 0 90)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Footprint" ""
-				(at -1.778 0 90)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Datasheet" "~"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Description" "Ferrite bead"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "ki_keywords" "L ferrite bead inductor filter"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "ki_fp_filters" "Inductor_* L_* *Ferrite*"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(symbol "FerriteBead_0_1"
-				(polyline
-					(pts
-						(xy -2.7686 0.4064) (xy -1.7018 2.2606) (xy 2.7686 -0.3048) (xy 1.6764 -2.159) (xy -2.7686 0.4064)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 0 1.27) (xy 0 1.2954)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 0 -1.27) (xy 0 -1.2192)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-			)
-			(symbol "FerriteBead_1_1"
-				(pin passive line
-					(at 0 3.81 270)
-					(length 2.54)
-					(name "~"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 0 -3.81 90)
-					(length 2.54)
-					(name "~"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-			)
-			(embedded_fonts no)
-		)
 		(symbol "Device:R"
 			(pin_numbers
 				(hide yes)
@@ -6727,111 +6578,10 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "power:PWR_FLAG"
-			(power)
-			(pin_numbers
-				(hide yes)
-			)
-			(pin_names
-				(offset 0)
-				(hide yes)
-			)
-			(exclude_from_sim no)
-			(in_bom yes)
-			(on_board yes)
-			(property "Reference" "#FLG"
-				(at 0 1.905 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Value" "PWR_FLAG"
-				(at 0 3.81 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Footprint" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Datasheet" "~"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Description" "Special symbol for telling ERC where power comes from"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "ki_keywords" "flag power"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(symbol "PWR_FLAG_0_0"
-				(pin power_out line
-					(at 0 0 90)
-					(length 0)
-					(name "~"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-			)
-			(symbol "PWR_FLAG_0_1"
-				(polyline
-					(pts
-						(xy 0 0) (xy 0 1.27) (xy -1.016 1.905) (xy 0 2.54) (xy 1.016 1.905) (xy 0 1.27)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-			)
-			(embedded_fonts no)
-		)
 	)
 	(text "50MHz ADC Clock"
 		(exclude_from_sim no)
-		(at 79.756 128.778 0)
+		(at 64.516 103.378 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6841,7 +6591,7 @@
 	)
 	(text "Replacable with any 50MHz MEMS 3.3V oscillator"
 		(exclude_from_sim no)
-		(at 82.042 132.588 0)
+		(at 66.802 107.188 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6856,28 +6606,16 @@
 		(uuid "4338f61c-431e-4b26-a9a5-134b86397cb8")
 	)
 	(junction
-		(at 80.01 157.48)
+		(at 64.77 132.08)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "4e2b87f6-aad3-4c41-8756-f4c00b1d7761")
 	)
 	(junction
-		(at 80.01 142.24)
+		(at 64.77 116.84)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "50d8b4de-1f08-4152-b5f6-4e370a7a99a6")
-	)
-	(junction
-		(at 85.09 44.45)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "6ccab089-a0e6-45f6-8212-4b96ff9f7029")
-	)
-	(junction
-		(at 55.88 44.45)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "73fd123a-8624-46aa-a5ab-4976a17e7713")
 	)
 	(junction
 		(at 125.73 104.14)
@@ -6892,16 +6630,10 @@
 		(uuid "7b384d48-c3b1-41f1-b3d3-4123b8a62dc7")
 	)
 	(junction
-		(at 72.39 142.24)
+		(at 57.15 116.84)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "9dd45803-870c-40e6-b5cb-6aeb60b71474")
-	)
-	(junction
-		(at 74.93 44.45)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "a9c071c8-757b-4dd2-b794-d1fe4cebfdc4")
 	)
 	(junction
 		(at 107.95 45.72)
@@ -6927,6 +6659,12 @@
 		(color 0 0 0 0)
 		(uuid "bcc0fa10-5e87-4463-9ac1-7867ba4505c5")
 	)
+	(junction
+		(at 120.65 30.48)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "c92ed668-901b-4022-b509-ee361df381f9")
+	)
 	(no_connect
 		(at 128.27 45.72)
 		(uuid "345d1ed5-9a5b-4ee5-83bd-d3c6d775532b")
@@ -6947,7 +6685,7 @@
 	)
 	(wire
 		(pts
-			(xy 80.01 157.48) (xy 80.01 158.75)
+			(xy 64.77 132.08) (xy 64.77 133.35)
 		)
 		(stroke
 			(width 0)
@@ -6957,7 +6695,7 @@
 	)
 	(wire
 		(pts
-			(xy 64.77 147.32) (xy 64.77 142.24)
+			(xy 49.53 121.92) (xy 49.53 116.84)
 		)
 		(stroke
 			(width 0)
@@ -6977,16 +6715,6 @@
 	)
 	(wire
 		(pts
-			(xy 55.88 44.45) (xy 60.96 44.45)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "18f96d1a-326b-495c-b743-f3c4fd57674e")
-	)
-	(wire
-		(pts
 			(xy 138.43 95.25) (xy 157.48 95.25)
 		)
 		(stroke
@@ -6994,6 +6722,16 @@
 			(type default)
 		)
 		(uuid "1b52b4aa-4990-4a22-b5c5-7e33b42abe93")
+	)
+	(wire
+		(pts
+			(xy 102.87 34.29) (xy 102.87 30.48)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1bffb20e-82ce-43d5-88be-c9e204fb9063")
 	)
 	(wire
 		(pts
@@ -7087,7 +6825,17 @@
 	)
 	(wire
 		(pts
-			(xy 87.63 149.86) (xy 100.33 149.86)
+			(xy 118.11 33.02) (xy 118.11 45.72)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4070e953-6382-467b-844c-dadadf83d80f")
+	)
+	(wire
+		(pts
+			(xy 72.39 124.46) (xy 85.09 124.46)
 		)
 		(stroke
 			(width 0)
@@ -7157,7 +6905,7 @@
 	)
 	(wire
 		(pts
-			(xy 72.39 142.24) (xy 80.01 142.24)
+			(xy 57.15 116.84) (xy 64.77 116.84)
 		)
 		(stroke
 			(width 0)
@@ -7167,13 +6915,23 @@
 	)
 	(wire
 		(pts
-			(xy 64.77 157.48) (xy 80.01 157.48)
+			(xy 49.53 132.08) (xy 64.77 132.08)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
 		(uuid "7dd5b632-2b33-450a-8095-9604055dc589")
+	)
+	(wire
+		(pts
+			(xy 114.3 30.48) (xy 120.65 30.48)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7eac10ac-7f38-4ed1-bba0-877e50f80188")
 	)
 	(wire
 		(pts
@@ -7184,6 +6942,16 @@
 			(type default)
 		)
 		(uuid "7f6d97da-dc74-4c75-9432-9a99c5ba9e51")
+	)
+	(wire
+		(pts
+			(xy 114.3 33.02) (xy 118.11 33.02)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8172383c-2f5e-4c64-bbba-57bc2a450780")
 	)
 	(wire
 		(pts
@@ -7204,6 +6972,16 @@
 			(type default)
 		)
 		(uuid "87ec8b7f-223f-4a2a-8dd6-c56e0a431e81")
+	)
+	(wire
+		(pts
+			(xy 102.87 30.48) (xy 106.68 30.48)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8a8fb47e-1bb2-4a5c-a23a-f50250ce9730")
 	)
 	(wire
 		(pts
@@ -7237,16 +7015,6 @@
 	)
 	(wire
 		(pts
-			(xy 74.93 44.45) (xy 68.58 44.45)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "9f4afc36-0de1-4acd-81be-321f53703ff5")
-	)
-	(wire
-		(pts
 			(xy 138.43 62.23) (xy 157.48 62.23)
 		)
 		(stroke
@@ -7264,16 +7032,6 @@
 			(type default)
 		)
 		(uuid "a8ab2892-c8e1-48a2-8b60-9b78f426f512")
-	)
-	(wire
-		(pts
-			(xy 55.88 41.91) (xy 55.88 44.45)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "ab90256e-416c-49be-a3e0-9c01b0d4d666")
 	)
 	(wire
 		(pts
@@ -7317,7 +7075,7 @@
 	)
 	(wire
 		(pts
-			(xy 64.77 142.24) (xy 72.39 142.24)
+			(xy 49.53 116.84) (xy 57.15 116.84)
 		)
 		(stroke
 			(width 0)
@@ -7357,7 +7115,7 @@
 	)
 	(wire
 		(pts
-			(xy 72.39 149.86) (xy 72.39 142.24)
+			(xy 57.15 124.46) (xy 57.15 116.84)
 		)
 		(stroke
 			(width 0)
@@ -7377,7 +7135,17 @@
 	)
 	(wire
 		(pts
-			(xy 80.01 140.97) (xy 80.01 142.24)
+			(xy 120.65 30.48) (xy 120.65 45.72)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d5e03968-dd7a-451b-9915-bdf48b85db6a")
+	)
+	(wire
+		(pts
+			(xy 64.77 115.57) (xy 64.77 116.84)
 		)
 		(stroke
 			(width 0)
@@ -7397,23 +7165,13 @@
 	)
 	(wire
 		(pts
-			(xy 64.77 154.94) (xy 64.77 157.48)
+			(xy 49.53 129.54) (xy 49.53 132.08)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
 		(uuid "e58cdb5a-c9b6-46e6-bc24-ea97c4891f85")
-	)
-	(wire
-		(pts
-			(xy 74.93 44.45) (xy 85.09 44.45)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "ed235b4f-f020-46d3-a730-19b9be1346ba")
 	)
 	(wire
 		(pts
@@ -7434,6 +7192,16 @@
 			(type default)
 		)
 		(uuid "f1444d54-3876-4d45-bcec-2bcd53798733")
+	)
+	(wire
+		(pts
+			(xy 120.65 24.13) (xy 120.65 22.86)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f2b13684-39c6-4b00-98a2-d54631963e95")
 	)
 	(wire
 		(pts
@@ -7474,16 +7242,6 @@
 			(justify right bottom)
 		)
 		(uuid "0f3af833-e3e3-4fde-940d-fafe21dc7746")
-	)
-	(label "FILTERED_1V8"
-		(at 82.55 44.45 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "13042fa9-6160-4959-9f69-4e8637264faa")
 	)
 	(label "D0_1+"
 		(at 138.43 57.15 0)
@@ -7696,7 +7454,7 @@
 		(uuid "da44a24d-705a-496d-897f-26a390073817")
 	)
 	(label "CLK+"
-		(at 100.33 149.86 180)
+		(at 85.09 124.46 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7764,6 +7522,120 @@
 			(justify right bottom)
 		)
 		(uuid "f9aaa049-a976-4fc1-96cb-ff5bb6825071")
+	)
+	(symbol
+		(lib_id "Device:R")
+		(at 110.49 30.48 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "0038efc9-9480-44c8-886a-877d1d5c004a")
+		(property "Reference" "R52"
+			(at 112.522 27.686 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "100"
+			(at 112.522 25.146 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
+			(at 110.49 32.258 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 110.49 30.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Resistor"
+			(at 110.49 30.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C25076"
+			(at 110.49 30.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Link" "https://www.lcsc.com/product-detail/C25076.html"
+			(at 110.49 30.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufactuer Part Number" "0402WGF1000TCE"
+			(at 110.49 30.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Note" ""
+			(at 110.49 30.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Notes" ""
+			(at 110.49 30.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "76dd6930-8d65-4d25-a06d-9600df01b384")
+		)
+		(pin "2"
+			(uuid "e126973a-177f-4ae2-b0e9-5d43b6e79a3d")
+		)
+		(instances
+			(project "icepi-zero"
+				(path "/f88da08e-cf42-4d03-a08f-3f602fe6658d/b5a9aa02-311b-4a9a-a7d4-646f15cdd9c2"
+					(reference "R52")
+					(unit 1)
+				)
+			)
+		)
 	)
 	(symbol
 		(lib_id "power:GND")
@@ -8013,6 +7885,298 @@
 	)
 	(symbol
 		(lib_id "Device:C")
+		(at 102.87 38.1 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "1ddcd31b-438d-4db6-adcd-5561863b7fb8")
+		(property "Reference" "C69"
+			(at 100.584 35.814 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "100n"
+			(at 100.076 33.782 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+			(at 103.8352 41.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 102.87 38.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Unpolarized capacitor"
+			(at 102.87 38.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C307331"
+			(at 102.87 38.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Link" "https://lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_Samsung-Electro-Mechanics-CL05B104KB54PNC_C307331.html"
+			(at 102.87 38.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufactuer Part Number" "CL05B104KB54PNC"
+			(at 102.87 38.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Note" ""
+			(at 102.87 38.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Notes" ""
+			(at 102.87 38.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "73b233e7-29a4-499a-91da-ed6971b03099")
+		)
+		(pin "2"
+			(uuid "6b16306c-cfa6-4087-b6c3-4e8f834ee281")
+		)
+		(instances
+			(project "icepi-zero"
+				(path "/f88da08e-cf42-4d03-a08f-3f602fe6658d/b5a9aa02-311b-4a9a-a7d4-646f15cdd9c2"
+					(reference "C69")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:C")
+		(at 114.3 36.83 0)
+		(mirror y)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "201eb747-fd20-4a01-a30d-e7b4cac12dab")
+		(property "Reference" "C67"
+			(at 109.474 33.274 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "1u"
+			(at 109.474 35.052 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+			(at 113.3348 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 114.3 36.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "1uF ±10% 10V Ceramic Capacitor X5R 0402"
+			(at 114.3 36.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C106254"
+			(at 114.3 36.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Link" "https://www.lcsc.com/product-detail/C106254.html"
+			(at 114.3 36.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufactuer Part Number" "CC0402KRX5R6BB105"
+			(at 114.3 36.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Note" ""
+			(at 114.3 36.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Notes" ""
+			(at 114.3 36.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "47471b36-4e14-4fe8-aacf-787c82b2855a")
+		)
+		(pin "1"
+			(uuid "b880ab86-3242-4e3c-aac5-7874f9e9b5c9")
+		)
+		(instances
+			(project "icepi-zero"
+				(path "/f88da08e-cf42-4d03-a08f-3f602fe6658d/b5a9aa02-311b-4a9a-a7d4-646f15cdd9c2"
+					(reference "C67")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 102.87 41.91 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "36fee561-cdb7-4a52-9ee3-00569940311f")
+		(property "Reference" "#PWR0121"
+			(at 102.87 48.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 100.838 42.164 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 102.87 41.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 102.87 41.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 102.87 41.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "726dc658-96ba-4ddf-8c65-b447cf8af3ab")
+		)
+		(instances
+			(project "icepi-zero"
+				(path "/f88da08e-cf42-4d03-a08f-3f602fe6658d/b5a9aa02-311b-4a9a-a7d4-646f15cdd9c2"
+					(reference "#PWR0121")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:C")
 		(at 85.09 68.58 90)
 		(unit 1)
 		(exclude_from_sim no)
@@ -8190,74 +8354,8 @@
 		)
 	)
 	(symbol
-		(lib_id "power:GND")
-		(at 55.88 52.07 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "4f1cb562-e8a2-4e84-b111-a42bb1a9f4eb")
-		(property "Reference" "#PWR0115"
-			(at 55.88 58.42 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "GND"
-			(at 55.88 57.15 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 55.88 52.07 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 55.88 52.07 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 55.88 52.07 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "33dcb768-9b3b-4a6e-90f4-c12db9b1aabf")
-		)
-		(instances
-			(project "icepi-zero"
-				(path "/f88da08e-cf42-4d03-a08f-3f602fe6658d/b5a9aa02-311b-4a9a-a7d4-646f15cdd9c2"
-					(reference "#PWR0115")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Device:C")
-		(at 64.77 151.13 0)
+		(at 49.53 125.73 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -8265,7 +8363,7 @@
 		(dnp no)
 		(uuid "4fdd0ab0-f60a-4eee-b401-f393642f5093")
 		(property "Reference" "C55"
-			(at 65.405 148.59 0)
+			(at 50.165 123.19 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8274,7 +8372,7 @@
 			)
 		)
 		(property "Value" "100nF"
-			(at 65.405 153.67 0)
+			(at 50.165 128.27 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8283,7 +8381,7 @@
 			)
 		)
 		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
-			(at 65.7352 154.94 0)
+			(at 50.4952 129.54 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8292,7 +8390,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 64.77 151.13 0)
+			(at 49.53 125.73 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8300,7 +8398,7 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
-			(at 64.77 151.13 0)
+			(at 49.53 125.73 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8309,7 +8407,7 @@
 			)
 		)
 		(property "LCSC Part #" "C307331"
-			(at 64.77 151.13 0)
+			(at 49.53 125.73 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8318,7 +8416,7 @@
 			)
 		)
 		(property "LCSC Link" "https://lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_Samsung-Electro-Mechanics-CL05B104KB54PNC_C307331.html"
-			(at 64.77 151.13 0)
+			(at 49.53 125.73 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8327,7 +8425,7 @@
 			)
 		)
 		(property "Manufactuer Part Number" "CL05B104KB54PNC"
-			(at 64.77 151.13 0)
+			(at 49.53 125.73 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8336,7 +8434,7 @@
 			)
 		)
 		(property "Note" ""
-			(at 64.77 151.13 0)
+			(at 49.53 125.73 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8345,7 +8443,7 @@
 			)
 		)
 		(property "Notes" ""
-			(at 64.77 151.13 0)
+			(at 49.53 125.73 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8363,72 +8461,6 @@
 			(project "icepi-zero"
 				(path "/f88da08e-cf42-4d03-a08f-3f602fe6658d/b5a9aa02-311b-4a9a-a7d4-646f15cdd9c2"
 					(reference "C55")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:PWR_FLAG")
-		(at 85.09 44.45 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "54ab66a5-c302-4210-8d8a-3b2162cbc3fa")
-		(property "Reference" "#FLG08"
-			(at 85.09 42.545 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "PWR_FLAG"
-			(at 85.09 39.37 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 85.09 44.45 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 85.09 44.45 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Special symbol for telling ERC where power comes from"
-			(at 85.09 44.45 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "483afc01-f2f6-42d1-9d6c-8e92ad727c4f")
-		)
-		(instances
-			(project "icepi-zero"
-				(path "/f88da08e-cf42-4d03-a08f-3f602fe6658d/b5a9aa02-311b-4a9a-a7d4-646f15cdd9c2"
-					(reference "#FLG08")
 					(unit 1)
 				)
 			)
@@ -9268,119 +9300,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:FerriteBead")
-		(at 64.77 44.45 90)
-		(mirror x)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "5b13f43e-215c-4e36-8336-ed80ccb410a5")
-		(property "Reference" "FB2"
-			(at 65.786 53.34 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "1k@100MHz"
-			(at 65.786 50.8 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "Inductor_SMD:L_0603_1608Metric"
-			(at 64.77 42.672 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 64.77 44.45 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "1kΩ@100MHz 1 Line Ferrite Bead 0603 450mA 500mΩ"
-			(at 64.77 44.45 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC Part #" "C85824"
-			(at 64.77 44.45 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC Link" "https://www.lcsc.com/product-detail/C85824.html"
-			(at 64.77 44.45 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Manufactuer Part Number" "BLM18AG102SN1D"
-			(at 64.77 44.45 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Note" ""
-			(at 64.77 44.45 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Notes" ""
-			(at 64.77 44.45 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "509267e8-10c7-4218-a34f-3419cf19fbeb")
-		)
-		(pin "1"
-			(uuid "6c32361e-2663-43ae-afad-ee654b09399f")
-		)
-		(instances
-			(project "icepi-zero"
-				(path "/f88da08e-cf42-4d03-a08f-3f602fe6658d/b5a9aa02-311b-4a9a-a7d4-646f15cdd9c2"
-					(reference "FB2")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "power:GND")
 		(at 80.01 69.85 0)
 		(unit 1)
@@ -9446,17 +9365,16 @@
 		)
 	)
 	(symbol
-		(lib_id "power:+3V3")
-		(at 80.01 140.97 0)
+		(lib_id "power:GND")
+		(at 120.65 24.13 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "875aa2e9-b1b6-4962-b255-87fcda8446d3")
-		(property "Reference" "#PWR084"
-			(at 80.01 144.78 0)
+		(uuid "7e9788cf-90ff-4a78-9a14-18c7d690cac7")
+		(property "Reference" "#PWR0120"
+			(at 120.65 17.78 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9464,8 +9382,8 @@
 				(hide yes)
 			)
 		)
-		(property "Value" "+3V3"
-			(at 80.01 135.89 0)
+		(property "Value" "GND"
+			(at 120.65 20.32 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9473,7 +9391,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 80.01 140.97 0)
+			(at 120.65 24.13 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9482,7 +9400,73 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 80.01 140.97 0)
+			(at 120.65 24.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 120.65 24.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "4d8e499a-8daa-4b94-86cc-5e232af8fbb8")
+		)
+		(instances
+			(project "icepi-zero"
+				(path "/f88da08e-cf42-4d03-a08f-3f602fe6658d/b5a9aa02-311b-4a9a-a7d4-646f15cdd9c2"
+					(reference "#PWR0120")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:+3V3")
+		(at 64.77 115.57 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "875aa2e9-b1b6-4962-b255-87fcda8446d3")
+		(property "Reference" "#PWR084"
+			(at 64.77 119.38 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "+3V3"
+			(at 64.77 110.49 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 64.77 115.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 64.77 115.57 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9491,7 +9475,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+3V3\""
-			(at 80.01 140.97 0)
+			(at 64.77 115.57 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9577,253 +9561,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:C")
-		(at 74.93 48.26 0)
-		(mirror y)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "a6b52148-d43a-4d31-aba7-7f91dc1b0421")
-		(property "Reference" "C65"
-			(at 78.232 46.228 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Value" "1u"
-			(at 78.232 48.768 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
-			(at 73.9648 52.07 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 74.93 48.26 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "1uF ±10% 10V Ceramic Capacitor X5R 0402"
-			(at 74.93 48.26 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC Part #" "C106254"
-			(at 74.93 48.26 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC Link" "https://www.lcsc.com/product-detail/C106254.html"
-			(at 74.93 48.26 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Manufactuer Part Number" "CC0402KRX5R6BB105"
-			(at 74.93 48.26 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Note" ""
-			(at 74.93 48.26 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Notes" ""
-			(at 74.93 48.26 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "3df640d3-37e6-415b-ac8b-f6468ef27db5")
-		)
-		(pin "1"
-			(uuid "6eff6584-83aa-4bfd-9499-ed53984a14e5")
-		)
-		(instances
-			(project "icepi-zero"
-				(path "/f88da08e-cf42-4d03-a08f-3f602fe6658d/b5a9aa02-311b-4a9a-a7d4-646f15cdd9c2"
-					(reference "C65")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:GND")
-		(at 74.93 52.07 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "a88c25df-226c-45da-bafc-846ead65aa9d")
-		(property "Reference" "#PWR0116"
-			(at 74.93 58.42 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "GND"
-			(at 74.93 57.15 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 74.93 52.07 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 74.93 52.07 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 74.93 52.07 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "e0f55c0d-3839-497c-8d0f-dcf4a2c785a7")
-		)
-		(instances
-			(project "icepi-zero"
-				(path "/f88da08e-cf42-4d03-a08f-3f602fe6658d/b5a9aa02-311b-4a9a-a7d4-646f15cdd9c2"
-					(reference "#PWR0116")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:GND")
-		(at 85.09 52.07 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "b1cfb738-4d46-4c6f-b1c9-adca12505a5b")
-		(property "Reference" "#PWR0117"
-			(at 85.09 58.42 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "GND"
-			(at 85.09 57.15 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 85.09 52.07 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 85.09 52.07 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 85.09 52.07 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "63351a19-ce02-446d-89e8-20902816ad04")
-		)
-		(instances
-			(project "icepi-zero"
-				(path "/f88da08e-cf42-4d03-a08f-3f602fe6658d/b5a9aa02-311b-4a9a-a7d4-646f15cdd9c2"
-					(reference "#PWR0117")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Device:R")
 		(at 123.19 36.83 0)
 		(unit 1)
@@ -9833,7 +9570,7 @@
 		(dnp no)
 		(uuid "bd2ffafd-cdd3-47e2-b6a2-e1ff0ec66a77")
 		(property "Reference" "R51"
-			(at 117.856 33.274 0)
+			(at 126.238 35.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9842,7 +9579,7 @@
 			)
 		)
 		(property "Value" "100"
-			(at 117.856 35.814 0)
+			(at 126.238 38.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10174,123 +9911,8 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:C")
-		(at 55.88 48.26 0)
-		(mirror y)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "c6ddf57c-953c-4bd7-9b46-6923faae2ae7")
-		(property "Reference" "C64"
-			(at 47.752 46.228 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Value" "10uF"
-			(at 47.752 48.768 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
-			(at 54.9148 52.07 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 55.88 48.26 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Unpolarized capacitor"
-			(at 55.88 48.26 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC Part #" "C19702"
-			(at 55.88 48.26 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC Link" "https://lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_Samsung-Electro-Mechanics-CL10A106KP8NNNC_C19702.html"
-			(at 55.88 48.26 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Manufactuer Part Number" "CL10A106KP8NNNC"
-			(at 55.88 48.26 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Note" ""
-			(at 55.88 48.26 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Notes" ""
-			(at 55.88 48.26 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "62eea614-52ee-4b67-a5fd-22a18ac8b4a6")
-		)
-		(pin "1"
-			(uuid "b3f8f9a6-4ae4-42f1-b693-1e0b9f9f29b2")
-		)
-		(instances
-			(project "icepi-zero"
-				(path "/f88da08e-cf42-4d03-a08f-3f602fe6658d/b5a9aa02-311b-4a9a-a7d4-646f15cdd9c2"
-					(reference "C64")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Oscillator:SiT8008xx-1x-xxE")
-		(at 80.01 149.86 0)
+		(at 64.77 124.46 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -10298,7 +9920,7 @@
 		(dnp no)
 		(uuid "d4a3f981-facb-47a7-927e-aa0c84da4e14")
 		(property "Reference" "Y2"
-			(at 82.042 142.24 0)
+			(at 66.802 116.84 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10306,7 +9928,7 @@
 			)
 		)
 		(property "Value" "SG-8018CG 50.000000MHz"
-			(at 97.028 142.24 0)
+			(at 81.788 116.84 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10314,7 +9936,7 @@
 			)
 		)
 		(property "Footprint" "Oscillator:Oscillator_SMD_SiT_PQFN-4Pin_2.5x2.0mm"
-			(at 80.01 149.86 0)
+			(at 64.77 124.46 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10323,7 +9945,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.sitime.com/support/resource-library/datasheets/sit8008-datasheet"
-			(at 80.01 149.86 0)
+			(at 64.77 124.46 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10332,7 +9954,7 @@
 			)
 		)
 		(property "Description" "SiTime Low Power Mems programmable oscillator, 1MHz to 110MHz, PQFN-4, 2.5x2.0mm (with output enable pin)"
-			(at 80.01 149.86 0)
+			(at 64.77 124.46 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10341,7 +9963,7 @@
 			)
 		)
 		(property "LCSC Part #" "C390526"
-			(at 80.01 149.86 0)
+			(at 64.77 124.46 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10350,7 +9972,7 @@
 			)
 		)
 		(property "LCSC Link" "https://lcsc.com/product-detail/Programmable-Oscillators_EPSON-SG-8018CG-50-000000MHz-TJHSA_C390526.html"
-			(at 80.01 149.86 0)
+			(at 64.77 124.46 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10359,7 +9981,7 @@
 			)
 		)
 		(property "Manufactuer Part Number" "SG-8018CG 50.000000MHz TJHSA"
-			(at 80.01 149.86 0)
+			(at 64.77 124.46 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10368,7 +9990,7 @@
 			)
 		)
 		(property "Note" ""
-			(at 80.01 149.86 0)
+			(at 64.77 124.46 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10377,7 +9999,7 @@
 			)
 		)
 		(property "Notes" ""
-			(at 80.01 149.86 0)
+			(at 64.77 124.46 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10407,17 +10029,33 @@
 		)
 	)
 	(symbol
-		(lib_id "power:+3V3")
-		(at 55.88 41.91 0)
+		(lib_id "Device:C")
+		(at 120.65 26.67 0)
+		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "dea0ca3c-2e26-48dc-aff4-ce39d954562e")
-		(property "Reference" "#PWR0114"
-			(at 55.88 45.72 0)
+		(uuid "de684e7e-77cd-46bd-b52a-d0b0dec7eda3")
+		(property "Reference" "C68"
+			(at 125.73 28.194 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "100n"
+			(at 126.238 26.162 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+			(at 119.6848 30.48 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10425,16 +10063,8 @@
 				(hide yes)
 			)
 		)
-		(property "Value" "+1V8"
-			(at 55.88 36.83 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 55.88 41.91 0)
+		(property "Datasheet" "~"
+			(at 120.65 26.67 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10442,8 +10072,8 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
-			(at 55.88 41.91 0)
+		(property "Description" "Unpolarized capacitor"
+			(at 120.65 26.67 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10451,8 +10081,44 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Power symbol creates a global label with name \"+3V3\""
-			(at 55.88 41.91 0)
+		(property "LCSC Part #" "C307331"
+			(at 120.65 26.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Link" "https://lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_Samsung-Electro-Mechanics-CL05B104KB54PNC_C307331.html"
+			(at 120.65 26.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufactuer Part Number" "CL05B104KB54PNC"
+			(at 120.65 26.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Note" ""
+			(at 120.65 26.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Notes" ""
+			(at 120.65 26.67 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10461,12 +10127,15 @@
 			)
 		)
 		(pin "1"
-			(uuid "ce987494-1717-4fcf-a660-31a1bd1b493e")
+			(uuid "12fb3745-df42-48c1-a6fe-5be5ac2a38a2")
+		)
+		(pin "2"
+			(uuid "2796e92e-aafc-48f3-b7d6-3f4b60eca799")
 		)
 		(instances
 			(project "icepi-zero"
 				(path "/f88da08e-cf42-4d03-a08f-3f602fe6658d/b5a9aa02-311b-4a9a-a7d4-646f15cdd9c2"
-					(reference "#PWR0114")
+					(reference "C68")
 					(unit 1)
 				)
 			)
@@ -10539,7 +10208,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 80.01 158.75 0)
+		(at 64.77 133.35 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -10548,7 +10217,7 @@
 		(fields_autoplaced yes)
 		(uuid "f27a0e95-1391-41db-a0a6-dee9a25fec16")
 		(property "Reference" "#PWR085"
-			(at 80.01 165.1 0)
+			(at 64.77 139.7 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10557,7 +10226,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 80.01 163.83 0)
+			(at 64.77 138.43 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10565,7 +10234,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 80.01 158.75 0)
+			(at 64.77 133.35 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10574,7 +10243,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 80.01 158.75 0)
+			(at 64.77 133.35 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10583,7 +10252,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 80.01 158.75 0)
+			(at 64.77 133.35 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10716,32 +10385,16 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:C")
-		(at 85.09 48.26 180)
+		(lib_id "power:GND")
+		(at 114.3 40.64 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(uuid "f7b58f7c-1c15-4826-be7a-0a99527a3bc2")
-		(property "Reference" "C66"
-			(at 90.17 46.736 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "100n"
-			(at 90.678 48.768 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
-			(at 84.1248 44.45 0)
+		(uuid "fe508dc2-b78d-4a78-9720-0c7fca310b61")
+		(property "Reference" "#PWR0119"
+			(at 114.3 46.99 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10749,8 +10402,16 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
-			(at 85.09 48.26 0)
+		(property "Value" "GND"
+			(at 112.268 40.894 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 114.3 40.64 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10758,8 +10419,8 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Unpolarized capacitor"
-			(at 85.09 48.26 0)
+		(property "Datasheet" ""
+			(at 114.3 40.64 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10767,44 +10428,8 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC Part #" "C307331"
-			(at 85.09 48.26 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC Link" "https://lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_Samsung-Electro-Mechanics-CL05B104KB54PNC_C307331.html"
-			(at 85.09 48.26 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Manufactuer Part Number" "CL05B104KB54PNC"
-			(at 85.09 48.26 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Note" ""
-			(at 85.09 48.26 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Notes" ""
-			(at 85.09 48.26 0)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 114.3 40.64 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10813,15 +10438,12 @@
 			)
 		)
 		(pin "1"
-			(uuid "7caad283-50ec-45ba-a340-337307342528")
-		)
-		(pin "2"
-			(uuid "cf128a57-1e16-488f-9838-482efbbc6e2b")
+			(uuid "1e5cf7cc-4f7a-438f-b277-757a057469dd")
 		)
 		(instances
 			(project "icepi-zero"
 				(path "/f88da08e-cf42-4d03-a08f-3f602fe6658d/b5a9aa02-311b-4a9a-a7d4-646f15cdd9c2"
-					(reference "C66")
+					(reference "#PWR0119")
 					(unit 1)
 				)
 			)

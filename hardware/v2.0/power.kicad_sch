@@ -7417,6 +7417,12 @@
 		(uuid "544689f4-03ca-498a-af65-4a5668dcd05f")
 	)
 	(junction
+		(at 116.84 107.95)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "5645eb3e-703a-40c2-9da6-f19a650e66de")
+	)
+	(junction
 		(at 177.8 72.39)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -7651,6 +7657,12 @@
 		(uuid "b3e9de67-b8ae-480a-804c-54a77fd253f2")
 	)
 	(junction
+		(at 135.89 118.11)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "b5805d56-b9b9-4096-9423-d868a7cda624")
+	)
+	(junction
 		(at 256.54 99.06)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -7795,6 +7807,12 @@
 		(uuid "d74fb99f-aaa8-40fe-967d-dd72bce1cc89")
 	)
 	(junction
+		(at 146.05 118.11)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "d7ba7f2a-b3c0-4198-add6-2b3f26ad7eb1")
+	)
+	(junction
 		(at 86.36 135.89)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -7831,10 +7849,22 @@
 		(uuid "e2a95864-20eb-4269-9ef4-f3a1fec51205")
 	)
 	(junction
+		(at 146.05 107.95)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "e2cf200d-5981-4716-b9fc-b8f2a982d4cf")
+	)
+	(junction
 		(at 39.37 135.89)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "e8b3bbf3-219e-47a2-91f2-3f3725bf468e")
+	)
+	(junction
+		(at 135.89 107.95)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "ebf6d036-d467-4447-a29b-622b34dbc1c3")
 	)
 	(junction
 		(at 60.96 46.99)
@@ -7957,6 +7987,16 @@
 			(type default)
 		)
 		(uuid "05fb8612-07e0-4019-82e1-993ce48a4889")
+	)
+	(wire
+		(pts
+			(xy 146.05 116.84) (xy 146.05 118.11)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0811376c-2a8c-40c3-9534-a6d515cd16ae")
 	)
 	(wire
 		(pts
@@ -8087,6 +8127,16 @@
 			(type default)
 		)
 		(uuid "0f85f7ab-ec57-4f8d-84f6-a11ab09d7ba3")
+	)
+	(wire
+		(pts
+			(xy 116.84 116.84) (xy 116.84 118.11)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "108266ce-cbc8-438e-be59-8c99269d0003")
 	)
 	(wire
 		(pts
@@ -8407,6 +8457,16 @@
 			(type default)
 		)
 		(uuid "2823b0fd-0576-47a9-95d9-5411076fe5af")
+	)
+	(wire
+		(pts
+			(xy 116.84 109.22) (xy 116.84 107.95)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "29a3744a-d239-4d17-9686-9369faf18633")
 	)
 	(wire
 		(pts
@@ -8747,6 +8807,16 @@
 			(type default)
 		)
 		(uuid "46e72505-0285-4ebc-90fe-c6bb5cb2937e")
+	)
+	(wire
+		(pts
+			(xy 135.89 118.11) (xy 146.05 118.11)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4835a6a1-dfe5-4c4a-b365-762ad219c583")
 	)
 	(wire
 		(pts
@@ -9460,6 +9530,16 @@
 	)
 	(wire
 		(pts
+			(xy 146.05 109.22) (xy 146.05 107.95)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "858be42d-07b5-48b4-9864-1eb223e83ed4")
+	)
+	(wire
+		(pts
 			(xy 67.31 135.89) (xy 67.31 137.16)
 		)
 		(stroke
@@ -9637,6 +9717,16 @@
 			(type default)
 		)
 		(uuid "91e1be17-bbba-45f7-9be3-e15fe0a69ea7")
+	)
+	(wire
+		(pts
+			(xy 153.67 106.68) (xy 153.67 107.95)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "932de6e5-072b-43e1-abd5-cf3e5e05084c")
 	)
 	(wire
 		(pts
@@ -10020,6 +10110,26 @@
 	)
 	(wire
 		(pts
+			(xy 135.89 116.84) (xy 135.89 118.11)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ab2a8c86-5c98-4165-b26f-afe7aac6c004")
+	)
+	(wire
+		(pts
+			(xy 135.89 107.95) (xy 129.54 107.95)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ab9000fb-ec9e-4203-884d-2f5ed4b30ce6")
+	)
+	(wire
+		(pts
 			(xy 102.87 167.64) (xy 102.87 168.91)
 		)
 		(stroke
@@ -10077,6 +10187,16 @@
 			(type default)
 		)
 		(uuid "b3cb58f8-32bc-4ff3-85e2-e52fc9ba5bad")
+	)
+	(wire
+		(pts
+			(xy 116.84 105.41) (xy 116.84 107.95)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b3d395e8-abd5-4ac3-97f9-caca06fd9ec6")
 	)
 	(wire
 		(pts
@@ -10520,6 +10640,16 @@
 	)
 	(wire
 		(pts
+			(xy 135.89 109.22) (xy 135.89 107.95)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d9ec6df2-f31a-4175-b3c6-2441a112ce9a")
+	)
+	(wire
+		(pts
 			(xy 106.68 91.44) (xy 118.11 91.44)
 		)
 		(stroke
@@ -10660,6 +10790,16 @@
 	)
 	(wire
 		(pts
+			(xy 146.05 119.38) (xy 146.05 118.11)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e70c7524-f5f7-4cba-9009-599b245f7a67")
+	)
+	(wire
+		(pts
 			(xy 154.94 54.61) (xy 154.94 55.88)
 		)
 		(stroke
@@ -10700,6 +10840,26 @@
 	)
 	(wire
 		(pts
+			(xy 116.84 107.95) (xy 121.92 107.95)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ea306912-f957-44fa-99fd-eed8cf110eb5")
+	)
+	(wire
+		(pts
+			(xy 116.84 118.11) (xy 135.89 118.11)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "eac8ce22-67c3-425e-92a5-40197d671ee4")
+	)
+	(wire
+		(pts
 			(xy 257.81 64.77) (xy 257.81 63.5)
 		)
 		(stroke
@@ -10717,6 +10877,16 @@
 			(type default)
 		)
 		(uuid "eb815a40-197b-43d4-8f48-559f62e6a9cc")
+	)
+	(wire
+		(pts
+			(xy 153.67 107.95) (xy 146.05 107.95)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ebf3996d-b8c8-41e1-a7ad-d9b1c8b92556")
 	)
 	(wire
 		(pts
@@ -10997,6 +11167,16 @@
 			(type default)
 		)
 		(uuid "fb485537-4572-4638-b910-359a6d9ac8f6")
+	)
+	(wire
+		(pts
+			(xy 135.89 107.95) (xy 146.05 107.95)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "fb492414-7193-43a1-863c-be382a93a951")
 	)
 	(wire
 		(pts
@@ -11572,6 +11752,16 @@
 			(justify right bottom)
 		)
 		(uuid "92a30b72-0f45-497a-aa28-a31f654aab87")
+	)
+	(label "FILTERED_1V8"
+		(at 146.05 107.95 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "a47b6981-3e21-4456-8972-ed438e2b7b1c")
 	)
 	(label "SW2"
 		(at 228.6 99.06 0)
@@ -15054,6 +15244,72 @@
 		)
 	)
 	(symbol
+		(lib_id "power:PWR_FLAG")
+		(at 153.67 106.68 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "54ab66a5-c302-4210-8d8a-3b2162cbc3fa")
+		(property "Reference" "#FLG08"
+			(at 153.67 104.775 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "PWR_FLAG"
+			(at 153.67 101.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 153.67 106.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 153.67 106.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Special symbol for telling ERC where power comes from"
+			(at 153.67 106.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "483afc01-f2f6-42d1-9d6c-8e92ad727c4f")
+		)
+		(instances
+			(project "icepi-zero"
+				(path "/f88da08e-cf42-4d03-a08f-3f602fe6658d/a9c02a11-f344-487c-ac67-1be6ae5dcf49"
+					(reference "#FLG08")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:R")
 		(at 241.3 149.86 0)
 		(unit 1)
@@ -15638,6 +15894,119 @@
 			(project "icepi-zero"
 				(path "/f88da08e-cf42-4d03-a08f-3f602fe6658d/a9c02a11-f344-487c-ac67-1be6ae5dcf49"
 					(reference "C21")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:FerriteBead")
+		(at 125.73 107.95 90)
+		(mirror x)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "5b13f43e-215c-4e36-8336-ed80ccb410a5")
+		(property "Reference" "FB2"
+			(at 126.746 116.84 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "1k@100MHz"
+			(at 126.746 114.3 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Inductor_SMD:L_0603_1608Metric"
+			(at 125.73 106.172 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 125.73 107.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "1kΩ@100MHz 1 Line Ferrite Bead 0603 450mA 500mΩ"
+			(at 125.73 107.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C85824"
+			(at 125.73 107.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Link" "https://www.lcsc.com/product-detail/C85824.html"
+			(at 125.73 107.95 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufactuer Part Number" "BLM18AG102SN1D"
+			(at 125.73 107.95 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Note" ""
+			(at 125.73 107.95 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Notes" ""
+			(at 125.73 107.95 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "509267e8-10c7-4218-a34f-3419cf19fbeb")
+		)
+		(pin "1"
+			(uuid "6c32361e-2663-43ae-afad-ee654b09399f")
+		)
+		(instances
+			(project "icepi-zero"
+				(path "/f88da08e-cf42-4d03-a08f-3f602fe6658d/a9c02a11-f344-487c-ac67-1be6ae5dcf49"
+					(reference "FB2")
 					(unit 1)
 				)
 			)
@@ -18830,6 +19199,121 @@
 		)
 	)
 	(symbol
+		(lib_id "Device:C")
+		(at 135.89 113.03 0)
+		(mirror y)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "a6b52148-d43a-4d31-aba7-7f91dc1b0421")
+		(property "Reference" "C65"
+			(at 139.192 110.998 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "1u"
+			(at 139.192 113.538 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+			(at 134.9248 116.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 135.89 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "1uF ±10% 10V Ceramic Capacitor X5R 0402"
+			(at 135.89 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C106254"
+			(at 135.89 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Link" "https://www.lcsc.com/product-detail/C106254.html"
+			(at 135.89 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufactuer Part Number" "CC0402KRX5R6BB105"
+			(at 135.89 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Note" ""
+			(at 135.89 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Notes" ""
+			(at 135.89 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "3df640d3-37e6-415b-ac8b-f6468ef27db5")
+		)
+		(pin "1"
+			(uuid "6eff6584-83aa-4bfd-9499-ed53984a14e5")
+		)
+		(instances
+			(project "icepi-zero"
+				(path "/f88da08e-cf42-4d03-a08f-3f602fe6658d/a9c02a11-f344-487c-ac67-1be6ae5dcf49"
+					(reference "C65")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "power:GND")
 		(at 210.82 83.82 0)
 		(unit 1)
@@ -19135,6 +19619,72 @@
 			(project "icepi-zero"
 				(path "/f88da08e-cf42-4d03-a08f-3f602fe6658d/a9c02a11-f344-487c-ac67-1be6ae5dcf49"
 					(reference "#PWR030")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 146.05 119.38 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "b1cfb738-4d46-4c6f-b1c9-adca12505a5b")
+		(property "Reference" "#PWR0117"
+			(at 146.05 125.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 146.05 124.46 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 146.05 119.38 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 146.05 119.38 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 146.05 119.38 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "63351a19-ce02-446d-89e8-20902816ad04")
+		)
+		(instances
+			(project "icepi-zero"
+				(path "/f88da08e-cf42-4d03-a08f-3f602fe6658d/a9c02a11-f344-487c-ac67-1be6ae5dcf49"
+					(reference "#PWR0117")
 					(unit 1)
 				)
 			)
@@ -20027,6 +20577,121 @@
 		)
 	)
 	(symbol
+		(lib_id "Device:C")
+		(at 116.84 113.03 0)
+		(mirror y)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "c6ddf57c-953c-4bd7-9b46-6923faae2ae7")
+		(property "Reference" "C64"
+			(at 108.712 110.998 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "10uF"
+			(at 108.712 113.538 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+			(at 115.8748 116.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 116.84 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Unpolarized capacitor"
+			(at 116.84 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C19702"
+			(at 116.84 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Link" "https://lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_Samsung-Electro-Mechanics-CL10A106KP8NNNC_C19702.html"
+			(at 116.84 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufactuer Part Number" "CL10A106KP8NNNC"
+			(at 116.84 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Note" ""
+			(at 116.84 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Notes" ""
+			(at 116.84 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "62eea614-52ee-4b67-a5fd-22a18ac8b4a6")
+		)
+		(pin "1"
+			(uuid "b3f8f9a6-4ae4-42f1-b693-1e0b9f9f29b2")
+		)
+		(instances
+			(project "icepi-zero"
+				(path "/f88da08e-cf42-4d03-a08f-3f602fe6658d/a9c02a11-f344-487c-ac67-1be6ae5dcf49"
+					(reference "C64")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:C_Small")
 		(at 87.63 50.8 0)
 		(unit 1)
@@ -20796,6 +21461,72 @@
 		)
 	)
 	(symbol
+		(lib_id "power:+3V3")
+		(at 116.84 105.41 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "dea0ca3c-2e26-48dc-aff4-ce39d954562e")
+		(property "Reference" "#PWR0114"
+			(at 116.84 109.22 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "+1V8"
+			(at 116.84 100.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 116.84 105.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 116.84 105.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"+3V3\""
+			(at 116.84 105.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "ce987494-1717-4fcf-a660-31a1bd1b493e")
+		)
+		(instances
+			(project "icepi-zero"
+				(path "/f88da08e-cf42-4d03-a08f-3f602fe6658d/a9c02a11-f344-487c-ac67-1be6ae5dcf49"
+					(reference "#PWR0114")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:C")
 		(at 257.81 59.69 0)
 		(mirror y)
@@ -21544,6 +22275,118 @@
 			(project "icepi-zero"
 				(path "/f88da08e-cf42-4d03-a08f-3f602fe6658d/a9c02a11-f344-487c-ac67-1be6ae5dcf49"
 					(reference "C19")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:C")
+		(at 146.05 113.03 180)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "f7b58f7c-1c15-4826-be7a-0a99527a3bc2")
+		(property "Reference" "C66"
+			(at 151.13 111.506 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "100n"
+			(at 151.638 113.538 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+			(at 145.0848 109.22 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 146.05 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Unpolarized capacitor"
+			(at 146.05 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C307331"
+			(at 146.05 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Link" "https://lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_Samsung-Electro-Mechanics-CL05B104KB54PNC_C307331.html"
+			(at 146.05 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufactuer Part Number" "CL05B104KB54PNC"
+			(at 146.05 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Note" ""
+			(at 146.05 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Notes" ""
+			(at 146.05 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "7caad283-50ec-45ba-a340-337307342528")
+		)
+		(pin "2"
+			(uuid "cf128a57-1e16-488f-9838-482efbbc6e2b")
+		)
+		(instances
+			(project "icepi-zero"
+				(path "/f88da08e-cf42-4d03-a08f-3f602fe6658d/a9c02a11-f344-487c-ac67-1be6ae5dcf49"
+					(reference "C66")
 					(unit 1)
 				)
 			)
