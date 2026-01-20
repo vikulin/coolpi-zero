@@ -5394,24 +5394,6 @@
 					)
 				)
 				(pin bidirectional line
-					(at -20.32 7.62 0)
-					(length 5.08)
-					(name "PT62B/-"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "E13"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin bidirectional line
 					(at -20.32 5.08 0)
 					(length 5.08)
 					(name "PR2D/-/RDQ8"
@@ -5422,60 +5404,6 @@
 						)
 					)
 					(number "D14"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin bidirectional line
-					(at -20.32 2.54 0)
-					(length 5.08)
-					(name "PT58B/-"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "E12"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin bidirectional line
-					(at -20.32 0 0)
-					(length 5.08)
-					(name "PT60B/-"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "C13"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin bidirectional line
-					(at -20.32 -2.54 0)
-					(length 5.08)
-					(name "PT62A/+"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "D13"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -6839,8 +6767,8 @@
 			)
 			(symbol "LFE5U-25F-6BG256x_11_1"
 				(rectangle
-					(start -19.0499 25.019)
-					(end 33.5279 -27.178)
+					(start -19.5579 25.019)
+					(end 33.0199 -27.178)
 					(stroke
 						(width 0)
 						(type solid)
@@ -7074,7 +7002,7 @@
 					)
 				)
 				(pin bidirectional line
-					(at 38.608 19.05 180)
+					(at 38.1 19.05 180)
 					(length 5.08)
 					(name "PL26A/+/HS/LDQ32/PCLKT6_1"
 						(effects
@@ -7092,7 +7020,7 @@
 					)
 				)
 				(pin bidirectional line
-					(at 38.608 16.51 180)
+					(at 38.1 16.51 180)
 					(length 5.08)
 					(name "PL26B/-/HS/LDQ32/PCLKC6_1"
 						(effects
@@ -7110,7 +7038,79 @@
 					)
 				)
 				(pin bidirectional line
-					(at 38.608 -21.59 180)
+					(at 38.1 3.81 180)
+					(length 5.08)
+					(name "PT60B/-"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "C13"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at 38.1 1.27 180)
+					(length 5.08)
+					(name "PT62A/+"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "D13"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at 38.1 -1.27 180)
+					(length 5.08)
+					(name "PT58B/-"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "E12"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at 38.1 -3.81 180)
+					(length 5.08)
+					(name "PT62B/-"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "E13"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at 38.1 -21.59 180)
 					(length 5.08)
 					(name "PT58A/+"
 						(effects
@@ -8294,16 +8294,6 @@
 	)
 	(wire
 		(pts
-			(xy 71.12 114.3) (xy 83.82 114.3)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "184adbeb-dfe7-4684-a91c-3d90130a0ec6")
-	)
-	(wire
-		(pts
 			(xy 26.67 170.18) (xy 54.61 170.18)
 		)
 		(stroke
@@ -8361,16 +8351,6 @@
 			(type default)
 		)
 		(uuid "269db791-7f4e-4beb-a9af-c782aae23967")
-	)
-	(wire
-		(pts
-			(xy 71.12 121.92) (xy 83.82 121.92)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "2ab8e3c3-6805-47eb-b623-e18a031e94a5")
 	)
 	(wire
 		(pts
@@ -8571,16 +8551,6 @@
 			(type default)
 		)
 		(uuid "6e0f7355-800c-4da5-8a61-097233107876")
-	)
-	(wire
-		(pts
-			(xy 71.12 119.38) (xy 83.82 119.38)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "6ea69d68-5289-4285-8a2f-18169612314c")
 	)
 	(wire
 		(pts
@@ -8871,16 +8841,6 @@
 			(type default)
 		)
 		(uuid "ae7e5c5f-d247-43b0-80bf-7bc62dc55905")
-	)
-	(wire
-		(pts
-			(xy 71.12 124.46) (xy 83.82 124.46)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "af8d38d1-0691-4b29-8d9b-2525bcdbb027")
 	)
 	(wire
 		(pts
@@ -9757,16 +9717,6 @@
 		)
 		(uuid "3a7c9f7c-8174-44bd-8103-59322ed0c3e5")
 	)
-	(label "LED4"
-		(at 71.12 124.46 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "49733915-9c9d-4db4-8385-dec34c9a69ab")
-	)
 	(label "GPIO11"
 		(at 127 124.46 0)
 		(effects
@@ -9836,16 +9786,6 @@
 			(justify left bottom)
 		)
 		(uuid "6518c14b-3adc-4638-82b7-fd71c18eb8e4")
-	)
-	(label "LED2"
-		(at 71.12 119.38 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "66775839-aa63-43b2-acae-8a9e54e8ae2a")
 	)
 	(label "GPIO3"
 		(at 237.49 100.33 0)
@@ -10147,16 +10087,6 @@
 		)
 		(uuid "d369ebb5-676f-4fe0-a0eb-a151d9d851bf")
 	)
-	(label "LED3"
-		(at 71.12 121.92 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "db1c51e6-52d0-423d-9626-8b43ca0d700b")
-	)
 	(label "DBG1"
 		(at 160.02 182.88 90)
 		(effects
@@ -10176,16 +10106,6 @@
 			(justify left bottom)
 		)
 		(uuid "e4c34646-d1b9-4dfe-9891-39cee38747f5")
-	)
-	(label "LED0"
-		(at 71.12 114.3 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "ec721460-da96-4ef0-a8bd-78028f116055")
 	)
 	(label "GPIO8"
 		(at 231.14 121.92 180)
