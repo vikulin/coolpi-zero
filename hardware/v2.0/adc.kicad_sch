@@ -12899,7 +12899,7 @@
 				)
 			)
 		)
-		(property "Value" "SG-8018CG 50.000000MHz"
+		(property "Value" "SG-8018CG 25.000000MHz"
 			(at 110.998 148.59 0)
 			(effects
 				(font
@@ -12934,7 +12934,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC Part #" "C390526"
+		(property "LCSC Part #" "C21113871"
 			(at 93.98 156.21 0)
 			(effects
 				(font
@@ -12943,7 +12943,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC Link" "https://lcsc.com/product-detail/Programmable-Oscillators_EPSON-SG-8018CG-50-000000MHz-TJHSA_C390526.html"
+		(property "LCSC Link" "https://www.lcsc.com/product-detail/C21113871.html"
 			(at 93.98 156.21 0)
 			(effects
 				(font
@@ -12952,7 +12952,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufactuer Part Number" "SG-8018CG 50.000000MHz TJHSA"
+		(property "Manufactuer Part Number" "SG-8018CG 25.0000M-TJHPA3"
 			(at 93.98 156.21 0)
 			(effects
 				(font
