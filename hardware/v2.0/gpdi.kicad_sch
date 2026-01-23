@@ -11182,7 +11182,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Package_SO:VSSOP-8_2.3x2mm_P0.5mm"
+		(property "Footprint" "VSSOP-8_2.3x2mm_P0.5mm-exp-mask:VSSOP-8_2.3x2mm_P0.5mm"
 			(at 90.17 153.67 0)
 			(effects
 				(font
