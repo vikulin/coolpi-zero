@@ -9816,6 +9816,42 @@
 				(hide yes)
 			)
 		)
+		(property "Original" ""
+			(at 149.86 58.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Instructions/Notes" ""
+			(at 149.86 58.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER" "UNI-ROYAL"
+			(at 149.86 58.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER_PART_NUMBER" "0402WGF1002TCE"
+			(at 149.86 58.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "76dd6930-8d65-4d25-a06d-9600df01b384")
 		)
@@ -10256,6 +10292,42 @@
 				(hide yes)
 			)
 		)
+		(property "Original" ""
+			(at 121.92 104.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Instructions/Notes" ""
+			(at 121.92 104.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER" "Samsung Electro-Mechanics"
+			(at 121.92 104.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER_PART_NUMBER" "CL10A225KP8NNNC"
+			(at 121.92 104.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "d63bae89-03d5-4209-a4f3-7bca20f8b55d")
 		)
@@ -10433,6 +10505,42 @@
 				(hide yes)
 			)
 		)
+		(property "Original" ""
+			(at 162.56 60.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Instructions/Notes" ""
+			(at 162.56 60.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER_PART_NUMBER" "CL05B104KB54PNC"
+			(at 162.56 60.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER" "Samsung Electro-Mechanics"
+			(at 162.56 60.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "73b233e7-29a4-499a-91da-ed6971b03099")
 		)
@@ -10537,6 +10645,42 @@
 			)
 		)
 		(property "Notes" ""
+			(at 21.59 78.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Original" ""
+			(at 21.59 78.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Instructions/Notes" ""
+			(at 21.59 78.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER_PART_NUMBER" "CL05B104KB54PNC"
+			(at 21.59 78.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER" "Samsung Electro-Mechanics"
 			(at 21.59 78.74 0)
 			(effects
 				(font
@@ -10660,6 +10804,42 @@
 				(hide yes)
 			)
 		)
+		(property "Original" ""
+			(at 129.54 54.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Instructions/Notes" ""
+			(at 129.54 54.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER" "YAGEO"
+			(at 129.54 54.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER_PART_NUMBER" "CC0402KRX5R6BB105"
+			(at 129.54 54.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "47471b36-4e14-4fe8-aacf-787c82b2855a")
 		)
@@ -10719,7 +10899,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "1mV 1100V/us three routes 70dB QFN-16-EP(3x3) Amplifiers RoHS"
 			(at 109.22 83.82 0)
 			(effects
 				(font
@@ -10738,13 +10918,40 @@
 				(hide yes)
 			)
 		)
-		(property "MANUFACTURER_PART_NUMBER" "lt1993cud2"
+		(property "MANUFACTURER_PART_NUMBER" "LT1993CUD-2#PBF"
 			(at 109.22 83.82 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Original" ""
+			(at 109.22 83.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Instructions/Notes" ""
+			(at 109.22 83.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER" "ADI"
+			(at 109.22 83.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 				(hide yes)
 			)
 		)
@@ -10918,7 +11125,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "6GHz 1 -40℃~+90℃ Coaxial Connector (RF) Assemblies RoHS"
 			(at 30.48 82.55 0)
 			(effects
 				(font
@@ -11054,6 +11261,33 @@
 					(size 1.27 1.27)
 				)
 				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Original" ""
+			(at 30.48 82.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Instructions/Notes" ""
+			(at 30.48 82.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER_PART_NUMBER" "RSP-122811-01"
+			(at 30.48 82.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 				(hide yes)
 			)
 		)
@@ -11368,6 +11602,42 @@
 				(hide yes)
 			)
 		)
+		(property "Original" ""
+			(at 114.3 100.33 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Instructions/Notes" ""
+			(at 114.3 100.33 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER_PART_NUMBER" "CL05B104KB54PNC"
+			(at 114.3 100.33 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER" "Samsung Electro-Mechanics"
+			(at 114.3 100.33 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "9306198a-2e78-4455-8242-1e79e18658f8")
 		)
@@ -11545,6 +11815,42 @@
 				(hide yes)
 			)
 		)
+		(property "Original" ""
+			(at 81.28 99.06 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Instructions/Notes" ""
+			(at 81.28 99.06 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER_PART_NUMBER" "CL05B104KB54PNC"
+			(at 81.28 99.06 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER" "Samsung Electro-Mechanics"
+			(at 81.28 99.06 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "b783a6d8-9c40-42a8-b5bd-643d6c5071b8")
 		)
@@ -11578,7 +11884,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "100nF"
+		(property "Value" "100n"
 			(at 79.375 160.02 0)
 			(effects
 				(font
@@ -11650,6 +11956,42 @@
 			)
 		)
 		(property "Notes" ""
+			(at 78.74 157.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Original" ""
+			(at 78.74 157.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Instructions/Notes" ""
+			(at 78.74 157.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER_PART_NUMBER" "CL05B104KB54PNC"
+			(at 78.74 157.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER" "Samsung Electro-Mechanics"
 			(at 78.74 157.48 0)
 			(effects
 				(font
@@ -11784,6 +12126,42 @@
 		)
 		(property "Description" "ECP5 FPGA, 24K LUTs, 1.2V, BGA-256"
 			(at 209.042 37.592 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Original" ""
+			(at 210.82 105.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Instructions/Notes" ""
+			(at 210.82 105.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER" "Lattice"
+			(at 210.82 105.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER_PART_NUMBER" "LFE5U-25F-6BG256C"
+			(at 210.82 105.41 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12733,6 +13111,42 @@
 				(hide yes)
 			)
 		)
+		(property "Original" ""
+			(at 60.96 99.06 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Instructions/Notes" ""
+			(at 60.96 99.06 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER_PART_NUMBER" "CL05B104KB54PNC"
+			(at 60.96 99.06 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER" "Samsung Electro-Mechanics"
+			(at 60.96 99.06 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "a2882ce7-2b51-4602-9482-bdb774109b95")
 		)
@@ -12904,6 +13318,42 @@
 			)
 		)
 		(property "Notes" ""
+			(at 149.86 48.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Original" ""
+			(at 149.86 48.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Instructions/Notes" ""
+			(at 149.86 48.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER" "UNI-ROYAL"
+			(at 149.86 48.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER_PART_NUMBER" "0402WGF1402TCE"
 			(at 149.86 48.26 0)
 			(effects
 				(font
@@ -13420,6 +13870,42 @@
 				(hide yes)
 			)
 		)
+		(property "Original" ""
+			(at 137.16 58.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Instructions/Notes" ""
+			(at 137.16 58.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER" "YAGEO"
+			(at 137.16 58.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER_PART_NUMBER" "CC0402KRX5R6BB105"
+			(at 137.16 58.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "2cfc722f-e21d-49fd-a86e-1b5642601048")
 		)
@@ -13599,6 +14085,42 @@
 				(hide yes)
 			)
 		)
+		(property "Original" ""
+			(at 149.86 146.05 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Instructions/Notes" ""
+			(at 149.86 146.05 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER" "UNI-ROYAL"
+			(at 149.86 146.05 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER_PART_NUMBER" "0402WGF2001TCE"
+			(at 149.86 146.05 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "838a7f5d-7796-4e42-9b56-5aee2274cf9f")
 		)
@@ -13697,7 +14219,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "100"
+		(property "Value" "100R"
 			(at 155.448 69.85 0)
 			(effects
 				(font
@@ -13770,6 +14292,42 @@
 			)
 		)
 		(property "Notes" ""
+			(at 152.4 68.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Original" ""
+			(at 152.4 68.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Instructions/Notes" ""
+			(at 152.4 68.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER" "UNI-ROYAL"
+			(at 152.4 68.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER_PART_NUMBER" "0402WGF1000TCE"
 			(at 152.4 68.58 0)
 			(effects
 				(font
@@ -13894,6 +14452,42 @@
 					(size 1.27 1.27)
 				)
 				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Original" ""
+			(at 127 95.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Instructions/Notes" ""
+			(at 127 95.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER" "ADI"
+			(at 127 95.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER_PART_NUMBER" "LTC2256CUJ-12#PBF"
+			(at 127 95.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 				(hide yes)
 			)
 		)
@@ -14118,6 +14712,42 @@
 			)
 		)
 		(property "Notes" ""
+			(at 71.12 99.06 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Original" ""
+			(at 71.12 99.06 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Instructions/Notes" ""
+			(at 71.12 99.06 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER_PART_NUMBER" "CL05B104KB54PNC"
+			(at 71.12 99.06 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER" "Samsung Electro-Mechanics"
 			(at 71.12 99.06 0)
 			(effects
 				(font
@@ -14369,6 +14999,42 @@
 				(hide yes)
 			)
 		)
+		(property "Original" ""
+			(at 93.98 156.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Instructions/Notes" ""
+			(at 93.98 156.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER" "EPSON"
+			(at 93.98 156.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER_PART_NUMBER" "SG-8018CG 25.0000M-TJHPA3"
+			(at 93.98 156.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "4"
 			(uuid "38c918fd-c9aa-47c9-974e-fad2d17fb4d0")
 		)
@@ -14482,6 +15148,42 @@
 		)
 		(property "Notes" ""
 			(at 123.19 92.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Original" ""
+			(at 123.19 92.71 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Instructions/Notes" ""
+			(at 123.19 92.71 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER" "Samsung Electro-Mechanics"
+			(at 123.19 92.71 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER_PART_NUMBER" "RC1005F100CS"
+			(at 123.19 92.71 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14603,6 +15305,42 @@
 				(hide yes)
 			)
 		)
+		(property "Original" ""
+			(at 123.19 95.25 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Instructions/Notes" ""
+			(at 123.19 95.25 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER" "Samsung Electro-Mechanics"
+			(at 123.19 95.25 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER_PART_NUMBER" "RC1005F100CS"
+			(at 123.19 95.25 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "36042b69-a34d-4471-8d00-b9bcf957e817")
 		)
@@ -14710,6 +15448,42 @@
 		)
 		(property "Notes" ""
 			(at 139.7 67.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Original" ""
+			(at 139.7 67.31 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Instructions/Notes" ""
+			(at 139.7 67.31 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER" "UNI-ROYAL"
+			(at 139.7 67.31 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER_PART_NUMBER" "0402WGF1001TCE"
+			(at 139.7 67.31 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15026,6 +15800,42 @@
 				(hide yes)
 			)
 		)
+		(property "Original" ""
+			(at 114.3 107.95 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Instructions/Notes" ""
+			(at 114.3 107.95 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER_PART_NUMBER" "CL05B104KB54PNC"
+			(at 114.3 107.95 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER" "Samsung Electro-Mechanics"
+			(at 114.3 107.95 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "ecae50bf-5184-4ac3-82b6-ab1438a043b0")
 		)
@@ -15059,7 +15869,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "80.6R"
+		(property "Value" "80R6"
 			(at 43.434 87.63 0)
 			(effects
 				(font
@@ -15132,6 +15942,42 @@
 			)
 		)
 		(property "Notes" ""
+			(at 36.83 83.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Original" ""
+			(at 36.83 83.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Instructions/Notes" ""
+			(at 36.83 83.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER" "Samsung Electro-Mechanics"
+			(at 36.83 83.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER_PART_NUMBER" "RCS1005F80R6CS"
 			(at 36.83 83.82 0)
 			(effects
 				(font
@@ -15246,6 +16092,33 @@
 					(size 1.27 1.27)
 				)
 				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Original" ""
+			(at 54.61 124.46 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Instructions/Notes" ""
+			(at 54.61 124.46 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER_PART_NUMBER" "TCR5FM50A,RF"
+			(at 54.61 124.46 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 				(hide yes)
 			)
 		)

@@ -6768,7 +6768,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "10uF"
+		(property "Value" "10u"
 			(at 144.78 99.0662 0)
 			(effects
 				(font
@@ -6795,7 +6795,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
+		(property "Description" "Unpolarized capacitor"
 			(at 147.32 97.79 0)
 			(effects
 				(font
@@ -6841,6 +6841,42 @@
 			)
 		)
 		(property "Notes" ""
+			(at 147.32 97.79 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Original" ""
+			(at 147.32 97.79 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Instructions/Notes" ""
+			(at 147.32 97.79 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER_PART_NUMBER" "CL10A106KP8NNNC"
+			(at 147.32 97.79 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER" "Samsung Electro-Mechanics"
 			(at 147.32 97.79 0)
 			(effects
 				(font
@@ -6910,6 +6946,42 @@
 		)
 		(property "Description" "ECP5 FPGA, 24K LUTs, 1.2V, BGA-256"
 			(at 102.108 29.972 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Original" ""
+			(at 100.33 97.79 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Instructions/Notes" ""
+			(at 100.33 97.79 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER" "Lattice"
+			(at 100.33 97.79 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER_PART_NUMBER" "LFE5U-25F-6BG256C"
+			(at 100.33 97.79 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7795,6 +7867,42 @@
 			)
 		)
 		(property "Notes" ""
+			(at 186.69 97.79 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Original" ""
+			(at 186.69 97.79 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Instructions/Notes" ""
+			(at 186.69 97.79 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER" "SOFNG"
+			(at 186.69 97.79 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER_PART_NUMBER" "TF-008"
 			(at 186.69 97.79 0)
 			(effects
 				(font

@@ -10232,7 +10232,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "22nF"
+		(property "Value" "22n"
 			(at 220.98 44.4562 0)
 			(effects
 				(font
@@ -10277,7 +10277,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC Link" "https://lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_Samsung-Electro-Mechanics-CL05B104KB54PNC_C307331.html"
+		(property "LCSC Link" "https://www.lcsc.com/product-detail/C77571.html"
 			(at 218.44 43.18 0)
 			(effects
 				(font
@@ -10305,6 +10305,42 @@
 			)
 		)
 		(property "Notes" ""
+			(at 218.44 43.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Original" ""
+			(at 218.44 43.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Instructions/Notes" ""
+			(at 218.44 43.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER" "FH"
+			(at 218.44 43.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER_PART_NUMBER" "0603B223K500NT"
 			(at 218.44 43.18 0)
 			(effects
 				(font
@@ -10348,7 +10384,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "22nF"
+		(property "Value" "22n"
 			(at 196.85 44.4562 0)
 			(effects
 				(font
@@ -10429,6 +10465,42 @@
 				(hide yes)
 			)
 		)
+		(property "Original" ""
+			(at 194.31 43.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Instructions/Notes" ""
+			(at 194.31 43.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER" "FH"
+			(at 194.31 43.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER_PART_NUMBER" "0603B223K500NT"
+			(at 194.31 43.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "9ff35cea-396a-4c49-9df5-bbda91b009e1")
 		)
@@ -10464,7 +10536,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "22nF"
+		(property "Value" "22n"
 			(at 209.55 44.4562 0)
 			(effects
 				(font
@@ -10545,6 +10617,42 @@
 				(hide yes)
 			)
 		)
+		(property "Original" ""
+			(at 207.01 43.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Instructions/Notes" ""
+			(at 207.01 43.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER" "FH"
+			(at 207.01 43.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER_PART_NUMBER" "0603B223K500NT"
+			(at 207.01 43.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "61ba0814-b242-401e-b944-3356f615b650")
 		)
@@ -10580,7 +10688,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "22nF"
+		(property "Value" "22n"
 			(at 184.15 44.4562 0)
 			(effects
 				(font
@@ -10653,6 +10761,42 @@
 			)
 		)
 		(property "Notes" ""
+			(at 181.61 43.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Original" ""
+			(at 181.61 43.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Instructions/Notes" ""
+			(at 181.61 43.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER" "FH"
+			(at 181.61 43.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER_PART_NUMBER" "0603B223K500NT"
 			(at 181.61 43.18 0)
 			(effects
 				(font
@@ -10762,7 +10906,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "22nF"
+		(property "Value" "22n"
 			(at 232.41 44.4562 0)
 			(effects
 				(font
@@ -10843,6 +10987,42 @@
 				(hide yes)
 			)
 		)
+		(property "Original" ""
+			(at 229.87 43.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Instructions/Notes" ""
+			(at 229.87 43.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER" "FH"
+			(at 229.87 43.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER_PART_NUMBER" "0603B223K500NT"
+			(at 229.87 43.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "a8ea95d1-32a3-49c5-8071-8c4a45ea02a6")
 		)
@@ -10878,7 +11058,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "22nF"
+		(property "Value" "22n"
 			(at 243.84 44.4562 0)
 			(effects
 				(font
@@ -10959,6 +11139,42 @@
 				(hide yes)
 			)
 		)
+		(property "Original" ""
+			(at 241.3 43.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Instructions/Notes" ""
+			(at 241.3 43.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER" "FH"
+			(at 241.3 43.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER_PART_NUMBER" "0603B223K500NT"
+			(at 241.3 43.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "57236ef2-de71-40bd-95d0-9f9afd896b8b")
 		)
@@ -10994,7 +11210,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "22nF"
+		(property "Value" "22n"
 			(at 255.27 44.4562 0)
 			(effects
 				(font
@@ -11075,6 +11291,42 @@
 				(hide yes)
 			)
 		)
+		(property "Original" ""
+			(at 252.73 43.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Instructions/Notes" ""
+			(at 252.73 43.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER" "FH"
+			(at 252.73 43.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER_PART_NUMBER" "0603B223K500NT"
+			(at 252.73 43.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "e3191983-0be4-48f0-a51c-79f2f71e22cd")
 		)
@@ -11135,6 +11387,42 @@
 		)
 		(property "Description" "ECP5 FPGA, 24K LUTs, 1.2V, BGA-256"
 			(at 89.662 32.512 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Original" ""
+			(at 91.44 100.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Instructions/Notes" ""
+			(at 91.44 100.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER" "Lattice"
+			(at 91.44 100.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER_PART_NUMBER" "LFE5U-25F-6BG256C"
+			(at 91.44 100.33 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12104,6 +12392,42 @@
 				(hide yes)
 			)
 		)
+		(property "Original" ""
+			(at 162.56 68.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Instructions/Notes" ""
+			(at 162.56 68.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER" "ISSI"
+			(at 162.56 68.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER_PART_NUMBER" "IS42S16160J-6BLI"
+			(at 162.56 68.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "G8"
 			(uuid "c2f6e938-1506-441e-9fab-e1c713624c04")
 		)
@@ -12293,7 +12617,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "10uF"
+		(property "Value" "10u"
 			(at 266.7 44.4562 0)
 			(effects
 				(font
@@ -12320,7 +12644,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
+		(property "Description" "Unpolarized capacitor"
 			(at 264.16 43.18 0)
 			(effects
 				(font
@@ -12366,6 +12690,42 @@
 			)
 		)
 		(property "Notes" ""
+			(at 264.16 43.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Original" ""
+			(at 264.16 43.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Instructions/Notes" ""
+			(at 264.16 43.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER_PART_NUMBER" "CL10A106KP8NNNC"
+			(at 264.16 43.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER" "Samsung Electro-Mechanics"
 			(at 264.16 43.18 0)
 			(effects
 				(font

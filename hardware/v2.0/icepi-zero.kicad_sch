@@ -10231,7 +10231,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "100nF"
+		(property "Value" "100n"
 			(at 13.462 166.624 0)
 			(effects
 				(font
@@ -10304,6 +10304,42 @@
 			)
 		)
 		(property "Notes" ""
+			(at 21.59 165.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Original" ""
+			(at 21.59 165.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Instructions/Notes" ""
+			(at 21.59 165.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER_PART_NUMBER" "CL05B104KB54PNC"
+			(at 21.59 165.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER" "Samsung Electro-Mechanics"
 			(at 21.59 165.1 0)
 			(effects
 				(font
@@ -10545,7 +10581,7 @@
 				)
 			)
 		)
-		(property "Value" "549"
+		(property "Value" "549R"
 			(at 58.42 107.95 90)
 			(effects
 				(font
@@ -10617,6 +10653,42 @@
 			)
 		)
 		(property "Notes" ""
+			(at 58.42 111.76 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Original" ""
+			(at 58.42 111.76 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Instructions/Notes" ""
+			(at 58.42 111.76 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER" "UNI-ROYAL"
+			(at 58.42 111.76 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER_PART_NUMBER" "0402WGF5490TCE"
 			(at 58.42 111.76 90)
 			(effects
 				(font
@@ -10744,6 +10816,42 @@
 				(hide yes)
 			)
 		)
+		(property "Original" ""
+			(at 54.61 147.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Instructions/Notes" ""
+			(at 54.61 147.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER" "Inolux"
+			(at 54.61 147.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER_PART_NUMBER" "IN-PI15TAT5R5G5B"
+			(at 54.61 147.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "3"
 			(uuid "b5d971fe-863e-45c5-ae1b-70db44279a5d")
 		)
@@ -10847,6 +10955,24 @@
 			)
 		)
 		(property "Notes" ""
+			(at 160.02 176.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Original" ""
+			(at 160.02 176.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Instructions/Notes" ""
 			(at 160.02 176.53 0)
 			(effects
 				(font
@@ -11016,6 +11142,24 @@
 			)
 		)
 		(property "Notes" ""
+			(at 120.65 46.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Original" ""
+			(at 120.65 46.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Instructions/Notes" ""
 			(at 120.65 46.99 0)
 			(effects
 				(font
@@ -11264,6 +11408,42 @@
 				(hide yes)
 			)
 		)
+		(property "Original" ""
+			(at 97.79 172.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Instructions/Notes" ""
+			(at 97.79 172.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER" "EPSON"
+			(at 97.79 172.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER_PART_NUMBER" "SG-8018CG 50.000000MHz TJHSA"
+			(at 97.79 172.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "4"
 			(uuid "a4020c12-a10c-46cb-a25e-f685075044f6")
 		)
@@ -11366,6 +11546,24 @@
 			)
 		)
 		(property "Notes" ""
+			(at 257.81 118.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Original" ""
+			(at 257.81 118.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Instructions/Notes" ""
 			(at 257.81 118.11 0)
 			(effects
 				(font
@@ -11593,6 +11791,24 @@
 				(hide yes)
 			)
 		)
+		(property "Original" ""
+			(at 148.59 176.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Instructions/Notes" ""
+			(at 148.59 176.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "38d58b0e-909b-44cd-ab36-b819d03d7ff6")
 		)
@@ -11623,7 +11839,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "100nF"
+		(property "Value" "100n"
 			(at 13.462 133.604 0)
 			(effects
 				(font
@@ -11696,6 +11912,42 @@
 			)
 		)
 		(property "Notes" ""
+			(at 21.59 132.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Original" ""
+			(at 21.59 132.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Instructions/Notes" ""
+			(at 21.59 132.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER_PART_NUMBER" "CL05B104KB54PNC"
+			(at 21.59 132.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER" "Samsung Electro-Mechanics"
 			(at 21.59 132.08 0)
 			(effects
 				(font
@@ -11802,6 +12054,24 @@
 			)
 		)
 		(property "Notes" ""
+			(at 166.37 46.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Original" ""
+			(at 166.37 46.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Instructions/Notes" ""
 			(at 166.37 46.99 0)
 			(effects
 				(font
@@ -12100,6 +12370,24 @@
 			)
 		)
 		(property "Notes" ""
+			(at 232.41 41.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Original" ""
+			(at 232.41 41.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Instructions/Notes" ""
 			(at 232.41 41.91 0)
 			(effects
 				(font
@@ -12477,6 +12765,24 @@
 				(hide yes)
 			)
 		)
+		(property "Original" ""
+			(at 144.78 46.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Instructions/Notes" ""
+			(at 144.78 46.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(instances
 			(project "icepi-zero"
 				(path "/f88da08e-cf42-4d03-a08f-3f602fe6658d"
@@ -12531,6 +12837,42 @@
 		)
 		(property "Description" "ECP5 FPGA, 24K LUTs, 1.2V, BGA-256"
 			(at 177.292 52.832 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Original" ""
+			(at 179.07 120.65 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Instructions/Notes" ""
+			(at 179.07 120.65 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER" "Lattice"
+			(at 179.07 120.65 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER_PART_NUMBER" "LFE5U-25F-6BG256C"
+			(at 179.07 120.65 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13340,7 +13682,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "100nF"
+		(property "Value" "100n"
 			(at 13.462 150.114 0)
 			(effects
 				(font
@@ -13413,6 +13755,42 @@
 			)
 		)
 		(property "Notes" ""
+			(at 21.59 148.59 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Original" ""
+			(at 21.59 148.59 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Instructions/Notes" ""
+			(at 21.59 148.59 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER_PART_NUMBER" "CL05B104KB54PNC"
+			(at 21.59 148.59 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER" "Samsung Electro-Mechanics"
 			(at 21.59 148.59 0)
 			(effects
 				(font
@@ -13519,6 +13897,24 @@
 			)
 		)
 		(property "Notes" ""
+			(at 24.13 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Original" ""
+			(at 24.13 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Instructions/Notes" ""
 			(at 24.13 20.32 0)
 			(effects
 				(font
@@ -13684,6 +14080,24 @@
 			)
 		)
 		(property "Notes" ""
+			(at 97.79 46.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Original" ""
+			(at 97.79 46.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Instructions/Notes" ""
 			(at 97.79 46.99 0)
 			(effects
 				(font
@@ -13989,6 +14403,24 @@
 				(hide yes)
 			)
 		)
+		(property "Original" ""
+			(at 264.16 41.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Instructions/Notes" ""
+			(at 264.16 41.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "cdf238bb-01e0-45fc-bdcf-c578b92bced2")
 		)
@@ -14223,6 +14655,24 @@
 				(hide yes)
 			)
 		)
+		(property "Original" ""
+			(at 254 26.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Instructions/Notes" ""
+			(at 254 26.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "701b6012-b785-482f-a7d6-e65c75bb14f2")
 		)
@@ -14325,6 +14775,42 @@
 			)
 		)
 		(property "Notes" ""
+			(at 36.83 90.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Original" ""
+			(at 36.83 90.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Instructions/Notes" ""
+			(at 36.83 90.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER" "XUNPU"
+			(at 36.83 90.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER_PART_NUMBER" "TS-1088-AR02016"
 			(at 36.83 90.17 0)
 			(effects
 				(font
@@ -14515,6 +15001,42 @@
 					(size 1.27 1.27)
 				)
 				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Original" ""
+			(at 54.61 114.3 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Instructions/Notes" ""
+			(at 54.61 114.3 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER" "Inolux"
+			(at 54.61 114.3 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER_PART_NUMBER" "IN-PI15TAT5R5G5B"
+			(at 54.61 114.3 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 				(hide yes)
 			)
 		)
@@ -14761,6 +15283,24 @@
 				(hide yes)
 			)
 		)
+		(property "Original" ""
+			(at 242.57 26.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Instructions/Notes" ""
+			(at 242.57 26.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "07367dbe-d3d4-4b76-a0a9-088f86f739c7")
 		)
@@ -14818,6 +15358,42 @@
 		)
 		(property "Description" "ECP5 FPGA, 24K LUTs, 1.2V, BGA-256"
 			(at 102.362 54.102 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Original" ""
+			(at 104.14 121.92 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Instructions/Notes" ""
+			(at 104.14 121.92 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER" "Lattice"
+			(at 104.14 121.92 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER_PART_NUMBER" "LFE5U-25F-6BG256C"
+			(at 104.14 121.92 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15774,6 +16350,42 @@
 				(hide yes)
 			)
 		)
+		(property "Original" ""
+			(at 54.61 163.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Instructions/Notes" ""
+			(at 54.61 163.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER" "Inolux"
+			(at 54.61 163.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER_PART_NUMBER" "IN-PI15TAT5R5G5B"
+			(at 54.61 163.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "3"
 			(uuid "2b8f9c65-16e6-49a0-b2f7-197654f7b08d")
 		)
@@ -15951,6 +16563,24 @@
 				(hide yes)
 			)
 		)
+		(property "Original" ""
+			(at 254 41.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Instructions/Notes" ""
+			(at 254 41.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "8107f6b4-950e-4b8e-9cad-5e4cbc0b4beb")
 		)
@@ -15981,7 +16611,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "100nF"
+		(property "Value" "100n"
 			(at 13.462 117.094 0)
 			(effects
 				(font
@@ -16054,6 +16684,42 @@
 			)
 		)
 		(property "Notes" ""
+			(at 21.59 115.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Original" ""
+			(at 21.59 115.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Instructions/Notes" ""
+			(at 21.59 115.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER_PART_NUMBER" "CL05B104KB54PNC"
+			(at 21.59 115.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER" "Samsung Electro-Mechanics"
 			(at 21.59 115.57 0)
 			(effects
 				(font
@@ -16244,6 +16910,42 @@
 					(size 1.27 1.27)
 				)
 				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Original" ""
+			(at 54.61 130.81 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Instructions/Notes" ""
+			(at 54.61 130.81 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER" "Inolux"
+			(at 54.61 130.81 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER_PART_NUMBER" "IN-PI15TAT5R5G5B"
+			(at 54.61 130.81 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 				(hide yes)
 			)
 		)
@@ -16557,6 +17259,24 @@
 				(hide yes)
 			)
 		)
+		(property "Original" ""
+			(at 242.57 41.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Instructions/Notes" ""
+			(at 242.57 41.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "089fcdf7-640a-4cbc-b3cb-e8d7f4c8c49a")
 		)
@@ -16587,7 +17307,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "100nF"
+		(property "Value" "100n"
 			(at 83.185 176.53 0)
 			(effects
 				(font
@@ -16659,6 +17379,42 @@
 			)
 		)
 		(property "Notes" ""
+			(at 82.55 173.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Original" ""
+			(at 82.55 173.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Instructions/Notes" ""
+			(at 82.55 173.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER_PART_NUMBER" "CL05B104KB54PNC"
+			(at 82.55 173.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER" "Samsung Electro-Mechanics"
 			(at 82.55 173.99 0)
 			(effects
 				(font
@@ -16985,6 +17741,42 @@
 				(hide yes)
 			)
 		)
+		(property "Original" ""
+			(at 54.61 180.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Instructions/Notes" ""
+			(at 54.61 180.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER" "Inolux"
+			(at 54.61 180.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER_PART_NUMBER" "IN-PI15TAT5R5G5B"
+			(at 54.61 180.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "3"
 			(uuid "d77224d1-a3a3-484d-8c52-1351caa862ff")
 		)
@@ -17171,6 +17963,42 @@
 				(hide yes)
 			)
 		)
+		(property "Original" ""
+			(at 36.83 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Instructions/Notes" ""
+			(at 36.83 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER" "XUNPU"
+			(at 36.83 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER_PART_NUMBER" "TS-1088-AR02016"
+			(at 36.83 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "704c465d-c74b-4652-a3a5-ebfa3a2ba745")
 		)
@@ -17204,7 +18032,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "100nF"
+		(property "Value" "100n"
 			(at 13.462 183.134 0)
 			(effects
 				(font
@@ -17277,6 +18105,42 @@
 			)
 		)
 		(property "Notes" ""
+			(at 21.59 181.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Original" ""
+			(at 21.59 181.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Instructions/Notes" ""
+			(at 21.59 181.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER_PART_NUMBER" "CL05B104KB54PNC"
+			(at 21.59 181.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER" "Samsung Electro-Mechanics"
 			(at 21.59 181.61 0)
 			(effects
 				(font

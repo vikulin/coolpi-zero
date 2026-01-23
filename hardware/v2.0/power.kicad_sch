@@ -11914,6 +11914,42 @@
 				(hide yes)
 			)
 		)
+		(property "Original" ""
+			(at 177.8 59.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Instructions/Notes" ""
+			(at 177.8 59.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER" "UNI-ROYAL"
+			(at 177.8 59.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER_PART_NUMBER" "0402WGF4704TCE"
+			(at 177.8 59.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "3b1e83ea-59cf-4b06-965b-11d1cfe2232b")
 		)
@@ -12014,7 +12050,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "100nF"
+		(property "Value" "100n"
 			(at 64.77 88.9062 0)
 			(effects
 				(font
@@ -12041,7 +12077,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
+		(property "Description" "Unpolarized capacitor"
 			(at 62.23 87.63 0)
 			(effects
 				(font
@@ -12087,6 +12123,42 @@
 			)
 		)
 		(property "Notes" ""
+			(at 62.23 87.63 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Original" ""
+			(at 62.23 87.63 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Instructions/Notes" ""
+			(at 62.23 87.63 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER_PART_NUMBER" "CL05B104KB54PNC"
+			(at 62.23 87.63 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER" "Samsung Electro-Mechanics"
 			(at 62.23 87.63 0)
 			(effects
 				(font
@@ -12208,6 +12280,42 @@
 				(hide yes)
 			)
 		)
+		(property "Original" ""
+			(at 124.46 46.99 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Instructions/Notes" ""
+			(at 124.46 46.99 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER" "FH"
+			(at 124.46 46.99 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER_PART_NUMBER" "CBG201209U101T"
+			(at 124.46 46.99 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "1583b80d-5b8e-459e-b238-11a04e834a3b")
 		)
@@ -12308,7 +12416,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "100nF"
+		(property "Value" "100n"
 			(at 273.05 105.4099 0)
 			(effects
 				(font
@@ -12381,6 +12489,42 @@
 			)
 		)
 		(property "Notes" ""
+			(at 269.24 104.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Original" ""
+			(at 269.24 104.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Instructions/Notes" ""
+			(at 269.24 104.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER_PART_NUMBER" "CL05B104KB54PNC"
+			(at 269.24 104.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER" "Samsung Electro-Mechanics"
 			(at 269.24 104.14 0)
 			(effects
 				(font
@@ -12569,6 +12713,42 @@
 				(hide yes)
 			)
 		)
+		(property "Original" ""
+			(at 242.57 69.85 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Instructions/Notes" ""
+			(at 242.57 69.85 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER" "UNI-ROYAL"
+			(at 242.57 69.85 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER_PART_NUMBER" "0402WGF3013TCE"
+			(at 242.57 69.85 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "91f2da58-c1fc-4c4b-930d-c5139f2777a5")
 		)
@@ -12681,6 +12861,42 @@
 				(hide yes)
 			)
 		)
+		(property "Original" ""
+			(at 246.38 139.7 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Instructions/Notes" ""
+			(at 246.38 139.7 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER" "Samsung Electro-Mechanics"
+			(at 246.38 139.7 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER_PART_NUMBER" "CL05C6R8CB5NNNC"
+			(at 246.38 139.7 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "3de0cf2e-84e6-4177-b5ea-bd7128ae9017")
 		)
@@ -12715,7 +12931,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "100nF"
+		(property "Value" "100n"
 			(at 146.05 52.0762 0)
 			(effects
 				(font
@@ -12742,7 +12958,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
+		(property "Description" "Unpolarized capacitor"
 			(at 143.51 50.8 0)
 			(effects
 				(font
@@ -12788,6 +13004,42 @@
 			)
 		)
 		(property "Notes" ""
+			(at 143.51 50.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Original" ""
+			(at 143.51 50.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Instructions/Notes" ""
+			(at 143.51 50.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER_PART_NUMBER" "CL05B104KB54PNC"
+			(at 143.51 50.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER" "Samsung Electro-Mechanics"
 			(at 143.51 50.8 0)
 			(effects
 				(font
@@ -12896,7 +13148,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "10uF"
+		(property "Value" "10u"
 			(at 205.74 113.792 0)
 			(effects
 				(font
@@ -12969,6 +13221,42 @@
 			)
 		)
 		(property "Notes" ""
+			(at 201.93 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Original" ""
+			(at 201.93 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Instructions/Notes" ""
+			(at 201.93 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER_PART_NUMBER" "CL10A106KP8NNNC"
+			(at 201.93 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER" "Samsung Electro-Mechanics"
 			(at 201.93 113.03 0)
 			(effects
 				(font
@@ -13156,6 +13444,42 @@
 				(hide yes)
 			)
 		)
+		(property "Original" ""
+			(at 231.14 134.62 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Instructions/Notes" ""
+			(at 231.14 134.62 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER" "TDK"
+			(at 231.14 134.62 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER_PART_NUMBER" "MLP2012S2R2MT0S1"
+			(at 231.14 134.62 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "34757e61-46f1-48ea-892e-830dff54be01")
 		)
@@ -13262,6 +13586,42 @@
 			)
 		)
 		(property "Notes" ""
+			(at 241.3 139.7 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Original" ""
+			(at 241.3 139.7 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Instructions/Notes" ""
+			(at 241.3 139.7 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER" "UNI-ROYAL"
+			(at 241.3 139.7 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER_PART_NUMBER" "0402WGF4533TCE"
 			(at 241.3 139.7 0)
 			(effects
 				(font
@@ -13450,6 +13810,42 @@
 				(hide yes)
 			)
 		)
+		(property "Original" ""
+			(at 218.44 60.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Instructions/Notes" ""
+			(at 218.44 60.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER" "UNI-ROYAL"
+			(at 218.44 60.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER_PART_NUMBER" "0402WGF4704TCE"
+			(at 218.44 60.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "91cb68cd-48af-4f83-8ee4-9767a394747d")
 		)
@@ -13484,7 +13880,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "10uF"
+		(property "Value" "10u"
 			(at 33.02 88.9062 0)
 			(effects
 				(font
@@ -13511,7 +13907,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
+		(property "Description" "Unpolarized capacitor"
 			(at 30.48 87.63 0)
 			(effects
 				(font
@@ -13557,6 +13953,42 @@
 			)
 		)
 		(property "Notes" ""
+			(at 30.48 87.63 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Original" ""
+			(at 30.48 87.63 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Instructions/Notes" ""
+			(at 30.48 87.63 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER_PART_NUMBER" "CL10A106KP8NNNC"
+			(at 30.48 87.63 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER" "Samsung Electro-Mechanics"
 			(at 30.48 87.63 0)
 			(effects
 				(font
@@ -13679,6 +14111,42 @@
 				(hide yes)
 			)
 		)
+		(property "Original" ""
+			(at 242.57 59.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Instructions/Notes" ""
+			(at 242.57 59.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER" "UNI-ROYAL"
+			(at 242.57 59.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER_PART_NUMBER" "0402WGF2553TCE"
+			(at 242.57 59.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "99eda5ea-4125-42ad-bfbd-6df2159c8f3f")
 		)
@@ -13778,7 +14246,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "100nF"
+		(property "Value" "100n"
 			(at 61.722 52.832 0)
 			(effects
 				(font
@@ -13805,7 +14273,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
+		(property "Description" "Unpolarized capacitor"
 			(at 60.96 50.8 0)
 			(effects
 				(font
@@ -13851,6 +14319,42 @@
 			)
 		)
 		(property "Notes" ""
+			(at 60.96 50.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Original" ""
+			(at 60.96 50.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Instructions/Notes" ""
+			(at 60.96 50.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER_PART_NUMBER" "CL05B104KB54PNC"
+			(at 60.96 50.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER" "Samsung Electro-Mechanics"
 			(at 60.96 50.8 0)
 			(effects
 				(font
@@ -14025,7 +14529,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "100nF"
+		(property "Value" "100n"
 			(at 76.2 88.9062 0)
 			(effects
 				(font
@@ -14052,7 +14556,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
+		(property "Description" "Unpolarized capacitor"
 			(at 73.66 87.63 0)
 			(effects
 				(font
@@ -14106,6 +14610,42 @@
 				(hide yes)
 			)
 		)
+		(property "Original" ""
+			(at 73.66 87.63 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Instructions/Notes" ""
+			(at 73.66 87.63 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER_PART_NUMBER" "CL05B104KB54PNC"
+			(at 73.66 87.63 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER" "Samsung Electro-Mechanics"
+			(at 73.66 87.63 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "bc39698a-1039-4240-bf7f-e10ccb4f6b85")
 		)
@@ -14139,7 +14679,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "10uF"
+		(property "Value" "10u"
 			(at 35.052 52.832 0)
 			(effects
 				(font
@@ -14166,7 +14706,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
+		(property "Description" "Unpolarized capacitor"
 			(at 34.29 50.8 0)
 			(effects
 				(font
@@ -14212,6 +14752,42 @@
 			)
 		)
 		(property "Notes" ""
+			(at 34.29 50.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Original" ""
+			(at 34.29 50.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Instructions/Notes" ""
+			(at 34.29 50.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER_PART_NUMBER" "CL10A106KP8NNNC"
+			(at 34.29 50.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER" "Samsung Electro-Mechanics"
 			(at 34.29 50.8 0)
 			(effects
 				(font
@@ -14518,7 +15094,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "100nF"
+		(property "Value" "100n"
 			(at 140.97 88.9062 0)
 			(effects
 				(font
@@ -14545,7 +15121,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
+		(property "Description" "Unpolarized capacitor"
 			(at 138.43 87.63 0)
 			(effects
 				(font
@@ -14591,6 +15167,42 @@
 			)
 		)
 		(property "Notes" ""
+			(at 138.43 87.63 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Original" ""
+			(at 138.43 87.63 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Instructions/Notes" ""
+			(at 138.43 87.63 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER_PART_NUMBER" "CL05B104KB54PNC"
+			(at 138.43 87.63 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER" "Samsung Electro-Mechanics"
 			(at 138.43 87.63 0)
 			(effects
 				(font
@@ -14962,7 +15574,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "10uF"
+		(property "Value" "10u"
 			(at 120.65 88.9062 0)
 			(effects
 				(font
@@ -14989,7 +15601,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
+		(property "Description" "Unpolarized capacitor"
 			(at 118.11 87.63 0)
 			(effects
 				(font
@@ -15035,6 +15647,42 @@
 			)
 		)
 		(property "Notes" ""
+			(at 118.11 87.63 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Original" ""
+			(at 118.11 87.63 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Instructions/Notes" ""
+			(at 118.11 87.63 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER_PART_NUMBER" "CL10A106KP8NNNC"
+			(at 118.11 87.63 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER" "Samsung Electro-Mechanics"
 			(at 118.11 87.63 0)
 			(effects
 				(font
@@ -15212,13 +15860,40 @@
 				(hide yes)
 			)
 		)
-		(property "MANUFACTURER_PART_NUMBER" "ltc3407aedd2"
+		(property "MANUFACTURER_PART_NUMBER" "LTC3407AEDD-2#PBF"
 			(at 181.61 69.85 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Original" ""
+			(at 181.61 69.85 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Instructions/Notes" ""
+			(at 181.61 69.85 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER" "ADI"
+			(at 181.61 69.85 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 				(hide yes)
 			)
 		)
@@ -15429,6 +16104,42 @@
 				(hide yes)
 			)
 		)
+		(property "Original" ""
+			(at 241.3 149.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Instructions/Notes" ""
+			(at 241.3 149.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER" "UNI-ROYAL"
+			(at 241.3 149.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER_PART_NUMBER" "0402WGF1003TCE"
+			(at 241.3 149.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "760e33ba-7185-4af8-a6c7-1685341b70dc")
 		)
@@ -15594,7 +16305,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "10uF"
+		(property "Value" "10u"
 			(at 52.832 52.832 0)
 			(effects
 				(font
@@ -15621,7 +16332,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
+		(property "Description" "Unpolarized capacitor"
 			(at 52.07 50.8 0)
 			(effects
 				(font
@@ -15675,6 +16386,42 @@
 				(hide yes)
 			)
 		)
+		(property "Original" ""
+			(at 52.07 50.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Instructions/Notes" ""
+			(at 52.07 50.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER_PART_NUMBER" "CL10A106KP8NNNC"
+			(at 52.07 50.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER" "Samsung Electro-Mechanics"
+			(at 52.07 50.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "8a39ceab-7dc1-4ff2-9246-9933d68e072b")
 		)
@@ -15709,7 +16456,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "100nF"
+		(property "Value" "100n"
 			(at 130.81 88.9062 0)
 			(effects
 				(font
@@ -15736,7 +16483,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
+		(property "Description" "Unpolarized capacitor"
 			(at 128.27 87.63 0)
 			(effects
 				(font
@@ -15790,6 +16537,42 @@
 				(hide yes)
 			)
 		)
+		(property "Original" ""
+			(at 128.27 87.63 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Instructions/Notes" ""
+			(at 128.27 87.63 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER_PART_NUMBER" "CL05B104KB54PNC"
+			(at 128.27 87.63 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER" "Samsung Electro-Mechanics"
+			(at 128.27 87.63 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "21772bb9-428e-49da-9f8a-26f8d1f53cda")
 		)
@@ -15824,7 +16607,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "10uF"
+		(property "Value" "10u"
 			(at 22.86 88.9062 0)
 			(effects
 				(font
@@ -15851,7 +16634,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
+		(property "Description" "Unpolarized capacitor"
 			(at 20.32 87.63 0)
 			(effects
 				(font
@@ -15897,6 +16680,42 @@
 			)
 		)
 		(property "Notes" ""
+			(at 20.32 87.63 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Original" ""
+			(at 20.32 87.63 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Instructions/Notes" ""
+			(at 20.32 87.63 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER_PART_NUMBER" "CL10A106KP8NNNC"
+			(at 20.32 87.63 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER" "Samsung Electro-Mechanics"
 			(at 20.32 87.63 0)
 			(effects
 				(font
@@ -16010,6 +16829,42 @@
 			)
 		)
 		(property "Notes" ""
+			(at 115.57 107.95 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Original" ""
+			(at 115.57 107.95 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Instructions/Notes" ""
+			(at 115.57 107.95 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER" "muRata"
+			(at 115.57 107.95 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER_PART_NUMBER" "BLM18AG102SN1D"
 			(at 115.57 107.95 90)
 			(effects
 				(font
@@ -16196,6 +17051,42 @@
 				(hide yes)
 			)
 		)
+		(property "Original" ""
+			(at 247.65 59.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Instructions/Notes" ""
+			(at 247.65 59.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER" "Samsung Electro-Mechanics"
+			(at 247.65 59.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER_PART_NUMBER" "CL05C220JB5NNNC"
+			(at 247.65 59.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "b7f1c2fb-4317-42e0-a7dc-f1016a39750e")
 		)
@@ -16301,6 +17192,42 @@
 			)
 		)
 		(property "Notes" "2.2uH 100mA+ 400mO-"
+			(at 237.49 54.61 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Original" ""
+			(at 237.49 54.61 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Instructions/Notes" ""
+			(at 237.49 54.61 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER" "TDK"
+			(at 237.49 54.61 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER_PART_NUMBER" "MLP2012S2R2MT0S1"
 			(at 237.49 54.61 90)
 			(effects
 				(font
@@ -16474,7 +17401,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "100nF"
+		(property "Value" "100n"
 			(at 79.502 52.832 0)
 			(effects
 				(font
@@ -16501,7 +17428,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
+		(property "Description" "Unpolarized capacitor"
 			(at 78.74 50.8 0)
 			(effects
 				(font
@@ -16547,6 +17474,42 @@
 			)
 		)
 		(property "Notes" ""
+			(at 78.74 50.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Original" ""
+			(at 78.74 50.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Instructions/Notes" ""
+			(at 78.74 50.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER_PART_NUMBER" "CL05B104KB54PNC"
+			(at 78.74 50.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER" "Samsung Electro-Mechanics"
 			(at 78.74 50.8 0)
 			(effects
 				(font
@@ -16615,6 +17578,42 @@
 		)
 		(property "Description" "ECP5 FPGA, 24K LUTs, 1.2V, BGA-256"
 			(at 78.232 84.582 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Original" ""
+			(at 80.01 152.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Instructions/Notes" ""
+			(at 80.01 152.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER" "Lattice"
+			(at 80.01 152.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER_PART_NUMBER" "LFE5U-25F-6BG256C"
+			(at 80.01 152.4 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17494,7 +18493,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "100nF"
+		(property "Value" "100n"
 			(at 106.172 52.832 0)
 			(effects
 				(font
@@ -17521,7 +18520,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
+		(property "Description" "Unpolarized capacitor"
 			(at 105.41 50.8 0)
 			(effects
 				(font
@@ -17567,6 +18566,42 @@
 			)
 		)
 		(property "Notes" ""
+			(at 105.41 50.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Original" ""
+			(at 105.41 50.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Instructions/Notes" ""
+			(at 105.41 50.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER_PART_NUMBER" "CL05B104KB54PNC"
+			(at 105.41 50.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER" "Samsung Electro-Mechanics"
 			(at 105.41 50.8 0)
 			(effects
 				(font
@@ -17674,7 +18709,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "10uF"
+		(property "Value" "10u"
 			(at 43.942 52.832 0)
 			(effects
 				(font
@@ -17701,7 +18736,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
+		(property "Description" "Unpolarized capacitor"
 			(at 43.18 50.8 0)
 			(effects
 				(font
@@ -17747,6 +18782,42 @@
 			)
 		)
 		(property "Notes" ""
+			(at 43.18 50.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Original" ""
+			(at 43.18 50.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Instructions/Notes" ""
+			(at 43.18 50.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER_PART_NUMBER" "CL10A106KP8NNNC"
+			(at 43.18 50.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER" "Samsung Electro-Mechanics"
 			(at 43.18 50.8 0)
 			(effects
 				(font
@@ -17933,6 +19004,42 @@
 				(hide yes)
 			)
 		)
+		(property "Original" ""
+			(at 246.38 104.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Instructions/Notes" ""
+			(at 246.38 104.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER" "Samsung Electro-Mechanics"
+			(at 246.38 104.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER_PART_NUMBER" "CL05C220JB5NNNC"
+			(at 246.38 104.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "84dc64a4-ca8d-416a-8875-fa6db480a7ab")
 		)
@@ -18033,7 +19140,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "100nF"
+		(property "Value" "100n"
 			(at 273.05 60.9599 0)
 			(effects
 				(font
@@ -18106,6 +19213,42 @@
 			)
 		)
 		(property "Notes" ""
+			(at 269.24 59.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Original" ""
+			(at 269.24 59.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Instructions/Notes" ""
+			(at 269.24 59.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER_PART_NUMBER" "CL05B104KB54PNC"
+			(at 269.24 59.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER" "Samsung Electro-Mechanics"
 			(at 269.24 59.69 0)
 			(effects
 				(font
@@ -18292,6 +19435,42 @@
 				(hide yes)
 			)
 		)
+		(property "Original" ""
+			(at 218.44 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Instructions/Notes" ""
+			(at 218.44 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER" "Samsung Electro-Mechanics"
+			(at 218.44 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER_PART_NUMBER" "CL05B272KB5NNNC"
+			(at 218.44 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "fdc35b6e-9740-4c12-9d05-380d943e44a5")
 		)
@@ -18392,7 +19571,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "10uF"
+		(property "Value" "10u"
 			(at 135.89 52.0762 0)
 			(effects
 				(font
@@ -18419,7 +19598,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
+		(property "Description" "Unpolarized capacitor"
 			(at 133.35 50.8 0)
 			(effects
 				(font
@@ -18473,6 +19652,42 @@
 				(hide yes)
 			)
 		)
+		(property "Original" ""
+			(at 133.35 50.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Instructions/Notes" ""
+			(at 133.35 50.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER_PART_NUMBER" "CL10A106KP8NNNC"
+			(at 133.35 50.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER" "Samsung Electro-Mechanics"
+			(at 133.35 50.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "d7b1e748-d5ea-46c4-be62-6e6e404ff133")
 		)
@@ -18507,7 +19722,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "10uF"
+		(property "Value" "10u"
 			(at 260.35 140.9699 0)
 			(effects
 				(font
@@ -18588,6 +19803,42 @@
 				(hide yes)
 			)
 		)
+		(property "Original" ""
+			(at 256.54 139.7 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Instructions/Notes" ""
+			(at 256.54 139.7 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER_PART_NUMBER" "CL10A106KP8NNNC"
+			(at 256.54 139.7 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER" "Samsung Electro-Mechanics"
+			(at 256.54 139.7 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "f0afe096-d858-4286-9ecb-146e041565b9")
 		)
@@ -18621,7 +19872,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "100nF"
+		(property "Value" "100n"
 			(at 97.282 52.832 0)
 			(effects
 				(font
@@ -18648,7 +19899,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
+		(property "Description" "Unpolarized capacitor"
 			(at 96.52 50.8 0)
 			(effects
 				(font
@@ -18694,6 +19945,42 @@
 			)
 		)
 		(property "Notes" ""
+			(at 96.52 50.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Original" ""
+			(at 96.52 50.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Instructions/Notes" ""
+			(at 96.52 50.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER_PART_NUMBER" "CL05B104KB54PNC"
+			(at 96.52 50.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER" "Samsung Electro-Mechanics"
 			(at 96.52 50.8 0)
 			(effects
 				(font
@@ -19015,6 +20302,42 @@
 				(hide yes)
 			)
 		)
+		(property "Original" ""
+			(at 214.63 137.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Instructions/Notes" ""
+			(at 214.63 137.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER" "TI"
+			(at 214.63 137.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER_PART_NUMBER" "TLV62569DBVR"
+			(at 214.63 137.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "821f1643-f57d-438f-811b-98840d5c60a6")
 		)
@@ -19204,6 +20527,42 @@
 				(hide yes)
 			)
 		)
+		(property "Original" ""
+			(at 177.8 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Instructions/Notes" ""
+			(at 177.8 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER" "Samsung Electro-Mechanics"
+			(at 177.8 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER_PART_NUMBER" "CL05B562KB5NNNC"
+			(at 177.8 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "d810ee08-66c9-4494-a787-1f18cc05f9e3")
 		)
@@ -19311,6 +20670,42 @@
 			)
 		)
 		(property "Notes" ""
+			(at 125.73 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Original" ""
+			(at 125.73 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Instructions/Notes" ""
+			(at 125.73 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER" "YAGEO"
+			(at 125.73 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER_PART_NUMBER" "CC0402KRX5R6BB105"
 			(at 125.73 113.03 0)
 			(effects
 				(font
@@ -19484,7 +20879,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "22uF"
+		(property "Value" "22u"
 			(at 198.12 140.9699 0)
 			(effects
 				(font
@@ -19557,6 +20952,42 @@
 			)
 		)
 		(property "Notes" ""
+			(at 201.93 139.7 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Original" ""
+			(at 201.93 139.7 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Instructions/Notes" ""
+			(at 201.93 139.7 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER_PART_NUMBER" "CL10A226MQ8NRNC"
+			(at 201.93 139.7 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER" "Samsung Electro-Mechanics"
 			(at 201.93 139.7 0)
 			(effects
 				(font
@@ -19730,7 +21161,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "100nF"
+		(property "Value" "100n"
 			(at 97.79 88.9062 0)
 			(effects
 				(font
@@ -19757,7 +21188,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
+		(property "Description" "Unpolarized capacitor"
 			(at 95.25 87.63 0)
 			(effects
 				(font
@@ -19803,6 +21234,42 @@
 			)
 		)
 		(property "Notes" ""
+			(at 95.25 87.63 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Original" ""
+			(at 95.25 87.63 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Instructions/Notes" ""
+			(at 95.25 87.63 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER_PART_NUMBER" "CL05B104KB54PNC"
+			(at 95.25 87.63 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER" "Samsung Electro-Mechanics"
 			(at 95.25 87.63 0)
 			(effects
 				(font
@@ -20043,7 +21510,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "100nF"
+		(property "Value" "100n"
 			(at 53.34 88.9062 0)
 			(effects
 				(font
@@ -20070,7 +21537,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
+		(property "Description" "Unpolarized capacitor"
 			(at 50.8 87.63 0)
 			(effects
 				(font
@@ -20116,6 +21583,42 @@
 			)
 		)
 		(property "Notes" ""
+			(at 50.8 87.63 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Original" ""
+			(at 50.8 87.63 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Instructions/Notes" ""
+			(at 50.8 87.63 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER_PART_NUMBER" "CL05B104KB54PNC"
+			(at 50.8 87.63 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER" "Samsung Electro-Mechanics"
 			(at 50.8 87.63 0)
 			(effects
 				(font
@@ -20158,7 +21661,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "100nF"
+		(property "Value" "100n"
 			(at 87.63 88.9062 0)
 			(effects
 				(font
@@ -20185,7 +21688,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
+		(property "Description" "Unpolarized capacitor"
 			(at 85.09 87.63 0)
 			(effects
 				(font
@@ -20231,6 +21734,42 @@
 			)
 		)
 		(property "Notes" ""
+			(at 85.09 87.63 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Original" ""
+			(at 85.09 87.63 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Instructions/Notes" ""
+			(at 85.09 87.63 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER_PART_NUMBER" "CL05B104KB54PNC"
+			(at 85.09 87.63 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER" "Samsung Electro-Mechanics"
 			(at 85.09 87.63 0)
 			(effects
 				(font
@@ -20353,6 +21892,42 @@
 				(hide yes)
 			)
 		)
+		(property "Original" ""
+			(at 223.52 60.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Instructions/Notes" ""
+			(at 223.52 60.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER" "UNI-ROYAL"
+			(at 223.52 60.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER_PART_NUMBER" "0402WGF1003TCE"
+			(at 223.52 60.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "4be41ec5-cafc-4b18-9823-fb8e43be33a2")
 		)
@@ -20467,6 +22042,42 @@
 				(hide yes)
 			)
 		)
+		(property "Original" ""
+			(at 241.3 104.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Instructions/Notes" ""
+			(at 241.3 104.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER" "UNI-ROYAL"
+			(at 241.3 104.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER_PART_NUMBER" "0402WGF8873TCE"
+			(at 241.3 104.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "a87def2c-5a94-4680-a07e-4d861c3f155b")
 		)
@@ -20500,7 +22111,7 @@
 				)
 			)
 		)
-		(property "Value" "LP5912-1.8DRV"
+		(property "Value" "LP5912-1.8DRVR"
 			(at 185.42 102.87 0)
 			(effects
 				(font
@@ -20535,6 +22146,42 @@
 				(hide yes)
 			)
 		)
+		(property "Original" ""
+			(at 185.42 110.49 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Instructions/Notes" ""
+			(at 185.42 110.49 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER" "TI"
+			(at 185.42 110.49 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER_PART_NUMBER" "LP5912-1.8DRVR"
+			(at 185.42 110.49 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "2eb23c46-bf5f-4cb3-9cc9-400bdd87c7b4")
 		)
@@ -20562,6 +22209,10 @@
 					(reference "U4")
 					(unit 1)
 				)
+				(path "/f88da08e-cf42-4d03-a08f-3f602fe6658d/b5a9aa02-311b-4a9a-a7d4-646f15cdd9c2"
+					(reference "U4")
+					(unit 1)
+				)
 			)
 		)
 	)
@@ -20584,7 +22235,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "10uF"
+		(property "Value" "10u"
 			(at 159.766 114.046 0)
 			(effects
 				(font
@@ -20665,6 +22316,42 @@
 				(hide yes)
 			)
 		)
+		(property "Original" ""
+			(at 167.64 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Instructions/Notes" ""
+			(at 167.64 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER_PART_NUMBER" "CL10A106KP8NNNC"
+			(at 167.64 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER" "Samsung Electro-Mechanics"
+			(at 167.64 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "4f79e229-cea1-47cc-b4ad-898b1b0b3089")
 		)
@@ -20699,7 +22386,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "10uF"
+		(property "Value" "10u"
 			(at 98.552 113.538 0)
 			(effects
 				(font
@@ -20780,6 +22467,42 @@
 				(hide yes)
 			)
 		)
+		(property "Original" ""
+			(at 106.68 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Instructions/Notes" ""
+			(at 106.68 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER_PART_NUMBER" "CL10A106KP8NNNC"
+			(at 106.68 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER" "Samsung Electro-Mechanics"
+			(at 106.68 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "62eea614-52ee-4b67-a5fd-22a18ac8b4a6")
 		)
@@ -20813,7 +22536,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "100nF"
+		(property "Value" "100n"
 			(at 88.392 52.832 0)
 			(effects
 				(font
@@ -20840,7 +22563,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
+		(property "Description" "Unpolarized capacitor"
 			(at 87.63 50.8 0)
 			(effects
 				(font
@@ -20886,6 +22609,42 @@
 			)
 		)
 		(property "Notes" ""
+			(at 87.63 50.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Original" ""
+			(at 87.63 50.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Instructions/Notes" ""
+			(at 87.63 50.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER_PART_NUMBER" "CL05B104KB54PNC"
+			(at 87.63 50.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER" "Samsung Electro-Mechanics"
 			(at 87.63 50.8 0)
 			(effects
 				(font
@@ -20928,7 +22687,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "100nF"
+		(property "Value" "100n"
 			(at 109.22 88.9062 0)
 			(effects
 				(font
@@ -20955,7 +22714,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
+		(property "Description" "Unpolarized capacitor"
 			(at 106.68 87.63 0)
 			(effects
 				(font
@@ -21001,6 +22760,42 @@
 			)
 		)
 		(property "Notes" ""
+			(at 106.68 87.63 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Original" ""
+			(at 106.68 87.63 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Instructions/Notes" ""
+			(at 106.68 87.63 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER_PART_NUMBER" "CL05B104KB54PNC"
+			(at 106.68 87.63 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER" "Samsung Electro-Mechanics"
 			(at 106.68 87.63 0)
 			(effects
 				(font
@@ -21042,7 +22837,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "100nF"
+		(property "Value" "100n"
 			(at 70.612 52.832 0)
 			(effects
 				(font
@@ -21069,7 +22864,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
+		(property "Description" "Unpolarized capacitor"
 			(at 69.85 50.8 0)
 			(effects
 				(font
@@ -21115,6 +22910,42 @@
 			)
 		)
 		(property "Notes" ""
+			(at 69.85 50.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Original" ""
+			(at 69.85 50.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Instructions/Notes" ""
+			(at 69.85 50.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER_PART_NUMBER" "CL05B104KB54PNC"
+			(at 69.85 50.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER" "Samsung Electro-Mechanics"
 			(at 69.85 50.8 0)
 			(effects
 				(font
@@ -21236,6 +23067,42 @@
 				(hide yes)
 			)
 		)
+		(property "Original" ""
+			(at 236.22 99.06 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Instructions/Notes" ""
+			(at 236.22 99.06 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER" "TDK"
+			(at 236.22 99.06 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER_PART_NUMBER" "MLP2012S2R2MT0S1"
+			(at 236.22 99.06 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "5d4559c0-975e-4b00-8080-e6df41e34d53")
 		)
@@ -21270,7 +23137,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "100nF"
+		(property "Value" "100n"
 			(at 157.48 52.0762 0)
 			(effects
 				(font
@@ -21297,7 +23164,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
+		(property "Description" "Unpolarized capacitor"
 			(at 154.94 50.8 0)
 			(effects
 				(font
@@ -21343,6 +23210,42 @@
 			)
 		)
 		(property "Notes" ""
+			(at 154.94 50.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Original" ""
+			(at 154.94 50.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Instructions/Notes" ""
+			(at 154.94 50.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER_PART_NUMBER" "CL05B104KB54PNC"
+			(at 154.94 50.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER" "Samsung Electro-Mechanics"
 			(at 154.94 50.8 0)
 			(effects
 				(font
@@ -21649,7 +23552,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "22uF"
+		(property "Value" "22u"
 			(at 261.62 60.9599 0)
 			(effects
 				(font
@@ -21730,6 +23633,42 @@
 				(hide yes)
 			)
 		)
+		(property "Original" ""
+			(at 257.81 59.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Instructions/Notes" ""
+			(at 257.81 59.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER_PART_NUMBER" "CL10A226MQ8NRNC"
+			(at 257.81 59.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER" "Samsung Electro-Mechanics"
+			(at 257.81 59.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "00656b29-7048-4285-9b7e-c3430ff7d507")
 		)
@@ -21764,7 +23703,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "10uF"
+		(property "Value" "10u"
 			(at 43.18 88.9062 0)
 			(effects
 				(font
@@ -21791,7 +23730,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
+		(property "Description" "Unpolarized capacitor"
 			(at 40.64 87.63 0)
 			(effects
 				(font
@@ -21845,6 +23784,42 @@
 				(hide yes)
 			)
 		)
+		(property "Original" ""
+			(at 40.64 87.63 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Instructions/Notes" ""
+			(at 40.64 87.63 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER_PART_NUMBER" "CL10A106KP8NNNC"
+			(at 40.64 87.63 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER" "Samsung Electro-Mechanics"
+			(at 40.64 87.63 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "369c1ae3-2f01-4b41-84a3-09183c8574e3")
 		)
@@ -21879,7 +23854,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "100nF"
+		(property "Value" "100n"
 			(at 273.05 140.9699 0)
 			(effects
 				(font
@@ -21960,6 +23935,42 @@
 				(hide yes)
 			)
 		)
+		(property "Original" ""
+			(at 269.24 139.7 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Instructions/Notes" ""
+			(at 269.24 139.7 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER_PART_NUMBER" "CL05B104KB54PNC"
+			(at 269.24 139.7 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER" "Samsung Electro-Mechanics"
+			(at 269.24 139.7 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "78c0b4b9-4958-451b-8ad2-d88699ddfaf5")
 		)
@@ -21993,7 +24004,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "22uF"
+		(property "Value" "22u"
 			(at 163.83 81.2799 0)
 			(effects
 				(font
@@ -22066,6 +24077,42 @@
 			)
 		)
 		(property "Notes" ""
+			(at 167.64 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Original" ""
+			(at 167.64 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Instructions/Notes" ""
+			(at 167.64 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER_PART_NUMBER" "CL10A226MQ8NRNC"
+			(at 167.64 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER" "Samsung Electro-Mechanics"
 			(at 167.64 80.01 0)
 			(effects
 				(font
@@ -22254,6 +24301,42 @@
 				(hide yes)
 			)
 		)
+		(property "Original" ""
+			(at 241.3 114.3 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Instructions/Notes" ""
+			(at 241.3 114.3 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER" "UNI-ROYAL"
+			(at 241.3 114.3 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER_PART_NUMBER" "0402WGF2803TCE"
+			(at 241.3 114.3 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "d4caa0cb-621a-42dc-b8eb-f0804f64ab0c")
 		)
@@ -22288,7 +24371,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "22uF"
+		(property "Value" "22u"
 			(at 260.35 105.4099 0)
 			(effects
 				(font
@@ -22361,6 +24444,42 @@
 			)
 		)
 		(property "Notes" ""
+			(at 256.54 104.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Original" ""
+			(at 256.54 104.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Instructions/Notes" ""
+			(at 256.54 104.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER_PART_NUMBER" "CL10A226MQ8NRNC"
+			(at 256.54 104.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER" "Samsung Electro-Mechanics"
 			(at 256.54 104.14 0)
 			(effects
 				(font
@@ -22473,6 +24592,42 @@
 			)
 		)
 		(property "Notes" ""
+			(at 135.89 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Original" ""
+			(at 135.89 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Instructions/Notes" ""
+			(at 135.89 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER_PART_NUMBER" "CL05B104KB54PNC"
+			(at 135.89 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER" "Samsung Electro-Mechanics"
 			(at 135.89 113.03 0)
 			(effects
 				(font

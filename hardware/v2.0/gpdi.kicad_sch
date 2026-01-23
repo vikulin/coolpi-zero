@@ -8363,6 +8363,42 @@
 				(hide yes)
 			)
 		)
+		(property "Original" ""
+			(at 104.14 120.65 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Instructions/Notes" ""
+			(at 104.14 120.65 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER" "UNI-ROYAL"
+			(at 104.14 120.65 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER_PART_NUMBER" "0402WGF1003TCE"
+			(at 104.14 120.65 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "e75e6900-47f2-4161-bc6f-9e35feb96f0e")
 		)
@@ -8475,6 +8511,42 @@
 				(hide yes)
 			)
 		)
+		(property "Original" ""
+			(at 109.22 120.65 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Instructions/Notes" ""
+			(at 109.22 120.65 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER" "UNI-ROYAL"
+			(at 109.22 120.65 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER_PART_NUMBER" "0402WGF4701TCE"
+			(at 109.22 120.65 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "7fba3277-41eb-4278-a0b1-287ddd1e82b9")
 		)
@@ -8579,6 +8651,42 @@
 			)
 		)
 		(property "Notes" ""
+			(at 114.3 120.65 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Original" ""
+			(at 114.3 120.65 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Instructions/Notes" ""
+			(at 114.3 120.65 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER" "UNI-ROYAL"
+			(at 114.3 120.65 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER_PART_NUMBER" "0402WGF4701TCE"
 			(at 114.3 120.65 90)
 			(effects
 				(font
@@ -8824,6 +8932,42 @@
 				(hide yes)
 			)
 		)
+		(property "Original" ""
+			(at 77.47 133.35 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Instructions/Notes" ""
+			(at 77.47 133.35 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER" "UNI-ROYAL"
+			(at 77.47 133.35 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER_PART_NUMBER" "0402WGF3301TCE"
+			(at 77.47 133.35 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "0e44b6cb-02f6-4135-863b-b0ef323541a3")
 		)
@@ -8935,6 +9079,42 @@
 				(hide yes)
 			)
 		)
+		(property "Original" ""
+			(at 73.66 133.35 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Instructions/Notes" ""
+			(at 73.66 133.35 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER" "UNI-ROYAL"
+			(at 73.66 133.35 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER_PART_NUMBER" "0402WGF3301TCE"
+			(at 73.66 133.35 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "b1e57f4e-e808-4856-bfee-15678ed98fef")
 		)
@@ -8967,7 +9147,7 @@
 				)
 			)
 		)
-		(property "Value" "470"
+		(property "Value" "470R"
 			(at 185.42 95.25 90)
 			(effects
 				(font
@@ -9046,6 +9226,42 @@
 				(hide yes)
 			)
 		)
+		(property "Original" ""
+			(at 185.42 95.25 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Instructions/Notes" ""
+			(at 185.42 95.25 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER" "UNI-ROYAL"
+			(at 185.42 95.25 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER_PART_NUMBER" "0402WGF4700TCE"
+			(at 185.42 95.25 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "5c7fc2a2-ec49-48a8-8a88-e3df20073b31")
 		)
@@ -9078,7 +9294,7 @@
 				)
 			)
 		)
-		(property "Value" "22nF"
+		(property "Value" "22n"
 			(at 177.038 68.58 90)
 			(effects
 				(font
@@ -9150,6 +9366,42 @@
 			)
 		)
 		(property "Notes" ""
+			(at 180.34 67.31 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Original" ""
+			(at 180.34 67.31 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Instructions/Notes" ""
+			(at 180.34 67.31 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER" "FH"
+			(at 180.34 67.31 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER_PART_NUMBER" "0402B223K500NT"
 			(at 180.34 67.31 90)
 			(effects
 				(font
@@ -9255,6 +9507,42 @@
 				(hide yes)
 			)
 		)
+		(property "Original" ""
+			(at 175.26 99.06 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Instructions/Notes" ""
+			(at 175.26 99.06 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER" "R+O"
+			(at 175.26 99.06 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER_PART_NUMBER" "BZT52C3V6S"
+			(at 175.26 99.06 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "95a3904c-c9b7-4733-883c-12b14368c501")
 		)
@@ -9287,7 +9575,7 @@
 				)
 			)
 		)
-		(property "Value" "22nF"
+		(property "Value" "22n"
 			(at 177.038 63.5 90)
 			(effects
 				(font
@@ -9367,6 +9655,42 @@
 				(hide yes)
 			)
 		)
+		(property "Original" ""
+			(at 180.34 62.23 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Instructions/Notes" ""
+			(at 180.34 62.23 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER" "FH"
+			(at 180.34 62.23 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER_PART_NUMBER" "0402B223K500NT"
+			(at 180.34 62.23 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "63c2c458-6dcf-4630-8195-3d0fccef3da5")
 		)
@@ -9399,7 +9723,7 @@
 				)
 			)
 		)
-		(property "Value" "470"
+		(property "Value" "470R"
 			(at 185.42 80.01 90)
 			(effects
 				(font
@@ -9478,6 +9802,42 @@
 				(hide yes)
 			)
 		)
+		(property "Original" ""
+			(at 185.42 80.01 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Instructions/Notes" ""
+			(at 185.42 80.01 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER" "UNI-ROYAL"
+			(at 185.42 80.01 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER_PART_NUMBER" "0402WGF4700TCE"
+			(at 185.42 80.01 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "d5338075-e3fa-4a4a-9695-cc8a3b7c9720")
 		)
@@ -9510,7 +9870,7 @@
 				)
 			)
 		)
-		(property "Value" "22nF"
+		(property "Value" "22n"
 			(at 189.23 71.12 90)
 			(effects
 				(font
@@ -9590,6 +9950,42 @@
 				(hide yes)
 			)
 		)
+		(property "Original" ""
+			(at 185.42 69.85 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Instructions/Notes" ""
+			(at 185.42 69.85 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER" "FH"
+			(at 185.42 69.85 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER_PART_NUMBER" "0402B223K500NT"
+			(at 185.42 69.85 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "8d649953-18db-4781-a696-d89db18ee91e")
 		)
@@ -9622,7 +10018,7 @@
 				)
 			)
 		)
-		(property "Value" "22nF"
+		(property "Value" "22n"
 			(at 189.23 76.2 90)
 			(effects
 				(font
@@ -9702,6 +10098,42 @@
 				(hide yes)
 			)
 		)
+		(property "Original" ""
+			(at 185.42 74.93 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Instructions/Notes" ""
+			(at 185.42 74.93 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER" "FH"
+			(at 185.42 74.93 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER_PART_NUMBER" "0402B223K500NT"
+			(at 185.42 74.93 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "d8968f2b-3cbc-48ab-b30c-4f49067d8906")
 		)
@@ -9763,6 +10195,42 @@
 		)
 		(property "Description" "ECP5 FPGA, 24K LUTs, 1.2V, BGA-256"
 			(at 88.138 8.382 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Original" ""
+			(at 86.36 76.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Instructions/Notes" ""
+			(at 86.36 76.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER" "Lattice"
+			(at 86.36 76.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER_PART_NUMBER" "LFE5U-25F-6BG256C"
+			(at 86.36 76.2 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10575,7 +11043,7 @@
 				)
 			)
 		)
-		(property "Value" "22nF"
+		(property "Value" "22n"
 			(at 189.23 66.04 90)
 			(effects
 				(font
@@ -10647,6 +11115,42 @@
 			)
 		)
 		(property "Notes" ""
+			(at 185.42 64.77 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Original" ""
+			(at 185.42 64.77 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Instructions/Notes" ""
+			(at 185.42 64.77 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER" "FH"
+			(at 185.42 64.77 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER_PART_NUMBER" "0402B223K500NT"
 			(at 185.42 64.77 90)
 			(effects
 				(font
@@ -10965,6 +11469,42 @@
 				(hide yes)
 			)
 		)
+		(property "Original" ""
+			(at 185.42 92.71 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Instructions/Notes" ""
+			(at 185.42 92.71 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER" "UNI-ROYAL"
+			(at 185.42 92.71 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER_PART_NUMBER" "0402WGF1002TCE"
+			(at 185.42 92.71 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "c1f9db4d-7ce2-4c10-853c-6615da4fa2f8")
 		)
@@ -10997,7 +11537,7 @@
 				)
 			)
 		)
-		(property "Value" "22nF"
+		(property "Value" "22n"
 			(at 177.038 58.42 90)
 			(effects
 				(font
@@ -11069,6 +11609,42 @@
 			)
 		)
 		(property "Notes" ""
+			(at 180.34 57.15 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Original" ""
+			(at 180.34 57.15 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Instructions/Notes" ""
+			(at 180.34 57.15 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER" "FH"
+			(at 180.34 57.15 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER_PART_NUMBER" "0402B223K500NT"
 			(at 180.34 57.15 90)
 			(effects
 				(font
@@ -11254,6 +11830,42 @@
 				(hide yes)
 			)
 		)
+		(property "Original" ""
+			(at 90.17 142.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Instructions/Notes" ""
+			(at 90.17 142.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER" "NXP"
+			(at 90.17 142.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER_PART_NUMBER" "PCA9306DC1"
+			(at 90.17 142.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "8"
 			(uuid "ea2df291-ec42-48c4-9f93-d31e5e11fa6f")
 		)
@@ -11387,6 +11999,42 @@
 				(hide yes)
 			)
 		)
+		(property "Original" ""
+			(at 214.63 77.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Instructions/Notes" ""
+			(at 214.63 77.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER" "XKB Connection"
+			(at 214.63 77.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER_PART_NUMBER" "A71-05H4-111N1"
+			(at 214.63 77.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "SH"
 			(uuid "7dfd27a8-97e7-4453-9c06-1b6c729539d0")
 		)
@@ -11473,7 +12121,7 @@
 				)
 			)
 		)
-		(property "Value" "22nF"
+		(property "Value" "22n"
 			(at 189.23 60.96 90)
 			(effects
 				(font
@@ -11553,6 +12201,42 @@
 				(hide yes)
 			)
 		)
+		(property "Original" ""
+			(at 185.42 59.69 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Instructions/Notes" ""
+			(at 185.42 59.69 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER" "FH"
+			(at 185.42 59.69 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER_PART_NUMBER" "0402B223K500NT"
+			(at 185.42 59.69 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "b80ed9ff-013f-4794-bd42-f686f00690f8")
 		)
@@ -11585,7 +12269,7 @@
 				)
 			)
 		)
-		(property "Value" "22nF"
+		(property "Value" "22n"
 			(at 177.038 73.66 90)
 			(effects
 				(font
@@ -11657,6 +12341,42 @@
 			)
 		)
 		(property "Notes" ""
+			(at 180.34 72.39 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Original" ""
+			(at 180.34 72.39 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Instructions/Notes" ""
+			(at 180.34 72.39 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER" "FH"
+			(at 180.34 72.39 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER_PART_NUMBER" "0402B223K500NT"
 			(at 180.34 72.39 90)
 			(effects
 				(font
