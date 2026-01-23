@@ -728,6 +728,214 @@
 			)
 			(embedded_fonts no)
 		)
+		(symbol "LP5912-1.8DRV:LP5912-1.8DRV"
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "U4"
+				(at 0 10.16 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" "LP5912-1.8DRV"
+				(at 0 7.62 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" "Package_SON:WSON-6-1EP_2x2mm_P0.65mm_EP1x1.6mm_ThermalVias"
+				(at 0 8.89 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "http://www.ti.com/lit/ds/symlink/lp5912.pdf"
+				(at 0 12.7 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "500-mA Ultra-Low-Noise Low-IQ LDO, 1.8V, WSON-6"
+				(at 0.254 -9.144 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_keywords" "Single Output LDO Low-Noise"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_fp_filters" "WSON*1EP*2x2mm*P0.65mm*"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "LP5912-1.8DRV_0_1"
+				(rectangle
+					(start -7.62 5.08)
+					(end 7.62 -5.08)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type background)
+					)
+				)
+				(pin power_in line
+					(at -10.16 2.54 0)
+					(length 2.54)
+					(name "IN"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "6"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at -10.16 -2.54 0)
+					(length 2.54)
+					(name "EN"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "4"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at -2.54 -7.62 90)
+					(length 2.54)
+					(name "NC"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin power_in line
+					(at 0 -7.62 90)
+					(length 2.54)
+					(name "GND"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "5"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin power_out line
+					(at 10.16 2.54 180)
+					(length 2.54)
+					(name "OUT"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(symbol "LP5912-1.8DRV_1_1"
+				(pin passive line
+					(at 2.54 -7.62 90)
+					(length 2.54)
+					(name "EP"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "7"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin open_collector line
+					(at 10.16 -2.54 180)
+					(length 2.54)
+					(name "PG"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "3"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
 		(symbol "LTC3407AEDD-2_PBF:LTC3407AEDD-2_PBF"
 			(pin_names
 				(offset 1.016)
@@ -1136,215 +1344,6 @@
 						(effects
 							(font
 								(size 1.016 1.016)
-							)
-						)
-					)
-				)
-			)
-			(embedded_fonts no)
-		)
-		(symbol "Regulator_Linear:LP5912-1.8DRV"
-			(exclude_from_sim no)
-			(in_bom yes)
-			(on_board yes)
-			(property "Reference" "U"
-				(at -3.81 6.35 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Value" "LP5912-1.8DRV"
-				(at 6.35 6.35 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Footprint" "Package_SON:WSON-6-1EP_2x2mm_P0.65mm_EP1x1.6mm_ThermalVias"
-				(at 0 8.89 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Datasheet" "http://www.ti.com/lit/ds/symlink/lp5912.pdf"
-				(at 0 12.7 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Description" "500-mA Ultra-Low-Noise Low-IQ LDO, 1.8V, WSON-6"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "ki_keywords" "Single Output LDO Low-Noise"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "ki_fp_filters" "WSON*1EP*2x2mm*P0.65mm*"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(symbol "LP5912-1.8DRV_0_1"
-				(rectangle
-					(start -7.62 -5.08)
-					(end 7.62 5.08)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type background)
-					)
-				)
-				(pin power_in line
-					(at -10.16 2.54 0)
-					(length 2.54)
-					(name "IN"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "6"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin input line
-					(at -10.16 -2.54 0)
-					(length 2.54)
-					(name "EN"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "4"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin power_in line
-					(at 0 -7.62 90)
-					(length 2.54)
-					(name "GND"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "5"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin no_connect line
-					(at 7.62 0 180)
-					(length 2.54)
-					(hide yes)
-					(name "NC"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin power_out line
-					(at 10.16 2.54 180)
-					(length 2.54)
-					(name "OUT"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-			)
-			(symbol "LP5912-1.8DRV_1_1"
-				(pin passive line
-					(at 2.54 -7.62 90)
-					(length 2.54)
-					(name "EP"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "7"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin open_collector line
-					(at 10.16 -2.54 180)
-					(length 2.54)
-					(name "PG"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "3"
-						(effects
-							(font
-								(size 1.27 1.27)
 							)
 						)
 					)
@@ -5249,24 +5248,6 @@
 					)
 				)
 				(pin bidirectional line
-					(at -9.144 43.18 270)
-					(length 5.08)
-					(name "PT56B/-"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "C12"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin bidirectional line
 					(at -7.62 -46.99 90)
 					(length 5.08)
 					(name "PB15B/0/DOUT/CSON"
@@ -6388,14 +6369,14 @@
 				(pin bidirectional line
 					(at 38.1 -1.27 180)
 					(length 5.08)
-					(name "PT58B/-"
+					(name "PT62B/-"
 						(effects
 							(font
 								(size 1.27 1.27)
 							)
 						)
 					)
-					(number "E12"
+					(number "E13"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -6406,14 +6387,32 @@
 				(pin bidirectional line
 					(at 38.1 -3.81 180)
 					(length 5.08)
-					(name "PT62B/-"
+					(name "PT56B/-"
 						(effects
 							(font
 								(size 1.27 1.27)
 							)
 						)
 					)
-					(number "E13"
+					(number "C12"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at 38.1 -11.43 180)
+					(length 5.08)
+					(name "PT58B/-"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "E12"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -7417,7 +7416,7 @@
 		(uuid "544689f4-03ca-498a-af65-4a5668dcd05f")
 	)
 	(junction
-		(at 116.84 107.95)
+		(at 106.68 107.95)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "5645eb3e-703a-40c2-9da6-f19a650e66de")
@@ -7427,12 +7426,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "5836d034-5007-4c77-9579-657b82c4407b")
-	)
-	(junction
-		(at 185.42 118.11)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "58f46761-7f59-4fb4-9a3a-c4788b955a95")
 	)
 	(junction
 		(at 69.85 168.91)
@@ -7657,7 +7650,7 @@
 		(uuid "b3e9de67-b8ae-480a-804c-54a77fd253f2")
 	)
 	(junction
-		(at 135.89 118.11)
+		(at 125.73 118.11)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "b5805d56-b9b9-4096-9423-d868a7cda624")
@@ -7807,7 +7800,7 @@
 		(uuid "d74fb99f-aaa8-40fe-967d-dd72bce1cc89")
 	)
 	(junction
-		(at 146.05 118.11)
+		(at 135.89 118.11)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "d7ba7f2a-b3c0-4198-add6-2b3f26ad7eb1")
@@ -7849,7 +7842,7 @@
 		(uuid "e2a95864-20eb-4269-9ef4-f3a1fec51205")
 	)
 	(junction
-		(at 146.05 107.95)
+		(at 135.89 107.95)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "e2cf200d-5981-4716-b9fc-b8f2a982d4cf")
@@ -7861,7 +7854,13 @@
 		(uuid "e8b3bbf3-219e-47a2-91f2-3f3725bf468e")
 	)
 	(junction
-		(at 135.89 107.95)
+		(at 185.42 118.11)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "ebe49069-4b96-4f94-a4ed-a79918a493a7")
+	)
+	(junction
+		(at 125.73 107.95)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "ebf6d036-d467-4447-a29b-622b34dbc1c3")
@@ -7990,7 +7989,7 @@
 	)
 	(wire
 		(pts
-			(xy 146.05 116.84) (xy 146.05 118.11)
+			(xy 135.89 116.84) (xy 135.89 118.11)
 		)
 		(stroke
 			(width 0)
@@ -8130,7 +8129,7 @@
 	)
 	(wire
 		(pts
-			(xy 116.84 116.84) (xy 116.84 118.11)
+			(xy 106.68 116.84) (xy 106.68 118.11)
 		)
 		(stroke
 			(width 0)
@@ -8460,7 +8459,7 @@
 	)
 	(wire
 		(pts
-			(xy 116.84 109.22) (xy 116.84 107.95)
+			(xy 106.68 109.22) (xy 106.68 107.95)
 		)
 		(stroke
 			(width 0)
@@ -8810,7 +8809,7 @@
 	)
 	(wire
 		(pts
-			(xy 135.89 118.11) (xy 146.05 118.11)
+			(xy 125.73 118.11) (xy 135.89 118.11)
 		)
 		(stroke
 			(width 0)
@@ -9530,7 +9529,7 @@
 	)
 	(wire
 		(pts
-			(xy 146.05 109.22) (xy 146.05 107.95)
+			(xy 135.89 109.22) (xy 135.89 107.95)
 		)
 		(stroke
 			(width 0)
@@ -9567,6 +9566,16 @@
 			(type default)
 		)
 		(uuid "887041fa-8885-4872-96ea-e7ba9a6f019c")
+	)
+	(wire
+		(pts
+			(xy 143.51 107.95) (xy 135.89 107.95)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "890e7214-500a-4ee3-9c23-7db09ef66d3b")
 	)
 	(wire
 		(pts
@@ -9720,7 +9729,7 @@
 	)
 	(wire
 		(pts
-			(xy 153.67 106.68) (xy 153.67 107.95)
+			(xy 135.89 106.68) (xy 135.89 107.95)
 		)
 		(stroke
 			(width 0)
@@ -10110,7 +10119,7 @@
 	)
 	(wire
 		(pts
-			(xy 135.89 116.84) (xy 135.89 118.11)
+			(xy 125.73 116.84) (xy 125.73 118.11)
 		)
 		(stroke
 			(width 0)
@@ -10120,7 +10129,7 @@
 	)
 	(wire
 		(pts
-			(xy 135.89 107.95) (xy 129.54 107.95)
+			(xy 125.73 107.95) (xy 119.38 107.95)
 		)
 		(stroke
 			(width 0)
@@ -10137,6 +10146,16 @@
 			(type default)
 		)
 		(uuid "acb4963e-1657-445e-a9ea-61c8fb9b7bdc")
+	)
+	(wire
+		(pts
+			(xy 182.88 118.11) (xy 185.42 118.11)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ae00e846-d4d2-447b-af6b-5454ee641128")
 	)
 	(wire
 		(pts
@@ -10190,7 +10209,7 @@
 	)
 	(wire
 		(pts
-			(xy 116.84 105.41) (xy 116.84 107.95)
+			(xy 106.68 105.41) (xy 106.68 107.95)
 		)
 		(stroke
 			(width 0)
@@ -10640,7 +10659,7 @@
 	)
 	(wire
 		(pts
-			(xy 135.89 109.22) (xy 135.89 107.95)
+			(xy 125.73 109.22) (xy 125.73 107.95)
 		)
 		(stroke
 			(width 0)
@@ -10790,7 +10809,7 @@
 	)
 	(wire
 		(pts
-			(xy 146.05 119.38) (xy 146.05 118.11)
+			(xy 135.89 119.38) (xy 135.89 118.11)
 		)
 		(stroke
 			(width 0)
@@ -10840,7 +10859,7 @@
 	)
 	(wire
 		(pts
-			(xy 116.84 107.95) (xy 121.92 107.95)
+			(xy 106.68 107.95) (xy 111.76 107.95)
 		)
 		(stroke
 			(width 0)
@@ -10850,7 +10869,7 @@
 	)
 	(wire
 		(pts
-			(xy 116.84 118.11) (xy 135.89 118.11)
+			(xy 106.68 118.11) (xy 125.73 118.11)
 		)
 		(stroke
 			(width 0)
@@ -10877,16 +10896,6 @@
 			(type default)
 		)
 		(uuid "eb815a40-197b-43d4-8f48-559f62e6a9cc")
-	)
-	(wire
-		(pts
-			(xy 153.67 107.95) (xy 146.05 107.95)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "ebf3996d-b8c8-41e1-a7ad-d9b1c8b92556")
 	)
 	(wire
 		(pts
@@ -11170,7 +11179,7 @@
 	)
 	(wire
 		(pts
-			(xy 135.89 107.95) (xy 146.05 107.95)
+			(xy 125.73 107.95) (xy 135.89 107.95)
 		)
 		(stroke
 			(width 0)
@@ -11753,16 +11762,6 @@
 		)
 		(uuid "92a30b72-0f45-497a-aa28-a31f654aab87")
 	)
-	(label "FILTERED_1V8"
-		(at 146.05 107.95 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "a47b6981-3e21-4456-8972-ed438e2b7b1c")
-	)
 	(label "SW2"
 		(at 228.6 99.06 0)
 		(effects
@@ -11792,6 +11791,28 @@
 			(justify right bottom)
 		)
 		(uuid "d7c02ebf-a12f-4eeb-a476-4e815f400cd4")
+	)
+	(global_label "FILTERED_1V8"
+		(shape input)
+		(at 143.51 107.95 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "61c13545-8cbb-48f8-bb93-6744c3c83579")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 159.4975 107.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
 	)
 	(symbol
 		(lib_id "Device:R")
@@ -15245,7 +15266,7 @@
 	)
 	(symbol
 		(lib_id "power:PWR_FLAG")
-		(at 153.67 106.68 0)
+		(at 135.89 106.68 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -15254,7 +15275,7 @@
 		(fields_autoplaced yes)
 		(uuid "54ab66a5-c302-4210-8d8a-3b2162cbc3fa")
 		(property "Reference" "#FLG08"
-			(at 153.67 104.775 0)
+			(at 135.89 104.775 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15263,7 +15284,7 @@
 			)
 		)
 		(property "Value" "PWR_FLAG"
-			(at 153.67 101.6 0)
+			(at 135.89 101.6 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15271,7 +15292,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 153.67 106.68 0)
+			(at 135.89 106.68 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15280,7 +15301,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 153.67 106.68 0)
+			(at 135.89 106.68 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15289,7 +15310,7 @@
 			)
 		)
 		(property "Description" "Special symbol for telling ERC where power comes from"
-			(at 153.67 106.68 0)
+			(at 135.89 106.68 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15901,7 +15922,7 @@
 	)
 	(symbol
 		(lib_id "Device:FerriteBead")
-		(at 125.73 107.95 90)
+		(at 115.57 107.95 90)
 		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
@@ -15910,7 +15931,7 @@
 		(dnp no)
 		(uuid "5b13f43e-215c-4e36-8336-ed80ccb410a5")
 		(property "Reference" "FB2"
-			(at 126.746 116.84 90)
+			(at 116.586 116.84 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15918,7 +15939,7 @@
 			)
 		)
 		(property "Value" "1k@100MHz"
-			(at 126.746 114.3 90)
+			(at 116.586 114.3 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15926,7 +15947,7 @@
 			)
 		)
 		(property "Footprint" "Inductor_SMD:L_0603_1608Metric"
-			(at 125.73 106.172 90)
+			(at 115.57 106.172 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15935,7 +15956,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 125.73 107.95 0)
+			(at 115.57 107.95 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15944,7 +15965,7 @@
 			)
 		)
 		(property "Description" "Ferrite bead"
-			(at 125.73 107.95 0)
+			(at 115.57 107.95 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15953,7 +15974,7 @@
 			)
 		)
 		(property "LCSC Part #" "C85824"
-			(at 125.73 107.95 0)
+			(at 115.57 107.95 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15962,7 +15983,7 @@
 			)
 		)
 		(property "LCSC Link" "https://www.lcsc.com/product-detail/C85824.html"
-			(at 125.73 107.95 90)
+			(at 115.57 107.95 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15971,7 +15992,7 @@
 			)
 		)
 		(property "Manufactuer Part Number" "BLM18AG102SN1D"
-			(at 125.73 107.95 90)
+			(at 115.57 107.95 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15980,7 +16001,7 @@
 			)
 		)
 		(property "Note" ""
-			(at 125.73 107.95 90)
+			(at 115.57 107.95 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15989,7 +16010,7 @@
 			)
 		)
 		(property "Notes" ""
-			(at 125.73 107.95 90)
+			(at 115.57 107.95 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19200,7 +19221,7 @@
 	)
 	(symbol
 		(lib_id "Device:C")
-		(at 135.89 113.03 0)
+		(at 125.73 113.03 0)
 		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
@@ -19209,7 +19230,7 @@
 		(dnp no)
 		(uuid "a6b52148-d43a-4d31-aba7-7f91dc1b0421")
 		(property "Reference" "C65"
-			(at 139.192 110.998 0)
+			(at 129.032 110.998 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19218,7 +19239,7 @@
 			)
 		)
 		(property "Value" "1u"
-			(at 139.192 113.538 0)
+			(at 129.032 113.538 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19227,7 +19248,7 @@
 			)
 		)
 		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
-			(at 134.9248 116.84 0)
+			(at 124.7648 116.84 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19236,7 +19257,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 135.89 113.03 0)
+			(at 125.73 113.03 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19245,7 +19266,7 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
-			(at 135.89 113.03 0)
+			(at 125.73 113.03 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19254,7 +19275,7 @@
 			)
 		)
 		(property "LCSC Part #" "C106254"
-			(at 135.89 113.03 0)
+			(at 125.73 113.03 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19263,7 +19284,7 @@
 			)
 		)
 		(property "LCSC Link" "https://www.lcsc.com/product-detail/C106254.html"
-			(at 135.89 113.03 0)
+			(at 125.73 113.03 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19272,7 +19293,7 @@
 			)
 		)
 		(property "Manufactuer Part Number" "CC0402KRX5R6BB105"
-			(at 135.89 113.03 0)
+			(at 125.73 113.03 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19281,7 +19302,7 @@
 			)
 		)
 		(property "Note" ""
-			(at 135.89 113.03 0)
+			(at 125.73 113.03 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19290,7 +19311,7 @@
 			)
 		)
 		(property "Notes" ""
-			(at 135.89 113.03 0)
+			(at 125.73 113.03 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19626,7 +19647,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 146.05 119.38 0)
+		(at 135.89 119.38 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -19635,7 +19656,7 @@
 		(fields_autoplaced yes)
 		(uuid "b1cfb738-4d46-4c6f-b1c9-adca12505a5b")
 		(property "Reference" "#PWR0117"
-			(at 146.05 125.73 0)
+			(at 135.89 125.73 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19644,7 +19665,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 146.05 124.46 0)
+			(at 135.89 124.46 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19652,7 +19673,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 146.05 119.38 0)
+			(at 135.89 119.38 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19661,7 +19682,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 146.05 119.38 0)
+			(at 135.89 119.38 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19670,7 +19691,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 146.05 119.38 0)
+			(at 135.89 119.38 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20462,6 +20483,89 @@
 		)
 	)
 	(symbol
+		(lib_id "LP5912-1.8DRV:LP5912-1.8DRV")
+		(at 185.42 110.49 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "be8683fd-c1ec-4e2a-a623-19e35dc53a58")
+		(property "Reference" "U4"
+			(at 185.42 100.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "LP5912-1.8DRV"
+			(at 185.42 102.87 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Package_SON:WSON-6-1EP_2x2mm_P0.65mm_EP1x1.6mm_ThermalVias"
+			(at 185.42 101.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "http://www.ti.com/lit/ds/symlink/lp5912.pdf"
+			(at 185.42 97.79 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "500-mA Ultra-Low-Noise Low-IQ LDO, 1.8V, WSON-6"
+			(at 185.674 119.634 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "2eb23c46-bf5f-4cb3-9cc9-400bdd87c7b4")
+		)
+		(pin "3"
+			(uuid "d367c7a5-4dd5-4425-b47d-363602356557")
+		)
+		(pin "6"
+			(uuid "faab1629-98d1-4a7a-afc4-e97b1dbaf4b1")
+		)
+		(pin "2"
+			(uuid "89d2164e-4380-491b-8214-3b43cec0c99f")
+		)
+		(pin "4"
+			(uuid "cbd626dd-92d3-48e0-ad5a-a2f2c84b4250")
+		)
+		(pin "5"
+			(uuid "427dd022-7da3-4e15-9abb-4ac67afbbdd1")
+		)
+		(pin "7"
+			(uuid "cae88fe9-1873-4d7e-bc15-6f18ae58cfd1")
+		)
+		(instances
+			(project ""
+				(path "/f88da08e-cf42-4d03-a08f-3f602fe6658d/a9c02a11-f344-487c-ac67-1be6ae5dcf49"
+					(reference "U4")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:C")
 		(at 167.64 113.03 0)
 		(mirror y)
@@ -20472,7 +20576,7 @@
 		(dnp no)
 		(uuid "c4aa8cec-f791-4e29-b967-95ffb118db46")
 		(property "Reference" "C62"
-			(at 160.02 111.506 0)
+			(at 159.766 111.506 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20481,7 +20585,7 @@
 			)
 		)
 		(property "Value" "10uF"
-			(at 160.02 114.046 0)
+			(at 159.766 114.046 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20578,7 +20682,7 @@
 	)
 	(symbol
 		(lib_id "Device:C")
-		(at 116.84 113.03 0)
+		(at 106.68 113.03 0)
 		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
@@ -20587,7 +20691,7 @@
 		(dnp no)
 		(uuid "c6ddf57c-953c-4bd7-9b46-6923faae2ae7")
 		(property "Reference" "C64"
-			(at 108.712 110.998 0)
+			(at 98.552 110.998 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20596,7 +20700,7 @@
 			)
 		)
 		(property "Value" "10uF"
-			(at 108.712 113.538 0)
+			(at 98.552 113.538 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20605,7 +20709,7 @@
 			)
 		)
 		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
-			(at 115.8748 116.84 0)
+			(at 105.7148 116.84 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20614,7 +20718,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 116.84 113.03 0)
+			(at 106.68 113.03 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20623,7 +20727,7 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
-			(at 116.84 113.03 0)
+			(at 106.68 113.03 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20632,7 +20736,7 @@
 			)
 		)
 		(property "LCSC Part #" "C19702"
-			(at 116.84 113.03 0)
+			(at 106.68 113.03 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20641,7 +20745,7 @@
 			)
 		)
 		(property "LCSC Link" "https://lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_Samsung-Electro-Mechanics-CL10A106KP8NNNC_C19702.html"
-			(at 116.84 113.03 0)
+			(at 106.68 113.03 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20650,7 +20754,7 @@
 			)
 		)
 		(property "Manufactuer Part Number" "CL10A106KP8NNNC"
-			(at 116.84 113.03 0)
+			(at 106.68 113.03 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20659,7 +20763,7 @@
 			)
 		)
 		(property "Note" ""
-			(at 116.84 113.03 0)
+			(at 106.68 113.03 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20668,7 +20772,7 @@
 			)
 		)
 		(property "Notes" ""
-			(at 116.84 113.03 0)
+			(at 106.68 113.03 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21462,7 +21566,7 @@
 	)
 	(symbol
 		(lib_id "power:+3V3")
-		(at 116.84 105.41 0)
+		(at 106.68 105.41 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -21471,7 +21575,7 @@
 		(fields_autoplaced yes)
 		(uuid "dea0ca3c-2e26-48dc-aff4-ce39d954562e")
 		(property "Reference" "#PWR0114"
-			(at 116.84 109.22 0)
+			(at 106.68 109.22 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21480,7 +21584,7 @@
 			)
 		)
 		(property "Value" "+1V8"
-			(at 116.84 100.33 0)
+			(at 106.68 100.33 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21488,7 +21592,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 116.84 105.41 0)
+			(at 106.68 105.41 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21497,7 +21601,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 116.84 105.41 0)
+			(at 106.68 105.41 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21506,7 +21610,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+3V3\""
-			(at 116.84 105.41 0)
+			(at 106.68 105.41 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22282,7 +22386,7 @@
 	)
 	(symbol
 		(lib_id "Device:C")
-		(at 146.05 113.03 180)
+		(at 135.89 113.03 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -22290,7 +22394,7 @@
 		(dnp no)
 		(uuid "f7b58f7c-1c15-4826-be7a-0a99527a3bc2")
 		(property "Reference" "C66"
-			(at 151.13 111.506 0)
+			(at 140.97 111.506 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22298,7 +22402,7 @@
 			)
 		)
 		(property "Value" "100n"
-			(at 151.638 113.538 0)
+			(at 141.478 113.538 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22306,7 +22410,7 @@
 			)
 		)
 		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
-			(at 145.0848 109.22 0)
+			(at 134.9248 109.22 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22315,7 +22419,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 146.05 113.03 0)
+			(at 135.89 113.03 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22324,7 +22428,7 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
-			(at 146.05 113.03 0)
+			(at 135.89 113.03 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22333,7 +22437,7 @@
 			)
 		)
 		(property "LCSC Part #" "C307331"
-			(at 146.05 113.03 0)
+			(at 135.89 113.03 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22342,7 +22446,7 @@
 			)
 		)
 		(property "LCSC Link" "https://lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_Samsung-Electro-Mechanics-CL05B104KB54PNC_C307331.html"
-			(at 146.05 113.03 0)
+			(at 135.89 113.03 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22351,7 +22455,7 @@
 			)
 		)
 		(property "Manufactuer Part Number" "CL05B104KB54PNC"
-			(at 146.05 113.03 0)
+			(at 135.89 113.03 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22360,7 +22464,7 @@
 			)
 		)
 		(property "Note" ""
-			(at 146.05 113.03 0)
+			(at 135.89 113.03 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22369,7 +22473,7 @@
 			)
 		)
 		(property "Notes" ""
-			(at 146.05 113.03 0)
+			(at 135.89 113.03 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22387,89 +22491,6 @@
 			(project "icepi-zero"
 				(path "/f88da08e-cf42-4d03-a08f-3f602fe6658d/a9c02a11-f344-487c-ac67-1be6ae5dcf49"
 					(reference "C66")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Regulator_Linear:LP5912-1.8DRV")
-		(at 185.42 110.49 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "fd691622-d63a-4cdd-af0e-57d126f10ca1")
-		(property "Reference" "U4"
-			(at 185.42 100.33 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "LP5912-1.8DRV"
-			(at 185.42 102.87 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "Package_SON:WSON-6-1EP_2x2mm_P0.65mm_EP1x1.6mm_ThermalVias"
-			(at 185.42 101.6 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "http://www.ti.com/lit/ds/symlink/lp5912.pdf"
-			(at 185.42 97.79 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "500-mA Ultra-Low-Noise Low-IQ LDO, 1.8V, WSON-6"
-			(at 185.42 110.49 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "4"
-			(uuid "fbbc06a5-2ad1-43ee-8e44-1012d07caa8a")
-		)
-		(pin "1"
-			(uuid "6c261f94-7dbf-4329-ad97-767a845df40f")
-		)
-		(pin "6"
-			(uuid "875a137b-6532-4ce8-a297-6c6f3b044bd6")
-		)
-		(pin "3"
-			(uuid "1118d6a9-980f-40b8-9834-8a342993258b")
-		)
-		(pin "2"
-			(uuid "19ffbb8d-da63-43f8-8771-9b55b4b33218")
-		)
-		(pin "5"
-			(uuid "252e438a-99b9-4a64-a169-0b8f2a01316d")
-		)
-		(pin "7"
-			(uuid "dce2232b-95bc-4e33-b1c1-4a7d6eb0ace1")
-		)
-		(instances
-			(project ""
-				(path "/f88da08e-cf42-4d03-a08f-3f602fe6658d/a9c02a11-f344-487c-ac67-1be6ae5dcf49"
-					(reference "U4")
 					(unit 1)
 				)
 			)

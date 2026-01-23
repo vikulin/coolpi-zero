@@ -38,8 +38,8 @@
         "other_text_upright": false,
         "pads": {
           "drill": 0.0,
-          "height": 0.8048,
-          "width": 0.3
+          "height": 0.2,
+          "width": 0.2
         },
         "silk_line_width": 0.1,
         "silk_text_italic": false,
@@ -532,7 +532,7 @@
       "gencad": "",
       "idf": "",
       "netlist": "",
-      "plot": "/home/cyao/Downloads/icepi-porn/",
+      "plot": "../../../Downloads/Gerbers/",
       "pos_files": "production/",
       "specctra_dsn": "",
       "step": "",

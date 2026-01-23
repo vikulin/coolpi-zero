@@ -9,4 +9,5 @@
   (lib (name "B3U_1000PM")(type "KiCad")(uri "${KIPRJMOD}/libraries/icepi-lib.petty/B3U_1000PM")(options "")(descr ""))
   (lib (name "LT1993CUD_2_PBF")(type "KiCad")(uri "${KIPRJMOD}/libraries/icepi-lib.petty/LT1993CUD_2_PBF")(options "")(descr ""))
   (lib (name "IN-PI15TAT5R5G5B")(type "KiCad")(uri "${KIPRJMOD}/libraries/icepi-lib.petty/IN-PI15TAT5R5G5B")(options "")(descr ""))
+  (lib (name "TCR5FM50A")(type "KiCad")(uri "${KIPRJMOD}/libraries/icepi-lib.petty/TCR5FM50A")(options "")(descr ""))
 )
