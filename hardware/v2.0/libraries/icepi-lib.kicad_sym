@@ -5541,14 +5541,14 @@
 			(pin bidirectional line
 				(at 38.1 -3.81 180)
 				(length 5.08)
-				(name "PT56B/-"
+				(name "PT58B/-"
 					(effects
 						(font
 							(size 1.27 1.27)
 						)
 					)
 				)
-				(number "C12"
+				(number "E12"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -5559,14 +5559,14 @@
 			(pin bidirectional line
 				(at 38.1 -11.43 180)
 				(length 5.08)
-				(name "PT58B/-"
+				(name "PT56B/-"
 					(effects
 						(font
 							(size 1.27 1.27)
 						)
 					)
 				)
-				(number "E12"
+				(number "C12"
 					(effects
 						(font
 							(size 1.27 1.27)
