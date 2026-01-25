@@ -1,33 +1,60 @@
-﻿Designator,Footprint,Quantity,Value,LCSC Part #
-"C1, C11, C12, C13, C14, C15, C16, C19, C21, C22, C25, C27, C28, C3, C38, C46, C48, C50, C51, C52, C7",0402,21,100nF,https://www.lcsc.com/product-detail/C307331.html
-"C10, C2, C20, C24, C26, C42, C45, C47, C49, C8, C9",0603,11,10uF,https://www.lcsc.com/product-detail/C19702.html
-"C17, C18, C23, C37, C4, C5, C6",0603,7,22uF,https://www.lcsc.com/product-detail/C59461.html
-"C29, C30, C31, C32, C33, C34, C35, C36",0402,8,22nF,https://www.lcsc.com/product-detail/C1532.html
-"C39, C40, C41, C43, C44, C53, C54",0603,7,22nF,https://www.lcsc.com/product-detail/C77571.html
-"D1, D2, D3, D4, D5",0603,5,WHITE,https://www.lcsc.com/product-detail/C2290.html
-"D10, D11, D12, D13, D14, D6, D7, D9",D_SOD-523,8,1N914WT,https://www.lcsc.com/product-detail/C2836064.html
-D8,0603,1,RED,https://www.lcsc.com/product-detail/C2286.html
-FB1,0805,1,100R@100MHz,https://www.lcsc.com/product-detail/C74480.html
-J2,XKB Connection A71-05H4-111N1,1,GPDI_C_1.3,https://www.lcsc.com/product-detail/C2682170.html
-"J3, J4, J5",USB_C_Receptacle_GCT_USB4105-xx-A_16P_TopMnt_Horizontal,3,USB_C_Receptacle_USB2.0_14P,https://www.lcsc.com/product-detail/C2765186.html
-J6,microSD_HC_SOFNG_TF-008,1,Micro_SD_Card_Det2,https://www.lcsc.com/product-detail/C428465.html
-"L1, L2, L3",0805,3,2.2uH 100mA+ 400mO-,https://www.lcsc.com/product-detail/C107322.html
-"R1, R12, R14, R2, R3, R4, R5",0402,7,470,https://www.lcsc.com/product-detail/C25117.html
-"R10, R27, R34, R39, R42, R48, R49, R50, R8",0402,9,15k,https://www.lcsc.com/product-detail/C25756.html
-"R11, R18, R19",0402,3,3.3k,https://www.lcsc.com/product-detail/C25890.html
-"R13, R44, R45, R46, R47, R6",0402,6,10k,https://www.lcsc.com/product-detail/C25744.html
-R15,0402,1,100k,https://www.lcsc.com/product-detail/C25741.html
-"R16, R17, R20, R21, R22, R23, R43, R9",0402,8,4.7k,https://www.lcsc.com/product-detail/C25900.html
-"R24, R25, R29, R31, R36, R37",0402,6,5.1k,https://www.lcsc.com/product-detail/C25905.html
-"R26, R28, R32, R35, R41",0402,5,1k,https://www.lcsc.com/product-detail/C11702.html
-"R30, R33, R38, R40",0201,4,27,https://www.lcsc.com/product-detail/C473051.html
-R7,0402,1,12k,https://www.lcsc.com/product-detail/C25752.html
-"SW1, SW2",switch_button_TS-1088-AR02016,2,SW_Push,https://www.lcsc.com/product-detail/C720477.html
-U1,BGA-256_14.0x14.0mm_Layout16x16_P0.8mm_Ball0.45mm_Pad0.32mm_NSMD,1,ECP5-CABGA256,https://www.lcsc.com/product-detail/C1521614.html
-U10,TSOP-II-54_22.2x10.16mm_P0.8mm,1,W9825G6KH,https://www.lcsc.com/product-detail/C62246.html
-U11,SOIC-8_5.3x5.3mm_P1.27mm,1,W25Q128JVS,https://www.lcsc.com/product-detail/C97521.html
-"U12, U7, U8, U9",Texas_DRT-3,4,TPD2EUSB30A,https://www.lcsc.com/product-detail/C3011197.html
-"U2, U3, U4",SOT-23-5,3,TLV62569DBV,https://www.lcsc.com/product-detail/C141836.html
-U5,VSSOP-8_2.3x2mm_P0.5mm,1,PCA9306DC1,https://www.lcsc.com/product-detail/C129510.html
-U6,QFN-20-1EP_4x4mm_P0.5mm_EP2.5x2.5mm,1,FT231XQ,https://www.lcsc.com/product-detail/C132159.html
-Y1,Oscillator_SMD_SiT_PQFN-4Pin_2.5x2.0mm,1,SG-8018CG 50.000000MHz,https://www.lcsc.com/product-detail/C390526.html
+"Item #","*Designator","Qty","Manufacturer","*Mfg Part #","Description","Value","*Package/Footprint","Instructions/Notes"
+"1","C1,C5,C6,C7,C8,C9,C10,C14,C16,C17,C20,C24,C25,C26,C27,C28,C29,C31,C32,C35,C44,C55,C59,C60,C61,C68,C69,C70,C71,C72,C73,C75,C76,C77,C78","35","Samsung Electro-Mechanics","CL05B104KB54PNC","Unpolarized capacitor,Unpolarized capacitor, small symbol","100n","Capacitor_SMD:C_0402_1005Metric",""
+"2","C2,C3,C4,C15,C21,C22,C23,C30,C34,C53,C54,C62,C63,C64","14","Samsung Electro-Mechanics","CL10A106KP8NNNC","Unpolarized capacitor,Unpolarized capacitor, small symbol","10u","Capacitor_SMD:C_0603_1608Metric",""
+"3","C11,C13,C19,C33,C45","5","Samsung Electro-Mechanics","CL10A226MQ8NRNC","Unpolarized capacitor,Unpolarized capacitor, small symbol","22u","Capacitor_SMD:C_0603_1608Metric",""
+"4","C12","1","Samsung Electro-Mechanics","CL05B562KB5NNNC","Unpolarized capacitor","5n6","Capacitor_SMD:C_0402_1005Metric",""
+"5","C18","1","Samsung Electro-Mechanics","CL05B272KB5NNNC","Unpolarized capacitor","2n7","Capacitor_SMD:C_0402_1005Metric",""
+"6","C36,C37,C38,C39,C40,C41,C42,C43","8","FH","0402B223K500NT","Unpolarized capacitor, small symbol","22n","Capacitor_SMD:C_0402_1005Metric",""
+"7","C46,C47,C48,C49,C50,C51,C52","7","FH","0603B223K500NT","Unpolarized capacitor, small symbol","22n","Capacitor_SMD:C_0603_1608Metric",""
+"8","C56,C57","2","Samsung Electro-Mechanics","CL05C220JB5NNNC","Unpolarized capacitor","22p","Capacitor_SMD:C_0402_1005Metric",""
+"9","C58","1","Samsung Electro-Mechanics","CL05C6R8CB5NNNC","Unpolarized capacitor","6.8p","Capacitor_SMD:C_0402_1005Metric",""
+"10","C65,C67,C74","3","YAGEO","CC0402KRX5R6BB105","Unpolarized capacitor","1u","Capacitor_SMD:C_0402_1005Metric",""
+"11","C66","1","Samsung Electro-Mechanics","CL10A225KP8NNNC","Unpolarized capacitor, small symbol","2u2","Capacitor_SMD:C_0603_1608Metric",""
+"12","C79,C80,C81","3","Samsung Electro-Mechanics","CL05B102KB5NNNC","Unpolarized capacitor","1n","Capacitor_SMD:C_0402_1005Metric",""
+"13","D1","1","R+O","BZT52C3V6S","Zener diode, small symbol","3V6","Diode_SMD:D_SOD-323_HandSoldering",""
+"14","D6,D7,D8,D9,D10,D11,D12,D13","8","CBI","1N914WT","75V 0.15A Fast switching Diode, SOD-523","1N914WT","Diode_SMD:D_SOD-523",""
+"15","D14","1","Hubei KENTO Elec","KT-0603R","Light emitting diode","RED","LED_SMD:LED_0603_1608Metric",""
+"16","FB1","1","FH","CBG201209U101T","Ferrite bead","100R@100MHz","Inductor_SMD:L_0805_2012Metric",""
+"17","FB2","1","muRata","BLM18AG102SN1D","Ferrite bead","1k@100MHz","Inductor_SMD:L_0603_1608Metric",""
+"18","IC1","1","ISSI","IS42S16160J-6BLI","DRAM 256M, 3.3V, SDRAM, 16Mx16, 166Mhz, 54 ball BGA (8mmx8mm) RoHS, IT","IS42S16160J-6BLI","BGA54C80P9X9_800X800X120",""
+"19","IC2","1","ADI","LTC2256CUJ-12#PBF","12-Bit, 25Msps Ultralow Power 1.8V ADCs  40-Lead (6mm  6mm) Plastic QFN 0C to 70C","LTC2256CUJ-12#PBF","QFN50P600X600X80-41N-D",""
+"20","J2","1","XKB Connection","A71-05H4-111N1","GPDI type C connector","GPDI_C_1.3","icepi-lib:XKB Connection A71-05H4-111N1",""
+"21","J3,J4,J5","3","SHOU HAN","TYPE-C 16PIN 2MD(073)","USB 2.0-only 14P Type-C Receptacle connector","USB_C_Receptacle_USB2.0_14P","Connector_USB:USB_C_Receptacle_GCT_USB4105-xx-A_16P_TopMnt_Horizontal",""
+"22","J6","1","SOFNG","TF-008","Micro SD Card Socket with two card detection pins","Micro_SD_Card_Det2","icepi-lib:microSD_HC_SOFNG_TF-008",""
+"23","L1,L2,L3","3","TDK","MLP2012S2R2MT0S1","Inductor","2.2uH","Inductor_SMD:L_0805_2012Metric",""
+"24","LED1,LED2,LED3,LED4,LED5","5","Inolux","IN-PI15TAT5R5G5B","TOP MOUNT / 1515 / 1.5 X 1.5 X 0","IN-PI15TAT5R5G5B","INPI15TAT5R5G5B",""
+"25","R1","1","UNI-ROYAL","0402WGF5490TCE","Resistor","549R","Resistor_SMD:R_0402_1005Metric",""
+"26","R2","1","UNI-ROYAL","0402WGF1402TCE","Resistor","14k","Resistor_SMD:R_0402_1005Metric",""
+"27","R3,R4","2","Samsung Electro-Mechanics","RC1005F100CS","Resistor","10R","Resistor_SMD:R_0402_1005Metric",""
+"28","R5,R20,R21,R32,R33,R42","6","UNI-ROYAL","0402WGF1001TCE","Resistor","1k","Resistor_SMD:R_0402_1005Metric",""
+"29","R6","1","UNI-ROYAL","0402WGF2553TCE","Resistor","255k","Resistor_SMD:R_0402_1005Metric",""
+"30","R7","1","UNI-ROYAL","0402WGF3013TCE","Resistor","301k","Resistor_SMD:R_0402_1005Metric",""
+"31","R8","1","UNI-ROYAL","0402WGF8873TCE","Resistor","887k","Resistor_SMD:R_0402_1005Metric",""
+"32","R9","1","UNI-ROYAL","0402WGF2803TCE","Resistor","280k","Resistor_SMD:R_0402_1005Metric",""
+"33","R10","1","UNI-ROYAL","0402WGF4533TCE","Resistor","453k","Resistor_SMD:R_0402_1005Metric",""
+"34","R11,R15,R55","3","UNI-ROYAL","0402WGF1003TCE","Resistor","100k","Resistor_SMD:R_0402_1005Metric",""
+"35","R12,R14","2","UNI-ROYAL","0402WGF4700TCE","Resistor","470R","Resistor_SMD:R_0402_1005Metric",""
+"36","R13,R44,R45,R46,R47,R52","6","UNI-ROYAL","0402WGF1002TCE","Resistor","10k","Resistor_SMD:R_0402_1005Metric",""
+"37","R16,R17,R38,R39,R40,R41,R43","7","UNI-ROYAL","0402WGF4701TCE","Resistor","4.7k","Resistor_SMD:R_0402_1005Metric",""
+"38","R18,R19","2","UNI-ROYAL","0402WGF3301TCE","Resistor","3.3k","Resistor_SMD:R_0402_1005Metric",""
+"39","R22,R23,R34,R35,R48,R49,R50","7","UNI-ROYAL","0402WGF1502TCE","Resistor","15k","Resistor_SMD:R_0402_1005Metric",""
+"40","R24,R25,R26,R29,R36,R37","6","UNI-ROYAL","0402WGF5101TCE","Resistor","5.1k","Resistor_SMD:R_0402_1005Metric",""
+"41","R27,R28,R30,R31","4","UNI-ROYAL","0201WMF270JTEE","Resistor","27R","Resistor_SMD:R_0201_0603Metric",""
+"42","R51","1","UNI-ROYAL","0402WGF1000TCE","Resistor","100R","Resistor_SMD:R_0402_1005Metric",""
+"43","R53,R54","2","UNI-ROYAL","0402WGF4704TCE","Resistor","4M7","Resistor_SMD:R_0402_1005Metric",""
+"44","R56","1","UNI-ROYAL","0402WGF2001TCE","Resistor","2k","Resistor_SMD:R_0402_1005Metric",""
+"45","R57","1","Samsung Electro-Mechanics","RCS1005F80R6CS","Resistor","80R6","Resistor_SMD:R_0402_1005Metric",""
+"46","SW1,SW2","2","XUNPU","TS-1088-AR02016","Push button switch, generic, two pins","SW_Push","icepi-lib:switch_button_TS-1088-AR02016",""
+"47","U1","1","Lattice","LFE5U-25F-6BG256C","ECP5 FPGA, 24K LUTs, 1.2V, BGA-256","ECP5U-25F-CABGA256","Package_BGA:BGA-256_14.0x14.0mm_Layout16x16_P0.8mm_Ball0.45mm_Pad0.32mm_NSMD",""
+"48","U3","1","TI","TLV62569DBVR","High Efficiency Synchronous Buck Converter, Adjustable Output 0.6V-5.5V, 2A, SOT-23-5","TLV62569DBV","Package_TO_SOT_SMD:SOT-23-5",""
+"49","U5","1","Toshiba","","Ultra high Ripple rejection ratio, 500 mA CMOS Low Dropout Regulator in ultra small package","TCR5FM18A","TCR5FM50A:TCR5FM50A",""
+"50","U6","1","NXP","PCA9306DC1","Dual bidirectional I2C Bus and SMBus voltage level translator, VSSOP-8","PCA9306DC1","Package_SO:VSSOP-8_2.3x2mm_P0.5mm",""
+"51","U7,U8,U10","3","TECH PUBLIC","TPD2EUSB30ADRTR","2-Channel ESD Protection for Super-Speed USB 3.0 Interface, DRT-3","TPD2EUSB30A","Package_TO_SOT_SMD:Texas_DRT-3",""
+"52","U9","1","FTDI","FT231XQ-R","Full Speed USB to Full Handshake UART, QFN-20","FT231XQ","Package_DFN_QFN:QFN-20-1EP_4x4mm_P0.5mm_EP2.5x2.5mm",""
+"53","U11","1","ADI","lt1993cud2","1mV 1100V/us three routes 70dB QFN-16-EP(3x3) Amplifiers RoHS","LT1993CUD-2_PBF","LT1993CUD_2_PBF:QFN-16_UD",""
+"54","U12","1","Winbond","W25Q128JVSIQ","128Mbit / 16MiB Serial Flash Memory, Standard/Dual/Quad SPI, 2.7-3.6V, SOIC-8","W25Q128JVS","Package_SO:SOIC-8_5.3x5.3mm_P1.27mm",""
+"55","U13","1","Toshiba","","Ultra high Ripple rejection ratio, 500 mA CMOS Low Dropout Regulator in ultra small package","TCR5FM50A","TCR5FM50A:TCR5FM50A",""
+"56","Y1","1","EPSON","SG-8018CG 50.000000MHz TJHSA","SiTime Low Power Mems programmable oscillator, 1MHz to 110MHz, PQFN-4, 2.5x2.0mm (with output enable pin)","SG-8018CG 50.000000MHz","Oscillator:Oscillator_SMD_SiT_PQFN-4Pin_2.5x2.0mm",""
+"57","Y2","1","EPSON","SG-8018CG 25.0000M-TJHPA3","SiTime Low Power Mems programmable oscillator, 1MHz to 110MHz, PQFN-4, 2.5x2.0mm (with output enable pin)","SG-8018CG 25.000000MHz","Oscillator:Oscillator_SMD_SiT_PQFN-4Pin_2.5x2.0mm",""
+"58","J7","1","Samtec","RSP-122811-01","6GHz 1 -40℃~+90℃ Coaxial Connector (RF) Assemblies RoHS","RSP-122811-01","RSP-122811-01:SAMTEC_RSP-122811-01",""
+"59","U2","1","ADI","ltc3407aedd2","","LTC3407AEDD-2_PBF","LTC3407AEDD-2_PBF:DFN-10_DD",""

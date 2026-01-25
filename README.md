@@ -56,9 +56,9 @@ Over the course of multiple weeks, multiple emulation cores have been ported ove
 
 ## Learning
 
-It is also supported by Gammastudio (custom fork: https://github.com/cheyao/Gammastudio), allowing easy access for beginners.
+It is also supported by Icestudio (custom fork: https://github.com/cheyao/Icestudio), allowing easy access for beginners.
 
-![](gallery/Gammastudio-editor-ui.png)
+![](gallery/Icestudio-editor-ui.png)
 
 ## Usage
 
