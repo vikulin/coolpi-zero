@@ -4,7 +4,7 @@
 
 ## What is the GammaPi Zero?
 
-The GammaPi Zero is an FPGA development board in the popular Raspberry Pi Zero form factor inharanting Icepi Zero board. It carries a Lattice ECP5 25F, enabling powerful designs while keeping a small portable size. It also has a GPDI mini (General Purpose Display Interface, same as the one on the Pi Zero) port allowing easy digital video output.
+The GammaPi Zero is an FPGA development board in the popular Raspberry Pi Zero form factor inheriting Icepi Zero board. It carries a Lattice ECP5 25F, enabling powerful designs while keeping a small portable size. It also has a GPDI mini (General Purpose Display Interface, same as the one on the Pi Zero) port allowing easy digital video output.
 
 ![](https://hc-cdn.hel1.your-objectstorage.com/s/v3/ec8ed16af61150195ea388c32047b6e1b9825b63_image.png)
 
@@ -51,7 +51,7 @@ Over the course of multiple weeks, multiple emulation cores have been ported ove
 ![](gallery/apple-one-on-icepi.jpg)
 <sub>Apple I running on the GammaPi</sub>
 
-![](gallery/acron-on-icepi.jpg)
+![](gallery/acron-on-icepi-toodusty.jpg)
 <sub>Acorn Atom running on the GammaPi</sub>
 
 ## Learning
