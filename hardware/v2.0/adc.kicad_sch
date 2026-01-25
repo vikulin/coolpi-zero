@@ -7933,7 +7933,7 @@
 		)
 		(uuid "2db240e5-4463-4b33-8027-461f8111bdea")
 	)
-	(text "50MHz ADC Clock"
+	(text "25MHz ADC Clock"
 		(exclude_from_sim no)
 		(at 119.126 122.428 0)
 		(effects
@@ -7943,7 +7943,7 @@
 		)
 		(uuid "6d7c3b2b-544e-4aa2-9646-125b3f9d1064")
 	)
-	(text "Replacable with any 50MHz MEMS 3.3V oscillator"
+	(text "Replacable with any 25MHz MEMS 3.3V oscillator"
 		(exclude_from_sim no)
 		(at 121.412 126.238 0)
 		(effects
