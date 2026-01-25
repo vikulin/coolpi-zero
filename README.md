@@ -20,14 +20,14 @@ The GammaPi Zero aims to fix this. Carrying a powerful ECP5 FPGA on a small Rasp
 
 GammaPi Zero is for everyone: Students can use it to learn about the internals of modern processors. Gamers can use it to emulate old hardware. Programmers can use it to test their code on multiple architectures.
 
-![](gallery/oberon-on-ice.jpg)
+![](gallery/oberon-on-icepi.jpg)
 <sub>Oberon running on GammaPi Zero</sub>
 
 GammaPi Zero also has an on-board USB to JTAG converter, so no external programmers are needed.
 
 Moreover GammaPi Zero is fully open-source, no strings attached. Learn from the design! ([OSHWA cerified FR000026](https://certification.oshwa.org/fr000026.html)).
 
-![](gallery/ice-front-transparent.png)
+![](gallery/icepi-front-transparent.png)
 
 ## Features
     * Lattice ECP5U-25F-CABGA256 FPGA
@@ -48,10 +48,10 @@ This powerful configuration allows the PCB to be used in numerous ways, includin
 
 Over the course of multiple weeks, multiple emulation cores have been ported over, such as the [Oberon](https://github.com/cheyao/oberon), [Apple I](https://github.com/cheyao/apple-one) and the [Acorn Atom](https://github.com/cheyao/acorn_atom)! The GammaPi Zero allows you to take cycle accurate replicas of your favourite systems in your pocket.
 
-![](gallery/apple-one-on-ice.jpg)
+![](gallery/apple-one-on-icepi.jpg)
 <sub>Apple I running on the GammaPi</sub>
 
-![](gallery/acorn-on-ice.jpg)
+![](gallery/acron-on-icepi.jpg)
 <sub>Acorn Atom running on the GammaPi</sub>
 
 ## Learning
