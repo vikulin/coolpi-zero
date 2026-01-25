@@ -8,12 +8,11 @@
 	)
 	(paper "A4")
 	(title_block
-		(title "Icepi Zero")
-		(date "2025-10-10")
-		(rev "v1.3")
-		(company "Chengyin Yao (cheyao)")
-		(comment 1 "https://github.com/cheyao/icepi-zero")
-		(comment 9 "OSHWA FR000026")
+		(title "GammaPi Zero")
+		(date "2026-01-25")
+		(rev "v2.3.2")
+		(company "Vadym Vikulin, Chengyin Yao (cheyao)")
+		(comment 1 "https://github.com/vikulin/gammapi-zero")
 	)
 	(layers
 		(0 "F.Cu" signal)
