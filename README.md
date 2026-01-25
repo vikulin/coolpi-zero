@@ -51,7 +51,7 @@ Over the course of multiple weeks, multiple emulation cores have been ported ove
 ![](gallery/apple-one-on-icepi.jpg)
 <sub>Apple I running on the GammaPi</sub>
 
-![](gallery/acron-on-icepi.jpg)
+![](gallery/acron-on-icepi-toodusty.jpg)
 <sub>Acorn Atom running on the GammaPi</sub>
 
 ## Learning
