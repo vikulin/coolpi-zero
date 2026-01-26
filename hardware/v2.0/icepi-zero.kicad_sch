@@ -5412,24 +5412,6 @@
 					)
 				)
 				(pin bidirectional line
-					(at -20.32 -1.27 0)
-					(length 5.08)
-					(name "PT56B/-"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "C12"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin bidirectional line
 					(at -20.32 -7.62 0)
 					(length 5.08)
 					(name "PT27A/+/PCLKT0_1"
@@ -7128,6 +7110,110 @@
 					)
 				)
 			)
+			(symbol "LFE5U-25F-6BG256x_12_1"
+				(rectangle
+					(start -14.478 23.876)
+					(end 15.24 -0.254)
+					(stroke
+						(width 0)
+						(type solid)
+					)
+					(fill
+						(type background)
+					)
+				)
+				(rectangle
+					(start 24.892 -18.034)
+					(end 24.892 -18.034)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(text "DAC Interface"
+					(at 0 20.066 0)
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at 20.32 17.78 180)
+					(length 5.08)
+					(name "PT56B/-"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "C12"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at 20.32 15.24 180)
+					(length 5.08)
+					(name "PT62A/+"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "D13"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at 20.32 12.7 180)
+					(length 5.08)
+					(name "PT62B/-"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "E13"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at 20.32 10.16 180)
+					(length 5.08)
+					(name "PT58B/-"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "E12"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
 			(embedded_fonts no)
 		)
 		(symbol "oshw:OSHW_Certification_Mark_Stacked_Medium"
@@ -8364,17 +8450,7 @@
 	)
 	(wire
 		(pts
-			(xy 71.12 123.19) (xy 83.82 123.19)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "310d6476-bb62-405f-9cee-a4ddaf993e97")
-	)
-	(wire
-		(pts
-			(xy 171.45 176.53) (xy 171.45 175.26)
+			(xy 167.64 176.53) (xy 167.64 175.26)
 		)
 		(stroke
 			(width 0)
@@ -8514,7 +8590,7 @@
 	)
 	(wire
 		(pts
-			(xy 160.02 176.53) (xy 160.02 182.88)
+			(xy 156.21 176.53) (xy 156.21 182.88)
 		)
 		(stroke
 			(width 0)
@@ -8844,7 +8920,7 @@
 	)
 	(wire
 		(pts
-			(xy 148.59 176.53) (xy 148.59 182.88)
+			(xy 144.78 176.53) (xy 144.78 182.88)
 		)
 		(stroke
 			(width 0)
@@ -9647,16 +9723,6 @@
 		)
 		(uuid "11668d20-7ce3-4a6d-81d7-fca8b7806f2c")
 	)
-	(label "~{CS}(SPI)"
-		(at 71.12 123.19 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "13161c62-316c-49ed-be56-cb19bf462450")
-	)
 	(label "GPIO7"
 		(at 280.67 125.73 180)
 		(effects
@@ -9778,7 +9844,7 @@
 		(uuid "5e9dfbb7-5168-4f4e-a637-2d035b97c4e2")
 	)
 	(label "DBG2"
-		(at 148.59 182.88 90)
+		(at 144.78 182.88 90)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -10108,7 +10174,7 @@
 		(uuid "d369ebb5-676f-4fe0-a0eb-a151d9d851bf")
 	)
 	(label "DBG1"
-		(at 160.02 182.88 90)
+		(at 156.21 182.88 90)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -10895,7 +10961,7 @@
 	)
 	(symbol
 		(lib_id "Connector:TestPoint")
-		(at 160.02 176.53 0)
+		(at 156.21 176.53 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom no)
@@ -10903,7 +10969,7 @@
 		(dnp no)
 		(uuid "2e63cb3d-30df-49be-aed5-2be31a0e4f5c")
 		(property "Reference" "TP8"
-			(at 163.068 170.942 0)
+			(at 159.258 170.942 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10912,7 +10978,7 @@
 			)
 		)
 		(property "Value" "TestPoint"
-			(at 163.068 168.402 0)
+			(at 159.258 168.402 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10921,7 +10987,7 @@
 			)
 		)
 		(property "Footprint" "icepi-lib:TestPoint_Pad_D1.0mm_Blank"
-			(at 165.1 176.53 0)
+			(at 161.29 176.53 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10930,7 +10996,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 165.1 176.53 0)
+			(at 161.29 176.53 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10939,7 +11005,7 @@
 			)
 		)
 		(property "Description" "test point"
-			(at 160.02 176.53 0)
+			(at 156.21 176.53 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10948,7 +11014,7 @@
 			)
 		)
 		(property "LCSC Link" ""
-			(at 160.02 176.53 0)
+			(at 156.21 176.53 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10957,7 +11023,7 @@
 			)
 		)
 		(property "Manufactuer Part Number" ""
-			(at 160.02 176.53 0)
+			(at 156.21 176.53 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10966,7 +11032,7 @@
 			)
 		)
 		(property "Note" ""
-			(at 160.02 176.53 0)
+			(at 156.21 176.53 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10975,7 +11041,7 @@
 			)
 		)
 		(property "Notes" ""
-			(at 160.02 176.53 0)
+			(at 156.21 176.53 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10984,7 +11050,7 @@
 			)
 		)
 		(property "Original" ""
-			(at 160.02 176.53 0)
+			(at 156.21 176.53 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10993,7 +11059,7 @@
 			)
 		)
 		(property "Instructions/Notes" ""
-			(at 160.02 176.53 0)
+			(at 156.21 176.53 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11723,7 +11789,7 @@
 	)
 	(symbol
 		(lib_id "Connector:TestPoint")
-		(at 148.59 176.53 0)
+		(at 144.78 176.53 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom no)
@@ -11731,7 +11797,7 @@
 		(dnp no)
 		(uuid "3c79c7d3-4435-4f27-9003-8e5a87545165")
 		(property "Reference" "TP7"
-			(at 151.638 170.942 0)
+			(at 147.828 170.942 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11740,7 +11806,7 @@
 			)
 		)
 		(property "Value" "TestPoint"
-			(at 151.638 168.402 0)
+			(at 147.828 168.402 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11749,7 +11815,7 @@
 			)
 		)
 		(property "Footprint" "icepi-lib:TestPoint_Pad_D1.0mm_Blank"
-			(at 153.67 176.53 0)
+			(at 149.86 176.53 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11758,7 +11824,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 153.67 176.53 0)
+			(at 149.86 176.53 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11767,7 +11833,7 @@
 			)
 		)
 		(property "Description" "test point"
-			(at 148.59 176.53 0)
+			(at 144.78 176.53 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11776,7 +11842,7 @@
 			)
 		)
 		(property "LCSC Link" ""
-			(at 148.59 176.53 0)
+			(at 144.78 176.53 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11785,7 +11851,7 @@
 			)
 		)
 		(property "Manufactuer Part Number" ""
-			(at 148.59 176.53 0)
+			(at 144.78 176.53 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11794,7 +11860,7 @@
 			)
 		)
 		(property "Note" ""
-			(at 148.59 176.53 0)
+			(at 144.78 176.53 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11803,7 +11869,7 @@
 			)
 		)
 		(property "Notes" ""
-			(at 148.59 176.53 0)
+			(at 144.78 176.53 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11812,7 +11878,7 @@
 			)
 		)
 		(property "Original" ""
-			(at 148.59 176.53 0)
+			(at 144.78 176.53 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11821,7 +11887,7 @@
 			)
 		)
 		(property "Instructions/Notes" ""
-			(at 148.59 176.53 0)
+			(at 144.78 176.53 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12563,7 +12629,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 171.45 176.53 0)
+		(at 167.64 176.53 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -12572,7 +12638,7 @@
 		(fields_autoplaced yes)
 		(uuid "5de7e83c-6910-49b0-b41c-8300764995b2")
 		(property "Reference" "#PWR021"
-			(at 171.45 182.88 0)
+			(at 167.64 182.88 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12581,7 +12647,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 171.45 181.61 0)
+			(at 167.64 181.61 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12589,7 +12655,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 171.45 176.53 0)
+			(at 167.64 176.53 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12598,7 +12664,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 171.45 176.53 0)
+			(at 167.64 176.53 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12607,7 +12673,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 171.45 176.53 0)
+			(at 167.64 176.53 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13671,6 +13737,15 @@
 		(pin "C11"
 			(uuid "35452ca5-1ab2-4e02-a042-0ad446c8a8bf")
 		)
+		(pin "D13"
+			(uuid "2b6e30fc-2ee8-4325-8fce-213de5564157")
+		)
+		(pin "E13"
+			(uuid "c2e402fa-3f4b-427c-8caf-3a2f7c542bbc")
+		)
+		(pin "E12"
+			(uuid "b35aa98b-bc95-44be-b7b0-a5729e3b413e")
+		)
 		(instances
 			(project ""
 				(path "/f88da08e-cf42-4d03-a08f-3f602fe6658d"
@@ -14137,7 +14212,7 @@
 	)
 	(symbol
 		(lib_id "power:PWR_FLAG")
-		(at 171.45 175.26 0)
+		(at 167.64 175.26 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -14146,7 +14221,7 @@
 		(fields_autoplaced yes)
 		(uuid "7c253c54-155f-4abd-b91a-02bb5b7d5ca4")
 		(property "Reference" "#FLG01"
-			(at 171.45 173.355 0)
+			(at 167.64 173.355 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14155,7 +14230,7 @@
 			)
 		)
 		(property "Value" "PWR_FLAG"
-			(at 171.45 170.18 0)
+			(at 167.64 170.18 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14163,7 +14238,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 171.45 175.26 0)
+			(at 167.64 175.26 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14172,7 +14247,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 171.45 175.26 0)
+			(at 167.64 175.26 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14181,7 +14256,7 @@
 			)
 		)
 		(property "Description" "Special symbol for telling ERC where power comes from"
-			(at 171.45 175.26 0)
+			(at 167.64 175.26 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16191,6 +16266,15 @@
 		)
 		(pin "C11"
 			(uuid "42e91f86-0890-47ce-8e62-b94664a30081")
+		)
+		(pin "E13"
+			(uuid "829441e7-5b2d-421c-87ba-3c08b111de50")
+		)
+		(pin "E12"
+			(uuid "3a7a803a-373e-41e4-93f7-e2465e7eeb24")
+		)
+		(pin "D13"
+			(uuid "669df730-f46c-40f9-b0ec-64cf80a90da2")
 		)
 		(instances
 			(project "icepi-zero"
@@ -18517,7 +18601,7 @@
 		)
 	)
 	(sheet
-		(at 206.502 54.61)
+		(at 178.562 55.88)
 		(size 17.78 10.16)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -18533,7 +18617,7 @@
 		)
 		(uuid "17c9c9b3-f379-4e1f-a876-d3fcf0529a4d")
 		(property "Sheetname" "Unused IO"
-			(at 206.502 53.8984 0)
+			(at 178.562 55.1684 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18542,91 +18626,7 @@
 			)
 		)
 		(property "Sheetfile" "io.kicad_sch"
-			(at 206.502 65.3546 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-			)
-		)
-		(instances
-			(project "icepi-zero"
-				(path "/f88da08e-cf42-4d03-a08f-3f602fe6658d"
-					(page "8")
-				)
-			)
-		)
-	)
-	(sheet
-		(at 137.16 54.61)
-		(size 17.78 10.16)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(stroke
-			(width 0.1524)
-			(type solid)
-		)
-		(fill
-			(color 0 0 0 0.0000)
-		)
-		(uuid "3bffbb9a-e009-498c-a1b0-c490cdf30139")
-		(property "Sheetname" "SDRAM"
-			(at 137.16 53.8984 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Sheetfile" "sdram.kicad_sch"
-			(at 137.16 65.3546 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-			)
-		)
-		(instances
-			(project "icepi-zero"
-				(path "/f88da08e-cf42-4d03-a08f-3f602fe6658d"
-					(page "5")
-				)
-			)
-		)
-	)
-	(sheet
-		(at 20.32 54.61)
-		(size 17.78 10.16)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(stroke
-			(width 0.1524)
-			(type solid)
-		)
-		(fill
-			(color 0 0 0 0.0000)
-		)
-		(uuid "82ea4d67-1fc9-4e6e-a7f0-983b0b32ee19")
-		(property "Sheetname" "DAC"
-			(at 20.32 53.8984 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Sheetfile" "dac.kicad_sch"
-			(at 20.32 65.3546 0)
+			(at 178.562 66.6246 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18643,7 +18643,7 @@
 		)
 	)
 	(sheet
-		(at 67.31 54.61)
+		(at 109.22 55.88)
 		(size 17.78 10.16)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -18657,9 +18657,9 @@
 		(fill
 			(color 0 0 0 0.0000)
 		)
-		(uuid "a9c02a11-f344-487c-ac67-1be6ae5dcf49")
-		(property "Sheetname" "Power"
-			(at 67.31 53.8984 0)
+		(uuid "3bffbb9a-e009-498c-a1b0-c490cdf30139")
+		(property "Sheetname" "SDRAM"
+			(at 109.22 55.1684 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18667,8 +18667,8 @@
 				(justify left bottom)
 			)
 		)
-		(property "Sheetfile" "power.kicad_sch"
-			(at 67.31 65.3546 0)
+		(property "Sheetfile" "sdram.kicad_sch"
+			(at 109.22 66.6246 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18679,14 +18679,14 @@
 		(instances
 			(project "icepi-zero"
 				(path "/f88da08e-cf42-4d03-a08f-3f602fe6658d"
-					(page "2")
+					(page "5")
 				)
 			)
 		)
 	)
 	(sheet
-		(at 44.45 54.61)
-		(size 16.51 10.16)
+		(at 223.52 55.88)
+		(size 17.78 10.16)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
@@ -18699,9 +18699,9 @@
 		(fill
 			(color 0 0 0 0.0000)
 		)
-		(uuid "b5a9aa02-311b-4a9a-a7d4-646f15cdd9c2")
-		(property "Sheetname" "ADC"
-			(at 44.45 53.8984 0)
+		(uuid "82ea4d67-1fc9-4e6e-a7f0-983b0b32ee19")
+		(property "Sheetname" "DAC"
+			(at 223.52 55.1684 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18709,8 +18709,8 @@
 				(justify left bottom)
 			)
 		)
-		(property "Sheetfile" "adc.kicad_sch"
-			(at 44.45 65.3546 0)
+		(property "Sheetfile" "dac.kicad_sch"
+			(at 223.52 66.6246 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18727,7 +18727,91 @@
 		)
 	)
 	(sheet
-		(at 114.3 54.61)
+		(at 39.37 55.88)
+		(size 17.78 10.16)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "a9c02a11-f344-487c-ac67-1be6ae5dcf49")
+		(property "Sheetname" "Power"
+			(at 39.37 55.1684 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "power.kicad_sch"
+			(at 39.37 66.6246 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "icepi-zero"
+				(path "/f88da08e-cf42-4d03-a08f-3f602fe6658d"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 201.93 55.88)
+		(size 16.51 10.16)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "b5a9aa02-311b-4a9a-a7d4-646f15cdd9c2")
+		(property "Sheetname" "ADC"
+			(at 201.93 55.1684 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "adc.kicad_sch"
+			(at 201.93 66.6246 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "icepi-zero"
+				(path "/f88da08e-cf42-4d03-a08f-3f602fe6658d"
+					(page "8")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 86.36 55.88)
 		(size 17.78 10.16)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -18743,7 +18827,7 @@
 		)
 		(uuid "b8c813e2-b0ac-42df-b4a2-893985a7d29c")
 		(property "Sheetname" "USB"
-			(at 114.3 53.8984 0)
+			(at 86.36 55.1684 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18752,7 +18836,7 @@
 			)
 		)
 		(property "Sheetfile" "usb.kicad_sch"
-			(at 114.3 65.3546 0)
+			(at 86.36 66.6246 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18769,7 +18853,7 @@
 		)
 	)
 	(sheet
-		(at 183.388 54.61)
+		(at 155.448 55.88)
 		(size 17.78 10.16)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -18785,7 +18869,7 @@
 		)
 		(uuid "d38ad226-7226-4c8c-b808-74c724beb9de")
 		(property "Sheetname" "uSD"
-			(at 183.388 53.8984 0)
+			(at 155.448 55.1684 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18794,7 +18878,7 @@
 			)
 		)
 		(property "Sheetfile" "sd.kicad_sch"
-			(at 183.388 65.3546 0)
+			(at 155.448 66.6246 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18811,7 +18895,7 @@
 		)
 	)
 	(sheet
-		(at 160.02 54.61)
+		(at 132.08 55.88)
 		(size 17.78 10.16)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -18827,7 +18911,7 @@
 		)
 		(uuid "d4e07380-5584-4eac-bd07-d260a33e64d7")
 		(property "Sheetname" "Flash"
-			(at 160.02 53.8984 0)
+			(at 132.08 55.1684 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18836,7 +18920,7 @@
 			)
 		)
 		(property "Sheetfile" "flash.kicad_sch"
-			(at 160.02 65.3546 0)
+			(at 132.08 66.6246 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18853,7 +18937,7 @@
 		)
 	)
 	(sheet
-		(at 91.44 54.61)
+		(at 63.5 55.88)
 		(size 17.78 10.16)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -18869,7 +18953,7 @@
 		)
 		(uuid "efe0a411-ae63-4682-aa63-a9a30697cd67")
 		(property "Sheetname" "GPDI"
-			(at 91.44 53.8984 0)
+			(at 63.5 55.1684 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18878,7 +18962,7 @@
 			)
 		)
 		(property "Sheetfile" "gpdi.kicad_sch"
-			(at 91.44 65.3546 0)
+			(at 63.5 66.6246 0)
 			(effects
 				(font
 					(size 1.27 1.27)

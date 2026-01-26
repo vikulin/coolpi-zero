@@ -1128,8 +1128,8 @@
 			(exclude_from_sim no)
 			(in_bom yes)
 			(on_board yes)
-			(property "Reference" "U1"
-				(at -1.016 30.48 0)
+			(property "Reference" "U"
+				(at -8.382 27.178 0)
 				(effects
 					(font
 						(size 1.27 1.27)
@@ -1137,7 +1137,7 @@
 				)
 			)
 			(property "Value" "ECP5U-25F-CABGA256"
-				(at -1.016 27.94 0)
+				(at 4.826 27.178 0)
 				(effects
 					(font
 						(size 1.27 1.27)
@@ -1164,42 +1164,6 @@
 			)
 			(property "Description" "ECP5 FPGA, 24K LUTs, 1.2V, BGA-256"
 				(at -1.778 67.818 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Original" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Instructions/Notes" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "MANUFACTURER" "Lattice"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "MANUFACTURER_PART_NUMBER" "LFE5U-25F-6BG256C"
-				(at 0 0 0)
 				(effects
 					(font
 						(size 1.27 1.27)
@@ -4356,24 +4320,6 @@
 					)
 				)
 				(pin bidirectional line
-					(at -20.32 -1.27 0)
-					(length 5.08)
-					(name "PT49B/-"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "C11"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin bidirectional line
 					(at -20.32 -7.62 0)
 					(length 5.08)
 					(name "PT27A/+/PCLKT0_1"
@@ -6038,14 +5984,14 @@
 				(pin bidirectional line
 					(at 38.1 -11.43 180)
 					(length 5.08)
-					(name "PT56B/-"
+					(name "PT49B/-"
 						(effects
 							(font
 								(size 1.27 1.27)
 							)
 						)
 					)
-					(number "C12"
+					(number "C11"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -6064,6 +6010,110 @@
 						)
 					)
 					(number "D12"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(symbol "LFE5U-25F-6BG256x_12_1"
+				(rectangle
+					(start -14.478 23.876)
+					(end 15.24 -0.254)
+					(stroke
+						(width 0)
+						(type solid)
+					)
+					(fill
+						(type background)
+					)
+				)
+				(rectangle
+					(start 24.892 -18.034)
+					(end 24.892 -18.034)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(text "DAC Interface"
+					(at 0 20.066 0)
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at 20.32 17.78 180)
+					(length 5.08)
+					(name "PT56B/-"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "C12"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at 20.32 15.24 180)
+					(length 5.08)
+					(name "PT62A/+"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "D13"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at 20.32 12.7 180)
+					(length 5.08)
+					(name "PT62B/-"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "E13"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at 20.32 10.16 180)
+					(length 5.08)
+					(name "PT58B/-"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "E12"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -11044,6 +11094,15 @@
 		)
 		(pin "C11"
 			(uuid "294e9073-48b0-4104-a572-edb7e76c0596")
+		)
+		(pin "E12"
+			(uuid "1962297f-0a91-42d8-9ef1-110241b1d9f1")
+		)
+		(pin "E13"
+			(uuid "061076a8-149d-40c2-8bd2-65222ff73e3d")
+		)
+		(pin "D13"
+			(uuid "95c425ad-1233-42d8-81ca-506ffd38bd31")
 		)
 		(instances
 			(project ""

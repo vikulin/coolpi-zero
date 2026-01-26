@@ -5752,24 +5752,6 @@
 					)
 				)
 				(pin bidirectional line
-					(at -20.32 -1.27 0)
-					(length 5.08)
-					(name "PT56B/-"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "C12"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin bidirectional line
 					(at -20.32 -7.62 0)
 					(length 5.08)
 					(name "PT27A/+/PCLKT0_1"
@@ -7460,6 +7442,110 @@
 						)
 					)
 					(number "D12"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(symbol "LFE5U-25F-6BG256x_12_1"
+				(rectangle
+					(start -14.478 23.876)
+					(end 15.24 -0.254)
+					(stroke
+						(width 0)
+						(type solid)
+					)
+					(fill
+						(type background)
+					)
+				)
+				(rectangle
+					(start 24.892 -18.034)
+					(end 24.892 -18.034)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(text "DAC Interface"
+					(at 0 20.066 0)
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at 20.32 17.78 180)
+					(length 5.08)
+					(name "PT56B/-"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "C12"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at 20.32 15.24 180)
+					(length 5.08)
+					(name "PT62A/+"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "D13"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at 20.32 12.7 180)
+					(length 5.08)
+					(name "PT62B/-"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "E13"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at 20.32 10.16 180)
+					(length 5.08)
+					(name "PT58B/-"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "E12"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -9855,6 +9941,50 @@
 					(size 1.27 1.27)
 				)
 				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "SDI"
+		(shape input)
+		(at 274.32 91.44 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "7cce339b-4124-44bd-b6af-fa34d027cdda")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 280.3895 91.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "SCK"
+		(shape input)
+		(at 274.32 86.36 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "ef208e02-4dc2-43b3-b793-a719b610ab70")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 281.0547 86.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
 				(hide yes)
 			)
 		)
@@ -13300,6 +13430,15 @@
 		)
 		(pin "C11"
 			(uuid "fe66a7cf-acd7-48e1-ae7e-870180427d38")
+		)
+		(pin "D13"
+			(uuid "ddfb42e9-a0d0-46c9-a735-9d0de7ff85ff")
+		)
+		(pin "E13"
+			(uuid "aff62743-7a5e-429b-a4a3-014ed0e1d94e")
+		)
+		(pin "E12"
+			(uuid "b6e365b0-b8cb-4da2-8ddb-bcde6fa0386d")
 		)
 		(instances
 			(project ""
