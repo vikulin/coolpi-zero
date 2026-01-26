@@ -5645,24 +5645,6 @@
 			(pin bidirectional line
 				(at 20.32 12.7 180)
 				(length 5.08)
-				(name "PT62B/-"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "E13"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-			(pin bidirectional line
-				(at 20.32 10.16 180)
-				(length 5.08)
 				(name "PT58B/-"
 					(effects
 						(font

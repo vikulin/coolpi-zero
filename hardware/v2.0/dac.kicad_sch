@@ -2,7 +2,7 @@
 	(version 20250114)
 	(generator "eeschema")
 	(generator_version "9.0")
-	(uuid "11dbc6a2-dfce-4574-9682-57f4f2b51afa")
+	(uuid "2eefc9c6-e3f8-4d85-a59e-7fc48968603f")
 	(paper "A4")
 	(title_block
 		(title "GammaPi Zero")
@@ -5592,24 +5592,6 @@
 				(pin bidirectional line
 					(at 20.32 12.7 180)
 					(length 5.08)
-					(name "PT62B/-"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "E13"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin bidirectional line
-					(at 20.32 10.16 180)
-					(length 5.08)
 					(name "PT58B/-"
 						(effects
 							(font
@@ -5861,10 +5843,6 @@
 		(color 0 0 0 0)
 		(uuid "ce369e51-38f1-4ff4-a1d4-57b8717983be")
 	)
-	(no_connect
-		(at 125.73 97.79)
-		(uuid "1a62ae05-1ecd-4448-9e38-72b9d1ff055c")
-	)
 	(wire
 		(pts
 			(xy 190.5 97.79) (xy 190.5 87.63)
@@ -5877,7 +5855,7 @@
 	)
 	(wire
 		(pts
-			(xy 125.73 100.33) (xy 135.89 100.33)
+			(xy 125.73 97.79) (xy 135.89 97.79)
 		)
 		(stroke
 			(width 0)
@@ -5986,7 +5964,7 @@
 		(uuid "e4111d5e-833a-4f6e-bf04-867d28366c5c")
 	)
 	(label "SDI"
-		(at 128.27 100.33 0)
+		(at 128.27 97.79 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6079,7 +6057,7 @@
 	)
 	(global_label "SDI"
 		(shape input)
-		(at 135.89 100.33 0)
+		(at 135.89 97.79 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -6089,7 +6067,7 @@
 		)
 		(uuid "590bbeda-ce44-4a4b-834f-448189596ef7")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 141.9595 100.33 0)
+			(at 141.9595 97.79 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7300,9 +7278,6 @@
 		)
 		(pin "C12"
 			(uuid "6952dedc-46f4-40e9-b366-f5e785290115")
-		)
-		(pin "E13"
-			(uuid "5f2ecdb5-e5ed-4277-a917-d8e4e3fcb9aa")
 		)
 		(pin "D12"
 			(uuid "c11d34ba-5bc8-4b6f-840a-467d065b5b0f")
