@@ -1460,7 +1460,7 @@
 						)
 					)
 				)
-				(pin output line
+				(pin power_out line
 					(at 15.24 5.08 180)
 					(length 5.08)
 					(name "OUT"
@@ -1489,25 +1489,6 @@
 						)
 					)
 					(number "2"
-						(effects
-							(font
-								(size 1.016 1.016)
-							)
-						)
-					)
-				)
-				(pin power_in line
-					(at 15.24 -2.54 180)
-					(length 5.08)
-					(hide yes)
-					(name "GND"
-						(effects
-							(font
-								(size 1.016 1.016)
-							)
-						)
-					)
-					(number "5"
 						(effects
 							(font
 								(size 1.016 1.016)
@@ -5079,24 +5060,6 @@
 					)
 				)
 				(pin bidirectional line
-					(at -57.912 -30.48 0)
-					(length 5.08)
-					(name "PL47B/-/HS/LDQ44"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "N6"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin bidirectional line
 					(at -57.912 -33.02 0)
 					(length 5.08)
 					(name "PL47C/+/LDQ44/LLC+GPLL0T_IN"
@@ -6464,7 +6427,7 @@
 					)
 				)
 				(pin bidirectional line
-					(at 20.32 17.78 180)
+					(at 20.32 12.7 180)
 					(length 5.08)
 					(name "PT56B/-"
 						(effects
@@ -6474,60 +6437,6 @@
 						)
 					)
 					(number "C12"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin bidirectional line
-					(at 20.32 15.24 180)
-					(length 5.08)
-					(name "PT62A/+"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "D13"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin bidirectional line
-					(at 20.32 12.7 180)
-					(length 5.08)
-					(name "PT62B/-"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "E13"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin bidirectional line
-					(at 20.32 10.16 180)
-					(length 5.08)
-					(name "PT58B/-"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "E12"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -15720,7 +15629,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "IC REG BUCK ADJ 800MA DL 10DFN"
 			(at 181.61 69.85 0)
 			(effects
 				(font
@@ -16218,6 +16127,15 @@
 				(hide yes)
 			)
 		)
+		(property "MANUFACTURER_PART_NUMBER" "TCR5FM18A,RF"
+			(at 190.5 109.22 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "95bff526-42ba-44cc-9ed8-bf27588a0d78")
 		)
@@ -16226,9 +16144,6 @@
 		)
 		(pin "4"
 			(uuid "78a408e0-48a3-4ae1-8327-ae67b72d936e")
-		)
-		(pin "5"
-			(uuid "7f2ab399-df23-4b11-a742-0ef6a531d1f1")
 		)
 		(pin "5"
 			(uuid "41c1b8ea-fb0a-4a90-82c3-1b8bd7eb6c17")
@@ -17987,17 +17902,11 @@
 		(pin "R8"
 			(uuid "2bf1af5b-2c35-4322-95da-5d0273deeb5a")
 		)
-		(pin "E12"
-			(uuid "8d669de6-2a1f-4928-b01e-2b1d36f32184")
-		)
 		(pin "L2"
 			(uuid "e308f8d7-1265-41bf-8e18-ae07098755e2")
 		)
 		(pin "R7"
 			(uuid "7fa0af00-ee0a-4f49-8787-dc6153f9fc88")
-		)
-		(pin "E13"
-			(uuid "0613a095-3fb0-4b59-befb-7e03f42286ea")
 		)
 		(pin "F13"
 			(uuid "f51079d7-5331-4185-b93a-4c341d2283c3")
@@ -18046,9 +17955,6 @@
 		)
 		(pin "H6"
 			(uuid "49122b31-4e10-4e1d-bd7d-2f1ded79d972")
-		)
-		(pin "N6"
-			(uuid "17dc52b3-93d9-42b7-97be-ebc0604ab5d5")
 		)
 		(pin "M5"
 			(uuid "5e5872e6-6048-4bab-b53a-24d12a89e8a7")
@@ -18487,9 +18393,6 @@
 		)
 		(pin "E12"
 			(uuid "0ad87aab-46cd-4d79-86b8-8cadfc37fe0d")
-		)
-		(pin "D13"
-			(uuid "414c23fc-3a3f-4e3f-a87d-da7f7d2a1b2f")
 		)
 		(instances
 			(project ""

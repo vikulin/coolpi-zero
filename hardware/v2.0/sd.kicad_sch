@@ -4078,24 +4078,6 @@
 					)
 				)
 				(pin bidirectional line
-					(at -57.912 -30.48 0)
-					(length 5.08)
-					(name "PL47B/-/HS/LDQ44"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "N6"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin bidirectional line
 					(at -57.912 -33.02 0)
 					(length 5.08)
 					(name "PL47C/+/LDQ44/LLC+GPLL0T_IN"
@@ -5463,7 +5445,7 @@
 					)
 				)
 				(pin bidirectional line
-					(at 20.32 17.78 180)
+					(at 20.32 12.7 180)
 					(length 5.08)
 					(name "PT56B/-"
 						(effects
@@ -5473,60 +5455,6 @@
 						)
 					)
 					(number "C12"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin bidirectional line
-					(at 20.32 15.24 180)
-					(length 5.08)
-					(name "PT62A/+"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "D13"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin bidirectional line
-					(at 20.32 12.7 180)
-					(length 5.08)
-					(name "PT62B/-"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "E13"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin bidirectional line
-					(at 20.32 10.16 180)
-					(length 5.08)
-					(name "PT58B/-"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "E12"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -7411,9 +7339,6 @@
 		(pin "H6"
 			(uuid "3ba4cd2a-c1d7-480d-be1e-6de1389070c7")
 		)
-		(pin "N6"
-			(uuid "17dc52b3-93d9-42b7-97be-ebc0604ab5d5")
-		)
 		(pin "M5"
 			(uuid "5e5872e6-6048-4bab-b53a-24d12a89e8a7")
 		)
@@ -7845,15 +7770,6 @@
 		)
 		(pin "C11"
 			(uuid "c066a73b-246a-439e-8097-a7481d855bfd")
-		)
-		(pin "E13"
-			(uuid "b5344eff-7d31-4658-bb95-37c5a15e95a6")
-		)
-		(pin "E12"
-			(uuid "fa9d5f8d-3b50-46c2-bba7-ba860caebe98")
-		)
-		(pin "D13"
-			(uuid "7be2052b-5808-4dc4-b292-cd5ad05faa01")
 		)
 		(instances
 			(project ""

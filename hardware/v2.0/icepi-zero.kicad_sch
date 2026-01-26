@@ -5757,24 +5757,6 @@
 					)
 				)
 				(pin bidirectional line
-					(at -57.912 -30.48 0)
-					(length 5.08)
-					(name "PL47B/-/HS/LDQ44"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "N6"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin bidirectional line
 					(at -57.912 -33.02 0)
 					(length 5.08)
 					(name "PL47C/+/LDQ44/LLC+GPLL0T_IN"
@@ -7142,7 +7124,7 @@
 					)
 				)
 				(pin bidirectional line
-					(at 20.32 17.78 180)
+					(at 20.32 12.7 180)
 					(length 5.08)
 					(name "PT56B/-"
 						(effects
@@ -7152,60 +7134,6 @@
 						)
 					)
 					(number "C12"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin bidirectional line
-					(at 20.32 15.24 180)
-					(length 5.08)
-					(name "PT62A/+"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "D13"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin bidirectional line
-					(at 20.32 12.7 180)
-					(length 5.08)
-					(name "PT62B/-"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "E13"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin bidirectional line
-					(at 20.32 10.16 180)
-					(length 5.08)
-					(name "PT58B/-"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "E12"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -13731,20 +13659,8 @@
 		(pin "G13"
 			(uuid "978e2987-4efe-4440-9fb2-9a850a940d0d")
 		)
-		(pin "N6"
-			(uuid "9dd5e0ef-9ebf-4a1b-8a11-a3efb52e4f17")
-		)
 		(pin "C11"
 			(uuid "35452ca5-1ab2-4e02-a042-0ad446c8a8bf")
-		)
-		(pin "D13"
-			(uuid "2b6e30fc-2ee8-4325-8fce-213de5564157")
-		)
-		(pin "E13"
-			(uuid "c2e402fa-3f4b-427c-8caf-3a2f7c542bbc")
-		)
-		(pin "E12"
-			(uuid "b35aa98b-bc95-44be-b7b0-a5729e3b413e")
 		)
 		(instances
 			(project ""
@@ -15772,17 +15688,11 @@
 		(pin "R8"
 			(uuid "2bf1af5b-2c35-4322-95da-5d0273deeb5b")
 		)
-		(pin "E12"
-			(uuid "4572b37b-4c0f-40d8-b7ed-588c65586400")
-		)
 		(pin "L2"
 			(uuid "e308f8d7-1265-41bf-8e18-ae07098755e2")
 		)
 		(pin "R7"
 			(uuid "7fa0af00-ee0a-4f49-8787-dc6153f9fc89")
-		)
-		(pin "E13"
-			(uuid "db291d7d-184c-483c-8dba-0cd950d1a64a")
 		)
 		(pin "F13"
 			(uuid "f51079d7-5331-4185-b93a-4c341d2283c4")
@@ -16078,9 +15988,6 @@
 		(pin "C8"
 			(uuid "5ac11660-e424-4e69-9a21-3d7c02511198")
 		)
-		(pin "D13"
-			(uuid "0aa7c597-b6d5-4fda-962a-38146d698171")
-		)
 		(pin "G2"
 			(uuid "8a473563-aa8f-431e-ae30-45dcc29230b9")
 		)
@@ -16260,9 +16167,6 @@
 		)
 		(pin "F8"
 			(uuid "9f727bdc-391f-412b-ae75-47bdc18b6200")
-		)
-		(pin "N6"
-			(uuid "cd3b444b-b1b2-4184-8407-c334306aa787")
 		)
 		(pin "C11"
 			(uuid "42e91f86-0890-47ce-8e62-b94664a30081")

@@ -3905,24 +3905,6 @@
 					)
 				)
 				(pin bidirectional line
-					(at -57.912 -30.48 0)
-					(length 5.08)
-					(name "PL47B/-/HS/LDQ44"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "N6"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin bidirectional line
 					(at -57.912 -33.02 0)
 					(length 5.08)
 					(name "PL47C/+/LDQ44/LLC+GPLL0T_IN"
@@ -5290,7 +5272,7 @@
 					)
 				)
 				(pin bidirectional line
-					(at 20.32 17.78 180)
+					(at 20.32 12.7 180)
 					(length 5.08)
 					(name "PT56B/-"
 						(effects
@@ -5300,60 +5282,6 @@
 						)
 					)
 					(number "C12"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin bidirectional line
-					(at 20.32 15.24 180)
-					(length 5.08)
-					(name "PT62A/+"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "D13"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin bidirectional line
-					(at 20.32 12.7 180)
-					(length 5.08)
-					(name "PT62B/-"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "E13"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin bidirectional line
-					(at 20.32 10.16 180)
-					(length 5.08)
-					(name "PT58B/-"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "E12"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -8342,20 +8270,8 @@
 		(pin "F8"
 			(uuid "9f727bdc-391f-412b-ae75-47bdc18b61ff")
 		)
-		(pin "N6"
-			(uuid "0261e749-1500-4e3a-9fb9-ad3496aa5814")
-		)
 		(pin "C11"
 			(uuid "3fee3372-0f5e-4b17-8ebb-b528fda6f72b")
-		)
-		(pin "D13"
-			(uuid "38e00828-2ab3-4aef-ba28-15dba4dc3ad2")
-		)
-		(pin "E13"
-			(uuid "0021c201-59dd-483a-b42b-c1baa0f5e864")
-		)
-		(pin "E12"
-			(uuid "a18a3884-b626-4a46-9e3b-abd175dac764")
 		)
 		(instances
 			(project ""

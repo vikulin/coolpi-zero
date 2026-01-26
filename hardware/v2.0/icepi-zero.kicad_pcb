@@ -13669,7 +13669,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "IC REG BUCK ADJ 800MA DL 10DFN"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -18429,6 +18429,19 @@
 				)
 			)
 		)
+		(property "MANUFACTURER_PART_NUMBER" "TCR5FM18A,RF"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "54119e8b-5b74-4eff-a0d2-b826220d2e5b")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/a9c02a11-f344-487c-ac67-1be6ae5dcf49/55dd2c2e-5d90-47c7-848f-e25f01ff5e9c")
 		(sheetname "/Power/")
 		(sheetfile "power.kicad_sch")
@@ -18662,7 +18675,7 @@
 			(layers "F.Cu")
 			(net 265 "+1V8")
 			(pinfunction "OUT")
-			(pintype "output")
+			(pintype "power_out")
 			(options
 				(clearance outline)
 				(anchor rect)
@@ -27624,6 +27637,19 @@
 				)
 			)
 		)
+		(property "MANUFACTURER_PART_NUMBER" "TCR5FM50A,RF"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "b6e9b0f5-30ec-4e78-b7c8-cf7b5ab782d3")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/b5a9aa02-311b-4a9a-a7d4-646f15cdd9c2/0786891c-b25b-4324-b5ae-5c06987a98a6")
 		(sheetname "/ADC/")
 		(sheetfile "adc.kicad_sch")
@@ -27857,7 +27883,7 @@
 			(layers "F.Cu")
 			(net 289 "/ADC/VCC")
 			(pinfunction "OUT")
-			(pintype "output")
+			(pintype "power_out")
 			(options
 				(clearance outline)
 				(anchor rect)
@@ -35503,6 +35529,34 @@
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "58baca23-698f-4401-9d62-f6b5d207d880")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "MANUFACTURER" "ADI"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "d69124bb-7f5e-41a5-9309-bd6dbf1b92d2")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "MANUFACTURER_PART_NUMBER" "LTC2630ISC6-LZ12#TRMPBF"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "0cdafa6a-2bf6-4665-ba8a-bd15c5b87a3b")
 			(effects
 				(font
 					(size 1 1)
@@ -62771,7 +62825,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Connector Header Through Hole, Right Angle 2 position 0.049\" (1.25mm)"
 			(at 0 0 90)
 			(layer "B.Fab")
 			(hide yes)
@@ -62832,6 +62886,20 @@
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "2f1bdcad-4867-4668-b07e-e5e3fa704e71")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "MANUFACTURER_PART_NUMBER" "0530480210"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "030d001e-77b1-42df-89eb-1b9412d9555d")
 			(effects
 				(font
 					(size 1 1)

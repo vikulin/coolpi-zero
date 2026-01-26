@@ -2344,22 +2344,20 @@
 			(exclude_from_sim no)
 			(in_bom yes)
 			(on_board yes)
-			(property "Reference" "U"
-				(at -0.762 11.43 0)
+			(property "Reference" "U13"
+				(at 0 12.7 0)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
-					(justify left bottom)
 				)
 			)
 			(property "Value" "TCR5FM50A"
-				(at -4.572 8.636 0)
+				(at 0 10.16 0)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
-					(justify left bottom)
 				)
 			)
 			(property "Footprint" "TCR5FM50A:TCR5FM50A"
@@ -2430,6 +2428,15 @@
 					(hide yes)
 				)
 			)
+			(property "MANUFACTURER_PART_NUMBER" "TCR5FM50A,RF"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
 			(symbol "TCR5FM50A_0_0"
 				(rectangle
 					(start -10.16 7.62)
@@ -2478,24 +2485,6 @@
 						)
 					)
 				)
-				(pin output line
-					(at 15.24 5.08 180)
-					(length 5.08)
-					(name "OUT"
-						(effects
-							(font
-								(size 1.016 1.016)
-							)
-						)
-					)
-					(number "1"
-						(effects
-							(font
-								(size 1.016 1.016)
-							)
-						)
-					)
-				)
 				(pin power_in line
 					(at 15.24 -2.54 180)
 					(length 5.08)
@@ -2514,18 +2503,19 @@
 						)
 					)
 				)
-				(pin power_in line
-					(at 15.24 -2.54 180)
+			)
+			(symbol "TCR5FM50A_1_0"
+				(pin power_out line
+					(at 15.24 5.08 180)
 					(length 5.08)
-					(hide yes)
-					(name "GND"
+					(name "OUT"
 						(effects
 							(font
 								(size 1.016 1.016)
 							)
 						)
 					)
-					(number "5"
+					(number "1"
 						(effects
 							(font
 								(size 1.016 1.016)
@@ -6097,24 +6087,6 @@
 					)
 				)
 				(pin bidirectional line
-					(at -57.912 -30.48 0)
-					(length 5.08)
-					(name "PL47B/-/HS/LDQ44"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "N6"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin bidirectional line
 					(at -57.912 -33.02 0)
 					(length 5.08)
 					(name "PL47C/+/LDQ44/LLC+GPLL0T_IN"
@@ -7482,7 +7454,7 @@
 					)
 				)
 				(pin bidirectional line
-					(at 20.32 17.78 180)
+					(at 20.32 12.7 180)
 					(length 5.08)
 					(name "PT56B/-"
 						(effects
@@ -7492,60 +7464,6 @@
 						)
 					)
 					(number "C12"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin bidirectional line
-					(at 20.32 15.24 180)
-					(length 5.08)
-					(name "PT62A/+"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "D13"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin bidirectional line
-					(at 20.32 12.7 180)
-					(length 5.08)
-					(name "PT62B/-"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "E13"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin bidirectional line
-					(at 20.32 10.16 180)
-					(length 5.08)
-					(name "PT58B/-"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "E12"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -7902,107 +7820,6 @@
 								(size 1.27 1.27)
 							)
 						)
-					)
-				)
-			)
-			(embedded_fonts no)
-		)
-		(symbol "power:PWR_FLAG"
-			(power)
-			(pin_numbers
-				(hide yes)
-			)
-			(pin_names
-				(offset 0)
-				(hide yes)
-			)
-			(exclude_from_sim no)
-			(in_bom yes)
-			(on_board yes)
-			(property "Reference" "#FLG"
-				(at 0 1.905 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Value" "PWR_FLAG"
-				(at 0 3.81 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Footprint" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Datasheet" "~"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Description" "Special symbol for telling ERC where power comes from"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "ki_keywords" "flag power"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(symbol "PWR_FLAG_0_0"
-				(pin power_out line
-					(at 0 0 90)
-					(length 0)
-					(name "~"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-			)
-			(symbol "PWR_FLAG_0_1"
-				(polyline
-					(pts
-						(xy 0 0) (xy 0 1.27) (xy -1.016 1.905) (xy 0 2.54) (xy 1.016 1.905) (xy 0 1.27)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
 					)
 				)
 			)
@@ -8572,16 +8389,6 @@
 			(type default)
 		)
 		(uuid "4070e953-6382-467b-844c-dadadf83d80f")
-	)
-	(wire
-		(pts
-			(xy 76.2 118.11) (xy 76.2 119.38)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "4111076e-50bd-4084-9159-1de4083c05aa")
 	)
 	(wire
 		(pts
@@ -9215,16 +9022,6 @@
 	)
 	(wire
 		(pts
-			(xy 69.85 119.38) (xy 76.2 119.38)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "d5f8aa88-4519-4d73-bc14-5b68cf9bb1d4")
-	)
-	(wire
-		(pts
 			(xy 130.81 82.55) (xy 139.7 82.55)
 		)
 		(stroke
@@ -9372,6 +9169,16 @@
 			(type default)
 		)
 		(uuid "f4b03bc9-e47d-4be8-b76b-382c35452040")
+	)
+	(wire
+		(pts
+			(xy 69.85 119.38) (xy 76.2 119.38)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f9353f02-a07e-483d-8304-c83f6ff05ec5")
 	)
 	(wire
 		(pts
@@ -9554,7 +9361,7 @@
 		(uuid "56e2abea-4ccb-4331-8af3-0d617b0f0fec")
 	)
 	(label "VCC"
-		(at 69.85 119.38 0)
+		(at 72.39 119.38 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -10428,6 +10235,15 @@
 				(hide yes)
 			)
 		)
+		(property "MANUFACTURER_PART_NUMBER" "TCR5FM50A,RF"
+			(at 54.61 124.46 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "5"
 			(uuid "c42e397f-1d3f-4025-9d2c-13856e4a6701")
 		)
@@ -10442,9 +10258,6 @@
 		)
 		(pin "2"
 			(uuid "b0c15ee2-2b2b-4548-bcb7-0312ba23d737")
-		)
-		(pin "5"
-			(uuid "44b9be8e-4633-4b3f-a5f7-a057c22ea5fb")
 		)
 		(instances
 			(project ""
@@ -11205,7 +11018,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LT1993CUD_2_PBF:QFN-16_UD"
+		(property "Footprint" "LT1993CUD_2_PBF:QFN-16"
 			(at 107.95 67.31 0)
 			(effects
 				(font
@@ -11564,72 +11377,6 @@
 			(project ""
 				(path "/f88da08e-cf42-4d03-a08f-3f602fe6658d/b5a9aa02-311b-4a9a-a7d4-646f15cdd9c2"
 					(reference "J7")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:PWR_FLAG")
-		(at 76.2 118.11 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "26124823-1f9e-4a9f-901c-e674c3a12327")
-		(property "Reference" "#FLG09"
-			(at 76.2 116.205 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "PWR_FLAG"
-			(at 76.2 113.03 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 76.2 118.11 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 76.2 118.11 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Special symbol for telling ERC where power comes from"
-			(at 76.2 118.11 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "609439a5-98d1-4f23-b3ee-7c129c5c2123")
-		)
-		(instances
-			(project "icepi-zero"
-				(path "/f88da08e-cf42-4d03-a08f-3f602fe6658d/b5a9aa02-311b-4a9a-a7d4-646f15cdd9c2"
-					(reference "#FLG09")
 					(unit 1)
 				)
 			)
@@ -13425,20 +13172,8 @@
 		(pin "K5"
 			(uuid "5f60b603-071d-4cd8-99a2-83aaa6ca8473")
 		)
-		(pin "N6"
-			(uuid "6c389f71-3ce4-4636-8a60-b5cd23a989d9")
-		)
 		(pin "C11"
 			(uuid "fe66a7cf-acd7-48e1-ae7e-870180427d38")
-		)
-		(pin "D13"
-			(uuid "ddfb42e9-a0d0-46c9-a735-9d0de7ff85ff")
-		)
-		(pin "E13"
-			(uuid "aff62743-7a5e-429b-a4a3-014ed0e1d94e")
-		)
-		(pin "E12"
-			(uuid "b6e365b0-b8cb-4da2-8ddb-bcde6fa0386d")
 		)
 		(instances
 			(project ""

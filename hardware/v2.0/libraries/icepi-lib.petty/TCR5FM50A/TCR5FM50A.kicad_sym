@@ -143,7 +143,7 @@
 					)
 				)
 			)
-			(pin output line
+			(pin power_out line
 				(at 15.24 5.08 180)
 				(length 5.08)
 				(name "OUT"
@@ -172,25 +172,6 @@
 					)
 				)
 				(number "2"
-					(effects
-						(font
-							(size 1.016 1.016)
-						)
-					)
-				)
-			)
-			(pin power_in line
-				(at 15.24 -2.54 180)
-				(length 5.08)
-				(hide yes)
-				(name "GND"
-					(effects
-						(font
-							(size 1.016 1.016)
-						)
-					)
-				)
-				(number "5"
 					(effects
 						(font
 							(size 1.016 1.016)

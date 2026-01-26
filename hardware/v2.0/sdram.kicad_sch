@@ -4793,24 +4793,6 @@
 					)
 				)
 				(pin bidirectional line
-					(at -57.912 -30.48 0)
-					(length 5.08)
-					(name "PL47B/-/HS/LDQ44"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "N6"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin bidirectional line
 					(at -57.912 -33.02 0)
 					(length 5.08)
 					(name "PL47C/+/LDQ44/LLC+GPLL0T_IN"
@@ -6178,7 +6160,7 @@
 					)
 				)
 				(pin bidirectional line
-					(at 20.32 17.78 180)
+					(at 20.32 12.7 180)
 					(length 5.08)
 					(name "PT56B/-"
 						(effects
@@ -6188,60 +6170,6 @@
 						)
 					)
 					(number "C12"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin bidirectional line
-					(at 20.32 15.24 180)
-					(length 5.08)
-					(name "PT62A/+"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "D13"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin bidirectional line
-					(at 20.32 12.7 180)
-					(length 5.08)
-					(name "PT62B/-"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "E13"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin bidirectional line
-					(at 20.32 10.16 180)
-					(length 5.08)
-					(name "PT58B/-"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "E12"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -12281,20 +12209,8 @@
 		(pin "P11"
 			(uuid "f7b1cafd-0ff9-4681-8971-2f50be70fbc4")
 		)
-		(pin "N6"
-			(uuid "edaa60ba-8f9d-435d-abbb-ca55cfef0e1b")
-		)
 		(pin "C11"
 			(uuid "86e55d8f-92c9-47ce-b96f-2df4fd6e51cd")
-		)
-		(pin "D13"
-			(uuid "d3852e0f-cf99-42dc-b54e-3be007e13d9c")
-		)
-		(pin "E12"
-			(uuid "4e0d58d2-fbbf-4e64-b8ae-69fc4a1115fa")
-		)
-		(pin "E13"
-			(uuid "2bd740fa-89f7-4ded-8631-b7cb1911d2d9")
 		)
 		(instances
 			(project ""
