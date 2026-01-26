@@ -1,0 +1,27 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#SamacSys ECAD Model LTC2630ISC6-LZ12#TRMPBF
+#/544668/1700114/2.50/6/3/Integrated Circuit
+DEF LTC2630ISC6-LZ12#TRMPBF IC 0 30 Y Y 1 F N
+F0 "IC" 1050 300 50 H V L CNN
+F1 "LTC2630ISC6-LZ12#TRMPBF" 1050 200 50 H V L CNN
+F2 "SOT65P210X100-6N" 1050 100 50 H I L CNN
+F3 "https://www.analog.com/media/en/technical-documentation/data-sheets/2630fg.pdf" 1050 0 50 H I L CNN
+F4 "LINEAR TECHNOLOGY - LTC2630ISC6-LZ12#TRMPBF - Digital to Analogue Converter, 12 bit, SPI, 2.7V to 5.5V, SC-70, 6 Pins" 1050 -100 50 H I L CNN "Description"
+F5 "1" 1050 -200 50 H I L CNN "Height"
+F6 "584-2630ISC6LZ12TMPF" 1050 -300 50 H I L CNN "Mouser Part Number"
+F7 "https://www.mouser.co.uk/ProductDetail/Analog-Devices/LTC2630ISC6-LZ12TRMPBF?qs=hVkxg5c3xu%252BN18l85Q7rMg%3D%3D" 1050 -400 50 H I L CNN "Mouser Price/Stock"
+F8 "Analog Devices" 1050 -500 50 H I L CNN "Manufacturer_Name"
+F9 "LTC2630ISC6-LZ12#TRMPBF" 1050 -600 50 H I L CNN "Manufacturer_Part_Number"
+DRAW
+X ~CS~/LD 1 0 0 200 R 50 50 0 0 P
+X SCK 2 0 -100 200 R 50 50 0 0 P
+X SDI 3 0 -200 200 R 50 50 0 0 P
+X VOUT 6 1200 0 200 L 50 50 0 0 P
+X GND 5 1200 -100 200 L 50 50 0 0 P
+X VCC 4 1200 -200 200 L 50 50 0 0 P
+P 5 0 1 6 200 100 1000 100 1000 -300 200 -300 200 100 N
+ENDDRAW
+ENDDEF
+#
+#End Library

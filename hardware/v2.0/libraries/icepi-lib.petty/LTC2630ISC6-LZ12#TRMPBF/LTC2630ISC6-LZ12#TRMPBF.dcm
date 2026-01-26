@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP LTC2630ISC6-LZ12#TRMPBF
+D LINEAR TECHNOLOGY - LTC2630ISC6-LZ12#TRMPBF - Digital to Analogue Converter, 12 bit, SPI, 2.7V to 5.5V, SC-70, 6 Pins
+K
+F https://www.analog.com/media/en/technical-documentation/data-sheets/2630fg.pdf
+$ENDCMP
+#
+#End Doc Library

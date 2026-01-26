@@ -11,4 +11,5 @@
   (lib (name "LP5912-1.8DRV")(type "KiCad")(uri "${KIPRJMOD}/libraries/icepi-lib.petty/LP5912-1.8DRVR/LP5912-1.8DRV.kicad_sym")(options "")(descr ""))
   (lib (name "TCR5FM50A")(type "KiCad")(uri "${KIPRJMOD}/libraries/icepi-lib.petty/TCR5FM50A/TCR5FM50A.kicad_sym")(options "")(descr ""))
   (lib (name "TCR5FM18A")(type "KiCad")(uri "${KIPRJMOD}/libraries/icepi-lib.petty/TCR5FM18A/TCR5FM18A.kicad_sym")(options "")(descr ""))
+  (lib (name "LTC2630ISC6-LZ12#TRMPBF")(type "KiCad")(uri "${KIPRJMOD}/libraries/icepi-lib.petty/LTC2630ISC6-LZ12#TRMPBF/LTC2630ISC6-LZ12#TRMPBF.kicad_sym")(options "")(descr ""))
 )

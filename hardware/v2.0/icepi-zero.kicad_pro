@@ -1134,6 +1134,10 @@
     [
       "b5a9aa02-311b-4a9a-a7d4-646f15cdd9c2",
       "ADC"
+    ],
+    [
+      "82ea4d67-1fc9-4e6e-a7f0-983b0b32ee19",
+      "DAC"
     ]
   ],
   "text_variables": {}
