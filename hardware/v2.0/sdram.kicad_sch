@@ -10273,7 +10273,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
+		(property "Description" "22nF ±10% 50V Ceramic Capacitor X7R 0603"
 			(at 218.44 43.18 0)
 			(effects
 				(font
@@ -10425,7 +10425,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
+		(property "Description" "22nF ±10% 50V Ceramic Capacitor X7R 0603"
 			(at 194.31 43.18 0)
 			(effects
 				(font
@@ -10577,7 +10577,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
+		(property "Description" "22nF ±10% 50V Ceramic Capacitor X7R 0603"
 			(at 207.01 43.18 0)
 			(effects
 				(font
@@ -10729,7 +10729,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
+		(property "Description" "22nF ±10% 50V Ceramic Capacitor X7R 0603"
 			(at 181.61 43.18 0)
 			(effects
 				(font
@@ -10947,7 +10947,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
+		(property "Description" "22nF ±10% 50V Ceramic Capacitor X7R 0603"
 			(at 229.87 43.18 0)
 			(effects
 				(font
@@ -11099,7 +11099,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
+		(property "Description" "22nF ±10% 50V Ceramic Capacitor X7R 0603"
 			(at 241.3 43.18 0)
 			(effects
 				(font
@@ -11251,7 +11251,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
+		(property "Description" "22nF ±10% 50V Ceramic Capacitor X7R 0603"
 			(at 252.73 43.18 0)
 			(effects
 				(font
@@ -12659,7 +12659,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
+		(property "Description" "10uF ±10% 10V Ceramic Capacitor X5R 0603"
 			(at 264.16 43.18 0)
 			(effects
 				(font

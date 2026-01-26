@@ -10272,7 +10272,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Unpolarized capacitor"
+		(property "Description" "100nF ±10% 50V Ceramic Capacitor X7R 0402"
 			(at 21.59 165.1 0)
 			(effects
 				(font
@@ -10621,7 +10621,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "549Ω ±1% 62.5mW 0402 Thick Film Resistor"
 			(at 58.42 111.76 0)
 			(effects
 				(font
@@ -11880,7 +11880,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Unpolarized capacitor"
+		(property "Description" "100nF ±10% 50V Ceramic Capacitor X7R 0402"
 			(at 21.59 132.08 0)
 			(effects
 				(font
@@ -13720,7 +13720,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Unpolarized capacitor"
+		(property "Description" "100nF ±10% 50V Ceramic Capacitor X7R 0402"
 			(at 21.59 148.59 0)
 			(effects
 				(font
@@ -16646,7 +16646,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Unpolarized capacitor"
+		(property "Description" "100nF ±10% 50V Ceramic Capacitor X7R 0402"
 			(at 21.59 115.57 0)
 			(effects
 				(font
@@ -17341,7 +17341,7 @@
 				)
 			)
 		)
-		(property "Description" "Unpolarized capacitor"
+		(property "Description" "100nF ±10% 50V Ceramic Capacitor X7R 0402"
 			(at 82.55 173.99 0)
 			(effects
 				(font
@@ -18067,7 +18067,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Unpolarized capacitor"
+		(property "Description" "100nF ±10% 50V Ceramic Capacitor X7R 0402"
 			(at 21.59 181.61 0)
 			(effects
 				(font

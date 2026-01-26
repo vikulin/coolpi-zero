@@ -668,7 +668,7 @@
 				)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
+		(property "Description" "22nF ±10% 50V Ceramic Capacitor X7R 0402"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -985,7 +985,7 @@
 				)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
+		(property "Description" "22nF ±10% 50V Ceramic Capacitor X7R 0402"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -1594,7 +1594,7 @@
 				)
 			)
 		)
-		(property "Description" "Unpolarized capacitor"
+		(property "Description" "22uF ±20% 6.3V Ceramic Capacitor X5R 0603"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -1911,7 +1911,7 @@
 				)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "15kΩ ±1% 62.5mW 0402 Thick Film Resistor"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -2228,7 +2228,7 @@
 				)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "10Ω 63mW Thick Film Resistor ±100ppm/℃ ±1% 0402 Chip Resistor - Surface Mount RoHS"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -4625,7 +4625,7 @@
 				)
 			)
 		)
-		(property "Description" "Ferrite bead"
+		(property "Description" "1kΩ@100MHz 1 Line Ferrite Bead 0603 450mA 500mΩ"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -5805,7 +5805,7 @@
 				)
 			)
 		)
-		(property "Description" "Light emitting diode"
+		(property "Description" "Red 645nm LED Indication - Discrete 2.4V 0603"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -6157,7 +6157,7 @@
 				)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "470Ω ±1% 62.5mW 0402 Thick Film Resistor"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -6474,7 +6474,7 @@
 				)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "4.7kΩ ±1% 62.5mW 0402 Thick Film Resistor"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -6791,7 +6791,7 @@
 				)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "3.3kΩ ±1% 62.5mW 0402 Thick Film Resistor"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -7891,7 +7891,7 @@
 				)
 			)
 		)
-		(property "Description" "Unpolarized capacitor"
+		(property "Description" "2.7nF ±10% 50V Ceramic Capacitor X7R 0402"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -8208,7 +8208,7 @@
 				)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "27Ω ±1% 50mW 0201 Thick Film Resistor"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -8519,7 +8519,7 @@
 				)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
+		(property "Description" "22nF ±10% 50V Ceramic Capacitor X7R 0402"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -8837,7 +8837,7 @@
 				)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "4.7MΩ ±1% 62.5mW 0402 Thick Film Resistor"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -10011,7 +10011,7 @@
 				)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
+		(property "Description" "100nF ±10% 50V Ceramic Capacitor X7R 0402"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -10328,7 +10328,7 @@
 				)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
+		(property "Description" "22nF ±10% 50V Ceramic Capacitor X7R 0402"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -10645,7 +10645,7 @@
 				)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "27Ω ±1% 50mW 0201 Thick Film Resistor"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -10956,7 +10956,7 @@
 				)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "1kΩ ±1% 62.5mW 0402 Thick Film Resistor"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -11709,7 +11709,7 @@
 				)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "100kΩ ±1% 62.5mW 0402 Thick Film Resistor"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -12026,7 +12026,7 @@
 				)
 			)
 		)
-		(property "Description" "Unpolarized capacitor"
+		(property "Description" "22uF ±20% 6.3V Ceramic Capacitor X5R 0603"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -12343,7 +12343,7 @@
 				)
 			)
 		)
-		(property "Description" "Unpolarized capacitor"
+		(property "Description" "100nF ±10% 50V Ceramic Capacitor X7R 0402"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -12660,7 +12660,7 @@
 				)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
+		(property "Description" "22nF ±10% 50V Ceramic Capacitor X7R 0402"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -18050,7 +18050,7 @@
 				)
 			)
 		)
-		(property "Description" "Unpolarized capacitor"
+		(property "Description" "22uF ±20% 6.3V Ceramic Capacitor X5R 0603"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -19304,7 +19304,7 @@
 				)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
+		(property "Description" "22nF ±10% 50V Ceramic Capacitor X7R 0402"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -19621,7 +19621,7 @@
 				)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "1kΩ ±1% 62.5mW 0402 Thick Film Resistor"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -20690,7 +20690,7 @@
 				)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "27Ω ±1% 50mW 0201 Thick Film Resistor"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -21001,7 +21001,7 @@
 				)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "10Ω 63mW Thick Film Resistor ±100ppm/℃ ±1% 0402 Chip Resistor - Surface Mount RoHS"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -21318,7 +21318,7 @@
 				)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "100kΩ ±1% 62.5mW 0402 Thick Film Resistor"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -21635,7 +21635,7 @@
 				)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "4.7kΩ ±1% 62.5mW 0402 Thick Film Resistor"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -23274,7 +23274,7 @@
 				)
 			)
 		)
-		(property "Description" "Unpolarized capacitor"
+		(property "Description" "5.6nF X7R ±10% 50V 0402 Ceramic Capacitors RoHS"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -24232,7 +24232,7 @@
 				)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
+		(property "Description" "22nF ±10% 50V Ceramic Capacitor X7R 0402"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -24549,7 +24549,7 @@
 				)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
+		(property "Description" "22nF ±10% 50V Ceramic Capacitor X7R 0402"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -25044,7 +25044,7 @@
 				)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "10kΩ ±1% 62.5mW 0402 Thick Film Resistor"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -25362,7 +25362,7 @@
 				)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "4.7MΩ ±1% 62.5mW 0402 Thick Film Resistor"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -25679,7 +25679,7 @@
 				)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "470Ω ±1% 62.5mW 0402 Thick Film Resistor"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -25996,7 +25996,7 @@
 				)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "80.6Ω 62.5mW Thick Film Resistor ±100ppm/℃ ±1% 0402 Chip Resistor - Surface Mount RoHS"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -26313,7 +26313,7 @@
 				)
 			)
 		)
-		(property "Description" "Unpolarized capacitor"
+		(property "Description" "1uF ±10% 10V Ceramic Capacitor X5R 0402"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -26630,7 +26630,7 @@
 				)
 			)
 		)
-		(property "Description" "Unpolarized capacitor"
+		(property "Description" "10uF ±10% 10V Ceramic Capacitor X5R 0603"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -26947,7 +26947,7 @@
 				)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "27Ω ±1% 50mW 0201 Thick Film Resistor"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -27258,7 +27258,7 @@
 				)
 			)
 		)
-		(property "Description" "Unpolarized capacitor"
+		(property "Description" "10uF ±10% 10V Ceramic Capacitor X5R 0603"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -28041,7 +28041,7 @@
 				)
 			)
 		)
-		(property "Description" "Unpolarized capacitor"
+		(property "Description" "22uF ±20% 6.3V Ceramic Capacitor X5R 0603"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -28358,7 +28358,7 @@
 				)
 			)
 		)
-		(property "Description" "Unpolarized capacitor"
+		(property "Description" "100nF ±10% 50V Ceramic Capacitor X7R 0402"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -28675,7 +28675,7 @@
 				)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "1kΩ ±1% 62.5mW 0402 Thick Film Resistor"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -29477,7 +29477,7 @@
 				)
 			)
 		)
-		(property "Description" "Inductor"
+		(property "Description" "800mA 2.2uH 299mΩ Multilayer inductor ±20% 0805 Fixed Inductors RoHS"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -31506,7 +31506,7 @@
 				)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "15kΩ ±1% 62.5mW 0402 Thick Film Resistor"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -32280,7 +32280,7 @@
 				)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "3.3kΩ ±1% 62.5mW 0402 Thick Film Resistor"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -32600,7 +32600,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
+		(property "Description" "100nF ±10% 50V Ceramic Capacitor X7R 0402"
 			(at 0 0 90)
 			(layer "B.Fab")
 			(hide yes)
@@ -32931,7 +32931,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
+		(property "Description" "22nF ±10% 50V Ceramic Capacitor X7R 0603"
 			(at 0 0 0)
 			(layer "B.Fab")
 			(hide yes)
@@ -33262,7 +33262,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "4.7kΩ ±1% 62.5mW 0402 Thick Film Resistor"
 			(at 0 0 90)
 			(layer "B.Fab")
 			(hide yes)
@@ -33593,7 +33593,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
+		(property "Description" "100nF ±10% 50V Ceramic Capacitor X7R 0402"
 			(at 0 0 180)
 			(layer "B.Fab")
 			(hide yes)
@@ -34357,7 +34357,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "255kΩ ±1% 62.5mW 0402 Thick Film Resistor"
 			(at 0 0 90)
 			(layer "B.Fab")
 			(hide yes)
@@ -35121,7 +35121,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
+		(property "Description" "100nF ±10% 50V Ceramic Capacitor X7R 0402"
 			(at 0 0 90)
 			(layer "B.Fab")
 			(hide yes)
@@ -35792,7 +35792,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" "Unpolarized capacitor"
+		(property "Description" "22pF ±5% 50V Ceramic Capacitor C0G 0402"
 			(at 0 0 90)
 			(layer "B.Fab")
 			(hide yes)
@@ -36123,7 +36123,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" "Unpolarized capacitor"
+		(property "Description" "1nF ±10% 50V Ceramic Capacitor X7R 0402"
 			(at 0 0 90)
 			(layer "B.Fab")
 			(hide yes)
@@ -36454,7 +36454,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
+		(property "Description" "22nF ±10% 50V Ceramic Capacitor X7R 0603"
 			(at 0 0 0)
 			(layer "B.Fab")
 			(hide yes)
@@ -37149,7 +37149,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
+		(property "Description" "100nF ±10% 50V Ceramic Capacitor X7R 0402"
 			(at 0 0 0)
 			(layer "B.Fab")
 			(hide yes)
@@ -37480,7 +37480,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" "Unpolarized capacitor"
+		(property "Description" "100nF ±10% 50V Ceramic Capacitor X7R 0402"
 			(at 0 0 90)
 			(layer "B.Fab")
 			(hide yes)
@@ -37811,7 +37811,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
+		(property "Description" "100nF ±10% 50V Ceramic Capacitor X7R 0402"
 			(at 0 0 90)
 			(layer "B.Fab")
 			(hide yes)
@@ -38143,7 +38143,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" "Unpolarized capacitor"
+		(property "Description" "100nF ±10% 50V Ceramic Capacitor X7R 0402"
 			(at 0 0 90)
 			(layer "B.Fab")
 			(hide yes)
@@ -38474,7 +38474,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" "Unpolarized capacitor"
+		(property "Description" "100nF ±10% 50V Ceramic Capacitor X7R 0402"
 			(at 0 0 90)
 			(layer "B.Fab")
 			(hide yes)
@@ -38805,7 +38805,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" "Unpolarized capacitor"
+		(property "Description" "1nF ±10% 50V Ceramic Capacitor X7R 0402"
 			(at 0 0 0)
 			(layer "B.Fab")
 			(hide yes)
@@ -39136,7 +39136,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
+		(property "Description" "22nF ±10% 50V Ceramic Capacitor X7R 0603"
 			(at 0 0 0)
 			(layer "B.Fab")
 			(hide yes)
@@ -39649,7 +39649,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "1kΩ ±1% 62.5mW 0402 Thick Film Resistor"
 			(at 0 0 0)
 			(layer "B.Fab")
 			(hide yes)
@@ -39980,7 +39980,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" "Unpolarized capacitor"
+		(property "Description" "100nF ±10% 50V Ceramic Capacitor X7R 0402"
 			(at 0 0 90)
 			(layer "B.Fab")
 			(hide yes)
@@ -40311,7 +40311,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
+		(property "Description" "10uF ±10% 10V Ceramic Capacitor X5R 0603"
 			(at 0 0 0)
 			(layer "B.Fab")
 			(hide yes)
@@ -40642,7 +40642,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
+		(property "Description" "10uF ±10% 10V Ceramic Capacitor X5R 0603"
 			(at 0 0 90)
 			(layer "B.Fab")
 			(hide yes)
@@ -40973,7 +40973,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" "Unpolarized capacitor"
+		(property "Description" "100nF ±10% 50V Ceramic Capacitor X7R 0402"
 			(at 0 0 0)
 			(layer "B.Fab")
 			(hide yes)
@@ -41486,7 +41486,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "15kΩ ±1% 62.5mW 0402 Thick Film Resistor"
 			(at 0 0 0)
 			(layer "B.Fab")
 			(hide yes)
@@ -41817,7 +41817,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "5.1kΩ ±1% 62.5mW 0402 Thick Film Resistor"
 			(at 0 0 90)
 			(layer "B.Fab")
 			(hide yes)
@@ -42148,7 +42148,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "15kΩ ±1% 62.5mW 0402 Thick Film Resistor"
 			(at 0 0 0)
 			(layer "B.Fab")
 			(hide yes)
@@ -42479,7 +42479,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "887kΩ ±1% 62.5mW 0402 Thick Film Resistor"
 			(at 0 0 90)
 			(layer "B.Fab")
 			(hide yes)
@@ -42810,7 +42810,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
+		(property "Description" "22nF ±10% 50V Ceramic Capacitor X7R 0603"
 			(at 0 0 0)
 			(layer "B.Fab")
 			(hide yes)
@@ -43141,7 +43141,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
+		(property "Description" "10uF ±10% 10V Ceramic Capacitor X5R 0603"
 			(at 0 0 0)
 			(layer "B.Fab")
 			(hide yes)
@@ -43472,7 +43472,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" "Unpolarized capacitor"
+		(property "Description" "10uF ±10% 10V Ceramic Capacitor X5R 0603"
 			(at 0 0 0)
 			(layer "B.Fab")
 			(hide yes)
@@ -43803,7 +43803,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "15kΩ ±1% 62.5mW 0402 Thick Film Resistor"
 			(at 0 0 90)
 			(layer "B.Fab")
 			(hide yes)
@@ -44134,7 +44134,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
+		(property "Description" "100nF ±10% 50V Ceramic Capacitor X7R 0402"
 			(at 0 0 90)
 			(layer "B.Fab")
 			(hide yes)
@@ -44465,7 +44465,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
+		(property "Description" "22nF ±10% 50V Ceramic Capacitor X7R 0603"
 			(at 0 0 90)
 			(layer "B.Fab")
 			(hide yes)
@@ -45229,7 +45229,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "1kΩ ±1% 62.5mW 0402 Thick Film Resistor"
 			(at 0 0 90)
 			(layer "B.Fab")
 			(hide yes)
@@ -46608,7 +46608,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "10kΩ ±1% 62.5mW 0402 Thick Film Resistor"
 			(at 0 0 90)
 			(layer "B.Fab")
 			(hide yes)
@@ -46939,7 +46939,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" "Ferrite bead"
+		(property "Description" "100Ω@100MHz 1 Line Ferrite Bead 0805 500mA 180mΩ"
 			(at 0 0 180)
 			(layer "B.Fab")
 			(hide yes)
@@ -47634,7 +47634,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "4.7kΩ ±1% 62.5mW 0402 Thick Film Resistor"
 			(at 0 0 90)
 			(layer "B.Fab")
 			(hide yes)
@@ -47965,7 +47965,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
+		(property "Description" "100nF ±10% 50V Ceramic Capacitor X7R 0402"
 			(at 0 0 90)
 			(layer "B.Fab")
 			(hide yes)
@@ -48478,7 +48478,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
+		(property "Description" "10uF ±10% 10V Ceramic Capacitor X5R 0603"
 			(at 0 0 0)
 			(layer "B.Fab")
 			(hide yes)
@@ -49196,7 +49196,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
+		(property "Description" "10uF ±10% 10V Ceramic Capacitor X5R 0603"
 			(at 0 0 0)
 			(layer "B.Fab")
 			(hide yes)
@@ -49709,7 +49709,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "4.7kΩ ±1% 62.5mW 0402 Thick Film Resistor"
 			(at 0 0 0)
 			(layer "B.Fab")
 			(hide yes)
@@ -50040,7 +50040,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
+		(property "Description" "100nF ±10% 50V Ceramic Capacitor X7R 0402"
 			(at 0 0 90)
 			(layer "B.Fab")
 			(hide yes)
@@ -50371,7 +50371,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" "Unpolarized capacitor"
+		(property "Description" "100nF ±10% 50V Ceramic Capacitor X7R 0402"
 			(at 0 0 0)
 			(layer "B.Fab")
 			(hide yes)
@@ -50702,7 +50702,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" "Unpolarized capacitor"
+		(property "Description" "100nF ±10% 50V Ceramic Capacitor X7R 0402"
 			(at 0 0 0)
 			(layer "B.Fab")
 			(hide yes)
@@ -51033,7 +51033,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "4.7kΩ ±1% 62.5mW 0402 Thick Film Resistor"
 			(at 0 0 0)
 			(layer "B.Fab")
 			(hide yes)
@@ -51364,7 +51364,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
+		(property "Description" "2.2uF ±10% 10V Ceramic Capacitor X5R 0603"
 			(at 0 0 0)
 			(layer "B.Fab")
 			(hide yes)
@@ -51695,7 +51695,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
+		(property "Description" "100nF ±10% 50V Ceramic Capacitor X7R 0402"
 			(at 0 0 0)
 			(layer "B.Fab")
 			(hide yes)
@@ -52026,7 +52026,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "4.7kΩ ±1% 62.5mW 0402 Thick Film Resistor"
 			(at 0 0 90)
 			(layer "B.Fab")
 			(hide yes)
@@ -52744,7 +52744,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" "Unpolarized capacitor"
+		(property "Description" "100nF ±10% 50V Ceramic Capacitor X7R 0402"
 			(at 0 0 0)
 			(layer "B.Fab")
 			(hide yes)
@@ -53075,7 +53075,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" "Unpolarized capacitor"
+		(property "Description" "6.8pF 50V Ceramic Capacitor C0G 0402"
 			(at 0 0 90)
 			(layer "B.Fab")
 			(hide yes)
@@ -53406,7 +53406,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "5.1kΩ ±1% 62.5mW 0402 Thick Film Resistor"
 			(at 0 0 0)
 			(layer "B.Fab")
 			(hide yes)
@@ -53738,7 +53738,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" "Zener diode, small symbol"
+		(property "Description" "Zener Diode Independent 3.6V 200mW Surface Mount SOD-323"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -54114,7 +54114,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "10kΩ ±1% 62.5mW 0402 Thick Film Resistor"
 			(at 0 0 0)
 			(layer "B.Fab")
 			(hide yes)
@@ -54445,7 +54445,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" "Unpolarized capacitor"
+		(property "Description" "100nF ±10% 50V Ceramic Capacitor X7R 0402"
 			(at 0 0 0)
 			(layer "B.Fab")
 			(hide yes)
@@ -54777,7 +54777,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "280kΩ ±1% 62.5mW 0402 Thick Film Resistor"
 			(at 0 0 0)
 			(layer "B.Fab")
 			(hide yes)
@@ -55108,7 +55108,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "2kΩ ±1% 62.5mW 0402 Thick Film Resistor"
 			(at 0 0 90)
 			(layer "B.Fab")
 			(hide yes)
@@ -55439,7 +55439,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "15kΩ ±1% 62.5mW 0402 Thick Film Resistor"
 			(at 0 0 90)
 			(layer "B.Fab")
 			(hide yes)
@@ -56203,7 +56203,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "15kΩ ±1% 62.5mW 0402 Thick Film Resistor"
 			(at 0 0 90)
 			(layer "B.Fab")
 			(hide yes)
@@ -56534,7 +56534,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "1kΩ ±1% 62.5mW 0402 Thick Film Resistor"
 			(at 0 0 0)
 			(layer "B.Fab")
 			(hide yes)
@@ -56865,7 +56865,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "10kΩ ±1% 62.5mW 0402 Thick Film Resistor"
 			(at 0 0 0)
 			(layer "B.Fab")
 			(hide yes)
@@ -57196,7 +57196,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
+		(property "Description" "10uF ±10% 10V Ceramic Capacitor X5R 0603"
 			(at 0 0 90)
 			(layer "B.Fab")
 			(hide yes)
@@ -57527,7 +57527,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
+		(property "Description" "10uF ±10% 10V Ceramic Capacitor X5R 0603"
 			(at 0 0 0)
 			(layer "B.Fab")
 			(hide yes)
@@ -57858,7 +57858,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
+		(property "Description" "10uF ±10% 10V Ceramic Capacitor X5R 0603"
 			(at 0 0 180)
 			(layer "B.Fab")
 			(hide yes)
@@ -58189,7 +58189,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "14kΩ ±1% 62.5mW 0402 Thick Film Resistor"
 			(at 0 0 90)
 			(layer "B.Fab")
 			(hide yes)
@@ -58720,7 +58720,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "301kΩ ±1% 62.5mW 0402 Thick Film Resistor"
 			(at 0 0 0)
 			(layer "B.Fab")
 			(hide yes)
@@ -59233,7 +59233,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" "Unpolarized capacitor"
+		(property "Description" "100nF ±10% 50V Ceramic Capacitor X7R 0402"
 			(at 0 0 90)
 			(layer "B.Fab")
 			(hide yes)
@@ -59997,7 +59997,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
+		(property "Description" "100nF ±10% 50V Ceramic Capacitor X7R 0402"
 			(at 0 0 90)
 			(layer "B.Fab")
 			(hide yes)
@@ -60328,7 +60328,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
+		(property "Description" "10uF ±10% 10V Ceramic Capacitor X5R 0603"
 			(at 0 0 90)
 			(layer "B.Fab")
 			(hide yes)
@@ -60659,7 +60659,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
+		(property "Description" "100nF ±10% 50V Ceramic Capacitor X7R 0402"
 			(at 0 0 90)
 			(layer "B.Fab")
 			(hide yes)
@@ -60990,7 +60990,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "10kΩ ±1% 62.5mW 0402 Thick Film Resistor"
 			(at 0 0 0)
 			(layer "B.Fab")
 			(hide yes)
@@ -61503,7 +61503,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "100kΩ ±1% 62.5mW 0402 Thick Film Resistor"
 			(at 0 0 90)
 			(layer "B.Fab")
 			(hide yes)
@@ -61834,7 +61834,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" "Unpolarized capacitor"
+		(property "Description" "100nF ±10% 50V Ceramic Capacitor X7R 0402"
 			(at 0 0 0)
 			(layer "B.Fab")
 			(hide yes)
@@ -62165,7 +62165,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
+		(property "Description" "22nF ±10% 50V Ceramic Capacitor X7R 0603"
 			(at 0 0 0)
 			(layer "B.Fab")
 			(hide yes)
@@ -62496,7 +62496,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" "Unpolarized capacitor"
+		(property "Description" "1nF ±10% 50V Ceramic Capacitor X7R 0402"
 			(at 0 0 90)
 			(layer "B.Fab")
 			(hide yes)
@@ -63229,7 +63229,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "5.1kΩ ±1% 62.5mW 0402 Thick Film Resistor"
 			(at 0 0 90)
 			(layer "B.Fab")
 			(hide yes)
@@ -63560,7 +63560,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" "Unpolarized capacitor"
+		(property "Description" "1uF ±10% 10V Ceramic Capacitor X5R 0402"
 			(at 0 0 90)
 			(layer "B.Fab")
 			(hide yes)
@@ -63891,7 +63891,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "5.1kΩ ±1% 62.5mW 0402 Thick Film Resistor"
 			(at 0 0 0)
 			(layer "B.Fab")
 			(hide yes)
@@ -64222,7 +64222,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" "Unpolarized capacitor"
+		(property "Description" "10uF ±10% 10V Ceramic Capacitor X5R 0603"
 			(at 0 0 90)
 			(layer "B.Fab")
 			(hide yes)
@@ -64553,7 +64553,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" "Unpolarized capacitor"
+		(property "Description" "100nF ±10% 50V Ceramic Capacitor X7R 0402"
 			(at 0 0 0)
 			(layer "B.Fab")
 			(hide yes)
@@ -64884,7 +64884,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" "Unpolarized capacitor"
+		(property "Description" "22pF ±5% 50V Ceramic Capacitor C0G 0402"
 			(at 0 0 90)
 			(layer "B.Fab")
 			(hide yes)
@@ -65648,7 +65648,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
+		(property "Description" "100nF ±10% 50V Ceramic Capacitor X7R 0402"
 			(at 0 0 0)
 			(layer "B.Fab")
 			(hide yes)
@@ -65979,7 +65979,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
+		(property "Description" "100nF ±10% 50V Ceramic Capacitor X7R 0402"
 			(at 0 0 0)
 			(layer "B.Fab")
 			(hide yes)
@@ -66310,7 +66310,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "100Ω ±1% 62.5mW 0402 Thick Film Resistor"
 			(at 0 0 90)
 			(layer "B.Fab")
 			(hide yes)
@@ -66641,7 +66641,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
+		(property "Description" "22uF ±20% 6.3V Ceramic Capacitor X5R 0603"
 			(at 0 0 0)
 			(layer "B.Fab")
 			(hide yes)
@@ -67154,7 +67154,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
+		(property "Description" "100nF ±10% 50V Ceramic Capacitor X7R 0402"
 			(at 0 0 90)
 			(layer "B.Fab")
 			(hide yes)
@@ -67485,7 +67485,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "549Ω ±1% 62.5mW 0402 Thick Film Resistor"
 			(at 0 0 0)
 			(layer "B.Fab")
 			(hide yes)
@@ -67951,7 +67951,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" "Unpolarized capacitor"
+		(property "Description" "100nF ±10% 50V Ceramic Capacitor X7R 0402"
 			(at 0 0 0)
 			(layer "B.Fab")
 			(hide yes)
@@ -68464,7 +68464,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "453kΩ ±1% 62.5mW 0402 Thick Film Resistor"
 			(at 0 0 90)
 			(layer "B.Fab")
 			(hide yes)
@@ -68795,7 +68795,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
+		(property "Description" "22nF ±10% 50V Ceramic Capacitor X7R 0603"
 			(at 0 0 0)
 			(layer "B.Fab")
 			(hide yes)
@@ -69126,7 +69126,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
+		(property "Description" "100nF ±10% 50V Ceramic Capacitor X7R 0402"
 			(at 0 0 90)
 			(layer "B.Fab")
 			(hide yes)
@@ -69457,7 +69457,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" "Inductor"
+		(property "Description" "800mA 2.2uH 299mΩ Multilayer inductor ±20% 0805 Fixed Inductors RoHS"
 			(at 0 0 180)
 			(layer "B.Fab")
 			(hide yes)
@@ -69972,7 +69972,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "5.1kΩ ±1% 62.5mW 0402 Thick Film Resistor"
 			(at 0 0 0)
 			(layer "B.Fab")
 			(hide yes)
@@ -70303,7 +70303,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" "Unpolarized capacitor"
+		(property "Description" "100nF ±10% 50V Ceramic Capacitor X7R 0402"
 			(at 0 0 0)
 			(layer "B.Fab")
 			(hide yes)
@@ -70634,7 +70634,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" "Unpolarized capacitor"
+		(property "Description" "100nF ±10% 50V Ceramic Capacitor X7R 0402"
 			(at 0 0 90)
 			(layer "B.Fab")
 			(hide yes)
@@ -70966,7 +70966,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" "Inductor"
+		(property "Description" "800mA 2.2uH 299mΩ Multilayer inductor ±20% 0805 Fixed Inductors RoHS"
 			(at 0 0 180)
 			(layer "B.Fab")
 			(hide yes)
@@ -71299,7 +71299,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" "Unpolarized capacitor"
+		(property "Description" "100nF ±10% 50V Ceramic Capacitor X7R 0402"
 			(at 0 0 0)
 			(layer "B.Fab")
 			(hide yes)
@@ -71630,7 +71630,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "10kΩ ±1% 62.5mW 0402 Thick Film Resistor"
 			(at 0 0 90)
 			(layer "B.Fab")
 			(hide yes)
@@ -71961,7 +71961,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" "Unpolarized capacitor"
+		(property "Description" "1uF ±10% 10V Ceramic Capacitor X5R 0402"
 			(at 0 0 180)
 			(layer "B.Fab")
 			(hide yes)
@@ -72292,7 +72292,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
+		(property "Description" "100nF ±10% 50V Ceramic Capacitor X7R 0402"
 			(at 0 0 90)
 			(layer "B.Fab")
 			(hide yes)
@@ -72623,7 +72623,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "5.1kΩ ±1% 62.5mW 0402 Thick Film Resistor"
 			(at 0 0 0)
 			(layer "B.Fab")
 			(hide yes)
@@ -72954,7 +72954,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
+		(property "Description" "10uF ±10% 10V Ceramic Capacitor X5R 0603"
 			(at 0 0 90)
 			(layer "B.Fab")
 			(hide yes)
@@ -73285,7 +73285,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
+		(property "Description" "100nF ±10% 50V Ceramic Capacitor X7R 0402"
 			(at 0 0 180)
 			(layer "B.Fab")
 			(hide yes)
