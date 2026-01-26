@@ -8242,7 +8242,7 @@
 	)
 	(wire
 		(pts
-			(xy 264.16 83.82) (xy 273.812 83.82)
+			(xy 264.16 83.82) (xy 274.32 83.82)
 		)
 		(stroke
 			(width 0)
@@ -8452,7 +8452,7 @@
 	)
 	(wire
 		(pts
-			(xy 264.16 71.12) (xy 276.098 71.12)
+			(xy 264.16 71.12) (xy 275.59 71.12)
 		)
 		(stroke
 			(width 0)
@@ -8602,7 +8602,7 @@
 	)
 	(wire
 		(pts
-			(xy 264.16 109.22) (xy 273.812 109.22)
+			(xy 264.16 109.22) (xy 275.59 109.22)
 		)
 		(stroke
 			(width 0)
@@ -8702,7 +8702,7 @@
 	)
 	(wire
 		(pts
-			(xy 264.16 68.58) (xy 276.098 68.58)
+			(xy 264.16 68.58) (xy 275.59 68.58)
 		)
 		(stroke
 			(width 0)
@@ -8742,7 +8742,7 @@
 	)
 	(wire
 		(pts
-			(xy 264.16 99.06) (xy 273.812 99.06)
+			(xy 264.16 99.06) (xy 275.59 99.06)
 		)
 		(stroke
 			(width 0)
@@ -9270,16 +9270,6 @@
 		)
 		(uuid "1a6ae98f-f36e-43c6-b01a-3062705af181")
 	)
-	(label "*ENABLE"
-		(at 266.7 99.06 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "1ce0a360-6deb-4043-8e75-cadbed53f117")
-	)
 	(label "D0_1+"
 		(at 182.88 71.12 0)
 		(effects
@@ -9301,7 +9291,7 @@
 		(uuid "26d8a5c5-a013-4058-8b8d-799a0400245d")
 	)
 	(label "CLKOUT+"
-		(at 274.828 68.58 180)
+		(at 275.59 68.58 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9369,6 +9359,16 @@
 			(justify left bottom)
 		)
 		(uuid "57af81c0-6f36-409a-80b9-398121929b9f")
+	)
+	(label "*ENABLE"
+		(at 266.7 99.06 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "620dc01e-b399-4885-9cae-aaf6f205a8e7")
 	)
 	(label "CLKOUT+"
 		(at 142.24 107.95 180)
@@ -9601,7 +9601,7 @@
 		(uuid "bbc67e4f-04c8-44c5-aa91-a48917549ff3")
 	)
 	(label "CLKOUT-"
-		(at 274.828 71.12 180)
+		(at 275.59 71.12 180)
 		(effects
 			(font
 				(size 1.27 1.27)

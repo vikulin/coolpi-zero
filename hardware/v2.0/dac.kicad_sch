@@ -5851,17 +5851,7 @@
 	)
 	(wire
 		(pts
-			(xy 148.59 92.71) (xy 158.75 92.71)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "6b243d4d-1ec4-4103-8e7d-3b7bddf37f0c")
-	)
-	(wire
-		(pts
-			(xy 125.73 97.79) (xy 135.89 97.79)
+			(xy 132.08 92.71) (xy 158.75 92.71)
 		)
 		(stroke
 			(width 0)
@@ -5900,7 +5890,7 @@
 		(uuid "35dc5c4c-4951-411c-955b-be9107e90cc2")
 	)
 	(label "~{CS}(DAC)"
-		(at 128.27 97.79 0)
+		(at 148.59 92.71 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5928,16 +5918,6 @@
 			(justify right bottom)
 		)
 		(uuid "d4a52547-2dff-4fe1-8824-63447cdea97d")
-	)
-	(label "~{CS}(DAC)"
-		(at 148.59 92.71 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "e13aa248-c4cd-4eb8-a789-74c152d98328")
 	)
 	(global_label "SCK"
 		(shape input)
@@ -6388,7 +6368,7 @@
 	)
 	(symbol
 		(lib_id "icepi-lib:LFE5U-25F-6BG256x")
-		(at 105.41 110.49 0)
+		(at 111.76 105.41 0)
 		(unit 12)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -6396,7 +6376,7 @@
 		(dnp no)
 		(uuid "a01a787a-1d09-4044-bbe8-cde565083314")
 		(property "Reference" "U1"
-			(at 105.41 81.28 0)
+			(at 111.76 76.2 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6404,7 +6384,7 @@
 			)
 		)
 		(property "Value" "ECP5U-25F-CABGA256"
-			(at 105.41 83.82 0)
+			(at 111.76 78.74 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6412,7 +6392,7 @@
 			)
 		)
 		(property "Footprint" "Package_BGA:BGA-256_14.0x14.0mm_Layout16x16_P0.8mm_Ball0.45mm_Pad0.32mm_NSMD"
-			(at 103.632 40.132 0)
+			(at 109.982 35.052 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6421,7 +6401,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 105.41 110.49 0)
+			(at 111.76 105.41 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6430,7 +6410,7 @@
 			)
 		)
 		(property "Description" "ECP5 FPGA, 24K LUTs, 1.2V, BGA-256"
-			(at 103.632 42.672 0)
+			(at 109.982 37.592 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6439,7 +6419,7 @@
 			)
 		)
 		(property "MANUFACTURER" "Lattice"
-			(at 105.41 110.49 0)
+			(at 111.76 105.41 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6448,7 +6428,7 @@
 			)
 		)
 		(property "MANUFACTURER_PART_NUMBER" "LFE5U-25F-6BG256C"
-			(at 105.41 110.49 0)
+			(at 111.76 105.41 0)
 			(effects
 				(font
 					(size 1.27 1.27)
