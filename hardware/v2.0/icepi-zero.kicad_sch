@@ -8229,7 +8229,7 @@
 			(embedded_fonts no)
 		)
 	)
-	(text "Icepi Zero v2.0!"
+	(text "Icepi Zero v2.5!"
 		(exclude_from_sim no)
 		(at 135.89 18.542 0)
 		(effects

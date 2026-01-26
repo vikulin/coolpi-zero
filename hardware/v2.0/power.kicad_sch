@@ -20541,7 +20541,7 @@
 		(dnp no)
 		(uuid "a5f6a7d0-57d6-4a19-814f-fd75c6d73055")
 		(property "Reference" "C12"
-			(at 174.498 81.28 0)
+			(at 174.752 78.232 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20550,7 +20550,7 @@
 			)
 		)
 		(property "Value" "5n6"
-			(at 174.498 78.74 0)
+			(at 174.498 80.518 0)
 			(effects
 				(font
 					(size 1.27 1.27)
