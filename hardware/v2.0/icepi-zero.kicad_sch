@@ -5412,6 +5412,24 @@
 					)
 				)
 				(pin bidirectional line
+					(at -20.32 -1.27 0)
+					(length 5.08)
+					(name "PT56B/-"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "C12"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
 					(at -20.32 -7.62 0)
 					(length 5.08)
 					(name "PT27A/+/PCLKT0_1"
@@ -5893,24 +5911,6 @@
 						)
 					)
 					(number "C10"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin bidirectional line
-					(at -11.684 43.18 270)
-					(length 5.08)
-					(name "PT49B/-"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "C11"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -7094,14 +7094,14 @@
 				(pin bidirectional line
 					(at 38.1 -11.43 180)
 					(length 5.08)
-					(name "PT56B/-"
+					(name "PT49B/-"
 						(effects
 							(font
 								(size 1.27 1.27)
 							)
 						)
 					)
-					(number "C12"
+					(number "C11"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -8361,6 +8361,16 @@
 			(type default)
 		)
 		(uuid "2ef3335d-1c57-4c51-abfa-0ea0d6b27c64")
+	)
+	(wire
+		(pts
+			(xy 71.12 123.19) (xy 83.82 123.19)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "310d6476-bb62-405f-9cee-a4ddaf993e97")
 	)
 	(wire
 		(pts
@@ -9636,6 +9646,16 @@
 			(justify right bottom)
 		)
 		(uuid "11668d20-7ce3-4a6d-81d7-fca8b7806f2c")
+	)
+	(label "~{CS}(SPI)"
+		(at 71.12 123.19 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "13161c62-316c-49ed-be56-cb19bf462450")
 	)
 	(label "GPIO7"
 		(at 280.67 125.73 180)
@@ -13264,9 +13284,6 @@
 		(pin "C7"
 			(uuid "c24053ce-e790-449d-beb4-52ae6ab8408b")
 		)
-		(pin "C11"
-			(uuid "5ddec883-672b-4198-8540-e83aaae905ab")
-		)
 		(pin "C12"
 			(uuid "fa2c86ac-cbd7-4da8-9aff-51f0e78634d3")
 		)
@@ -13650,6 +13667,9 @@
 		)
 		(pin "N6"
 			(uuid "9dd5e0ef-9ebf-4a1b-8a11-a3efb52e4f17")
+		)
+		(pin "C11"
+			(uuid "35452ca5-1ab2-4e02-a042-0ad446c8a8bf")
 		)
 		(instances
 			(project ""
@@ -15809,9 +15829,6 @@
 		(pin "E10"
 			(uuid "396390f7-c3d1-49e6-87ca-98bb60301ac4")
 		)
-		(pin "C11"
-			(uuid "413004ae-5690-4e42-959f-fa1b5d4abf27")
-		)
 		(pin "L3"
 			(uuid "406c2c71-9e4e-4823-b1ff-077729a47a74")
 		)
@@ -16171,6 +16188,9 @@
 		)
 		(pin "N6"
 			(uuid "cd3b444b-b1b2-4184-8407-c334306aa787")
+		)
+		(pin "C11"
+			(uuid "42e91f86-0890-47ce-8e62-b94664a30081")
 		)
 		(instances
 			(project "icepi-zero"
