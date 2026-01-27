@@ -1,0 +1,9 @@
+Manufacturer=Analog Devices
+PartNumber=LTC2622IMS8#PBF
+PartCategory=Integrated Circuit
+PackageCategory=Small Outline Packages
+PinCount=8
+Version=2.1
+Released=2021-02-01 12:38:01
+Downloaded=2026-01-27 08:33:07
+3D=Y
