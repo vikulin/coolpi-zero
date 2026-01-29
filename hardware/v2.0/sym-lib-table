@@ -11,4 +11,5 @@
   (lib (name "TCR5FM50A")(type "KiCad")(uri "${KIPRJMOD}/libraries/icepi-lib.petty/TCR5FM50A/TCR5FM50A.kicad_sym")(options "")(descr ""))
   (lib (name "TCR5FM18A")(type "KiCad")(uri "${KIPRJMOD}/libraries/icepi-lib.petty/TCR5FM18A/TCR5FM18A.kicad_sym")(options "")(descr ""))
   (lib (name "BM04B-ACHSS-A-GAN-TF_LF__SN_")(type "KiCad")(uri "${KIPRJMOD}/libraries/icepi-lib.petty/BM04B_ACHSS_A_GAN_TF_LF__SN/BM04B-ACHSS-A-GAN-TF_LF__SN_.kicad_sym")(options "")(descr ""))
+  (lib (name "LM4040AIM3-2_0_NOPB")(type "KiCad")(uri "${KIPRJMOD}/libraries/icepi-lib.petty/LM4040AIM3-2.0_NOPB/LM4040AIM3-2_0_NOPB.kicad_sym")(options "")(descr ""))
 )

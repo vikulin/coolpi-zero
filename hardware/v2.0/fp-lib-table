@@ -13,4 +13,5 @@
   (lib (name "VSSOP-8_2.3x2mm_P0.5mm-exp-mask")(type "KiCad")(uri "${KIPRJMOD}/libraries/icepi-lib.petty/VSSOP-8_2.3x2mm_P0.5mm-exp-mask")(options "")(descr ""))
   (lib (name "LTC2622IMS8#PBF")(type "KiCad")(uri "${KIPRJMOD}/libraries/icepi-lib.petty/LTC2622IMS8#PBF")(options "")(descr ""))
   (lib (name "BM04B_ACHSS_A_GAN_TF_LF__SN")(type "KiCad")(uri "${KIPRJMOD}/libraries/icepi-lib.petty/BM04B_ACHSS_A_GAN_TF_LF__SN")(options "")(descr ""))
+  (lib (name "LM4040AIM3-2.0_NOPB")(type "KiCad")(uri "${KIPRJMOD}/libraries/icepi-lib.petty/LM4040AIM3-2.0_NOPB")(options "")(descr ""))
 )

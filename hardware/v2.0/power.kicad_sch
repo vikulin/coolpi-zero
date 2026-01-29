@@ -15738,7 +15738,7 @@
 				(hide yes)
 			)
 		)
-		(property "MANUFACTURER_PART_NUMBER" "ltc3407aedd2"
+		(property "MANUFACTURER_PART_NUMBER" "LTC3407AEDD-2#PBF"
 			(at 181.61 69.85 0)
 			(effects
 				(font

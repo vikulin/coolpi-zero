@@ -2344,20 +2344,22 @@
 			(exclude_from_sim no)
 			(in_bom yes)
 			(on_board yes)
-			(property "Reference" "U13"
-				(at 0 12.7 0)
+			(property "Reference" "U"
+				(at -0.762 11.43 0)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
+					(justify left bottom)
 				)
 			)
 			(property "Value" "TCR5FM50A"
-				(at 0 10.16 0)
+				(at -4.572 8.636 0)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
+					(justify left bottom)
 				)
 			)
 			(property "Footprint" "TCR5FM50A:TCR5FM50A"
@@ -2428,15 +2430,6 @@
 					(hide yes)
 				)
 			)
-			(property "MANUFACTURER_PART_NUMBER" "TCR5FM50A,RF"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
 			(symbol "TCR5FM50A_0_0"
 				(rectangle
 					(start -10.16 7.62)
@@ -2485,26 +2478,6 @@
 						)
 					)
 				)
-				(pin power_in line
-					(at 15.24 -2.54 180)
-					(length 5.08)
-					(name "GND"
-						(effects
-							(font
-								(size 1.016 1.016)
-							)
-						)
-					)
-					(number "2"
-						(effects
-							(font
-								(size 1.016 1.016)
-							)
-						)
-					)
-				)
-			)
-			(symbol "TCR5FM50A_1_0"
 				(pin power_out line
 					(at 15.24 5.08 180)
 					(length 5.08)
@@ -2516,6 +2489,24 @@
 						)
 					)
 					(number "1"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+				)
+				(pin power_in line
+					(at 15.24 -2.54 180)
+					(length 5.08)
+					(name "GND"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+					(number "2"
 						(effects
 							(font
 								(size 1.016 1.016)
@@ -11018,7 +11009,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LT1993CUD_2_PBF:QFN-16"
+		(property "Footprint" "LT1993CUD-2_PBF:QFN-16_UD"
 			(at 107.95 67.31 0)
 			(effects
 				(font
@@ -11056,7 +11047,7 @@
 				(hide yes)
 			)
 		)
-		(property "MANUFACTURER_PART_NUMBER" "lt1993cud2"
+		(property "MANUFACTURER_PART_NUMBER" "LT1993CUD-2#PBF"
 			(at 107.95 67.31 0)
 			(effects
 				(font
@@ -15745,7 +15736,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "10Ω 63mW Thick Film Resistor ±100ppm/℃ ±1% 0402 Chip Resistor - Surface Mount RoHS"
+		(property "Description" "63mW ±1% 10Ω Thick Film Resistor ±100ppm/℃ 0402 Chip Resistor - Surface Mount RoHS"
 			(at 138.43 74.93 0)
 			(effects
 				(font
@@ -16043,7 +16034,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "10Ω 63mW Thick Film Resistor ±100ppm/℃ ±1% 0402 Chip Resistor - Surface Mount RoHS"
+		(property "Description" "63mW ±1% 10Ω Thick Film Resistor ±100ppm/℃ 0402 Chip Resistor - Surface Mount RoHS"
 			(at 138.43 77.47 0)
 			(effects
 				(font
@@ -16688,7 +16679,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "80.6Ω 62.5mW Thick Film Resistor ±100ppm/℃ ±1% 0402 Chip Resistor - Surface Mount RoHS"
+		(property "Description" "±1% 62.5mW 80.6Ω Thick Film Resistor ±100ppm/℃ 0402 Chip Resistor - Surface Mount RoHS"
 			(at 44.45 71.12 0)
 			(effects
 				(font
