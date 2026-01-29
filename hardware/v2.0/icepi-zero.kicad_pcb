@@ -670,7 +670,7 @@
 				)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
+		(property "Description" "22nF ±10% 50V Ceramic Capacitor X7R 0402"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -987,7 +987,7 @@
 				)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
+		(property "Description" "22nF ±10% 50V Ceramic Capacitor X7R 0402"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -1596,7 +1596,7 @@
 				)
 			)
 		)
-		(property "Description" "Unpolarized capacitor"
+		(property "Description" "22uF ±20% 6.3V Ceramic Capacitor X5R 0603"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -1913,7 +1913,7 @@
 				)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "15kΩ ±1% 62.5mW 0402 Thick Film Resistor"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -2230,7 +2230,7 @@
 				)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "63mW ±1% 10Ω Thick Film Resistor ±100ppm/℃ 0402 Chip Resistor - Surface Mount RoHS"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -2548,7 +2548,7 @@
 				)
 			)
 		)
-		(property "Description" "Push button switch, generic, two pins"
+		(property "Description" "Tactile Switch SPST 160gf 2mm SMD (SMT) Tab 4mm x 3mm Surface Mount"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -4619,7 +4619,7 @@
 				)
 			)
 		)
-		(property "Description" "Ferrite bead"
+		(property "Description" "1kΩ@100MHz 1 Line Ferrite Bead 0603 450mA 500mΩ"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -4938,7 +4938,7 @@
 				)
 			)
 		)
-		(property "Description" "TOP MOUNT / 1515 / 1.5 X 1.5 X 0"
+		(property "Description" "SMD-4_1.5X1.5 LED Addressable, Specialty RoHS"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -5799,7 +5799,7 @@
 				)
 			)
 		)
-		(property "Description" "Light emitting diode"
+		(property "Description" "Red 645nm LED Indication - Discrete 2.4V 0603"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -6151,7 +6151,7 @@
 				)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "470Ω ±1% 62.5mW 0402 Thick Film Resistor"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -6468,7 +6468,7 @@
 				)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "4.7kΩ ±1% 62.5mW 0402 Thick Film Resistor"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -6785,7 +6785,7 @@
 				)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "3.3kΩ ±1% 62.5mW 0402 Thick Film Resistor"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -7104,7 +7104,7 @@
 				)
 			)
 		)
-		(property "Description" "TOP MOUNT / 1515 / 1.5 X 1.5 X 0"
+		(property "Description" "SMD-4_1.5X1.5 LED Addressable, Specialty RoHS"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -7482,7 +7482,7 @@
 				)
 			)
 		)
-		(property "Description" "Push button switch, generic, two pins"
+		(property "Description" "Tactile Switch SPST 160gf 2mm SMD (SMT) Tab 4mm x 3mm Surface Mount"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -7885,7 +7885,7 @@
 				)
 			)
 		)
-		(property "Description" "Unpolarized capacitor"
+		(property "Description" "2.7nF ±10% 50V Ceramic Capacitor X7R 0402"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -8202,7 +8202,7 @@
 				)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "27Ω ±1% 50mW 0201 Thick Film Resistor"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -8513,7 +8513,7 @@
 				)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
+		(property "Description" "22nF ±10% 50V Ceramic Capacitor X7R 0402"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -8831,7 +8831,7 @@
 				)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "4.7MΩ ±1% 62.5mW 0402 Thick Film Resistor"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -10005,7 +10005,7 @@
 				)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
+		(property "Description" "100nF ±10% 50V Ceramic Capacitor X7R 0402"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -10322,7 +10322,7 @@
 				)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
+		(property "Description" "22nF ±10% 50V Ceramic Capacitor X7R 0402"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -10639,7 +10639,7 @@
 				)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "27Ω ±1% 50mW 0201 Thick Film Resistor"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -10950,7 +10950,7 @@
 				)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "1kΩ ±1% 62.5mW 0402 Thick Film Resistor"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -11703,7 +11703,7 @@
 				)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "100kΩ ±1% 62.5mW 0402 Thick Film Resistor"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -12020,7 +12020,7 @@
 				)
 			)
 		)
-		(property "Description" "Unpolarized capacitor"
+		(property "Description" "22uF ±20% 6.3V Ceramic Capacitor X5R 0603"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -12337,7 +12337,7 @@
 				)
 			)
 		)
-		(property "Description" "Unpolarized capacitor"
+		(property "Description" "100nF ±10% 50V Ceramic Capacitor X7R 0402"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -12654,7 +12654,7 @@
 				)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
+		(property "Description" "22nF ±10% 50V Ceramic Capacitor X7R 0402"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -13805,7 +13805,7 @@
 				)
 			)
 		)
-		(property "MANUFACTURER_PART_NUMBER" "ltc3407aedd2"
+		(property "MANUFACTURER_PART_NUMBER" "LTC3407AEDD-2#PBF"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -17667,7 +17667,7 @@
 				)
 			)
 		)
-		(property "Description" "TOP MOUNT / 1515 / 1.5 X 1.5 X 0"
+		(property "Description" "SMD-4_1.5X1.5 LED Addressable, Specialty RoHS"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -18044,7 +18044,7 @@
 				)
 			)
 		)
-		(property "Description" "Unpolarized capacitor"
+		(property "Description" "22uF ±20% 6.3V Ceramic Capacitor X5R 0603"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -19298,7 +19298,7 @@
 				)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
+		(property "Description" "22nF ±10% 50V Ceramic Capacitor X7R 0402"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -19615,7 +19615,7 @@
 				)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "1kΩ ±1% 62.5mW 0402 Thick Film Resistor"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -20307,7 +20307,7 @@
 				)
 			)
 		)
-		(property "Description" "TOP MOUNT / 1515 / 1.5 X 1.5 X 0"
+		(property "Description" "SMD-4_1.5X1.5 LED Addressable, Specialty RoHS"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -20684,7 +20684,7 @@
 				)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "27Ω ±1% 50mW 0201 Thick Film Resistor"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -20995,7 +20995,7 @@
 				)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "63mW ±1% 10Ω Thick Film Resistor ±100ppm/℃ 0402 Chip Resistor - Surface Mount RoHS"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -21312,7 +21312,7 @@
 				)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "100kΩ ±1% 62.5mW 0402 Thick Film Resistor"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -21629,7 +21629,7 @@
 				)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "4.7kΩ ±1% 62.5mW 0402 Thick Film Resistor"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -23268,7 +23268,7 @@
 				)
 			)
 		)
-		(property "Description" "Unpolarized capacitor"
+		(property "Description" "5.6nF X7R ±10% 50V 0402 Ceramic Capacitors RoHS"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -24226,7 +24226,7 @@
 				)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
+		(property "Description" "22nF ±10% 50V Ceramic Capacitor X7R 0402"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -24543,7 +24543,7 @@
 				)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
+		(property "Description" "22nF ±10% 50V Ceramic Capacitor X7R 0402"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -25038,7 +25038,7 @@
 				)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "10kΩ ±1% 62.5mW 0402 Thick Film Resistor"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -25356,7 +25356,7 @@
 				)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "4.7MΩ ±1% 62.5mW 0402 Thick Film Resistor"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -25673,7 +25673,7 @@
 				)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "470Ω ±1% 62.5mW 0402 Thick Film Resistor"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -25990,7 +25990,7 @@
 				)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "±1% 62.5mW 80.6Ω Thick Film Resistor ±100ppm/℃ 0402 Chip Resistor - Surface Mount RoHS"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -26307,7 +26307,7 @@
 				)
 			)
 		)
-		(property "Description" "Unpolarized capacitor"
+		(property "Description" "1uF ±10% 10V Ceramic Capacitor X5R 0402"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -26624,7 +26624,7 @@
 				)
 			)
 		)
-		(property "Description" "Unpolarized capacitor"
+		(property "Description" "10uF ±10% 10V Ceramic Capacitor X5R 0603"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -26941,7 +26941,7 @@
 				)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "27Ω ±1% 50mW 0201 Thick Film Resistor"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -27252,7 +27252,7 @@
 				)
 			)
 		)
-		(property "Description" "Unpolarized capacitor"
+		(property "Description" "10uF ±10% 10V Ceramic Capacitor X5R 0603"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -28035,7 +28035,7 @@
 				)
 			)
 		)
-		(property "Description" "Unpolarized capacitor"
+		(property "Description" "22uF ±20% 6.3V Ceramic Capacitor X5R 0603"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -28352,7 +28352,7 @@
 				)
 			)
 		)
-		(property "Description" "Unpolarized capacitor"
+		(property "Description" "100nF ±10% 50V Ceramic Capacitor X7R 0402"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -28669,7 +28669,7 @@
 				)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "1kΩ ±1% 62.5mW 0402 Thick Film Resistor"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -29471,7 +29471,7 @@
 				)
 			)
 		)
-		(property "Description" "Inductor"
+		(property "Description" "800mA 2.2uH 299mΩ Multilayer inductor ±20% 0805 Fixed Inductors RoHS"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -29749,7 +29749,7 @@
 			)
 		)
 	)
-	(footprint "LT1993CUD_2_PBF:QFN-16_UD"
+	(footprint "LT1993CUD_2_PBF:QFN-16"
 		(locked yes)
 		(layer "F.Cu")
 		(uuid "efdd8051-2922-4fd1-99c4-83383042643f")
@@ -29758,7 +29758,7 @@
 			(at -0.6024 -2.7548 90)
 			(layer "F.SilkS")
 			(hide yes)
-			(uuid "25c05ec8-010d-43c5-9e04-a4d6a5fe8629")
+			(uuid "e102fa74-d057-43f6-9995-d2e3f05909ac")
 			(effects
 				(font
 					(size 0.314961 0.314961)
@@ -29769,7 +29769,7 @@
 		(property "Value" "LT1993CUD-2_PBF"
 			(at 0.1976 2.7548 90)
 			(layer "F.Fab")
-			(uuid "8f83d79e-8933-4517-869f-c91eb4475eee")
+			(uuid "733540e6-07bd-40e2-9e98-57339bafd728")
 			(effects
 				(font
 					(size 0.314961 0.314961)
@@ -29781,7 +29781,7 @@
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "d037c15b-c5a1-4f18-b95c-7374b25dfe4a")
+			(uuid "b7604b78-067f-4c3e-8098-27a36abd8b6d")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -29789,11 +29789,11 @@
 				)
 			)
 		)
-		(property "Description" "1mV 1100V/us three routes 70dB QFN-16-EP(3x3) Amplifiers RoHS"
+		(property "Description" ""
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "5f11ead3-7a20-4227-aa50-48a335492d9a")
+			(uuid "b9100321-331c-4079-8e92-bcd72f1e82d5")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -29814,7 +29814,7 @@
 				)
 			)
 		)
-		(property "MANUFACTURER_PART_NUMBER" "lt1993cud2"
+		(property "MANUFACTURER_PART_NUMBER" "LT1993CUD-2#PBF"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -29878,7 +29878,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "2aa01096-1971-4d4b-8cdf-b020017e1f1f")
+			(uuid "1542a2ce-bb7a-4306-9507-c91c5b96be12")
 		)
 		(fp_line
 			(start 1.2446 1.6764)
@@ -29888,7 +29888,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "146d5362-83d9-4110-93c5-f7d7b4a9896a")
+			(uuid "e5eb5f63-4b5e-4c7f-8a22-c206d9baf2c2")
 		)
 		(fp_line
 			(start 1.6764 1.6764)
@@ -29898,7 +29898,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "25e6dcc4-92ed-4281-98c5-e15679f8253d")
+			(uuid "169d735b-9f04-46c7-ac0c-85cf878be2b4")
 		)
 		(fp_line
 			(start -1.6764 1.2446)
@@ -29908,7 +29908,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "b8b9603f-7590-4f11-8202-f45e979c9517")
+			(uuid "fd88c6e5-4008-440e-9315-216b0a02a44e")
 		)
 		(fp_line
 			(start 1.6764 -1.2446)
@@ -29918,7 +29918,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "53994112-3787-4868-a18e-86429d46cbba")
+			(uuid "3eafa97b-e8b2-42a1-8174-882e7f802b18")
 		)
 		(fp_line
 			(start -1.6764 -1.6764)
@@ -29928,7 +29928,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "9fdc6271-1d1a-44eb-9050-0e894b8155fa")
+			(uuid "6618313b-c81b-45a9-a295-4d493e16c121")
 		)
 		(fp_line
 			(start -1.2446 -1.6764)
@@ -29938,7 +29938,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "61881af9-71f7-4a8e-8d42-a1d2f2c22b4c")
+			(uuid "3c12e487-71c6-4564-86cb-e7bf72b2fd45")
 		)
 		(fp_line
 			(start 1.6764 -1.6764)
@@ -29948,7 +29948,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "f41a1375-f84d-4e16-a4de-57588141921b")
+			(uuid "18ca1f87-ed71-4b95-af7f-b77b9cb5f88a")
 		)
 		(fp_poly
 			(pts
@@ -29960,7 +29960,7 @@
 			)
 			(fill yes)
 			(layer "F.Paste")
-			(uuid "c3a8ed22-d77a-4a77-985e-5f25875ec1dc")
+			(uuid "c88913de-e1d1-4aed-a453-7d31ebf85a70")
 		)
 		(fp_line
 			(start -1.5494 1.5494)
@@ -29970,7 +29970,7 @@
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "2304ec46-3d1d-4c64-aa62-b3d6bd2bc498")
+			(uuid "ef5edd0e-01f1-43cc-9d6a-5c27cfb28774")
 		)
 		(fp_line
 			(start -0.889 1.5494)
@@ -29980,7 +29980,7 @@
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "2d7a844c-4073-4f42-b7c6-e7a3e08f825d")
+			(uuid "45ee9b0d-82ab-4e70-bbe1-2ba3b328854a")
 		)
 		(fp_line
 			(start -0.4064 1.5494)
@@ -29990,7 +29990,7 @@
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "27f711da-fb7b-4080-8753-edfe4999a1fb")
+			(uuid "db00d8f4-bbae-400d-b108-18922c24dc15")
 		)
 		(fp_line
 			(start 0.1016 1.5494)
@@ -30000,7 +30000,7 @@
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "bf283233-fe32-4c39-ac46-9430636b1f73")
+			(uuid "2c4892fb-83f6-4e7f-9f4b-1881847ac64a")
 		)
 		(fp_line
 			(start 0.6096 1.5494)
@@ -30010,7 +30010,7 @@
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "d56bb27d-5a44-49b1-8dea-63d4f1b32dd6")
+			(uuid "8037aa50-94d4-4df6-a6c0-d26a032dcce5")
 		)
 		(fp_line
 			(start 1.5494 1.5494)
@@ -30020,7 +30020,7 @@
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "e0b0f42d-6638-4dba-b155-57e65d822538")
+			(uuid "11b1bce7-2f8d-44b6-897a-b33be7c6b366")
 		)
 		(fp_line
 			(start 1.5494 0.889)
@@ -30030,7 +30030,7 @@
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "6923b884-7224-48c7-985b-21869e6284e2")
+			(uuid "d0e652b6-3099-4cb5-a83e-c39d5dac8487")
 		)
 		(fp_line
 			(start -1.5494 0.6096)
@@ -30040,7 +30040,7 @@
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "30b87cf7-4c93-4bdf-8e8b-36bb463bf4ca")
+			(uuid "474348fa-d4be-420b-9c3b-7ee8987a044a")
 		)
 		(fp_line
 			(start 1.5494 0.4064)
@@ -30050,7 +30050,7 @@
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "eae5eb85-b058-4b1a-86f4-bc971132b6dd")
+			(uuid "3e0ae03e-fc82-4a67-9e69-6f9dd39ce09b")
 		)
 		(fp_line
 			(start -1.5494 0.1016)
@@ -30060,7 +30060,7 @@
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "5c2d081d-ef76-4c44-9bf1-f0593c8eb123")
+			(uuid "8ccb5b8c-125e-445c-8d4b-1bd730ee6889")
 		)
 		(fp_line
 			(start 1.5494 -0.1016)
@@ -30070,7 +30070,7 @@
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "d81023c2-3c92-45c4-972c-5aab39e54868")
+			(uuid "8909c15b-b035-4cc2-8913-addad89d62ba")
 		)
 		(fp_line
 			(start -1.5494 -0.2794)
@@ -30080,7 +30080,7 @@
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "cd2899e1-9225-4731-b154-abe78cbbdcd5")
+			(uuid "665bcdf2-8488-4f37-a035-d734ce7f7d29")
 		)
 		(fp_line
 			(start -1.5494 -0.4064)
@@ -30090,7 +30090,7 @@
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "0c623b40-ab30-49f9-82ad-115427454767")
+			(uuid "8e3012e8-5fd9-405f-aa63-215901dc236b")
 		)
 		(fp_line
 			(start 1.5494 -0.6096)
@@ -30100,7 +30100,7 @@
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "c8f1dae1-2156-4e7d-be02-1ea57de6a584")
+			(uuid "930048dc-b1ef-47f5-9910-4471a69bd80b")
 		)
 		(fp_line
 			(start -1.5494 -0.889)
@@ -30110,7 +30110,7 @@
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "909b2534-ea5b-4a58-a9aa-b9e5afbc3a58")
+			(uuid "3c69fde2-5d47-4c65-aef1-29c97c04aa0a")
 		)
 		(fp_line
 			(start -1.5494 -1.5494)
@@ -30120,7 +30120,7 @@
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "2254089c-c90c-4a65-8318-c45f153db928")
+			(uuid "464ca6f7-0e9e-4630-a965-76c0d16334ee")
 		)
 		(fp_line
 			(start -0.6096 -1.5494)
@@ -30130,7 +30130,7 @@
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "8b9cdf52-3e2c-4188-8492-45c7185f0989")
+			(uuid "e32b74e2-3de8-4015-8c73-fa9a17785a0e")
 		)
 		(fp_line
 			(start -0.1016 -1.5494)
@@ -30140,7 +30140,7 @@
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "d08f4003-9bad-4c9b-8e5c-103b747d68fe")
+			(uuid "f644a3bd-8ff8-4b02-bb15-c1bf11065922")
 		)
 		(fp_line
 			(start 0.4064 -1.5494)
@@ -30150,7 +30150,7 @@
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "247cae4e-2b96-4449-b02a-d5dac77ed516")
+			(uuid "aada2fda-4522-49bc-9300-245beb4b9373")
 		)
 		(fp_line
 			(start 0.889 -1.5494)
@@ -30160,7 +30160,7 @@
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "a5c75d88-2f8d-44ae-877e-7c282bf484d0")
+			(uuid "6aea9fa0-c086-4c48-bdaa-53c40a07f69c")
 		)
 		(fp_line
 			(start 1.5494 -1.5494)
@@ -30170,7 +30170,7 @@
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "8d99cec0-f89d-4e4c-9c69-ba60b0872e53")
+			(uuid "1267c812-a924-4802-b249-34b6f2cddbb0")
 		)
 		(pad "1" smd rect
 			(at -1.4524 -0.75 270)
@@ -30381,7 +30381,7 @@
 				)
 			)
 		)
-		(property "Description" "TOP MOUNT / 1515 / 1.5 X 1.5 X 0"
+		(property "Description" "SMD-4_1.5X1.5 LED Addressable, Specialty RoHS"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -31500,7 +31500,7 @@
 				)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "15kΩ ±1% 62.5mW 0402 Thick Film Resistor"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -32274,7 +32274,7 @@
 				)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "3.3kΩ ±1% 62.5mW 0402 Thick Film Resistor"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -32594,7 +32594,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
+		(property "Description" "100nF ±10% 50V Ceramic Capacitor X7R 0402"
 			(at 0 0 90)
 			(layer "B.Fab")
 			(hide yes)
@@ -32925,7 +32925,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
+		(property "Description" "22nF ±10% 50V Ceramic Capacitor X7R 0603"
 			(at 0 0 0)
 			(layer "B.Fab")
 			(hide yes)
@@ -33256,7 +33256,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "4.7kΩ ±1% 62.5mW 0402 Thick Film Resistor"
 			(at 0 0 90)
 			(layer "B.Fab")
 			(hide yes)
@@ -33587,7 +33587,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
+		(property "Description" "100nF ±10% 50V Ceramic Capacitor X7R 0402"
 			(at 0 0 180)
 			(layer "B.Fab")
 			(hide yes)
@@ -34351,7 +34351,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "255kΩ ±1% 62.5mW 0402 Thick Film Resistor"
 			(at 0 0 90)
 			(layer "B.Fab")
 			(hide yes)
@@ -35115,7 +35115,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
+		(property "Description" "100nF ±10% 50V Ceramic Capacitor X7R 0402"
 			(at 0 0 90)
 			(layer "B.Fab")
 			(hide yes)
@@ -35446,7 +35446,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" "Unpolarized capacitor"
+		(property "Description" "22pF ±5% 50V Ceramic Capacitor C0G 0402"
 			(at 0 0 90)
 			(layer "B.Fab")
 			(hide yes)
@@ -35777,7 +35777,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" "Unpolarized capacitor"
+		(property "Description" "1nF ±10% 50V Ceramic Capacitor X7R 0402"
 			(at 0 0 90)
 			(layer "B.Fab")
 			(hide yes)
@@ -36108,7 +36108,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
+		(property "Description" "22nF ±10% 50V Ceramic Capacitor X7R 0603"
 			(at 0 0 0)
 			(layer "B.Fab")
 			(hide yes)
@@ -36803,7 +36803,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
+		(property "Description" "100nF ±10% 50V Ceramic Capacitor X7R 0402"
 			(at 0 0 0)
 			(layer "B.Fab")
 			(hide yes)
@@ -37134,7 +37134,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" "Unpolarized capacitor"
+		(property "Description" "100nF ±10% 50V Ceramic Capacitor X7R 0402"
 			(at 0 0 90)
 			(layer "B.Fab")
 			(hide yes)
@@ -37465,7 +37465,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
+		(property "Description" "100nF ±10% 50V Ceramic Capacitor X7R 0402"
 			(at 0 0 90)
 			(layer "B.Fab")
 			(hide yes)
@@ -37797,7 +37797,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" "Unpolarized capacitor"
+		(property "Description" "100nF ±10% 50V Ceramic Capacitor X7R 0402"
 			(at 0 0 0)
 			(layer "B.Fab")
 			(hide yes)
@@ -38128,7 +38128,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" "Unpolarized capacitor"
+		(property "Description" "100nF ±10% 50V Ceramic Capacitor X7R 0402"
 			(at 0 0 90)
 			(layer "B.Fab")
 			(hide yes)
@@ -38459,7 +38459,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" "Unpolarized capacitor"
+		(property "Description" "1nF ±10% 50V Ceramic Capacitor X7R 0402"
 			(at 0 0 0)
 			(layer "B.Fab")
 			(hide yes)
@@ -38790,7 +38790,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
+		(property "Description" "22nF ±10% 50V Ceramic Capacitor X7R 0603"
 			(at 0 0 0)
 			(layer "B.Fab")
 			(hide yes)
@@ -39303,7 +39303,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "1kΩ ±1% 62.5mW 0402 Thick Film Resistor"
 			(at 0 0 0)
 			(layer "B.Fab")
 			(hide yes)
@@ -39634,7 +39634,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" "Unpolarized capacitor"
+		(property "Description" "100nF ±10% 50V Ceramic Capacitor X7R 0402"
 			(at 0 0 90)
 			(layer "B.Fab")
 			(hide yes)
@@ -39965,7 +39965,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
+		(property "Description" "10uF ±10% 10V Ceramic Capacitor X5R 0603"
 			(at 0 0 0)
 			(layer "B.Fab")
 			(hide yes)
@@ -40296,7 +40296,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
+		(property "Description" "10uF ±10% 10V Ceramic Capacitor X5R 0603"
 			(at 0 0 90)
 			(layer "B.Fab")
 			(hide yes)
@@ -40627,7 +40627,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" "Unpolarized capacitor"
+		(property "Description" "100nF ±10% 50V Ceramic Capacitor X7R 0402"
 			(at 0 0 0)
 			(layer "B.Fab")
 			(hide yes)
@@ -41140,7 +41140,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "15kΩ ±1% 62.5mW 0402 Thick Film Resistor"
 			(at 0 0 0)
 			(layer "B.Fab")
 			(hide yes)
@@ -41471,7 +41471,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "5.1kΩ ±1% 62.5mW 0402 Thick Film Resistor"
 			(at 0 0 90)
 			(layer "B.Fab")
 			(hide yes)
@@ -41802,7 +41802,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "15kΩ ±1% 62.5mW 0402 Thick Film Resistor"
 			(at 0 0 0)
 			(layer "B.Fab")
 			(hide yes)
@@ -42133,7 +42133,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "887kΩ ±1% 62.5mW 0402 Thick Film Resistor"
 			(at 0 0 90)
 			(layer "B.Fab")
 			(hide yes)
@@ -42464,7 +42464,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
+		(property "Description" "22nF ±10% 50V Ceramic Capacitor X7R 0603"
 			(at 0 0 0)
 			(layer "B.Fab")
 			(hide yes)
@@ -42795,7 +42795,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
+		(property "Description" "10uF ±10% 10V Ceramic Capacitor X5R 0603"
 			(at 0 0 0)
 			(layer "B.Fab")
 			(hide yes)
@@ -43126,7 +43126,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
+		(property "Description" "100nF ±10% 50V Ceramic Capacitor X7R 0402"
 			(at 0 0 0)
 			(layer "B.Fab")
 			(hide yes)
@@ -43399,7 +43399,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" "Unpolarized capacitor"
+		(property "Description" "10uF ±10% 10V Ceramic Capacitor X5R 0603"
 			(at 0 0 90)
 			(layer "B.Fab")
 			(hide yes)
@@ -43730,7 +43730,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "15kΩ ±1% 62.5mW 0402 Thick Film Resistor"
 			(at 0 0 90)
 			(layer "B.Fab")
 			(hide yes)
@@ -44061,7 +44061,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
+		(property "Description" "100nF ±10% 50V Ceramic Capacitor X7R 0402"
 			(at 0 0 90)
 			(layer "B.Fab")
 			(hide yes)
@@ -44392,7 +44392,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "1.3kΩ ±1% 62.5mW 0402 Thick Film Resistor"
 			(at 0 0 0)
 			(layer "B.Fab")
 			(hide yes)
@@ -44665,7 +44665,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
+		(property "Description" "22nF ±10% 50V Ceramic Capacitor X7R 0603"
 			(at 0 0 90)
 			(layer "B.Fab")
 			(hide yes)
@@ -45429,7 +45429,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "1kΩ ±1% 62.5mW 0402 Thick Film Resistor"
 			(at 0 0 90)
 			(layer "B.Fab")
 			(hide yes)
@@ -46332,6 +46332,7 @@
 		(embedded_fonts no)
 	)
 	(footprint "LTC2622IMS8#PBF:SOP65P490X110-8N"
+		(locked yes)
 		(layer "B.Cu")
 		(uuid "5894fea0-af4e-4fd2-9877-da990c2d41dd")
 		(at 178.345 101.108 90)
@@ -46393,7 +46394,7 @@
 			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
-			(uuid "8f3e8d64-7941-45cb-b6db-8e654bed4d57")
+			(uuid "04afd1a3-3728-446c-be16-f2bd52c51b49")
 			(effects
 				(font
 					(size 1 1)
@@ -46407,7 +46408,7 @@
 			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
-			(uuid "56c6bf6c-e3bc-404b-b44d-9acd3bb982aa")
+			(uuid "cb82ac2e-0e52-44f3-abdd-2c374f0a23c3")
 			(effects
 				(font
 					(size 1 1)
@@ -46421,7 +46422,7 @@
 			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
-			(uuid "eb038504-21fe-48d7-80c0-bab64790a4e7")
+			(uuid "4eb7b091-c0ff-444a-9ab3-1c2d4d67b29f")
 			(effects
 				(font
 					(size 1 1)
@@ -46435,7 +46436,7 @@
 			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
-			(uuid "9067a2ff-245d-4fe6-a0c7-06bfeec80c54")
+			(uuid "df5cbc53-0704-4fb1-9f8e-6107c5473cee")
 			(effects
 				(font
 					(size 1 1)
@@ -46449,7 +46450,7 @@
 			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
-			(uuid "85b8b662-ac70-4d80-a736-270c76d523fd")
+			(uuid "613d2c8d-aba0-4452-854b-4ef0c59e2850")
 			(effects
 				(font
 					(size 1 1)
@@ -46463,7 +46464,7 @@
 			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
-			(uuid "9d84c47c-04cb-4979-be81-853537304eb9")
+			(uuid "7f865c06-c1d3-4375-adc6-6565c54c8ded")
 			(effects
 				(font
 					(size 1 1)
@@ -46477,7 +46478,7 @@
 			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
-			(uuid "f53322bb-489a-4f46-8729-85f4fec66546")
+			(uuid "231609f3-fb4d-48fe-aeaa-81421635057d")
 			(effects
 				(font
 					(size 1 1)
@@ -46498,7 +46499,7 @@
 				(type solid)
 			)
 			(layer "B.SilkS")
-			(uuid "e1c2403c-cac6-4241-aabc-0e0a3f594713")
+			(uuid "13265a3d-c02e-45af-af76-e448b1f07a99")
 		)
 		(fp_line
 			(start -1.15 -1.5)
@@ -46508,7 +46509,7 @@
 				(type solid)
 			)
 			(layer "B.SilkS")
-			(uuid "20780d0e-c794-4056-a432-ff3d029c67cb")
+			(uuid "64823aee-569a-46c6-ad5b-5b46c8d08f15")
 		)
 		(fp_line
 			(start 1.15 1.5)
@@ -46518,7 +46519,7 @@
 				(type solid)
 			)
 			(layer "B.SilkS")
-			(uuid "c605011b-acf2-4239-8841-6af2fdf047d9")
+			(uuid "01e1e73b-ee86-4c66-8775-6e0cb4d83b48")
 		)
 		(fp_line
 			(start -1.15 1.5)
@@ -46528,7 +46529,7 @@
 				(type solid)
 			)
 			(layer "B.SilkS")
-			(uuid "503c3c70-4d65-45de-ad6a-4425c258a26e")
+			(uuid "6c2bede3-a964-4e93-a36d-e5164da035a6")
 		)
 		(fp_line
 			(start -2.925 1.55)
@@ -46538,7 +46539,7 @@
 				(type solid)
 			)
 			(layer "B.SilkS")
-			(uuid "87a9a94e-aea6-4fbc-95c8-702fafb40da1")
+			(uuid "10dcc5fd-5d1c-4863-81a9-a8c35140daa0")
 		)
 		(fp_line
 			(start 3.175 -1.801)
@@ -46548,7 +46549,7 @@
 				(type solid)
 			)
 			(layer "B.CrtYd")
-			(uuid "696494ef-ac00-40d1-b03e-711357b8d40e")
+			(uuid "2ad35a7b-2f1c-4057-a691-4861846e61ee")
 		)
 		(fp_line
 			(start -3.175 -1.801)
@@ -46558,7 +46559,7 @@
 				(type solid)
 			)
 			(layer "B.CrtYd")
-			(uuid "9c77b17d-b49c-4686-8701-45c52599212a")
+			(uuid "1fd76fef-f563-47a5-8341-9394394b0cb2")
 		)
 		(fp_line
 			(start 3.175 1.801)
@@ -46568,7 +46569,7 @@
 				(type solid)
 			)
 			(layer "B.CrtYd")
-			(uuid "e5232e34-d204-426f-bf5d-7f6f33916aed")
+			(uuid "aebd5f47-6627-4394-96fd-cbd9169da17f")
 		)
 		(fp_line
 			(start -3.175 1.801)
@@ -46578,7 +46579,7 @@
 				(type solid)
 			)
 			(layer "B.CrtYd")
-			(uuid "187161fe-6f28-4f64-9597-8cc1a577fec4")
+			(uuid "890938a6-a876-42e8-8d63-19c1b5ef2fba")
 		)
 		(fp_line
 			(start 1.5 -1.5)
@@ -46588,7 +46589,7 @@
 				(type solid)
 			)
 			(layer "B.Fab")
-			(uuid "81e9869d-25d5-47ff-9f9a-94e9ff74501b")
+			(uuid "f89b5778-4c27-4166-b14c-73deb52ffad9")
 		)
 		(fp_line
 			(start -1.5 -1.5)
@@ -46598,7 +46599,7 @@
 				(type solid)
 			)
 			(layer "B.Fab")
-			(uuid "dec26375-e894-4bcf-aea0-6ff394981657")
+			(uuid "894d506e-d327-47cd-8c91-962d9fab981d")
 		)
 		(fp_line
 			(start -1.5 0.85)
@@ -46608,7 +46609,7 @@
 				(type solid)
 			)
 			(layer "B.Fab")
-			(uuid "2ac73aae-b99a-4137-81b7-99bdc50909c4")
+			(uuid "f3ac2f6c-bb15-4b36-afb3-9e924ca35f9e")
 		)
 		(fp_line
 			(start 1.5 1.5)
@@ -46618,7 +46619,7 @@
 				(type solid)
 			)
 			(layer "B.Fab")
-			(uuid "e3a27c31-ccd8-4c12-bd6e-98387698f23a")
+			(uuid "b47ed19a-ba9d-413e-8e51-9647892e8710")
 		)
 		(fp_line
 			(start -1.5 1.5)
@@ -46628,7 +46629,7 @@
 				(type solid)
 			)
 			(layer "B.Fab")
-			(uuid "a923eac3-c270-46bd-b3cd-24b132b22bbc")
+			(uuid "9d1d9460-7f14-47b5-8404-bdb1388a1e59")
 		)
 		(fp_text user "${REFERENCE}"
 			(at 0 0 270)
@@ -47204,7 +47205,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "10kΩ ±1% 62.5mW 0402 Thick Film Resistor"
 			(at 0 0 90)
 			(layer "B.Fab")
 			(hide yes)
@@ -47535,7 +47536,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" "Ferrite bead"
+		(property "Description" "100Ω@100MHz 1 Line Ferrite Bead 0805 500mA 180mΩ"
 			(at 0 0 180)
 			(layer "B.Fab")
 			(hide yes)
@@ -48230,7 +48231,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "4.7kΩ ±1% 62.5mW 0402 Thick Film Resistor"
 			(at 0 0 90)
 			(layer "B.Fab")
 			(hide yes)
@@ -48561,7 +48562,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
+		(property "Description" "100nF ±10% 50V Ceramic Capacitor X7R 0402"
 			(at 0 0 90)
 			(layer "B.Fab")
 			(hide yes)
@@ -49074,7 +49075,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
+		(property "Description" "10uF ±10% 10V Ceramic Capacitor X5R 0603"
 			(at 0 0 0)
 			(layer "B.Fab")
 			(hide yes)
@@ -49792,7 +49793,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
+		(property "Description" "10uF ±10% 10V Ceramic Capacitor X5R 0603"
 			(at 0 0 0)
 			(layer "B.Fab")
 			(hide yes)
@@ -50305,7 +50306,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "4.7kΩ ±1% 62.5mW 0402 Thick Film Resistor"
 			(at 0 0 0)
 			(layer "B.Fab")
 			(hide yes)
@@ -50636,7 +50637,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
+		(property "Description" "100nF ±10% 50V Ceramic Capacitor X7R 0402"
 			(at 0 0 90)
 			(layer "B.Fab")
 			(hide yes)
@@ -50967,7 +50968,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" "Unpolarized capacitor"
+		(property "Description" "100nF ±10% 50V Ceramic Capacitor X7R 0402"
 			(at 0 0 0)
 			(layer "B.Fab")
 			(hide yes)
@@ -51298,7 +51299,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" "Unpolarized capacitor"
+		(property "Description" "100nF ±10% 50V Ceramic Capacitor X7R 0402"
 			(at 0 0 0)
 			(layer "B.Fab")
 			(hide yes)
@@ -51629,7 +51630,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "4.7kΩ ±1% 62.5mW 0402 Thick Film Resistor"
 			(at 0 0 0)
 			(layer "B.Fab")
 			(hide yes)
@@ -51960,7 +51961,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
+		(property "Description" "2.2uF ±10% 10V Ceramic Capacitor X5R 0603"
 			(at 0 0 0)
 			(layer "B.Fab")
 			(hide yes)
@@ -52291,7 +52292,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
+		(property "Description" "100nF ±10% 50V Ceramic Capacitor X7R 0402"
 			(at 0 0 0)
 			(layer "B.Fab")
 			(hide yes)
@@ -52622,7 +52623,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "4.7kΩ ±1% 62.5mW 0402 Thick Film Resistor"
 			(at 0 0 90)
 			(layer "B.Fab")
 			(hide yes)
@@ -53305,6 +53306,7 @@
 		(property "Reference" "IC3"
 			(at 0 0 270)
 			(layer "B.SilkS")
+			(hide yes)
 			(uuid "4a739745-176a-4965-a346-8cb84896781b")
 			(effects
 				(font
@@ -53358,7 +53360,7 @@
 			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
-			(uuid "1f995db2-3be7-419e-a350-02ed1a90504d")
+			(uuid "8caebf7b-fd85-439d-82b0-10b3680e69c1")
 			(effects
 				(font
 					(size 1 1)
@@ -53372,7 +53374,7 @@
 			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
-			(uuid "6496f081-e1b7-4446-bbfc-f3b6843467b4")
+			(uuid "f5e3c67e-0da5-49ab-90a9-9d6027e99fa1")
 			(effects
 				(font
 					(size 1 1)
@@ -53386,7 +53388,7 @@
 			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
-			(uuid "1e0c8864-ed43-4f7c-8d1a-0d1b36f80903")
+			(uuid "440beb72-6919-43ce-a96c-bd14d766cea5")
 			(effects
 				(font
 					(size 1 1)
@@ -53400,7 +53402,7 @@
 			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
-			(uuid "f92d746c-29f0-4ac1-9244-adda5f5b9b3f")
+			(uuid "e89a9eb4-e258-4fbf-a07a-af6c55419fe2")
 			(effects
 				(font
 					(size 1 1)
@@ -53414,7 +53416,35 @@
 			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
-			(uuid "11eccc6e-2648-4da7-80e6-82df26f3e0bc")
+			(uuid "5a9d25da-a23a-4b8e-8029-3734d05ff33f")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "MANUFACTURER_PART_NUMBER" "LM4040AIM3-2.0/NOPB"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "28583e69-326a-40bd-8cb8-734b2bfba79d")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "MANUFACTURER" "TI"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "e8301d47-9cf6-4210-bf29-de1546ea0b27")
 			(effects
 				(font
 					(size 1 1)
@@ -53435,7 +53465,7 @@
 				(type solid)
 			)
 			(layer "B.SilkS")
-			(uuid "64a8fe9a-bfb3-48bc-b0d2-f443980210f2")
+			(uuid "ff289eec-8069-475c-84b6-96d80a9df4d7")
 		)
 		(fp_line
 			(start -0.075 -1.46)
@@ -53445,7 +53475,7 @@
 				(type solid)
 			)
 			(layer "B.SilkS")
-			(uuid "67aa70a2-cff8-4680-830e-1a2abcd18c5e")
+			(uuid "82bff526-6399-4c93-9c27-234786ca612e")
 		)
 		(fp_line
 			(start 0.075 1.46)
@@ -53455,7 +53485,7 @@
 				(type solid)
 			)
 			(layer "B.SilkS")
-			(uuid "22727725-595c-42be-948e-36403a05d902")
+			(uuid "66a5216e-332a-4a9f-8a41-6a9bb8ffab43")
 		)
 		(fp_line
 			(start -0.075 1.46)
@@ -53465,7 +53495,7 @@
 				(type solid)
 			)
 			(layer "B.SilkS")
-			(uuid "27f88b64-cc3a-45c1-ac38-2aa7158bb7bb")
+			(uuid "a1c63975-020d-4a1f-aee2-d95674ea673a")
 		)
 		(fp_line
 			(start -1.675 1.5)
@@ -53475,7 +53505,7 @@
 				(type solid)
 			)
 			(layer "B.SilkS")
-			(uuid "515c13f2-3eac-43ca-a020-874f8f8fea65")
+			(uuid "7d229a71-4542-4bf4-aaf2-cef5d0fa800c")
 		)
 		(fp_line
 			(start 1.925 -1.77)
@@ -53485,7 +53515,7 @@
 				(type solid)
 			)
 			(layer "B.CrtYd")
-			(uuid "ad49b36a-e970-41eb-af17-c3fe30557da1")
+			(uuid "cdc1619f-6cb5-4446-874a-d686457a8d74")
 		)
 		(fp_line
 			(start -1.925 -1.77)
@@ -53495,7 +53525,7 @@
 				(type solid)
 			)
 			(layer "B.CrtYd")
-			(uuid "c3371103-33ec-4c14-9316-b1596d0db1a7")
+			(uuid "79f1b28e-330b-43d6-bb25-e5697667d981")
 		)
 		(fp_line
 			(start 1.925 1.77)
@@ -53505,7 +53535,7 @@
 				(type solid)
 			)
 			(layer "B.CrtYd")
-			(uuid "4e690a19-0cfb-46e8-bb90-0b087c181f77")
+			(uuid "1e3dd0a9-481a-4a91-9c5c-a110fe057a26")
 		)
 		(fp_line
 			(start -1.925 1.77)
@@ -53515,7 +53545,7 @@
 				(type solid)
 			)
 			(layer "B.CrtYd")
-			(uuid "cee43592-e7ed-4dfa-8f88-6d829ee0ffab")
+			(uuid "c6daae72-236c-4e14-a735-d05f8cdd7e13")
 		)
 		(fp_line
 			(start 0.65 -1.46)
@@ -53525,7 +53555,7 @@
 				(type solid)
 			)
 			(layer "B.Fab")
-			(uuid "f3ac2075-552b-47a1-82c5-f801a524ed55")
+			(uuid "303bede5-b96d-4c67-9306-c372c0f4008e")
 		)
 		(fp_line
 			(start -0.65 -1.46)
@@ -53535,7 +53565,7 @@
 				(type solid)
 			)
 			(layer "B.Fab")
-			(uuid "ddb233f1-4f39-4972-be37-d4c3f3b8694d")
+			(uuid "eb3c0e46-e92d-4bbc-a4d0-c391bf9e69c9")
 		)
 		(fp_line
 			(start -0.65 0.51)
@@ -53545,7 +53575,7 @@
 				(type solid)
 			)
 			(layer "B.Fab")
-			(uuid "263ae12c-6ff6-469a-ab67-2daca4706583")
+			(uuid "bc0b9e52-b5d5-4800-83c7-f3c7c97346c6")
 		)
 		(fp_line
 			(start 0.65 1.46)
@@ -53555,7 +53585,7 @@
 				(type solid)
 			)
 			(layer "B.Fab")
-			(uuid "10a19e87-f631-4396-8413-e131dd21ac26")
+			(uuid "c4241c04-7eb3-46bb-a87e-17b3c3451cae")
 		)
 		(fp_line
 			(start -0.65 1.46)
@@ -53565,7 +53595,7 @@
 				(type solid)
 			)
 			(layer "B.Fab")
-			(uuid "6928b285-5a78-4a2e-86d3-18884d210f29")
+			(uuid "109e0170-1cca-4104-b0ea-eaa4e9a116a5")
 		)
 		(fp_text user "${REFERENCE}"
 			(at 0 0 270)
@@ -53663,7 +53693,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" "Unpolarized capacitor"
+		(property "Description" "100nF ±10% 50V Ceramic Capacitor X7R 0402"
 			(at 0 0 0)
 			(layer "B.Fab")
 			(hide yes)
@@ -53994,7 +54024,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" "Unpolarized capacitor"
+		(property "Description" "6.8pF 50V Ceramic Capacitor C0G 0402"
 			(at 0 0 90)
 			(layer "B.Fab")
 			(hide yes)
@@ -54325,7 +54355,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "5.1kΩ ±1% 62.5mW 0402 Thick Film Resistor"
 			(at 0 0 0)
 			(layer "B.Fab")
 			(hide yes)
@@ -54657,7 +54687,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" "Zener diode, small symbol"
+		(property "Description" "Zener Diode Independent 3.6V 200mW Surface Mount SOD-323"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -55033,7 +55063,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "10kΩ ±1% 62.5mW 0402 Thick Film Resistor"
 			(at 0 0 0)
 			(layer "B.Fab")
 			(hide yes)
@@ -55364,7 +55394,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" "Unpolarized capacitor"
+		(property "Description" "100nF ±10% 50V Ceramic Capacitor X7R 0402"
 			(at 0 0 0)
 			(layer "B.Fab")
 			(hide yes)
@@ -55696,7 +55726,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "280kΩ ±1% 62.5mW 0402 Thick Film Resistor"
 			(at 0 0 0)
 			(layer "B.Fab")
 			(hide yes)
@@ -56027,7 +56057,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "2kΩ ±1% 62.5mW 0402 Thick Film Resistor"
 			(at 0 0 90)
 			(layer "B.Fab")
 			(hide yes)
@@ -56358,7 +56388,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "15kΩ ±1% 62.5mW 0402 Thick Film Resistor"
 			(at 0 0 90)
 			(layer "B.Fab")
 			(hide yes)
@@ -57122,7 +57152,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "15kΩ ±1% 62.5mW 0402 Thick Film Resistor"
 			(at 0 0 90)
 			(layer "B.Fab")
 			(hide yes)
@@ -57453,7 +57483,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "1kΩ ±1% 62.5mW 0402 Thick Film Resistor"
 			(at 0 0 0)
 			(layer "B.Fab")
 			(hide yes)
@@ -57784,7 +57814,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "10kΩ ±1% 62.5mW 0402 Thick Film Resistor"
 			(at 0 0 0)
 			(layer "B.Fab")
 			(hide yes)
@@ -58115,7 +58145,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
+		(property "Description" "10uF ±10% 10V Ceramic Capacitor X5R 0603"
 			(at 0 0 90)
 			(layer "B.Fab")
 			(hide yes)
@@ -58446,7 +58476,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
+		(property "Description" "10uF ±10% 10V Ceramic Capacitor X5R 0603"
 			(at 0 0 0)
 			(layer "B.Fab")
 			(hide yes)
@@ -58777,7 +58807,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
+		(property "Description" "10uF ±10% 10V Ceramic Capacitor X5R 0603"
 			(at 0 0 180)
 			(layer "B.Fab")
 			(hide yes)
@@ -59108,7 +59138,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "14kΩ ±1% 62.5mW 0402 Thick Film Resistor"
 			(at 0 0 90)
 			(layer "B.Fab")
 			(hide yes)
@@ -59639,7 +59669,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "301kΩ ±1% 62.5mW 0402 Thick Film Resistor"
 			(at 0 0 0)
 			(layer "B.Fab")
 			(hide yes)
@@ -60152,7 +60182,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" "Unpolarized capacitor"
+		(property "Description" "100nF ±10% 50V Ceramic Capacitor X7R 0402"
 			(at 0 0 90)
 			(layer "B.Fab")
 			(hide yes)
@@ -60916,7 +60946,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
+		(property "Description" "100nF ±10% 50V Ceramic Capacitor X7R 0402"
 			(at 0 0 90)
 			(layer "B.Fab")
 			(hide yes)
@@ -61247,7 +61277,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
+		(property "Description" "10uF ±10% 10V Ceramic Capacitor X5R 0603"
 			(at 0 0 90)
 			(layer "B.Fab")
 			(hide yes)
@@ -61578,7 +61608,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
+		(property "Description" "100nF ±10% 50V Ceramic Capacitor X7R 0402"
 			(at 0 0 90)
 			(layer "B.Fab")
 			(hide yes)
@@ -61909,7 +61939,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "10kΩ ±1% 62.5mW 0402 Thick Film Resistor"
 			(at 0 0 0)
 			(layer "B.Fab")
 			(hide yes)
@@ -62422,7 +62452,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "100kΩ ±1% 62.5mW 0402 Thick Film Resistor"
 			(at 0 0 90)
 			(layer "B.Fab")
 			(hide yes)
@@ -62753,7 +62783,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" "Unpolarized capacitor"
+		(property "Description" "100nF ±10% 50V Ceramic Capacitor X7R 0402"
 			(at 0 0 90)
 			(layer "B.Fab")
 			(hide yes)
@@ -63084,7 +63114,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
+		(property "Description" "22nF ±10% 50V Ceramic Capacitor X7R 0603"
 			(at 0 0 0)
 			(layer "B.Fab")
 			(hide yes)
@@ -63415,7 +63445,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" "Unpolarized capacitor"
+		(property "Description" "1nF ±10% 50V Ceramic Capacitor X7R 0402"
 			(at 0 0 90)
 			(layer "B.Fab")
 			(hide yes)
@@ -63746,7 +63776,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "5.1kΩ ±1% 62.5mW 0402 Thick Film Resistor"
 			(at 0 0 90)
 			(layer "B.Fab")
 			(hide yes)
@@ -64077,7 +64107,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" "Unpolarized capacitor"
+		(property "Description" "1uF ±10% 10V Ceramic Capacitor X5R 0402"
 			(at 0 0 90)
 			(layer "B.Fab")
 			(hide yes)
@@ -64408,7 +64438,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "5.1kΩ ±1% 62.5mW 0402 Thick Film Resistor"
 			(at 0 0 0)
 			(layer "B.Fab")
 			(hide yes)
@@ -64739,7 +64769,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" "Unpolarized capacitor"
+		(property "Description" "10uF ±10% 10V Ceramic Capacitor X5R 0603"
 			(at 0 0 90)
 			(layer "B.Fab")
 			(hide yes)
@@ -65070,7 +65100,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" "Unpolarized capacitor"
+		(property "Description" "100nF ±10% 50V Ceramic Capacitor X7R 0402"
 			(at 0 0 0)
 			(layer "B.Fab")
 			(hide yes)
@@ -65401,7 +65431,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" "Unpolarized capacitor"
+		(property "Description" "22pF ±5% 50V Ceramic Capacitor C0G 0402"
 			(at 0 0 90)
 			(layer "B.Fab")
 			(hide yes)
@@ -66165,7 +66195,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
+		(property "Description" "100nF ±10% 50V Ceramic Capacitor X7R 0402"
 			(at 0 0 0)
 			(layer "B.Fab")
 			(hide yes)
@@ -66496,7 +66526,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
+		(property "Description" "100nF ±10% 50V Ceramic Capacitor X7R 0402"
 			(at 0 0 0)
 			(layer "B.Fab")
 			(hide yes)
@@ -66827,7 +66857,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "100Ω ±1% 62.5mW 0402 Thick Film Resistor"
 			(at 0 0 90)
 			(layer "B.Fab")
 			(hide yes)
@@ -67158,7 +67188,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
+		(property "Description" "22uF ±20% 6.3V Ceramic Capacitor X5R 0603"
 			(at 0 0 0)
 			(layer "B.Fab")
 			(hide yes)
@@ -67671,7 +67701,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
+		(property "Description" "100nF ±10% 50V Ceramic Capacitor X7R 0402"
 			(at 0 0 90)
 			(layer "B.Fab")
 			(hide yes)
@@ -68002,7 +68032,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "549Ω ±1% 62.5mW 0402 Thick Film Resisto"
 			(at 0 0 0)
 			(layer "B.Fab")
 			(hide yes)
@@ -68468,7 +68498,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" "Unpolarized capacitor"
+		(property "Description" "100nF ±10% 50V Ceramic Capacitor X7R 0402"
 			(at 0 0 0)
 			(layer "B.Fab")
 			(hide yes)
@@ -68981,7 +69011,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "453kΩ ±1% 62.5mW 0402 Thick Film Resistor"
 			(at 0 0 90)
 			(layer "B.Fab")
 			(hide yes)
@@ -69330,7 +69360,7 @@
 			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
-			(uuid "7bfb5873-c932-4d7c-aade-a892fe9a1dd5")
+			(uuid "74cb5530-8690-4136-a263-068ed282e111")
 			(effects
 				(font
 					(size 1 1)
@@ -69344,7 +69374,7 @@
 			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
-			(uuid "1449b7cb-ab4f-4f16-a1a4-ef4760a7e29b")
+			(uuid "a7b631cf-eb49-41f4-b6b2-03ae8fbcc95b")
 			(effects
 				(font
 					(size 1 1)
@@ -69358,7 +69388,7 @@
 			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
-			(uuid "f47c4acc-c146-45e5-815c-50c81f48ccb1")
+			(uuid "77be8ef4-e331-4259-87e3-b1e15d75ee47")
 			(effects
 				(font
 					(size 1 1)
@@ -69372,7 +69402,7 @@
 			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
-			(uuid "3e6adad1-3f2a-4166-833e-78473d00ce6f")
+			(uuid "890c5c16-302e-4a8b-be4f-c520589eb07d")
 			(effects
 				(font
 					(size 1 1)
@@ -69386,7 +69416,7 @@
 			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
-			(uuid "c31c8adc-0b17-45e5-a3af-d8d76d353c81")
+			(uuid "e048ba66-5a51-4f8a-a379-9c19f32445e2")
 			(effects
 				(font
 					(size 1 1)
@@ -69400,7 +69430,7 @@
 			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
-			(uuid "a4ffb89f-3721-4dbc-95df-5dd254efbca5")
+			(uuid "ee672c9a-0024-4aed-b099-6a4b6e0c8433")
 			(effects
 				(font
 					(size 1 1)
@@ -69414,7 +69444,7 @@
 			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
-			(uuid "8519a3bd-d8e8-4a90-9d8a-b4a3a3797f1d")
+			(uuid "4b7d03be-560c-43a1-bb9e-4034fb863887")
 			(effects
 				(font
 					(size 1 1)
@@ -69435,7 +69465,7 @@
 				(type solid)
 			)
 			(layer "B.SilkS")
-			(uuid "90c74b82-1153-43f3-8db8-1fede926cbd3")
+			(uuid "32123451-241c-4684-8e73-d17ca7343449")
 		)
 		(fp_line
 			(start -1.79 -3.28)
@@ -69445,7 +69475,7 @@
 				(type solid)
 			)
 			(layer "B.SilkS")
-			(uuid "bf1f760a-b827-43bc-8bba-06956228091b")
+			(uuid "2749cb75-7bf4-45ef-994c-605687ee4772")
 		)
 		(fp_line
 			(start -1.79 -2.38)
@@ -69455,7 +69485,7 @@
 				(type solid)
 			)
 			(layer "B.SilkS")
-			(uuid "d73dfafb-2f4a-4562-8677-b5ea38ad7a47")
+			(uuid "913f287f-f446-4c8c-a5ab-1ef20575d1bc")
 		)
 		(fp_line
 			(start -1.79 3.32)
@@ -69465,7 +69495,7 @@
 				(type solid)
 			)
 			(layer "B.SilkS")
-			(uuid "2d4646e5-61fe-4961-a8ad-80ff64839589")
+			(uuid "c3b916a8-4d21-42c3-80ed-e1d79601d8ba")
 		)
 		(fp_line
 			(start 1.16 3.32)
@@ -69475,7 +69505,7 @@
 				(type solid)
 			)
 			(layer "B.SilkS")
-			(uuid "53170f3b-5688-479f-8f07-710a3790b730")
+			(uuid "333a8d3b-2c98-465d-be35-5bc6dbee11a2")
 		)
 		(fp_line
 			(start 2.51 -2.18)
@@ -69485,7 +69515,7 @@
 				(type solid)
 			)
 			(layer "B.SilkS")
-			(uuid "762e77d4-3a46-4ec7-8f35-de0651c2d728")
+			(uuid "58d87700-46f6-4fd4-b33f-1c2971faf72d")
 		)
 		(fp_line
 			(start -2.35 -3.755029)
@@ -69495,7 +69525,7 @@
 				(type solid)
 			)
 			(layer "B.CrtYd")
-			(uuid "cd04cd32-939d-4159-a8c4-105f7f43ffed")
+			(uuid "b499d434-022d-40c8-8fde-a0a74760bff6")
 		)
 		(fp_line
 			(start -2.35 3.795)
@@ -69505,7 +69535,7 @@
 				(type solid)
 			)
 			(layer "B.CrtYd")
-			(uuid "4435dfc6-39bb-4d14-bf67-c53a2eca52c8")
+			(uuid "3be87241-d682-4c51-a878-f6105652df4a")
 		)
 		(fp_line
 			(start 2.9 -3.77)
@@ -69515,7 +69545,7 @@
 				(type solid)
 			)
 			(layer "B.CrtYd")
-			(uuid "dead022d-fc21-450a-8e1e-6f0eb9c0bfba")
+			(uuid "8d689672-f611-497c-80af-0c1fbf3d9667")
 		)
 		(fp_line
 			(start 2.9 3.795)
@@ -69525,7 +69555,7 @@
 				(type solid)
 			)
 			(layer "B.CrtYd")
-			(uuid "69f5c3f7-63c2-4621-adef-4f8d44263d3e")
+			(uuid "635adddc-4cc8-47ec-82b2-9cb977d9603d")
 		)
 		(fp_line
 			(start -1.79 -3.28)
@@ -69535,7 +69565,7 @@
 				(type solid)
 			)
 			(layer "B.Fab")
-			(uuid "424c7652-3d21-42aa-bee7-45821a027505")
+			(uuid "1bb334b1-0bf0-45e4-a909-96887e8e7657")
 		)
 		(fp_line
 			(start -1.79 3.32)
@@ -69545,7 +69575,7 @@
 				(type solid)
 			)
 			(layer "B.Fab")
-			(uuid "6d4039f7-ac14-4113-8fa9-e9600ed38288")
+			(uuid "ab9bf8c6-c7f3-4ca7-9a2e-b8f5712f404b")
 		)
 		(fp_line
 			(start 2.51 -3.28)
@@ -69555,7 +69585,7 @@
 				(type solid)
 			)
 			(layer "B.Fab")
-			(uuid "cad5caa3-0ae0-4419-88aa-a457f81e898b")
+			(uuid "acd600bd-bc3a-49ed-a6a0-c45041645593")
 		)
 		(fp_line
 			(start 2.51 3.32)
@@ -69565,7 +69595,7 @@
 				(type solid)
 			)
 			(layer "B.Fab")
-			(uuid "8e88a31a-2663-4b8d-a66d-a21ddddb1d4e")
+			(uuid "58f8e0e4-4f34-4682-9d82-a38a6c9f2002")
 		)
 		(fp_text user "${REFERENCE}"
 			(at 0.15 0 180)
@@ -69690,7 +69720,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
+		(property "Description" "22nF ±10% 50V Ceramic Capacitor X7R 0603"
 			(at 0 0 0)
 			(layer "B.Fab")
 			(hide yes)
@@ -70021,7 +70051,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
+		(property "Description" "100nF ±10% 50V Ceramic Capacitor X7R 0402"
 			(at 0 0 90)
 			(layer "B.Fab")
 			(hide yes)
@@ -70352,7 +70382,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" "Inductor"
+		(property "Description" "800mA 2.2uH 299mΩ Multilayer inductor ±20% 0805 Fixed Inductors RoHS"
 			(at 0 0 180)
 			(layer "B.Fab")
 			(hide yes)
@@ -70867,7 +70897,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "5.1kΩ ±1% 62.5mW 0402 Thick Film Resistor"
 			(at 0 0 0)
 			(layer "B.Fab")
 			(hide yes)
@@ -71198,7 +71228,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" "Unpolarized capacitor"
+		(property "Description" "100nF ±10% 50V Ceramic Capacitor X7R 0402"
 			(at 0 0 0)
 			(layer "B.Fab")
 			(hide yes)
@@ -71529,7 +71559,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" "Unpolarized capacitor"
+		(property "Description" "100nF ±10% 50V Ceramic Capacitor X7R 0402"
 			(at 0 0 90)
 			(layer "B.Fab")
 			(hide yes)
@@ -71861,7 +71891,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" "Inductor"
+		(property "Description" "800mA 2.2uH 299mΩ Multilayer inductor ±20% 0805 Fixed Inductors RoHS"
 			(at 0 0 180)
 			(layer "B.Fab")
 			(hide yes)
@@ -72194,7 +72224,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" "Unpolarized capacitor"
+		(property "Description" "100nF ±10% 50V Ceramic Capacitor X7R 0402"
 			(at 0 0 0)
 			(layer "B.Fab")
 			(hide yes)
@@ -72525,7 +72555,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "10kΩ ±1% 62.5mW 0402 Thick Film Resistor"
 			(at 0 0 90)
 			(layer "B.Fab")
 			(hide yes)
@@ -72856,7 +72886,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" "Unpolarized capacitor"
+		(property "Description" "1uF ±10% 10V Ceramic Capacitor X5R 0402"
 			(at 0 0 180)
 			(layer "B.Fab")
 			(hide yes)
@@ -73187,7 +73217,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
+		(property "Description" "100nF ±10% 50V Ceramic Capacitor X7R 0402"
 			(at 0 0 90)
 			(layer "B.Fab")
 			(hide yes)
@@ -73518,7 +73548,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "5.1kΩ ±1% 62.5mW 0402 Thick Film Resistor"
 			(at 0 0 0)
 			(layer "B.Fab")
 			(hide yes)
@@ -73849,7 +73879,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
+		(property "Description" "10uF ±10% 10V Ceramic Capacitor X5R 0603"
 			(at 0 0 90)
 			(layer "B.Fab")
 			(hide yes)
@@ -74180,7 +74210,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
+		(property "Description" "100nF ±10% 50V Ceramic Capacitor X7R 0402"
 			(at 0 0 180)
 			(layer "B.Fab")
 			(hide yes)
@@ -117121,11 +117151,6 @@
 			)
 		)
 	)
-	(group "ADC Driver"
-		(uuid "02d336d8-57b6-4914-8b08-fe2148f3c20b")
-		(locked yes)
-		(members "efdd8051-2922-4fd1-99c4-83383042643f")
-	)
 	(group "FPGA"
 		(uuid "0debe34d-52a8-497a-9f2a-d41156af15ae")
 		(locked yes)
@@ -117135,6 +117160,11 @@
 		(uuid "3f24484e-8544-4940-8d2c-732eff2fd203")
 		(locked yes)
 		(members "be3c2931-f0e1-49d0-979c-4784914ca0c6")
+	)
+	(group "ADC Driver"
+		(uuid "93a4401b-4bc4-4d55-9ccf-17c5f2a4e640")
+		(locked yes)
+		(members "efdd8051-2922-4fd1-99c4-83383042643f")
 	)
 	(group "ADC"
 		(uuid "98114f82-296d-4d5d-b7da-4447c8921669")
@@ -117148,6 +117178,11 @@
 			"8eec8c40-9f23-4359-85d5-55c127a3d3a5" "ad898871-ef7e-409e-84de-37ca8d65ec00"
 			"efea04e6-75f0-45fe-8556-745167792397"
 		)
+	)
+	(group "DAC"
+		(uuid "d26b62cf-5b6e-4959-94b5-b585cb8d21bf")
+		(locked yes)
+		(members "5894fea0-af4e-4fd2-9877-da990c2d41dd")
 	)
 	(generated
 		(uuid "1093a748-39c4-42c0-8708-061a8ae33e49")
