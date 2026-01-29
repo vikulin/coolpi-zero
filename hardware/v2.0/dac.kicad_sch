@@ -14,67 +14,49 @@
 		(comment 9 "OSHWA FR000026")
 	)
 	(lib_symbols
-		(symbol "BM04B_ACHSS_A_GAN_TF_LF__SN:BM04B-ACHSS-A-GAN-TFLFSN"
-			(pin_names
-				(offset 0.254)
-			)
+		(symbol "BM04B-ACHSS-A-GAN-TF_LF__SN_:BM04B-ACHSS-A-GAN-TF_LF__SN_"
 			(exclude_from_sim no)
 			(in_bom yes)
 			(on_board yes)
 			(property "Reference" "J"
-				(at 8.89 6.35 0)
-				(effects
-					(font
-						(size 1.524 1.524)
-					)
-				)
-			)
-			(property "Value" "BM04B-ACHSS-A-GAN-TFLFSN"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.524 1.524)
-					)
-				)
-			)
-			(property "Footprint" "CONN_BM04B-ACHSS-A-GAN-TFLFSN_JST"
-				(at 0 0 0)
+				(at 19.05 7.62 0)
 				(effects
 					(font
 						(size 1.27 1.27)
-						(italic yes)
 					)
+					(justify left top)
+				)
+			)
+			(property "Value" "BM04B-ACHSS-A-GAN-TF_LF__SN_"
+				(at 19.05 5.08 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+				)
+			)
+			(property "Footprint" "BM04BACHSSAGANTFLFSN"
+				(at 19.05 -94.92 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
 					(hide yes)
 				)
 			)
-			(property "Datasheet" "BM04B-ACHSS-A-GAN-TFLFSN"
-				(at 0 0 0)
+			(property "Datasheet" "https://www.jst-mfg.com/product/pdf/eng/eACH.pdf"
+				(at 19.05 -194.92 0)
 				(effects
 					(font
 						(size 1.27 1.27)
-						(italic yes)
 					)
+					(justify left top)
 					(hide yes)
 				)
 			)
-			(property "Description" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "ki_locked" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "ki_keywords" "BM04B-ACHSS-A-GAN-TF(LF)(SN)"
+			(property "Description" "CONN HEADER SMD R/A 4POS 1.2MM"
 				(at 0 0 0)
 				(effects
 					(font
@@ -83,209 +65,69 @@
 					(hide yes)
 				)
 			)
-			(property "ki_fp_filters" "CONN_BM04B-ACHSS-A-GAN-TFLFSN_JST"
-				(at 0 0 0)
+			(property "Height" "1.4"
+				(at 19.05 -394.92 0)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
+					(justify left top)
 					(hide yes)
 				)
 			)
-			(symbol "BM04B-ACHSS-A-GAN-TFLFSN_1_1"
-				(polyline
-					(pts
-						(xy 5.08 2.54) (xy 5.08 -14.224)
+			(property "Mouser Part Number" "306-4BACHSSAGANTFL"
+				(at 19.05 -494.92 0)
+				(effects
+					(font
+						(size 1.27 1.27)
 					)
+					(justify left top)
+					(hide yes)
+				)
+			)
+			(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/JST-Commercial/BM04B-ACHSS-A-GAN-TFLFSN?qs=QpmGXVUTftFsbdf52tFLQQ%3D%3D"
+				(at 19.05 -594.92 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+					(hide yes)
+				)
+			)
+			(property "Manufacturer_Name" "JST (JAPAN SOLDERLESS TERMINALS)"
+				(at 19.05 -694.92 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+					(hide yes)
+				)
+			)
+			(property "Manufacturer_Part_Number" "BM04B-ACHSS-A-GAN-TF(LF)(SN)"
+				(at 19.05 -794.92 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+					(hide yes)
+				)
+			)
+			(symbol "BM04B-ACHSS-A-GAN-TF_LF__SN__1_1"
+				(rectangle
+					(start 17.78 -10.16)
+					(end 5.08 2.54)
 					(stroke
-						(width 0.127)
+						(width 0.254)
 						(type default)
 					)
 					(fill
-						(type none)
+						(type background)
 					)
 				)
-				(polyline
-					(pts
-						(xy 5.08 -14.224) (xy 12.7 -14.224)
-					)
-					(stroke
-						(width 0.127)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 10.16 0) (xy 5.08 0)
-					)
-					(stroke
-						(width 0.127)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 10.16 0) (xy 8.89 0.8467)
-					)
-					(stroke
-						(width 0.127)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 10.16 0) (xy 8.89 -0.8467)
-					)
-					(stroke
-						(width 0.127)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 10.16 -2.54) (xy 5.08 -2.54)
-					)
-					(stroke
-						(width 0.127)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 10.16 -2.54) (xy 8.89 -1.6933)
-					)
-					(stroke
-						(width 0.127)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 10.16 -2.54) (xy 8.89 -3.3867)
-					)
-					(stroke
-						(width 0.127)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 10.16 -5.08) (xy 5.08 -5.08)
-					)
-					(stroke
-						(width 0.127)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 10.16 -5.08) (xy 8.89 -4.2333)
-					)
-					(stroke
-						(width 0.127)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 10.16 -5.08) (xy 8.89 -5.9267)
-					)
-					(stroke
-						(width 0.127)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 10.16 -7.62) (xy 5.08 -7.62)
-					)
-					(stroke
-						(width 0.127)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 10.16 -7.62) (xy 8.89 -6.7733)
-					)
-					(stroke
-						(width 0.127)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 10.16 -7.62) (xy 8.89 -8.4667)
-					)
-					(stroke
-						(width 0.127)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 12.7 2.54) (xy 5.08 2.54)
-					)
-					(stroke
-						(width 0.127)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 12.7 -14.224) (xy 12.7 2.54)
-					)
-					(stroke
-						(width 0.127)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(pin unspecified line
+				(pin passive line
 					(at 0 0 0)
 					(length 5.08)
 					(name "1"
@@ -303,7 +145,7 @@
 						)
 					)
 				)
-				(pin unspecified line
+				(pin passive line
 					(at 0 -2.54 0)
 					(length 5.08)
 					(name "2"
@@ -321,7 +163,7 @@
 						)
 					)
 				)
-				(pin unspecified line
+				(pin passive line
 					(at 0 -5.08 0)
 					(length 5.08)
 					(name "3"
@@ -339,7 +181,7 @@
 						)
 					)
 				)
-				(pin unspecified line
+				(pin passive line
 					(at 0 -7.62 0)
 					(length 5.08)
 					(name "4"
@@ -358,16 +200,16 @@
 					)
 				)
 				(pin passive line
-					(at 0 -10.16 0)
+					(at 22.86 -5.08 180)
 					(length 5.08)
-					(name "5"
+					(name "MP1"
 						(effects
 							(font
 								(size 1.27 1.27)
 							)
 						)
 					)
-					(number "5"
+					(number "MP1"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -376,282 +218,16 @@
 					)
 				)
 				(pin passive line
-					(at 0 -12.7 0)
+					(at 22.86 -7.62 180)
 					(length 5.08)
-					(name "6"
+					(name "MP2"
 						(effects
 							(font
 								(size 1.27 1.27)
 							)
 						)
 					)
-					(number "6"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-			)
-			(symbol "BM04B-ACHSS-A-GAN-TFLFSN_1_2"
-				(polyline
-					(pts
-						(xy 5.08 2.54) (xy 5.08 -10.16)
-					)
-					(stroke
-						(width 0.127)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 5.08 -10.16) (xy 12.7 -10.16)
-					)
-					(stroke
-						(width 0.127)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 7.62 0) (xy 5.08 0)
-					)
-					(stroke
-						(width 0.127)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 7.62 0) (xy 8.89 0.8467)
-					)
-					(stroke
-						(width 0.127)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 7.62 0) (xy 8.89 -0.8467)
-					)
-					(stroke
-						(width 0.127)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 7.62 -2.54) (xy 5.08 -2.54)
-					)
-					(stroke
-						(width 0.127)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 7.62 -2.54) (xy 8.89 -1.6933)
-					)
-					(stroke
-						(width 0.127)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 7.62 -2.54) (xy 8.89 -3.3867)
-					)
-					(stroke
-						(width 0.127)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 7.62 -5.08) (xy 5.08 -5.08)
-					)
-					(stroke
-						(width 0.127)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 7.62 -5.08) (xy 8.89 -4.2333)
-					)
-					(stroke
-						(width 0.127)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 7.62 -5.08) (xy 8.89 -5.9267)
-					)
-					(stroke
-						(width 0.127)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 7.62 -7.62) (xy 5.08 -7.62)
-					)
-					(stroke
-						(width 0.127)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 7.62 -7.62) (xy 8.89 -6.7733)
-					)
-					(stroke
-						(width 0.127)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 7.62 -7.62) (xy 8.89 -8.4667)
-					)
-					(stroke
-						(width 0.127)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 12.7 2.54) (xy 5.08 2.54)
-					)
-					(stroke
-						(width 0.127)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 12.7 -10.16) (xy 12.7 2.54)
-					)
-					(stroke
-						(width 0.127)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(pin unspecified line
-					(at 0 0 0)
-					(length 5.08)
-					(name "1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin unspecified line
-					(at 0 -2.54 0)
-					(length 5.08)
-					(name "2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin unspecified line
-					(at 0 -5.08 0)
-					(length 5.08)
-					(name "3"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "3"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin unspecified line
-					(at 0 -7.62 0)
-					(length 5.08)
-					(name "4"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "4"
+					(number "MP2"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -6223,16 +5799,10 @@
 		(uuid "11570528-7555-422d-afac-a5097ea0dc6a")
 	)
 	(junction
-		(at 212.09 105.41)
+		(at 234.95 100.33)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "5038064a-93ca-4a73-8f64-294c5062aace")
-	)
-	(junction
-		(at 212.09 102.87)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "ae8fd059-9cd0-46de-af11-843ac5dec155")
+		(uuid "4b93f546-893e-453f-8bf0-0fabdb728193")
 	)
 	(wire
 		(pts
@@ -6253,6 +5823,16 @@
 			(type default)
 		)
 		(uuid "12c89451-105a-429a-a1de-66b653d5eeef")
+	)
+	(wire
+		(pts
+			(xy 234.95 100.33) (xy 234.95 107.95)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1d5cceb0-7aaa-4150-9dbe-0b1eff5ccb39")
 	)
 	(wire
 		(pts
@@ -6286,7 +5866,7 @@
 	)
 	(wire
 		(pts
-			(xy 212.09 100.33) (xy 212.09 102.87)
+			(xy 212.09 100.33) (xy 212.09 107.95)
 		)
 		(stroke
 			(width 0)
@@ -6306,16 +5886,6 @@
 	)
 	(wire
 		(pts
-			(xy 212.09 105.41) (xy 212.09 107.95)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "413f4234-4d13-427b-b645-cd72e188a9e4")
-	)
-	(wire
-		(pts
 			(xy 193.04 107.95) (xy 193.04 109.22)
 		)
 		(stroke
@@ -6323,6 +5893,16 @@
 			(type default)
 		)
 		(uuid "4dafb272-daba-466e-9042-5bbb8624f0dd")
+	)
+	(wire
+		(pts
+			(xy 234.95 97.79) (xy 234.95 100.33)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "51e9a790-10ce-492f-a0b3-7839be13907c")
 	)
 	(wire
 		(pts
@@ -6353,16 +5933,6 @@
 			(type default)
 		)
 		(uuid "830035e6-2639-4d23-922b-c1f018987e00")
-	)
-	(wire
-		(pts
-			(xy 212.09 102.87) (xy 212.09 105.41)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "ccf2bfce-dd15-43ce-a5b6-9b8aadd4facb")
 	)
 	(wire
 		(pts
@@ -6613,6 +6183,24 @@
 				(hide yes)
 			)
 		)
+		(property "MANUFACTURER" "ADI"
+			(at 158.75 92.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER_PART_NUMBER" "LTC2622IMS8#PBF"
+			(at 158.75 92.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "8"
 			(uuid "e17f9c44-8a0c-48d2-9a5d-35b3414fe4a4")
 		)
@@ -6772,6 +6360,71 @@
 			(project "icepi-zero"
 				(path "/f88da08e-cf42-4d03-a08f-3f602fe6658d/82ea4d67-1fc9-4e6e-a7f0-983b0b32ee19"
 					(reference "#PWR0154")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 234.95 107.95 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "65aa2d42-d235-4442-b769-958ea4173d2c")
+		(property "Reference" "#PWR0155"
+			(at 234.95 114.3 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 234.95 112.268 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 234.95 107.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 234.95 107.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 234.95 107.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "311220b3-5e87-4032-bce2-57fc3e2af525")
+		)
+		(instances
+			(project "icepi-zero"
+				(path "/f88da08e-cf42-4d03-a08f-3f602fe6658d/82ea4d67-1fc9-4e6e-a7f0-983b0b32ee19"
+					(reference "#PWR0155")
 					(unit 1)
 				)
 			)
@@ -7904,56 +7557,24 @@
 		)
 	)
 	(symbol
-		(lib_id "BM04B_ACHSS_A_GAN_TF_LF__SN:BM04B-ACHSS-A-GAN-TFLFSN")
+		(lib_id "BM04B-ACHSS-A-GAN-TF_LF__SN_:BM04B-ACHSS-A-GAN-TF_LF__SN_")
 		(at 212.09 92.71 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "f1a94e58-e35e-4265-b201-e04e57f8028d")
+		(uuid "eaf44b65-9bf8-405f-97d5-674be87a113a")
 		(property "Reference" "J8"
-			(at 226.06 95.2499 0)
-			(effects
-				(font
-					(size 1.524 1.524)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "BM04B-ACHSS-A-GAN-TFLFSN"
-			(at 226.06 97.7899 0)
-			(effects
-				(font
-					(size 1.524 1.524)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(property "Footprint" "CONN_BM04B-ACHSS-A-GAN-TFLFSN_JST"
-			(at 212.09 92.71 0)
+			(at 224.028 104.394 0)
 			(effects
 				(font
 					(size 1.27 1.27)
-					(italic yes)
 				)
-				(hide yes)
 			)
 		)
-		(property "Datasheet" "BM04B-ACHSS-A-GAN-TFLFSN"
-			(at 212.09 92.71 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(italic yes)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 212.09 92.71 0)
+		(property "Value" "BM04B-ACHSS-A-GAN-TF_LF__SN_"
+			(at 223.52 105.41 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7961,26 +7582,123 @@
 				(hide yes)
 			)
 		)
-		(pin "3"
-			(uuid "1e3c987f-ba7b-45e0-b364-18615a324ede")
+		(property "Footprint" "BM04BACHSSAGANTFLFSN"
+			(at 231.14 187.63 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://www.jst-mfg.com/product/pdf/eng/eACH.pdf"
+			(at 231.14 287.63 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Description" "CONN HEADER SMD R/A 4POS 1.2MM"
+			(at 212.09 92.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Height" "1.4"
+			(at 231.14 487.63 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Mouser Part Number" "306-4BACHSSAGANTFL"
+			(at 231.14 587.63 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/JST-Commercial/BM04B-ACHSS-A-GAN-TFLFSN?qs=QpmGXVUTftFsbdf52tFLQQ%3D%3D"
+			(at 231.14 687.63 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Name" "JST (JAPAN SOLDERLESS TERMINALS)"
+			(at 231.14 787.63 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "BM04B-ACHSS-A-GAN-TF(LF)(SN)"
+			(at 231.14 887.63 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER" "JST Commercial"
+			(at 212.09 92.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER_PART_NUMBER" "M04B-ACHSS-A-GAN-TF(LF)(SN)"
+			(at 212.09 92.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
 		)
 		(pin "4"
-			(uuid "c1598880-84fb-4d13-9611-5a9bd56566fe")
+			(uuid "5a0d8c67-1a4d-4664-a9e3-63656c0dccb9")
 		)
-		(pin "2"
-			(uuid "e3e4c0d1-7de4-4f00-915a-38754f7c37d4")
+		(pin "MP2"
+			(uuid "c355c63d-46d5-462e-bb82-c14413b7e246")
 		)
 		(pin "1"
-			(uuid "ab0484e2-64c7-42be-9578-06d691b076dd")
+			(uuid "5206cf0a-c82d-4fbf-ad3a-1e417ab1e099")
 		)
-		(pin "5"
-			(uuid "ddf0637f-89d7-4a2e-a3e7-ccd93a19c36b")
+		(pin "2"
+			(uuid "368d955b-c134-4876-a511-b510cd402a84")
 		)
-		(pin "6"
-			(uuid "317e4560-007f-4463-973f-123c3190212e")
+		(pin "3"
+			(uuid "8746e7ac-6c9c-4998-b3f8-13d14c48fa4c")
+		)
+		(pin "MP1"
+			(uuid "ddd1b198-d368-4195-9f78-ea5954c1665f")
 		)
 		(instances
-			(project ""
+			(project "icepi-zero"
 				(path "/f88da08e-cf42-4d03-a08f-3f602fe6658d/82ea4d67-1fc9-4e6e-a7f0-983b0b32ee19"
 					(reference "J8")
 					(unit 1)
