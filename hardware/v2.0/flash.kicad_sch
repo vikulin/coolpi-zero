@@ -6964,7 +6964,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "15kΩ ±1% 62.5mW 0402 Thick Film Resistor"
+		(property "Description" "Resistor"
 			(at 66.04 64.77 0)
 			(effects
 				(font
@@ -7245,7 +7245,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "15kΩ ±1% 62.5mW 0402 Thick Film Resistor"
+		(property "Description" "Resistor"
 			(at 78.74 64.77 0)
 			(effects
 				(font
@@ -8337,7 +8337,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "10kΩ ±1% 62.5mW 0402 Thick Film Resistor"
+		(property "Description" "Resistor"
 			(at 166.37 93.98 0)
 			(effects
 				(font
@@ -8485,7 +8485,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "15kΩ ±1% 62.5mW 0402 Thick Film Resistor"
+		(property "Description" "Resistor"
 			(at 72.39 64.77 0)
 			(effects
 				(font
@@ -8633,7 +8633,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "4.7kΩ ±1% 62.5mW 0402 Thick Film Resistor"
+		(property "Description" "Resistor"
 			(at 146.05 93.98 0)
 			(effects
 				(font
@@ -8913,7 +8913,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "10kΩ ±1% 62.5mW 0402 Thick Film Resistor"
+		(property "Description" "Resistor"
 			(at 156.21 93.98 0)
 			(effects
 				(font
@@ -9061,7 +9061,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "10kΩ ±1% 62.5mW 0402 Thick Film Resistor"
+		(property "Description" "Resistor"
 			(at 161.29 93.98 0)
 			(effects
 				(font
@@ -9209,7 +9209,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "10kΩ ±1% 62.5mW 0402 Thick Film Resistor"
+		(property "Description" "Resistor"
 			(at 151.13 93.98 0)
 			(effects
 				(font

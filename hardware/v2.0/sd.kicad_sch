@@ -6809,7 +6809,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "10uF ±10% 10V Ceramic Capacitor X5R 0603"
+		(property "Description" "Unpolarized capacitor, small symbol"
 			(at 147.32 97.79 0)
 			(effects
 				(font

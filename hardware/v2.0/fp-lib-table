@@ -14,4 +14,5 @@
   (lib (name "BM04B_ACHSS_A_GAN_TF_LF__SN")(type "KiCad")(uri "${KIPRJMOD}/libraries/icepi-lib.petty/BM04B_ACHSS_A_GAN_TF_LF__SN")(options "")(descr ""))
   (lib (name "LM4040AIM3-2.0_NOPB")(type "KiCad")(uri "${KIPRJMOD}/libraries/icepi-lib.petty/LM4040AIM3-2.0_NOPB")(options "")(descr ""))
   (lib (name "LTC6409IUDB#TRPBF")(type "KiCad")(uri "${KIPRJMOD}/libraries/icepi-lib.petty/LTC6409IUDB#TRPBF")(options "")(descr ""))
+  (lib (name "ADS6122IRHBT")(type "KiCad")(uri "${KIPRJMOD}/libraries/icepi-lib.petty/ADS6122IRHBT")(options "")(descr ""))
 )

@@ -10272,7 +10272,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "100nF ±10% 50V Ceramic Capacitor X7R 0402"
+		(property "Description" "Unpolarized capacitor"
 			(at 21.59 165.1 0)
 			(effects
 				(font
@@ -10621,7 +10621,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "549Ω ±1% 62.5mW 0402 Thick Film Resisto"
+		(property "Description" "Resistor"
 			(at 58.42 111.76 0)
 			(effects
 				(font
@@ -10771,7 +10771,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "SMD-4_1.5X1.5 LED Addressable, Specialty RoHS"
+		(property "Description" "TOP MOUNT / 1515 / 1.5 X 1.5 X 0"
 			(at 54.61 147.32 0)
 			(effects
 				(font
@@ -11880,7 +11880,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "100nF ±10% 50V Ceramic Capacitor X7R 0402"
+		(property "Description" "Unpolarized capacitor"
 			(at 21.59 132.08 0)
 			(effects
 				(font
@@ -13720,7 +13720,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "100nF ±10% 50V Ceramic Capacitor X7R 0402"
+		(property "Description" "Unpolarized capacitor"
 			(at 21.59 148.59 0)
 			(effects
 				(font
@@ -14740,7 +14740,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Tactile Switch SPST 160gf 2mm SMD (SMT) Tab 4mm x 3mm Surface Mount"
+		(property "Description" "Push button switch, generic, two pins"
 			(at 36.83 90.17 0)
 			(effects
 				(font
@@ -14956,7 +14956,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "SMD-4_1.5X1.5 LED Addressable, Specialty RoHS"
+		(property "Description" "TOP MOUNT / 1515 / 1.5 X 1.5 X 0"
 			(at 54.61 114.3 0)
 			(effects
 				(font
@@ -16299,7 +16299,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "SMD-4_1.5X1.5 LED Addressable, Specialty RoHS"
+		(property "Description" "TOP MOUNT / 1515 / 1.5 X 1.5 X 0"
 			(at 54.61 163.83 0)
 			(effects
 				(font
@@ -16646,7 +16646,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "100nF ±10% 50V Ceramic Capacitor X7R 0402"
+		(property "Description" "Unpolarized capacitor"
 			(at 21.59 115.57 0)
 			(effects
 				(font
@@ -16862,7 +16862,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "SMD-4_1.5X1.5 LED Addressable, Specialty RoHS"
+		(property "Description" "TOP MOUNT / 1515 / 1.5 X 1.5 X 0"
 			(at 54.61 130.81 0)
 			(effects
 				(font
@@ -17341,7 +17341,7 @@
 				)
 			)
 		)
-		(property "Description" "100nF ±10% 50V Ceramic Capacitor X7R 0402"
+		(property "Description" "Unpolarized capacitor"
 			(at 82.55 173.99 0)
 			(effects
 				(font
@@ -17690,7 +17690,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "SMD-4_1.5X1.5 LED Addressable, Specialty RoHS"
+		(property "Description" "TOP MOUNT / 1515 / 1.5 X 1.5 X 0"
 			(at 54.61 180.34 0)
 			(effects
 				(font
@@ -17917,7 +17917,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Tactile Switch SPST 160gf 2mm SMD (SMT) Tab 4mm x 3mm Surface Mount"
+		(property "Description" "Push button switch, generic, two pins"
 			(at 36.83 80.01 0)
 			(effects
 				(font
@@ -18067,7 +18067,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "100nF ±10% 50V Ceramic Capacitor X7R 0402"
+		(property "Description" "Unpolarized capacitor"
 			(at 21.59 181.61 0)
 			(effects
 				(font
