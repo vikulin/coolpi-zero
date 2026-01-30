@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP LTC6409IUDB#TRPBF
+D High Speed Operational Amplifiers 10GHz GBW, 1.1nV/vHz Diff Amp/ADC Drvr , 2.7V ~ 5.25V , 52mA , -40C ~ +85C
+K
+F https://www.analog.com/media/en/technical-documentation/data-sheets/6409fb.pdf
+$ENDCMP
+#
+#End Doc Library
