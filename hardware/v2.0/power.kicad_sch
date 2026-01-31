@@ -7428,12 +7428,6 @@
 		(uuid "544689f4-03ca-498a-af65-4a5668dcd05f")
 	)
 	(junction
-		(at 106.68 107.95)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "5645eb3e-703a-40c2-9da6-f19a650e66de")
-	)
-	(junction
 		(at 177.8 72.39)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -7654,12 +7648,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "b3e9de67-b8ae-480a-804c-54a77fd253f2")
-	)
-	(junction
-		(at 125.73 118.11)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "b5805d56-b9b9-4096-9423-d868a7cda624")
 	)
 	(junction
 		(at 256.54 99.06)
@@ -8103,16 +8091,6 @@
 	)
 	(wire
 		(pts
-			(xy 106.68 116.84) (xy 106.68 118.11)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "108266ce-cbc8-438e-be59-8c99269d0003")
-	)
-	(wire
-		(pts
 			(xy 107.95 135.89) (xy 107.95 137.16)
 		)
 		(stroke
@@ -8440,16 +8418,6 @@
 			(type default)
 		)
 		(uuid "2823b0fd-0576-47a9-95d9-5411076fe5af")
-	)
-	(wire
-		(pts
-			(xy 106.68 109.22) (xy 106.68 107.95)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "29a3744a-d239-4d17-9686-9369faf18633")
 	)
 	(wire
 		(pts
@@ -8810,6 +8778,16 @@
 			(type default)
 		)
 		(uuid "4862a3df-642b-4979-b2a8-074750c5173b")
+	)
+	(wire
+		(pts
+			(xy 106.68 105.41) (xy 106.68 107.95)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "486a51e5-5af2-478d-b032-c603d74344b1")
 	)
 	(wire
 		(pts
@@ -10093,16 +10071,6 @@
 	)
 	(wire
 		(pts
-			(xy 125.73 116.84) (xy 125.73 118.11)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "ab2a8c86-5c98-4165-b26f-afe7aac6c004")
-	)
-	(wire
-		(pts
 			(xy 125.73 107.95) (xy 119.38 107.95)
 		)
 		(stroke
@@ -10170,16 +10138,6 @@
 			(type default)
 		)
 		(uuid "b3cb58f8-32bc-4ff3-85e2-e52fc9ba5bad")
-	)
-	(wire
-		(pts
-			(xy 106.68 105.41) (xy 106.68 107.95)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "b3d395e8-abd5-4ac3-97f9-caca06fd9ec6")
 	)
 	(wire
 		(pts
@@ -10753,7 +10711,7 @@
 	)
 	(wire
 		(pts
-			(xy 125.73 119.38) (xy 125.73 118.11)
+			(xy 125.73 116.84) (xy 125.73 119.38)
 		)
 		(stroke
 			(width 0)
@@ -10810,16 +10768,6 @@
 			(type default)
 		)
 		(uuid "ea306912-f957-44fa-99fd-eed8cf110eb5")
-	)
-	(wire
-		(pts
-			(xy 106.68 118.11) (xy 125.73 118.11)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "eac8ce22-67c3-425e-92a5-40197d671ee4")
 	)
 	(wire
 		(pts
@@ -22245,157 +22193,6 @@
 			(project "icepi-zero"
 				(path "/f88da08e-cf42-4d03-a08f-3f602fe6658d/a9c02a11-f344-487c-ac67-1be6ae5dcf49"
 					(reference "C62")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:C")
-		(at 106.68 113.03 0)
-		(mirror y)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "c6ddf57c-953c-4bd7-9b46-6923faae2ae7")
-		(property "Reference" "C64"
-			(at 98.552 110.998 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Value" "10u"
-			(at 98.552 113.538 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
-			(at 105.7148 116.84 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 106.68 113.03 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Unpolarized capacitor"
-			(at 106.68 113.03 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC Part #" "C19702"
-			(at 106.68 113.03 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC Link" "https://lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_Samsung-Electro-Mechanics-CL10A106KP8NNNC_C19702.html"
-			(at 106.68 113.03 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Manufactuer Part Number" "CL10A106KP8NNNC"
-			(at 106.68 113.03 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Note" ""
-			(at 106.68 113.03 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Notes" ""
-			(at 106.68 113.03 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Original" ""
-			(at 106.68 113.03 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Instructions/Notes" ""
-			(at 106.68 113.03 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MANUFACTURER_PART_NUMBER" "CL10A106KP8NNNC"
-			(at 106.68 113.03 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MANUFACTURER" "Samsung Electro-Mechanics"
-			(at 106.68 113.03 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "62eea614-52ee-4b67-a5fd-22a18ac8b4a6")
-		)
-		(pin "1"
-			(uuid "b3f8f9a6-4ae4-42f1-b693-1e0b9f9f29b2")
-		)
-		(instances
-			(project "icepi-zero"
-				(path "/f88da08e-cf42-4d03-a08f-3f602fe6658d/a9c02a11-f344-487c-ac67-1be6ae5dcf49"
-					(reference "C64")
 					(unit 1)
 				)
 			)
