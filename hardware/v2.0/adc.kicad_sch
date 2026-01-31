@@ -8473,7 +8473,7 @@
 		)
 		(uuid "fc9ed30e-548d-4bcf-96aa-024b07731acb")
 	)
-	(label "~{CS}"
+	(label "SEN"
 		(at 255.27 109.22 180)
 		(effects
 			(font
@@ -8683,7 +8683,7 @@
 		)
 		(uuid "83fe7e4a-8b2f-4a11-8bcc-491cb21f48e1")
 	)
-	(label "~{CS}"
+	(label "SEN"
 		(at 113.03 87.63 0)
 		(effects
 			(font
