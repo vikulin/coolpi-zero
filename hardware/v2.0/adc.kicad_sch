@@ -6,8 +6,8 @@
 	(paper "A4")
 	(title_block
 		(title "GammaPi Zero")
-		(date "2026-01-25")
-		(rev "v2.3.2")
+		(date "2026-01-31")
+		(rev "v2.6.0")
 		(company "Vadym Vikulin, Chengyin Yao (cheyao)")
 		(comment 1 "https://github.com/vikulin/gammapi-zero")
 		(comment 2 "License: Solderpad")
@@ -10185,7 +10185,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.sitime.com/support/resource-library/datasheets/sit8008-datasheet"
+		(property "Datasheet" "https://download.epsondevice.com/td/pdf/app/SG-8018CG_en.pdf"
 			(at 107.95 161.29 0)
 			(effects
 				(font
@@ -10194,7 +10194,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "SiTime Low Power Mems programmable oscillator, 1MHz to 110MHz, PQFN-4, 2.5x2.0mm (with output enable pin)"
+		(property "Description" "Programmable Oscillator 50MHz 1.8V~3.3V SMD2520-4P"
 			(at 107.95 161.29 0)
 			(effects
 				(font
