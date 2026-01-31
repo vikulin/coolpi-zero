@@ -11752,7 +11752,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "4.7MΩ ±1% 62.5mW 0402 Thick Film Resistor"
 			(at 177.8 59.69 0)
 			(effects
 				(font
@@ -11969,7 +11969,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
+		(property "Description" "100nF ±10% 50V Ceramic Capacitor X7R 0402"
 			(at 62.23 87.63 0)
 			(effects
 				(font
@@ -12118,7 +12118,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Ferrite bead"
+		(property "Description" "100Ω@100MHz 1 Line Ferrite Bead 0805 500mA 180mΩ"
 			(at 124.46 46.99 0)
 			(effects
 				(font
@@ -12335,7 +12335,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Unpolarized capacitor"
+		(property "Description" "100nF ±10% 50V Ceramic Capacitor X7R 0402"
 			(at 269.24 104.14 0)
 			(effects
 				(font
@@ -12551,7 +12551,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "301kΩ ±1% 62.5mW 0402 Thick Film Resistor"
 			(at 242.57 69.85 0)
 			(effects
 				(font
@@ -12699,7 +12699,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Unpolarized capacitor"
+		(property "Description" "6.8pF 50V Ceramic Capacitor C0G 0402"
 			(at 246.38 139.7 0)
 			(effects
 				(font
@@ -12821,6 +12821,7 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
+				(hide yes)
 			)
 		)
 		(property "Value" "100n"
@@ -12850,7 +12851,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
+		(property "Description" "100nF ±10% 50V Ceramic Capacitor X7R 0402"
 			(at 143.51 50.8 0)
 			(effects
 				(font
@@ -13067,7 +13068,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Unpolarized capacitor"
+		(property "Description" "10uF ±10% 10V Ceramic Capacitor X5R 0603"
 			(at 212.09 109.22 0)
 			(effects
 				(font
@@ -13282,7 +13283,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Inductor"
+		(property "Description" "800mA 2.2uH 299mΩ Multilayer inductor ±20% 0805 Fixed Inductors RoHS"
 			(at 231.14 134.62 0)
 			(effects
 				(font
@@ -13432,7 +13433,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "453kΩ ±1% 62.5mW 0402 Thick Film Resistor"
 			(at 241.3 139.7 0)
 			(effects
 				(font
@@ -13648,7 +13649,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "4.7MΩ ±1% 62.5mW 0402 Thick Film Resistor"
 			(at 218.44 60.96 0)
 			(effects
 				(font
@@ -13799,7 +13800,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
+		(property "Description" "10uF ±10% 10V Ceramic Capacitor X5R 0603"
 			(at 30.48 87.63 0)
 			(effects
 				(font
@@ -13949,7 +13950,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "255kΩ ±1% 62.5mW 0402 Thick Film Resistor"
 			(at 242.57 59.69 0)
 			(effects
 				(font
@@ -14099,7 +14100,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
+		(property "Description" "100nF ±10% 50V Ceramic Capacitor X7R 0402"
 			(at 60.96 50.8 0)
 			(effects
 				(font
@@ -14382,7 +14383,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
+		(property "Description" "100nF ±10% 50V Ceramic Capacitor X7R 0402"
 			(at 73.66 87.63 0)
 			(effects
 				(font
@@ -14532,7 +14533,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
+		(property "Description" "10uF ±10% 10V Ceramic Capacitor X5R 0603"
 			(at 34.29 50.8 0)
 			(effects
 				(font
@@ -14947,7 +14948,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
+		(property "Description" "100nF ±10% 50V Ceramic Capacitor X7R 0402"
 			(at 138.43 87.63 0)
 			(effects
 				(font
@@ -15427,7 +15428,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
+		(property "Description" "10uF ±10% 10V Ceramic Capacitor X5R 0603"
 			(at 118.11 87.63 0)
 			(effects
 				(font
@@ -15577,7 +15578,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "IC REG BUCK ADJ 800MA DL 10DFN"
+		(property "Description" "2.25MHz Buck Adjustable 800mA 600mV~5V DFN-10-EP(3x3) Voltage Regulators - DC DC Switching Regulators RoHS"
 			(at 181.61 69.85 0)
 			(effects
 				(font
@@ -15686,7 +15687,7 @@
 				(hide yes)
 			)
 		)
-		(property "MANUFACTURER_PART_NUMBER" "ltc3407aedd2"
+		(property "MANUFACTURER_PART_NUMBER" "LTC3407AEDD-2#PBF"
 			(at 181.61 69.85 0)
 			(effects
 				(font
@@ -15876,7 +15877,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "100kΩ ±1% 62.5mW 0402 Thick Film Resistor"
 			(at 241.3 149.86 0)
 			(effects
 				(font
@@ -16285,7 +16286,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
+		(property "Description" "10uF ±10% 10V Ceramic Capacitor X5R 0603"
 			(at 52.07 50.8 0)
 			(effects
 				(font
@@ -16436,7 +16437,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
+		(property "Description" "100nF ±10% 50V Ceramic Capacitor X7R 0402"
 			(at 128.27 87.63 0)
 			(effects
 				(font
@@ -16587,7 +16588,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
+		(property "Description" "10uF ±10% 10V Ceramic Capacitor X5R 0603"
 			(at 20.32 87.63 0)
 			(effects
 				(font
@@ -16736,7 +16737,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Ferrite bead"
+		(property "Description" "1kΩ@100MHz 1 Line Ferrite Bead 0603 450mA 500mΩ"
 			(at 115.57 107.95 0)
 			(effects
 				(font
@@ -16950,7 +16951,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Unpolarized capacitor"
+		(property "Description" "22pF ±5% 50V Ceramic Capacitor C0G 0402"
 			(at 247.65 59.69 0)
 			(effects
 				(font
@@ -17099,7 +17100,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Inductor"
+		(property "Description" "800mA 2.2uH 299mΩ Multilayer inductor ±20% 0805 Fixed Inductors RoHS"
 			(at 237.49 54.61 0)
 			(effects
 				(font
@@ -17381,7 +17382,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
+		(property "Description" "100nF ±10% 50V Ceramic Capacitor X7R 0402"
 			(at 78.74 50.8 0)
 			(effects
 				(font
@@ -18445,6 +18446,7 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
+				(hide yes)
 			)
 		)
 		(property "Value" "100n"
@@ -18474,7 +18476,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
+		(property "Description" "100nF ±10% 50V Ceramic Capacitor X7R 0402"
 			(at 105.41 50.8 0)
 			(effects
 				(font
@@ -18690,7 +18692,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
+		(property "Description" "10uF ±10% 10V Ceramic Capacitor X5R 0603"
 			(at 43.18 50.8 0)
 			(effects
 				(font
@@ -18904,7 +18906,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Unpolarized capacitor"
+		(property "Description" "22pF ±5% 50V Ceramic Capacitor C0G 0402"
 			(at 246.38 104.14 0)
 			(effects
 				(font
@@ -19121,7 +19123,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Unpolarized capacitor"
+		(property "Description" "100nF ±10% 50V Ceramic Capacitor X7R 0402"
 			(at 269.24 59.69 0)
 			(effects
 				(font
@@ -19335,7 +19337,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Unpolarized capacitor"
+		(property "Description" "2.7nF ±10% 50V Ceramic Capacitor X7R 0402"
 			(at 218.44 80.01 0)
 			(effects
 				(font
@@ -19523,6 +19525,7 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
+				(hide yes)
 			)
 		)
 		(property "Value" "10u"
@@ -19552,7 +19555,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
+		(property "Description" "10uF ±10% 10V Ceramic Capacitor X5R 0603"
 			(at 133.35 50.8 0)
 			(effects
 				(font
@@ -19703,7 +19706,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Unpolarized capacitor"
+		(property "Description" "10uF ±10% 10V Ceramic Capacitor X5R 0603"
 			(at 256.54 139.7 0)
 			(effects
 				(font
@@ -19824,6 +19827,7 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
+				(hide yes)
 			)
 		)
 		(property "Value" "100n"
@@ -19853,7 +19857,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
+		(property "Description" "100nF ±10% 50V Ceramic Capacitor X7R 0402"
 			(at 96.52 50.8 0)
 			(effects
 				(font
@@ -20427,7 +20431,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Unpolarized capacitor"
+		(property "Description" "5.6nF X7R ±10% 50V 0402 Ceramic Capacitors RoHS"
 			(at 177.8 80.01 0)
 			(effects
 				(font
@@ -20578,7 +20582,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Unpolarized capacitor"
+		(property "Description" "1uF ±10% 10V Ceramic Capacitor X5R 0402"
 			(at 125.73 113.03 0)
 			(effects
 				(font
@@ -20860,7 +20864,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Unpolarized capacitor"
+		(property "Description" "22uF ±20% 6.3V Ceramic Capacitor X5R 0603"
 			(at 201.93 139.7 0)
 			(effects
 				(font
@@ -21142,7 +21146,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
+		(property "Description" "100nF ±10% 50V Ceramic Capacitor X7R 0402"
 			(at 95.25 87.63 0)
 			(effects
 				(font
@@ -21491,7 +21495,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
+		(property "Description" "100nF ±10% 50V Ceramic Capacitor X7R 0402"
 			(at 50.8 87.63 0)
 			(effects
 				(font
@@ -21642,7 +21646,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
+		(property "Description" "100nF ±10% 50V Ceramic Capacitor X7R 0402"
 			(at 85.09 87.63 0)
 			(effects
 				(font
@@ -21792,7 +21796,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "100kΩ ±1% 62.5mW 0402 Thick Film Resistor"
 			(at 223.52 60.96 0)
 			(effects
 				(font
@@ -21942,7 +21946,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "887kΩ ±1% 62.5mW 0402 Thick Film Resistor"
 			(at 241.3 104.14 0)
 			(effects
 				(font
@@ -22093,7 +22097,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Unpolarized capacitor"
+		(property "Description" "10uF ±10% 10V Ceramic Capacitor X5R 0603"
 			(at 167.64 109.22 0)
 			(effects
 				(font
@@ -22243,7 +22247,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
+		(property "Description" "100nF ±10% 50V Ceramic Capacitor X7R 0402"
 			(at 87.63 50.8 0)
 			(effects
 				(font
@@ -22394,7 +22398,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
+		(property "Description" "100nF ±10% 50V Ceramic Capacitor X7R 0402"
 			(at 106.68 87.63 0)
 			(effects
 				(font
@@ -22544,7 +22548,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
+		(property "Description" "100nF ±10% 50V Ceramic Capacitor X7R 0402"
 			(at 69.85 50.8 0)
 			(effects
 				(font
@@ -22693,7 +22697,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Inductor"
+		(property "Description" "800mA 2.2uH 299mΩ Multilayer inductor ±20% 0805 Fixed Inductors RoHS"
 			(at 236.22 99.06 0)
 			(effects
 				(font
@@ -22815,6 +22819,7 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
+				(hide yes)
 			)
 		)
 		(property "Value" "100n"
@@ -22844,7 +22849,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
+		(property "Description" "100nF ±10% 50V Ceramic Capacitor X7R 0402"
 			(at 154.94 50.8 0)
 			(effects
 				(font
@@ -23259,7 +23264,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Unpolarized capacitor"
+		(property "Description" "22uF ±20% 6.3V Ceramic Capacitor X5R 0603"
 			(at 257.81 59.69 0)
 			(effects
 				(font
@@ -23410,7 +23415,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
+		(property "Description" "10uF ±10% 10V Ceramic Capacitor X5R 0603"
 			(at 40.64 87.63 0)
 			(effects
 				(font
@@ -23561,7 +23566,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Unpolarized capacitor"
+		(property "Description" "100nF ±10% 50V Ceramic Capacitor X7R 0402"
 			(at 269.24 139.7 0)
 			(effects
 				(font
@@ -23711,7 +23716,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Unpolarized capacitor"
+		(property "Description" "22uF ±20% 6.3V Ceramic Capacitor X5R 0603"
 			(at 167.64 80.01 0)
 			(effects
 				(font
@@ -23927,7 +23932,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "280kΩ ±1% 62.5mW 0402 Thick Film Resistor"
 			(at 241.3 114.3 0)
 			(effects
 				(font
@@ -24078,7 +24083,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Unpolarized capacitor"
+		(property "Description" "22uF ±20% 6.3V Ceramic Capacitor X5R 0603"
 			(at 256.54 104.14 0)
 			(effects
 				(font

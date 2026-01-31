@@ -10255,7 +10255,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 218.44 43.18 0)
 			(effects
 				(font
@@ -10273,7 +10273,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
+		(property "Description" "22nF ±10% 50V Ceramic Capacitor X7R 0402"
 			(at 218.44 43.18 0)
 			(effects
 				(font
@@ -10354,7 +10354,7 @@
 				(hide yes)
 			)
 		)
-		(property "MANUFACTURER_PART_NUMBER" "0603B223K500NT"
+		(property "MANUFACTURER_PART_NUMBER" "0402B223K500NT"
 			(at 218.44 43.18 0)
 			(effects
 				(font
@@ -10407,7 +10407,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 194.31 43.18 0)
 			(effects
 				(font
@@ -10425,7 +10425,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
+		(property "Description" "22nF ±10% 50V Ceramic Capacitor X7R 0402"
 			(at 194.31 43.18 0)
 			(effects
 				(font
@@ -10506,7 +10506,7 @@
 				(hide yes)
 			)
 		)
-		(property "MANUFACTURER_PART_NUMBER" "0603B223K500NT"
+		(property "MANUFACTURER_PART_NUMBER" "0402B223K500NT"
 			(at 194.31 43.18 0)
 			(effects
 				(font
@@ -10559,7 +10559,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 207.01 43.18 0)
 			(effects
 				(font
@@ -10577,7 +10577,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
+		(property "Description" "22nF ±10% 50V Ceramic Capacitor X7R 0402"
 			(at 207.01 43.18 0)
 			(effects
 				(font
@@ -10658,7 +10658,7 @@
 				(hide yes)
 			)
 		)
-		(property "MANUFACTURER_PART_NUMBER" "0603B223K500NT"
+		(property "MANUFACTURER_PART_NUMBER" "0402B223K500NT"
 			(at 207.01 43.18 0)
 			(effects
 				(font
@@ -10711,7 +10711,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 181.61 43.18 0)
 			(effects
 				(font
@@ -10729,7 +10729,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
+		(property "Description" "22nF ±10% 50V Ceramic Capacitor X7R 0402"
 			(at 181.61 43.18 0)
 			(effects
 				(font
@@ -10810,7 +10810,7 @@
 				(hide yes)
 			)
 		)
-		(property "MANUFACTURER_PART_NUMBER" "0603B223K500NT"
+		(property "MANUFACTURER_PART_NUMBER" "0402B223K500NT"
 			(at 181.61 43.18 0)
 			(effects
 				(font
@@ -10929,7 +10929,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 229.87 43.18 0)
 			(effects
 				(font
@@ -10947,7 +10947,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
+		(property "Description" "22nF ±10% 50V Ceramic Capacitor X7R 0402"
 			(at 229.87 43.18 0)
 			(effects
 				(font
@@ -11028,7 +11028,7 @@
 				(hide yes)
 			)
 		)
-		(property "MANUFACTURER_PART_NUMBER" "0603B223K500NT"
+		(property "MANUFACTURER_PART_NUMBER" "0402B223K500NT"
 			(at 229.87 43.18 0)
 			(effects
 				(font
@@ -11081,7 +11081,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 241.3 43.18 0)
 			(effects
 				(font
@@ -11099,7 +11099,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
+		(property "Description" "22nF ±10% 50V Ceramic Capacitor X7R 0402"
 			(at 241.3 43.18 0)
 			(effects
 				(font
@@ -11180,7 +11180,7 @@
 				(hide yes)
 			)
 		)
-		(property "MANUFACTURER_PART_NUMBER" "0603B223K500NT"
+		(property "MANUFACTURER_PART_NUMBER" "0402B223K500NT"
 			(at 241.3 43.18 0)
 			(effects
 				(font
@@ -11233,7 +11233,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 252.73 43.18 0)
 			(effects
 				(font
@@ -11251,7 +11251,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
+		(property "Description" "22nF ±10% 50V Ceramic Capacitor X7R 0402"
 			(at 252.73 43.18 0)
 			(effects
 				(font
@@ -11332,7 +11332,7 @@
 				(hide yes)
 			)
 		)
-		(property "MANUFACTURER_PART_NUMBER" "0603B223K500NT"
+		(property "MANUFACTURER_PART_NUMBER" "0402B223K500NT"
 			(at 252.73 43.18 0)
 			(effects
 				(font
@@ -12659,7 +12659,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
+		(property "Description" "10uF ±10% 10V Ceramic Capacitor X5R 0603"
 			(at 264.16 43.18 0)
 			(effects
 				(font

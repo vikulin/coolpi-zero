@@ -6653,7 +6653,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "1.3kΩ ±1% 62.5mW 0402 Thick Film Resistor"
 			(at 149.86 111.76 0)
 			(effects
 				(font
@@ -7416,7 +7416,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
+		(property "Description" "100nF ±10% 50V Ceramic Capacitor X7R 0402"
 			(at 154.94 115.57 0)
 			(effects
 				(font
@@ -8683,7 +8683,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Unpolarized capacitor"
+		(property "Description" "100nF ±10% 50V Ceramic Capacitor X7R 0402"
 			(at 193.04 105.41 0)
 			(effects
 				(font
