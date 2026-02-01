@@ -7231,13 +7231,14 @@
 			(embedded_fonts no)
 		)
 	)
-	(text "Vocm = (Vcm*R52 + Vdd*R2) / (R52 + R2) =\n(0.9V*14k + 3.3V*10k) / (10k + 14k) ≈ 1.90V\n"
+	(text "Vocm = 1.5V\n100 Ohm differential impedance control is required\non Layer 1 and Layer 3, referenced to the Layer 2 ground plane.\n\nThe proposed PCB stack-up should work, except the copper thickness\nis expected to be < 1.5 oz for more reliable impedance control.\n\nThis is provided for the manufacturer's consideration.\n"
 		(exclude_from_sim no)
-		(at 257.048 19.304 0)
+		(at 215.646 24.638 0)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
+			(justify left)
 		)
 		(uuid "2db240e5-4463-4b33-8027-461f8111bdea")
 	)
