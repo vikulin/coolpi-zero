@@ -6,7 +6,7 @@
 	(paper "A4")
 	(title_block
 		(title "GammaPi Zero")
-		(date "2026-01-31")
+		(date "2026-02-01")
 		(rev "v2.6.0")
 		(company "Vadym Vikulin, Chengyin Yao (cheyao)")
 		(comment 1 "https://github.com/vikulin/gammapi-zero")
@@ -9036,7 +9036,7 @@
 			(uuid "f4fac880-de5c-4970-a9ce-48d88715c180")
 		)
 		(instances
-			(project "icepi-zero"
+			(project "gammapi-zero"
 				(path "/f88da08e-cf42-4d03-a08f-3f602fe6658d/b5a9aa02-311b-4a9a-a7d4-646f15cdd9c2"
 					(reference "#PWR0137")
 					(unit 1)
@@ -9186,7 +9186,7 @@
 			(uuid "f3a74a27-191d-44ce-8f2d-40a1f046cd92")
 		)
 		(instances
-			(project "icepi-zero"
+			(project "gammapi-zero"
 				(path "/f88da08e-cf42-4d03-a08f-3f602fe6658d/b5a9aa02-311b-4a9a-a7d4-646f15cdd9c2"
 					(reference "R5")
 					(unit 1)
@@ -9336,7 +9336,7 @@
 			(uuid "ef502d41-07cd-40b0-88c9-c77a9117532d")
 		)
 		(instances
-			(project "icepi-zero"
+			(project "gammapi-zero"
 				(path "/f88da08e-cf42-4d03-a08f-3f602fe6658d/b5a9aa02-311b-4a9a-a7d4-646f15cdd9c2"
 					(reference "R4")
 					(unit 1)
@@ -9401,7 +9401,7 @@
 			(uuid "a0aa9844-1663-469f-a78a-f63adad184a3")
 		)
 		(instances
-			(project "icepi-zero"
+			(project "gammapi-zero"
 				(path "/f88da08e-cf42-4d03-a08f-3f602fe6658d/b5a9aa02-311b-4a9a-a7d4-646f15cdd9c2"
 					(reference "#PWR0145")
 					(unit 1)
@@ -9466,7 +9466,7 @@
 			(uuid "85708522-bb8f-487c-9aee-ea77976c1d1c")
 		)
 		(instances
-			(project "icepi-zero"
+			(project "gammapi-zero"
 				(path "/f88da08e-cf42-4d03-a08f-3f602fe6658d/b5a9aa02-311b-4a9a-a7d4-646f15cdd9c2"
 					(reference "#PWR0120")
 					(unit 1)
@@ -9616,7 +9616,7 @@
 			(uuid "03eb8f16-7ab2-459b-b5cc-f3392d1fedd8")
 		)
 		(instances
-			(project "icepi-zero"
+			(project "gammapi-zero"
 				(path "/f88da08e-cf42-4d03-a08f-3f602fe6658d/b5a9aa02-311b-4a9a-a7d4-646f15cdd9c2"
 					(reference "R57")
 					(unit 1)
@@ -9681,7 +9681,7 @@
 			(uuid "44aa60a1-973f-4b18-9ecf-bbafc37ee0fc")
 		)
 		(instances
-			(project "icepi-zero"
+			(project "gammapi-zero"
 				(path "/f88da08e-cf42-4d03-a08f-3f602fe6658d/b5a9aa02-311b-4a9a-a7d4-646f15cdd9c2"
 					(reference "#PWR0147")
 					(unit 1)
@@ -9831,7 +9831,7 @@
 			(uuid "01410e64-7029-45a2-9b5e-383a7f1babd8")
 		)
 		(instances
-			(project "icepi-zero"
+			(project "gammapi-zero"
 				(path "/f88da08e-cf42-4d03-a08f-3f602fe6658d/b5a9aa02-311b-4a9a-a7d4-646f15cdd9c2"
 					(reference "R62")
 					(unit 1)
@@ -9979,7 +9979,7 @@
 			(uuid "633a0ec9-eedf-4c0e-9693-6c6445a1ad2e")
 		)
 		(instances
-			(project "icepi-zero"
+			(project "gammapi-zero"
 				(path "/f88da08e-cf42-4d03-a08f-3f602fe6658d/b5a9aa02-311b-4a9a-a7d4-646f15cdd9c2"
 					(reference "C80")
 					(unit 1)
@@ -10297,7 +10297,7 @@
 			(uuid "429d007b-8be0-4897-87d6-ee24cc46ee96")
 		)
 		(instances
-			(project "icepi-zero"
+			(project "gammapi-zero"
 				(path "/f88da08e-cf42-4d03-a08f-3f602fe6658d/b5a9aa02-311b-4a9a-a7d4-646f15cdd9c2"
 					(reference "Y2")
 					(unit 1)
@@ -10447,7 +10447,7 @@
 			(uuid "984fa897-76c7-423b-a782-8162b26b1fb7")
 		)
 		(instances
-			(project "icepi-zero"
+			(project "gammapi-zero"
 				(path "/f88da08e-cf42-4d03-a08f-3f602fe6658d/b5a9aa02-311b-4a9a-a7d4-646f15cdd9c2"
 					(reference "R2")
 					(unit 1)
@@ -10597,7 +10597,7 @@
 			(uuid "37509f37-16c6-46cb-b8cc-26d318c5ec8d")
 		)
 		(instances
-			(project "icepi-zero"
+			(project "gammapi-zero"
 				(path "/f88da08e-cf42-4d03-a08f-3f602fe6658d/b5a9aa02-311b-4a9a-a7d4-646f15cdd9c2"
 					(reference "R61")
 					(unit 1)
@@ -10745,7 +10745,7 @@
 			(uuid "2e694aeb-efc9-4b36-9990-c327a9821908")
 		)
 		(instances
-			(project "icepi-zero"
+			(project "gammapi-zero"
 				(path "/f88da08e-cf42-4d03-a08f-3f602fe6658d/b5a9aa02-311b-4a9a-a7d4-646f15cdd9c2"
 					(reference "C69")
 					(unit 1)
@@ -11039,7 +11039,7 @@
 			(uuid "62e04ce6-410c-42dd-ae14-2c2d22cd2bc5")
 		)
 		(instances
-			(project "icepi-zero"
+			(project "gammapi-zero"
 				(path "/f88da08e-cf42-4d03-a08f-3f602fe6658d/b5a9aa02-311b-4a9a-a7d4-646f15cdd9c2"
 					(reference "#PWR0121")
 					(unit 1)
@@ -11104,7 +11104,7 @@
 			(uuid "9e41c9b7-75ff-4fd8-a398-26e8331210ce")
 		)
 		(instances
-			(project "icepi-zero"
+			(project "gammapi-zero"
 				(path "/f88da08e-cf42-4d03-a08f-3f602fe6658d/b5a9aa02-311b-4a9a-a7d4-646f15cdd9c2"
 					(reference "#PWR0146")
 					(unit 1)
@@ -11252,7 +11252,7 @@
 			(uuid "883533d4-4345-4340-8b77-387999638701")
 		)
 		(instances
-			(project "icepi-zero"
+			(project "gammapi-zero"
 				(path "/f88da08e-cf42-4d03-a08f-3f602fe6658d/b5a9aa02-311b-4a9a-a7d4-646f15cdd9c2"
 					(reference "C77")
 					(unit 1)
@@ -11402,7 +11402,7 @@
 			(uuid "f61c193e-84a5-4593-8416-7db489692597")
 		)
 		(instances
-			(project "icepi-zero"
+			(project "gammapi-zero"
 				(path "/f88da08e-cf42-4d03-a08f-3f602fe6658d/b5a9aa02-311b-4a9a-a7d4-646f15cdd9c2"
 					(reference "R51")
 					(unit 1)
@@ -11551,7 +11551,7 @@
 			(uuid "a2fcfcdd-5774-4a03-b7e2-a179153de03b")
 		)
 		(instances
-			(project "icepi-zero"
+			(project "gammapi-zero"
 				(path "/f88da08e-cf42-4d03-a08f-3f602fe6658d/b5a9aa02-311b-4a9a-a7d4-646f15cdd9c2"
 					(reference "C55")
 					(unit 1)
@@ -11699,7 +11699,7 @@
 			(uuid "c4910d1a-549a-42c6-80b0-aaebae912816")
 		)
 		(instances
-			(project "icepi-zero"
+			(project "gammapi-zero"
 				(path "/f88da08e-cf42-4d03-a08f-3f602fe6658d/b5a9aa02-311b-4a9a-a7d4-646f15cdd9c2"
 					(reference "C81")
 					(unit 1)
@@ -11764,7 +11764,7 @@
 			(uuid "2417ec22-e614-427a-8a73-6314553de03d")
 		)
 		(instances
-			(project "icepi-zero"
+			(project "gammapi-zero"
 				(path "/f88da08e-cf42-4d03-a08f-3f602fe6658d/b5a9aa02-311b-4a9a-a7d4-646f15cdd9c2"
 					(reference "#PWR0149")
 					(unit 1)
@@ -11912,7 +11912,7 @@
 			(uuid "fc07e91e-e368-449e-a7ff-066699dc9608")
 		)
 		(instances
-			(project "icepi-zero"
+			(project "gammapi-zero"
 				(path "/f88da08e-cf42-4d03-a08f-3f602fe6658d/b5a9aa02-311b-4a9a-a7d4-646f15cdd9c2"
 					(reference "C84")
 					(unit 1)
@@ -12926,7 +12926,7 @@
 			(uuid "6f17f9bd-dd93-4a02-b3df-d0d8a01ad7c1")
 		)
 		(instances
-			(project "icepi-zero"
+			(project "gammapi-zero"
 				(path "/f88da08e-cf42-4d03-a08f-3f602fe6658d/b5a9aa02-311b-4a9a-a7d4-646f15cdd9c2"
 					(reference "C75")
 					(unit 1)
@@ -12991,7 +12991,7 @@
 			(uuid "2e86a0c8-72e3-4fae-9c7d-1e791dd946ac")
 		)
 		(instances
-			(project "icepi-zero"
+			(project "gammapi-zero"
 				(path "/f88da08e-cf42-4d03-a08f-3f602fe6658d/b5a9aa02-311b-4a9a-a7d4-646f15cdd9c2"
 					(reference "#PWR0138")
 					(unit 1)
@@ -13139,7 +13139,7 @@
 			(uuid "733c85c0-3719-4c3d-a730-3b03ca8602eb")
 		)
 		(instances
-			(project "icepi-zero"
+			(project "gammapi-zero"
 				(path "/f88da08e-cf42-4d03-a08f-3f602fe6658d/b5a9aa02-311b-4a9a-a7d4-646f15cdd9c2"
 					(reference "C78")
 					(unit 1)
@@ -13204,7 +13204,7 @@
 			(uuid "d574f577-54f4-4e91-ac5d-b3ffed6f2833")
 		)
 		(instances
-			(project "icepi-zero"
+			(project "gammapi-zero"
 				(path "/f88da08e-cf42-4d03-a08f-3f602fe6658d/b5a9aa02-311b-4a9a-a7d4-646f15cdd9c2"
 					(reference "#PWR0130")
 					(unit 1)
@@ -13269,7 +13269,7 @@
 			(uuid "3344f8cd-012a-40cb-ac24-7e3c5499a681")
 		)
 		(instances
-			(project "icepi-zero"
+			(project "gammapi-zero"
 				(path "/f88da08e-cf42-4d03-a08f-3f602fe6658d/b5a9aa02-311b-4a9a-a7d4-646f15cdd9c2"
 					(reference "#PWR0104")
 					(unit 1)
@@ -13335,7 +13335,7 @@
 			(uuid "88df5f9b-816e-4858-9424-475ba2cafc6b")
 		)
 		(instances
-			(project "icepi-zero"
+			(project "gammapi-zero"
 				(path "/f88da08e-cf42-4d03-a08f-3f602fe6658d/b5a9aa02-311b-4a9a-a7d4-646f15cdd9c2"
 					(reference "#PWR084")
 					(unit 1)
@@ -13485,7 +13485,7 @@
 			(uuid "2f305ba1-255f-4016-9919-c3c732c3a8de")
 		)
 		(instances
-			(project "icepi-zero"
+			(project "gammapi-zero"
 				(path "/f88da08e-cf42-4d03-a08f-3f602fe6658d/b5a9aa02-311b-4a9a-a7d4-646f15cdd9c2"
 					(reference "R3")
 					(unit 1)
@@ -13551,7 +13551,7 @@
 			(uuid "b3aefe18-d6b1-4996-af39-17c599e3c86a")
 		)
 		(instances
-			(project "icepi-zero"
+			(project "gammapi-zero"
 				(path "/f88da08e-cf42-4d03-a08f-3f602fe6658d/b5a9aa02-311b-4a9a-a7d4-646f15cdd9c2"
 					(reference "#PWR0107")
 					(unit 1)
@@ -13617,7 +13617,7 @@
 			(uuid "3013ffcf-8d5e-47b7-a48c-2eb30dc5e45a")
 		)
 		(instances
-			(project "icepi-zero"
+			(project "gammapi-zero"
 				(path "/f88da08e-cf42-4d03-a08f-3f602fe6658d/b5a9aa02-311b-4a9a-a7d4-646f15cdd9c2"
 					(reference "#PWR059")
 					(unit 1)
@@ -13682,7 +13682,7 @@
 			(uuid "29761be7-5e22-4094-8402-049f9232ef1c")
 		)
 		(instances
-			(project "icepi-zero"
+			(project "gammapi-zero"
 				(path "/f88da08e-cf42-4d03-a08f-3f602fe6658d/b5a9aa02-311b-4a9a-a7d4-646f15cdd9c2"
 					(reference "#PWR0139")
 					(unit 1)
@@ -13747,7 +13747,7 @@
 			(uuid "308f752b-50be-4682-9bb4-e9633d707ef1")
 		)
 		(instances
-			(project "icepi-zero"
+			(project "gammapi-zero"
 				(path "/f88da08e-cf42-4d03-a08f-3f602fe6658d/b5a9aa02-311b-4a9a-a7d4-646f15cdd9c2"
 					(reference "#PWR0131")
 					(unit 1)
@@ -13812,7 +13812,7 @@
 			(uuid "02c982e4-dafb-46d1-a6a5-d2c33db2a340")
 		)
 		(instances
-			(project "icepi-zero"
+			(project "gammapi-zero"
 				(path "/f88da08e-cf42-4d03-a08f-3f602fe6658d/b5a9aa02-311b-4a9a-a7d4-646f15cdd9c2"
 					(reference "#PWR0129")
 					(unit 1)
@@ -13878,7 +13878,7 @@
 			(uuid "1386937a-fc90-443b-953a-5ad95c7917dd")
 		)
 		(instances
-			(project "icepi-zero"
+			(project "gammapi-zero"
 				(path "/f88da08e-cf42-4d03-a08f-3f602fe6658d/b5a9aa02-311b-4a9a-a7d4-646f15cdd9c2"
 					(reference "#PWR0148")
 					(unit 1)
@@ -13943,7 +13943,7 @@
 			(uuid "c705afe9-1ebc-4108-86a5-eaa8a99a0bcd")
 		)
 		(instances
-			(project "icepi-zero"
+			(project "gammapi-zero"
 				(path "/f88da08e-cf42-4d03-a08f-3f602fe6658d/b5a9aa02-311b-4a9a-a7d4-646f15cdd9c2"
 					(reference "#PWR0140")
 					(unit 1)
@@ -14091,7 +14091,7 @@
 			(uuid "70be8cdc-2883-4162-b2b9-afca41b039cf")
 		)
 		(instances
-			(project "icepi-zero"
+			(project "gammapi-zero"
 				(path "/f88da08e-cf42-4d03-a08f-3f602fe6658d/b5a9aa02-311b-4a9a-a7d4-646f15cdd9c2"
 					(reference "C60")
 					(unit 1)
@@ -14239,7 +14239,7 @@
 			(uuid "adb38fbb-06b6-46f0-853a-5930780ab50a")
 		)
 		(instances
-			(project "icepi-zero"
+			(project "gammapi-zero"
 				(path "/f88da08e-cf42-4d03-a08f-3f602fe6658d/b5a9aa02-311b-4a9a-a7d4-646f15cdd9c2"
 					(reference "C76")
 					(unit 1)
@@ -14389,7 +14389,7 @@
 			(uuid "3eff6e00-2b66-4d48-b8e0-673d928fa311")
 		)
 		(instances
-			(project "icepi-zero"
+			(project "gammapi-zero"
 				(path "/f88da08e-cf42-4d03-a08f-3f602fe6658d/b5a9aa02-311b-4a9a-a7d4-646f15cdd9c2"
 					(reference "R52")
 					(unit 1)
@@ -14539,7 +14539,7 @@
 			(uuid "fd52ea8a-7b3d-45fe-8327-e93f0504edd1")
 		)
 		(instances
-			(project "icepi-zero"
+			(project "gammapi-zero"
 				(path "/f88da08e-cf42-4d03-a08f-3f602fe6658d/b5a9aa02-311b-4a9a-a7d4-646f15cdd9c2"
 					(reference "R59")
 					(unit 1)
@@ -14687,7 +14687,7 @@
 			(uuid "b7abc69c-0883-4ccd-8f47-a49adef9cbbe")
 		)
 		(instances
-			(project "icepi-zero"
+			(project "gammapi-zero"
 				(path "/f88da08e-cf42-4d03-a08f-3f602fe6658d/b5a9aa02-311b-4a9a-a7d4-646f15cdd9c2"
 					(reference "C79")
 					(unit 1)
@@ -14835,7 +14835,7 @@
 			(uuid "31cc5b4c-4557-4b61-aabb-17d96c1ce940")
 		)
 		(instances
-			(project "icepi-zero"
+			(project "gammapi-zero"
 				(path "/f88da08e-cf42-4d03-a08f-3f602fe6658d/b5a9aa02-311b-4a9a-a7d4-646f15cdd9c2"
 					(reference "C59")
 					(unit 1)
@@ -15215,7 +15215,7 @@
 			(uuid "38ed4421-3866-4338-bcef-0ad13fe751f4")
 		)
 		(instances
-			(project "icepi-zero"
+			(project "gammapi-zero"
 				(path "/f88da08e-cf42-4d03-a08f-3f602fe6658d/b5a9aa02-311b-4a9a-a7d4-646f15cdd9c2"
 					(reference "R60")
 					(unit 1)
@@ -15280,7 +15280,7 @@
 			(uuid "5b11ba20-e6ab-48cb-89f6-8d4322afe365")
 		)
 		(instances
-			(project "icepi-zero"
+			(project "gammapi-zero"
 				(path "/f88da08e-cf42-4d03-a08f-3f602fe6658d/b5a9aa02-311b-4a9a-a7d4-646f15cdd9c2"
 					(reference "#PWR087")
 					(unit 1)
@@ -15346,7 +15346,7 @@
 			(uuid "60d14ba6-c56e-4d8c-a416-989ca7535457")
 		)
 		(instances
-			(project "icepi-zero"
+			(project "gammapi-zero"
 				(path "/f88da08e-cf42-4d03-a08f-3f602fe6658d/b5a9aa02-311b-4a9a-a7d4-646f15cdd9c2"
 					(reference "#PWR085")
 					(unit 1)

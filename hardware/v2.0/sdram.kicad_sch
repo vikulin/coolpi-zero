@@ -6,7 +6,7 @@
 	(paper "A4")
 	(title_block
 		(title "GammaPi Zero")
-		(date "2026-01-31")
+		(date "2026-02-01")
 		(rev "v2.6.0")
 		(company "Vadym Vikulin, Chengyin Yao (cheyao)")
 		(comment 1 "https://github.com/vikulin/gammapi-zero")
@@ -10218,7 +10218,7 @@
 			(uuid "8d0b07b1-331e-4d31-ba24-5d4bd6b43841")
 		)
 		(instances
-			(project "icepi-zero"
+			(project "gammapi-zero"
 				(path "/f88da08e-cf42-4d03-a08f-3f602fe6658d/3bffbb9a-e009-498c-a1b0-c490cdf30139"
 					(reference "#PWR081")
 					(unit 1)
@@ -10370,7 +10370,7 @@
 			(uuid "cc7300c9-fdf0-409a-b615-8e250afb0a32")
 		)
 		(instances
-			(project "icepi-zero"
+			(project "gammapi-zero"
 				(path "/f88da08e-cf42-4d03-a08f-3f602fe6658d/3bffbb9a-e009-498c-a1b0-c490cdf30139"
 					(reference "C49")
 					(unit 1)
@@ -10522,7 +10522,7 @@
 			(uuid "64aa98d0-a4ff-49d2-9fdc-2d563e01e865")
 		)
 		(instances
-			(project "icepi-zero"
+			(project "gammapi-zero"
 				(path "/f88da08e-cf42-4d03-a08f-3f602fe6658d/3bffbb9a-e009-498c-a1b0-c490cdf30139"
 					(reference "C47")
 					(unit 1)
@@ -10674,7 +10674,7 @@
 			(uuid "7a65ddb9-71c3-4dde-a47e-c61a3c42749b")
 		)
 		(instances
-			(project "icepi-zero"
+			(project "gammapi-zero"
 				(path "/f88da08e-cf42-4d03-a08f-3f602fe6658d/3bffbb9a-e009-498c-a1b0-c490cdf30139"
 					(reference "C48")
 					(unit 1)
@@ -10826,7 +10826,7 @@
 			(uuid "3c114923-5ba0-4451-93f0-bdce8fced167")
 		)
 		(instances
-			(project "icepi-zero"
+			(project "gammapi-zero"
 				(path "/f88da08e-cf42-4d03-a08f-3f602fe6658d/3bffbb9a-e009-498c-a1b0-c490cdf30139"
 					(reference "C46")
 					(unit 1)
@@ -10892,7 +10892,7 @@
 			(uuid "2882051c-02ed-4837-a02d-bd76f02ff268")
 		)
 		(instances
-			(project "icepi-zero"
+			(project "gammapi-zero"
 				(path "/f88da08e-cf42-4d03-a08f-3f602fe6658d/3bffbb9a-e009-498c-a1b0-c490cdf30139"
 					(reference "#PWR083")
 					(unit 1)
@@ -11044,7 +11044,7 @@
 			(uuid "2ff1fbf6-9261-4297-9e35-022d5772d553")
 		)
 		(instances
-			(project "icepi-zero"
+			(project "gammapi-zero"
 				(path "/f88da08e-cf42-4d03-a08f-3f602fe6658d/3bffbb9a-e009-498c-a1b0-c490cdf30139"
 					(reference "C50")
 					(unit 1)
@@ -11196,7 +11196,7 @@
 			(uuid "314583a6-f9df-41f3-bb0a-c1b846e74578")
 		)
 		(instances
-			(project "icepi-zero"
+			(project "gammapi-zero"
 				(path "/f88da08e-cf42-4d03-a08f-3f602fe6658d/3bffbb9a-e009-498c-a1b0-c490cdf30139"
 					(reference "C51")
 					(unit 1)
@@ -11348,7 +11348,7 @@
 			(uuid "7a9faa48-fea2-4756-9411-77a0ac8be0d2")
 		)
 		(instances
-			(project "icepi-zero"
+			(project "gammapi-zero"
 				(path "/f88da08e-cf42-4d03-a08f-3f602fe6658d/3bffbb9a-e009-498c-a1b0-c490cdf30139"
 					(reference "C52")
 					(unit 1)
@@ -12292,7 +12292,7 @@
 			(uuid "9e08c292-884b-4f46-8381-2910df60492f")
 		)
 		(instances
-			(project "icepi-zero"
+			(project "gammapi-zero"
 				(path "/f88da08e-cf42-4d03-a08f-3f602fe6658d/3bffbb9a-e009-498c-a1b0-c490cdf30139"
 					(reference "#PWR082")
 					(unit 1)
@@ -12756,7 +12756,7 @@
 			(uuid "b928a0bd-fd9a-4ce0-a08e-f7e9c5eddcdd")
 		)
 		(instances
-			(project "icepi-zero"
+			(project "gammapi-zero"
 				(path "/f88da08e-cf42-4d03-a08f-3f602fe6658d/3bffbb9a-e009-498c-a1b0-c490cdf30139"
 					(reference "C53")
 					(unit 1)
