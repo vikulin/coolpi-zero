@@ -1,0 +1,6 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "SJ1-42534-SMT-TR")(type "KiCad")(uri "${KIPRJMOD}/libraries/SJ1_42534_SMT_TR/SJ1-42534-SMT-TR.kicad_sym")(options "")(descr ""))
+  (lib (name "ACHR-04V-A-S")(type "KiCad")(uri "${KIPRJMOD}/libraries/ACHR-04V-A-S/ACHR-04V-A-S.kicad_sym")(options "")(descr ""))
+  (lib (name "BM04B-ACHSS-A-GAN-TF_LF__SN_")(type "KiCad")(uri "${KIPRJMOD}/libraries/BM04B_ACHSS_A_GAN_TF_LF__SN/BM04B-ACHSS-A-GAN-TF_LF__SN_.kicad_sym")(options "")(descr ""))
+)
