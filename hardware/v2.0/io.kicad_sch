@@ -7,7 +7,7 @@
 	(title_block
 		(title "GammaPi Zero")
 		(date "2026-02-01")
-		(rev "v2.6.0")
+		(rev "v2.6.1")
 		(company "Vadym Vikulin, Chengyin Yao (cheyao)")
 		(comment 1 "https://github.com/vikulin/gammapi-zero")
 		(comment 2 "License: Solderpad")
