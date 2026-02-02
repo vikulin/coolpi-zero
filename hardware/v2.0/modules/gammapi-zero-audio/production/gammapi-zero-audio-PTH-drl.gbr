@@ -1,0 +1,23 @@
+%TF.GenerationSoftware,KiCad,Pcbnew,9.0.7*%
+%TF.CreationDate,2026-02-02T16:04:11+02:00*%
+%TF.ProjectId,gammapi-zero-audio,67616d6d-6170-4692-9d7a-65726f2d6175,rev?*%
+%TF.SameCoordinates,Original*%
+%TF.FileFunction,Plated,1,2,PTH,Drill*%
+%TF.FilePolarity,Positive*%
+%FSLAX46Y46*%
+G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
+G04 Created by KiCad (PCBNEW 9.0.7) date 2026-02-02 16:04:11*
+%MOMM*%
+%LPD*%
+G01*
+G04 APERTURE LIST*
+%TA.AperFunction,ViaDrill*%
+%ADD10C,0.600000*%
+%TD*%
+G04 APERTURE END LIST*
+D10*
+X171810000Y-100380000D03*
+X171846160Y-102898896D03*
+X176220000Y-99740000D03*
+X176220000Y-103470000D03*
+M02*
