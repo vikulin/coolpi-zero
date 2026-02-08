@@ -11161,6 +11161,7 @@
 		(property "Reference" "U7"
 			(at 0 -1.5 90)
 			(layer "F.SilkS")
+			(hide yes)
 			(uuid "98e50849-3908-4a5f-953d-15a55d39d5e6")
 			(effects
 				(font
@@ -22021,6 +22022,7 @@
 		(property "Reference" "U8"
 			(at 0 -1.5 90)
 			(layer "F.SilkS")
+			(hide yes)
 			(uuid "224450ca-6359-481b-b3aa-ef011f7976bc")
 			(effects
 				(font
@@ -53608,6 +53610,7 @@
 		(property "Reference" "U10"
 			(at 0 1.5 270)
 			(layer "B.SilkS")
+			(hide yes)
 			(uuid "e4a78cf1-5ce8-490e-975d-6a1f541e8fd1")
 			(effects
 				(font

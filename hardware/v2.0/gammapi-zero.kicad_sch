@@ -8157,7 +8157,7 @@
 			(embedded_fonts no)
 		)
 	)
-	(text "GammaPi Zero v2.6!"
+	(text "GammaPi Zero v2.7!"
 		(exclude_from_sim no)
 		(at 135.89 18.542 0)
 		(effects
