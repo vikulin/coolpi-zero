@@ -6,8 +6,8 @@
 	(paper "A4")
 	(title_block
 		(title "GammaPi Zero")
-		(date "2026-02-01")
-		(rev "v2.6.1")
+		(date "2026-02-08")
+		(rev "v2.7.0")
 		(company "Vadym Vikulin, Chengyin Yao (cheyao)")
 		(comment 1 "https://github.com/vikulin/gammapi-zero")
 		(comment 2 "License: Solderpad")
@@ -1302,206 +1302,6 @@
 					(at 7.62 0 180)
 					(length 2.54)
 					(name "FB"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "5"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-			)
-			(embedded_fonts no)
-		)
-		(symbol "TCR5FM18A:TCR5FM18A"
-			(pin_names
-				(offset 1.016)
-			)
-			(exclude_from_sim no)
-			(in_bom yes)
-			(on_board yes)
-			(property "Reference" "U"
-				(at -0.762 11.43 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left bottom)
-				)
-			)
-			(property "Value" "TCR5FM18A"
-				(at -4.572 8.636 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left bottom)
-				)
-			)
-			(property "Footprint" "TCR5FM50A:TCR5FM50A"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify bottom)
-					(hide yes)
-				)
-			)
-			(property "Datasheet" "https://toshiba.semicon-storage.com/info/TCR5FM18A_datasheet_en_20250715.pdf"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Description" "Ultra high Ripple rejection ratio, 500 mA CMOS Low Dropout Regulator in ultra small package"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "MF" "Toshiba"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify bottom)
-					(hide yes)
-				)
-			)
-			(property "MAXIMUM_PACKAGE_HEIGHT" "0.4mm"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify bottom)
-					(hide yes)
-				)
-			)
-			(property "Package" "DFN-4 Toshiba"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify bottom)
-					(hide yes)
-				)
-			)
-			(property "MANUFACTURER" "Toshiba"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify bottom)
-					(hide yes)
-				)
-			)
-			(symbol "TCR5FM18A_0_0"
-				(rectangle
-					(start -10.16 7.62)
-					(end 10.16 -5.08)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type background)
-					)
-				)
-				(pin input line
-					(at -15.24 5.08 0)
-					(length 5.08)
-					(name "IN"
-						(effects
-							(font
-								(size 1.016 1.016)
-							)
-						)
-					)
-					(number "4"
-						(effects
-							(font
-								(size 1.016 1.016)
-							)
-						)
-					)
-				)
-				(pin input line
-					(at -15.24 0 0)
-					(length 5.08)
-					(name "EN"
-						(effects
-							(font
-								(size 1.016 1.016)
-							)
-						)
-					)
-					(number "3"
-						(effects
-							(font
-								(size 1.016 1.016)
-							)
-						)
-					)
-				)
-				(pin power_out line
-					(at 15.24 5.08 180)
-					(length 5.08)
-					(name "OUT"
-						(effects
-							(font
-								(size 1.016 1.016)
-							)
-						)
-					)
-					(number "1"
-						(effects
-							(font
-								(size 1.016 1.016)
-							)
-						)
-					)
-				)
-				(pin power_in line
-					(at 15.24 -2.54 180)
-					(length 5.08)
-					(name "GND"
-						(effects
-							(font
-								(size 1.016 1.016)
-							)
-						)
-					)
-					(number "2"
-						(effects
-							(font
-								(size 1.016 1.016)
-							)
-						)
-					)
-				)
-			)
-			(symbol "TCR5FM18A_1_1"
-				(pin bidirectional line
-					(at 0 -7.62 90)
-					(length 2.54)
-					(name "CENTER"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -7266,12 +7066,6 @@
 		(uuid "0e7c6374-6d6b-4120-8e44-68245cd039ba")
 	)
 	(junction
-		(at 167.64 104.14)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "1088d314-905e-408e-8401-d776b1e35df7")
-	)
-	(junction
 		(at 80.01 83.82)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -7360,6 +7154,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "32513137-dc39-40b3-8b01-15870f2402e3")
+	)
+	(junction
+		(at 106.68 107.95)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "367470a6-d2bc-4119-a724-544b82f1459e")
 	)
 	(junction
 		(at 62.23 83.82)
@@ -7746,12 +7546,6 @@
 		(uuid "cc565aa1-566f-4778-b7ac-e59716a9daa0")
 	)
 	(junction
-		(at 212.09 104.14)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "ce482120-4365-4043-9819-4c0a160947a0")
-	)
-	(junction
 		(at 95.25 83.82)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -7912,12 +7706,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "fd7fb2ed-84af-47ee-8f5b-1d974d026a4e")
-	)
-	(junction
-		(at 172.72 104.14)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "ffac8d0d-ff1f-4467-ac48-ca0f624989d3")
 	)
 	(wire
 		(pts
@@ -8151,16 +7939,6 @@
 	)
 	(wire
 		(pts
-			(xy 167.64 101.6) (xy 167.64 104.14)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "15ea09fc-7df4-4cdc-9140-708aed9f5f31")
-	)
-	(wire
-		(pts
 			(xy 210.82 77.47) (xy 215.9 77.47)
 		)
 		(stroke
@@ -8228,16 +8006,6 @@
 			(type default)
 		)
 		(uuid "1988f24a-d0e7-4ff7-9605-ece719b46b42")
-	)
-	(wire
-		(pts
-			(xy 205.74 104.14) (xy 212.09 104.14)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "1aab48f4-f5d5-4b9c-b795-39a3c78bcd8b")
 	)
 	(wire
 		(pts
@@ -8611,16 +8379,6 @@
 	)
 	(wire
 		(pts
-			(xy 172.72 109.22) (xy 172.72 104.14)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "3dae9184-d8c8-4585-945a-488ed7b7e9ba")
-	)
-	(wire
-		(pts
 			(xy 128.27 46.99) (xy 133.35 46.99)
 		)
 		(stroke
@@ -8781,16 +8539,6 @@
 	)
 	(wire
 		(pts
-			(xy 106.68 105.41) (xy 106.68 107.95)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "486a51e5-5af2-478d-b032-c603d74344b1")
-	)
-	(wire
-		(pts
 			(xy 241.3 134.62) (xy 234.95 134.62)
 		)
 		(stroke
@@ -8888,16 +8636,6 @@
 			(type default)
 		)
 		(uuid "4eb4efb1-049e-45d7-81e7-7bac45aa412d")
-	)
-	(wire
-		(pts
-			(xy 175.26 109.22) (xy 172.72 109.22)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "50949d5a-fcf1-4030-8090-ef9a6388d3aa")
 	)
 	(wire
 		(pts
@@ -9301,16 +9039,6 @@
 	)
 	(wire
 		(pts
-			(xy 212.09 101.6) (xy 212.09 104.14)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "71ba1966-b0b1-4796-b582-baedf53332d5")
-	)
-	(wire
-		(pts
 			(xy 269.24 99.06) (xy 261.62 99.06)
 		)
 		(stroke
@@ -9421,7 +9149,7 @@
 	)
 	(wire
 		(pts
-			(xy 167.64 105.41) (xy 167.64 104.14)
+			(xy 106.68 106.68) (xy 106.68 107.95)
 		)
 		(stroke
 			(width 0)
@@ -9888,16 +9616,6 @@
 			(type default)
 		)
 		(uuid "9f613998-ae91-45e5-bc13-972efb9ea514")
-	)
-	(wire
-		(pts
-			(xy 167.64 104.14) (xy 172.72 104.14)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "a04bf611-e966-4351-b1ef-006d77cd7021")
 	)
 	(wire
 		(pts
@@ -10491,16 +10209,6 @@
 	)
 	(wire
 		(pts
-			(xy 172.72 104.14) (xy 175.26 104.14)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "d39c8e1f-d540-46f5-843e-41a5d18f23c1")
-	)
-	(wire
-		(pts
 			(xy 50.8 91.44) (xy 50.8 90.17)
 		)
 		(stroke
@@ -10558,16 +10266,6 @@
 			(type default)
 		)
 		(uuid "d8b97b84-72d4-482a-b7c4-0417bb05988b")
-	)
-	(wire
-		(pts
-			(xy 125.73 109.22) (xy 125.73 107.95)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "d9ec6df2-f31a-4175-b3c6-2441a112ce9a")
 	)
 	(wire
 		(pts
@@ -10708,16 +10406,6 @@
 			(type default)
 		)
 		(uuid "e6cb694e-cc75-4c37-921a-1f4d9c5e566f")
-	)
-	(wire
-		(pts
-			(xy 125.73 116.84) (xy 125.73 119.38)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "e70c7524-f5f7-4cba-9009-599b245f7a67")
 	)
 	(wire
 		(pts
@@ -10888,16 +10576,6 @@
 			(type default)
 		)
 		(uuid "f1ae6121-f4ea-46a1-ad7b-80c41f1d0983")
-	)
-	(wire
-		(pts
-			(xy 212.09 105.41) (xy 212.09 104.14)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "f201cdcf-54ac-4299-baad-5221cb381b0c")
 	)
 	(wire
 		(pts
@@ -11684,7 +11362,7 @@
 		)
 		(uuid "d7c02ebf-a12f-4eeb-a476-4e815f400cd4")
 	)
-	(global_label "FILTERED_1V8"
+	(global_label "FILTERED_3V3"
 		(shape input)
 		(at 140.97 107.95 0)
 		(fields_autoplaced yes)
@@ -13017,157 +12695,6 @@
 			(project "gammapi-zero"
 				(path "/f88da08e-cf42-4d03-a08f-3f602fe6658d/a9c02a11-f344-487c-ac67-1be6ae5dcf49"
 					(reference "#FLG02")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:C")
-		(at 212.09 109.22 0)
-		(mirror y)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "13596876-23cf-4b08-8825-edb90786482c")
-		(property "Reference" "C63"
-			(at 215.9 107.442 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Value" "10u"
-			(at 215.9 109.982 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
-			(at 211.1248 113.03 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 212.09 109.22 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "10uF ±10% 10V Ceramic Capacitor X5R 0603"
-			(at 212.09 109.22 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC Part #" "C19702"
-			(at 212.09 109.22 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC Link" "https://lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_Samsung-Electro-Mechanics-CL10A106KP8NNNC_C19702.html"
-			(at 212.09 109.22 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Manufactuer Part Number" "CL10A106KP8NNNC"
-			(at 212.09 109.22 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Note" ""
-			(at 212.09 109.22 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Notes" ""
-			(at 212.09 109.22 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Original" ""
-			(at 212.09 109.22 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Instructions/Notes" ""
-			(at 212.09 109.22 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MANUFACTURER_PART_NUMBER" "CL10A106KP8NNNC"
-			(at 212.09 109.22 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MANUFACTURER" "Samsung Electro-Mechanics"
-			(at 212.09 109.22 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "f31c3de5-84fc-4eb7-bfac-bbc937049d82")
-		)
-		(pin "1"
-			(uuid "858fc96a-87e2-43f5-a1a9-1a356fb079f6")
-		)
-		(instances
-			(project "gammapi-zero"
-				(path "/f88da08e-cf42-4d03-a08f-3f602fe6658d/a9c02a11-f344-487c-ac67-1be6ae5dcf49"
-					(reference "C63")
 					(unit 1)
 				)
 			)
@@ -14706,7 +14233,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 167.64 113.03 0)
+		(at 106.68 115.57 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -14715,7 +14242,7 @@
 		(fields_autoplaced yes)
 		(uuid "4086d080-b48c-4478-ba01-f8835d51180c")
 		(property "Reference" "#PWR0109"
-			(at 167.64 119.38 0)
+			(at 106.68 121.92 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14724,7 +14251,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 167.64 118.11 0)
+			(at 106.68 120.65 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14732,7 +14259,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 167.64 113.03 0)
+			(at 106.68 115.57 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14741,7 +14268,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 167.64 113.03 0)
+			(at 106.68 115.57 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14750,7 +14277,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 167.64 113.03 0)
+			(at 106.68 115.57 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15983,43 +15510,32 @@
 		)
 	)
 	(symbol
-		(lib_id "TCR5FM18A:TCR5FM18A")
-		(at 190.5 109.22 0)
+		(lib_id "Device:C")
+		(at 135.89 111.76 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "55dd2c2e-5d90-47c7-848f-e25f01ff5e9c")
-		(property "Reference" "U5"
-			(at 190.5 96.52 0)
+		(uuid "568281e7-1fdc-4c85-b157-2923dc4acd52")
+		(property "Reference" "C64"
+			(at 141.224 110.236 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Value" "TCR5FM18A"
-			(at 190.5 99.06 0)
+		(property "Value" "100n"
+			(at 141.732 112.776 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Footprint" "TCR5FM50A:TCR5FM50A"
-			(at 190.5 109.22 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "https://toshiba.semicon-storage.com/info/TCR5FM18A_datasheet_en_20250715.pdf"
-			(at 190.5 109.22 0)
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+			(at 134.9248 107.95 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16027,8 +15543,8 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Ultra high Ripple rejection ratio, 500 mA CMOS Low Dropout Regulator in ultra small package"
-			(at 190.5 109.22 0)
+		(property "Datasheet" "~"
+			(at 135.89 111.76 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16036,48 +15552,89 @@
 				(hide yes)
 			)
 		)
-		(property "MF" "Toshiba"
-			(at 190.5 109.22 0)
+		(property "Description" "100nF ±10% 50V Ceramic Capacitor X7R 0402"
+			(at 135.89 111.76 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify bottom)
 				(hide yes)
 			)
 		)
-		(property "MAXIMUM_PACKAGE_HEIGHT" "0.4mm"
-			(at 190.5 109.22 0)
+		(property "LCSC Part #" "C307331"
+			(at 135.89 111.76 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify bottom)
 				(hide yes)
 			)
 		)
-		(property "Package" "DFN-4 Toshiba"
-			(at 190.5 109.22 0)
+		(property "LCSC Link" "https://lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_Samsung-Electro-Mechanics-CL05B104KB54PNC_C307331.html"
+			(at 135.89 111.76 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify bottom)
 				(hide yes)
 			)
 		)
-		(property "MANUFACTURER" "Toshiba"
-			(at 190.5 109.22 0)
+		(property "Manufactuer Part Number" "CL05B104KB54PNC"
+			(at 135.89 111.76 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify bottom)
 				(hide yes)
 			)
 		)
-		(property "MANUFACTURER_PART_NUMBER" "TCR5FM18A,RF"
-			(at 190.5 109.22 0)
+		(property "Note" ""
+			(at 135.89 111.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Notes" ""
+			(at 135.89 111.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Original" ""
+			(at 135.89 111.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Instructions/Notes" ""
+			(at 135.89 111.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER_PART_NUMBER" "CL05B104KB54PNC"
+			(at 135.89 111.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER" "Samsung Electro-Mechanics"
+			(at 135.89 111.76 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16086,156 +15643,15 @@
 			)
 		)
 		(pin "1"
-			(uuid "95bff526-42ba-44cc-9ed8-bf27588a0d78")
-		)
-		(pin "3"
-			(uuid "be1716fa-f2b6-4f66-8093-848b25e9534b")
-		)
-		(pin "4"
-			(uuid "78a408e0-48a3-4ae1-8327-ae67b72d936e")
-		)
-		(pin "5"
-			(uuid "41c1b8ea-fb0a-4a90-82c3-1b8bd7eb6c17")
+			(uuid "8f17359c-9977-4537-9a0c-24e94f9ff366")
 		)
 		(pin "2"
-			(uuid "74455688-6b5d-4715-b5f1-3a2ee827bf54")
+			(uuid "53bf3662-7d69-4116-93ba-74a6ceccafd4")
 		)
 		(instances
 			(project "gammapi-zero"
 				(path "/f88da08e-cf42-4d03-a08f-3f602fe6658d/a9c02a11-f344-487c-ac67-1be6ae5dcf49"
-					(reference "U5")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:GND")
-		(at 190.5 116.84 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "56236ba5-b0c2-4ffc-bac0-be45fbb2c5ad")
-		(property "Reference" "#PWR0118"
-			(at 190.5 123.19 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "GND"
-			(at 190.5 121.92 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 190.5 116.84 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 190.5 116.84 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 190.5 116.84 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "814a35eb-e729-49f2-bd69-df488930c82d")
-		)
-		(instances
-			(project "gammapi-zero"
-				(path "/f88da08e-cf42-4d03-a08f-3f602fe6658d/a9c02a11-f344-487c-ac67-1be6ae5dcf49"
-					(reference "#PWR0118")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:GND")
-		(at 212.09 113.03 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "56971d91-ca4f-4910-ba21-94013e149495")
-		(property "Reference" "#PWR0111"
-			(at 212.09 119.38 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "GND"
-			(at 212.09 118.11 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 212.09 113.03 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 212.09 113.03 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 212.09 113.03 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "bf6587f7-24e9-430b-9144-3482ff681693")
-		)
-		(instances
-			(project "gammapi-zero"
-				(path "/f88da08e-cf42-4d03-a08f-3f602fe6658d/a9c02a11-f344-487c-ac67-1be6ae5dcf49"
-					(reference "#PWR0111")
+					(reference "C64")
 					(unit 1)
 				)
 			)
@@ -17482,6 +16898,72 @@
 			(project "gammapi-zero"
 				(path "/f88da08e-cf42-4d03-a08f-3f602fe6658d/a9c02a11-f344-487c-ac67-1be6ae5dcf49"
 					(reference "C7")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 135.89 115.57 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "71066f09-759b-4cc7-8be1-73a8fea2b3da")
+		(property "Reference" "#PWR0105"
+			(at 135.89 121.92 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 135.89 120.65 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 135.89 115.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 135.89 115.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 135.89 115.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "f972c8fb-c7c5-44ed-bf2a-f1f511eb8276")
+		)
+		(instances
+			(project "gammapi-zero"
+				(path "/f88da08e-cf42-4d03-a08f-3f602fe6658d/a9c02a11-f344-487c-ac67-1be6ae5dcf49"
+					(reference "#PWR0105")
 					(unit 1)
 				)
 			)
@@ -18799,7 +18281,7 @@
 	)
 	(symbol
 		(lib_id "power:+3V3")
-		(at 167.64 101.6 0)
+		(at 106.68 106.68 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -18808,7 +18290,7 @@
 		(fields_autoplaced yes)
 		(uuid "7c86106a-f202-4a9d-80eb-57a96cf486fe")
 		(property "Reference" "#PWR0108"
-			(at 167.64 105.41 0)
+			(at 106.68 110.49 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18817,7 +18299,7 @@
 			)
 		)
 		(property "Value" "+3V3"
-			(at 167.64 96.52 0)
+			(at 106.68 101.6 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18825,7 +18307,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 167.64 101.6 0)
+			(at 106.68 106.68 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18834,7 +18316,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 167.64 101.6 0)
+			(at 106.68 106.68 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18843,7 +18325,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+3V3\""
-			(at 167.64 101.6 0)
+			(at 106.68 106.68 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20538,7 +20020,7 @@
 	)
 	(symbol
 		(lib_id "Device:C")
-		(at 125.73 113.03 0)
+		(at 125.73 111.76 0)
 		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
@@ -20547,7 +20029,7 @@
 		(dnp no)
 		(uuid "a6b52148-d43a-4d31-aba7-7f91dc1b0421")
 		(property "Reference" "C65"
-			(at 129.032 110.998 0)
+			(at 129.032 109.728 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20556,7 +20038,7 @@
 			)
 		)
 		(property "Value" "1u"
-			(at 129.032 113.538 0)
+			(at 129.032 112.268 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20565,7 +20047,7 @@
 			)
 		)
 		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
-			(at 124.7648 116.84 0)
+			(at 124.7648 115.57 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20574,7 +20056,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 125.73 113.03 0)
+			(at 125.73 111.76 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20583,7 +20065,7 @@
 			)
 		)
 		(property "Description" "1uF ±10% 10V Ceramic Capacitor X5R 0402"
-			(at 125.73 113.03 0)
+			(at 125.73 111.76 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20592,7 +20074,7 @@
 			)
 		)
 		(property "LCSC Part #" "C106254"
-			(at 125.73 113.03 0)
+			(at 125.73 111.76 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20601,7 +20083,7 @@
 			)
 		)
 		(property "LCSC Link" "https://www.lcsc.com/product-detail/C106254.html"
-			(at 125.73 113.03 0)
+			(at 125.73 111.76 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20610,7 +20092,7 @@
 			)
 		)
 		(property "Manufactuer Part Number" "CC0402KRX5R6BB105"
-			(at 125.73 113.03 0)
+			(at 125.73 111.76 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20619,7 +20101,7 @@
 			)
 		)
 		(property "Note" ""
-			(at 125.73 113.03 0)
+			(at 125.73 111.76 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20628,7 +20110,7 @@
 			)
 		)
 		(property "Notes" ""
-			(at 125.73 113.03 0)
+			(at 125.73 111.76 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20637,7 +20119,7 @@
 			)
 		)
 		(property "Original" ""
-			(at 125.73 113.03 0)
+			(at 125.73 111.76 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20646,7 +20128,7 @@
 			)
 		)
 		(property "Instructions/Notes" ""
-			(at 125.73 113.03 0)
+			(at 125.73 111.76 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20655,7 +20137,7 @@
 			)
 		)
 		(property "MANUFACTURER" "YAGEO"
-			(at 125.73 113.03 0)
+			(at 125.73 111.76 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20664,7 +20146,7 @@
 			)
 		)
 		(property "MANUFACTURER_PART_NUMBER" "CC0402KRX5R6BB105"
-			(at 125.73 113.03 0)
+			(at 125.73 111.76 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21036,7 +20518,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 125.73 119.38 0)
+		(at 125.73 115.57 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -21045,7 +20527,7 @@
 		(fields_autoplaced yes)
 		(uuid "b1cfb738-4d46-4c6f-b1c9-adca12505a5b")
 		(property "Reference" "#PWR0117"
-			(at 125.73 125.73 0)
+			(at 125.73 121.92 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21054,7 +20536,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 125.73 124.46 0)
+			(at 125.73 120.65 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21062,7 +20544,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 125.73 119.38 0)
+			(at 125.73 115.57 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21071,7 +20553,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 125.73 119.38 0)
+			(at 125.73 115.57 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21080,7 +20562,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 125.73 119.38 0)
+			(at 125.73 115.57 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21312,72 +20794,6 @@
 			(project "gammapi-zero"
 				(path "/f88da08e-cf42-4d03-a08f-3f602fe6658d/a9c02a11-f344-487c-ac67-1be6ae5dcf49"
 					(reference "#PWR025")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:+3V3")
-		(at 212.09 101.6 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "b2b2c4f7-0bb9-4e1a-abd9-170692f105d5")
-		(property "Reference" "#PWR0110"
-			(at 212.09 105.41 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "+1V8"
-			(at 212.09 96.52 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 212.09 101.6 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 212.09 101.6 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"+3V3\""
-			(at 212.09 101.6 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "61bd42f7-8ea3-4dab-b0a0-73129edf314c")
-		)
-		(instances
-			(project "gammapi-zero"
-				(path "/f88da08e-cf42-4d03-a08f-3f602fe6658d/a9c02a11-f344-487c-ac67-1be6ae5dcf49"
-					(reference "#PWR0110")
 					(unit 1)
 				)
 			)
@@ -22053,7 +21469,7 @@
 	)
 	(symbol
 		(lib_id "Device:C")
-		(at 167.64 109.22 0)
+		(at 106.68 111.76 0)
 		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
@@ -22062,7 +21478,7 @@
 		(dnp no)
 		(uuid "c4aa8cec-f791-4e29-b967-95ffb118db46")
 		(property "Reference" "C62"
-			(at 159.766 107.696 0)
+			(at 98.806 110.236 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22071,7 +21487,7 @@
 			)
 		)
 		(property "Value" "10u"
-			(at 159.766 110.236 0)
+			(at 98.806 112.776 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22080,7 +21496,7 @@
 			)
 		)
 		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
-			(at 166.6748 113.03 0)
+			(at 105.7148 115.57 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22089,7 +21505,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 167.64 109.22 0)
+			(at 106.68 111.76 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22098,7 +21514,7 @@
 			)
 		)
 		(property "Description" "10uF ±10% 10V Ceramic Capacitor X5R 0603"
-			(at 167.64 109.22 0)
+			(at 106.68 111.76 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22107,7 +21523,7 @@
 			)
 		)
 		(property "LCSC Part #" "C19702"
-			(at 167.64 109.22 0)
+			(at 106.68 111.76 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22116,7 +21532,7 @@
 			)
 		)
 		(property "LCSC Link" "https://lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_Samsung-Electro-Mechanics-CL10A106KP8NNNC_C19702.html"
-			(at 167.64 109.22 0)
+			(at 106.68 111.76 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22125,7 +21541,7 @@
 			)
 		)
 		(property "Manufactuer Part Number" "CL10A106KP8NNNC"
-			(at 167.64 109.22 0)
+			(at 106.68 111.76 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22134,7 +21550,7 @@
 			)
 		)
 		(property "Note" ""
-			(at 167.64 109.22 0)
+			(at 106.68 111.76 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22143,7 +21559,7 @@
 			)
 		)
 		(property "Notes" ""
-			(at 167.64 109.22 0)
+			(at 106.68 111.76 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22152,7 +21568,7 @@
 			)
 		)
 		(property "Original" ""
-			(at 167.64 109.22 0)
+			(at 106.68 111.76 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22161,7 +21577,7 @@
 			)
 		)
 		(property "Instructions/Notes" ""
-			(at 167.64 109.22 0)
+			(at 106.68 111.76 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22170,7 +21586,7 @@
 			)
 		)
 		(property "MANUFACTURER_PART_NUMBER" "CL10A106KP8NNNC"
-			(at 167.64 109.22 0)
+			(at 106.68 111.76 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22179,7 +21595,7 @@
 			)
 		)
 		(property "MANUFACTURER" "Samsung Electro-Mechanics"
-			(at 167.64 109.22 0)
+			(at 106.68 111.76 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23147,72 +22563,6 @@
 			(project "gammapi-zero"
 				(path "/f88da08e-cf42-4d03-a08f-3f602fe6658d/a9c02a11-f344-487c-ac67-1be6ae5dcf49"
 					(reference "#PWR042")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:+3V3")
-		(at 106.68 105.41 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "dea0ca3c-2e26-48dc-aff4-ce39d954562e")
-		(property "Reference" "#PWR0114"
-			(at 106.68 109.22 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "+1V8"
-			(at 106.68 100.33 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 106.68 105.41 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 106.68 105.41 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"+3V3\""
-			(at 106.68 105.41 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "ce987494-1717-4fcf-a660-31a1bd1b493e")
-		)
-		(instances
-			(project "gammapi-zero"
-				(path "/f88da08e-cf42-4d03-a08f-3f602fe6658d/a9c02a11-f344-487c-ac67-1be6ae5dcf49"
-					(reference "#PWR0114")
 					(unit 1)
 				)
 			)
@@ -24249,72 +23599,6 @@
 			(project ""
 				(path "/f88da08e-cf42-4d03-a08f-3f602fe6658d/a9c02a11-f344-487c-ac67-1be6ae5dcf49"
 					(reference "#PWR041")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:GND")
-		(at 205.74 111.76 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "ff5dd985-59b4-400d-aa5e-caca7bb7b551")
-		(property "Reference" "#PWR0150"
-			(at 205.74 118.11 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "GND"
-			(at 205.74 116.84 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 205.74 111.76 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 205.74 111.76 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 205.74 111.76 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "9bfcd2c0-2df2-4a2d-b367-280009fe84a6")
-		)
-		(instances
-			(project "gammapi-zero"
-				(path "/f88da08e-cf42-4d03-a08f-3f602fe6658d/a9c02a11-f344-487c-ac67-1be6ae5dcf49"
-					(reference "#PWR0150")
 					(unit 1)
 				)
 			)
