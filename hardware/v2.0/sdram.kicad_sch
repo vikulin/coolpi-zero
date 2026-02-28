@@ -6,8 +6,8 @@
 	(paper "A4")
 	(title_block
 		(title "GammaPi Zero")
-		(date "2026-02-08")
-		(rev "v2.7.0")
+		(date "2026-02-28")
+		(rev "v2.7.1")
 		(company "Vadym Vikulin, Chengyin Yao (cheyao)")
 		(comment 1 "https://github.com/vikulin/gammapi-zero")
 		(comment 2 "License: Solderpad")
@@ -10282,7 +10282,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC Part #" "C77571"
+		(property "LCSC Part #" "C1532"
 			(at 218.44 43.18 0)
 			(effects
 				(font
@@ -10434,7 +10434,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC Part #" "C77571"
+		(property "LCSC Part #" "C1532"
 			(at 194.31 43.18 0)
 			(effects
 				(font
@@ -10586,7 +10586,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC Part #" "C77571"
+		(property "LCSC Part #" "C1532"
 			(at 207.01 43.18 0)
 			(effects
 				(font
@@ -10738,7 +10738,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC Part #" "C77571"
+		(property "LCSC Part #" "C1532"
 			(at 181.61 43.18 0)
 			(effects
 				(font
@@ -10956,7 +10956,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC Part #" "C77571"
+		(property "LCSC Part #" "C1532"
 			(at 229.87 43.18 0)
 			(effects
 				(font
@@ -11108,7 +11108,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC Part #" "C77571"
+		(property "LCSC Part #" "C1532"
 			(at 241.3 43.18 0)
 			(effects
 				(font
@@ -11260,7 +11260,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC Part #" "C77571"
+		(property "LCSC Part #" "C1532"
 			(at 252.73 43.18 0)
 			(effects
 				(font
@@ -11436,6 +11436,15 @@
 			)
 		)
 		(property "MANUFACTURER_PART_NUMBER" "LFE5U-25F-6BG256C"
+			(at 91.44 100.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C1521614"
 			(at 91.44 100.33 0)
 			(effects
 				(font
@@ -12319,7 +12328,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "IS42S16160J-6BLI"
+		(property "Value" "IS42S16160J-6BLI-TR"
 			(at 182.4833 63.5 0)
 			(effects
 				(font
@@ -12435,6 +12444,15 @@
 			)
 		)
 		(property "MANUFACTURER_PART_NUMBER" "IS42S16160J-6BLI"
+			(at 162.56 68.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C2063680"
 			(at 162.56 68.58 0)
 			(effects
 				(font

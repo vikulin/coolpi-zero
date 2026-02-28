@@ -6,8 +6,8 @@
 	(paper "A4")
 	(title_block
 		(title "GammaPi Zero")
-		(date "2026-02-08")
-		(rev "v2.7.0")
+		(date "2026-02-28")
+		(rev "v2.7.1")
 		(company "Vadym Vikulin, Chengyin Yao (cheyao)")
 		(comment 1 "https://github.com/vikulin/gammapi-zero")
 		(comment 2 "License: Solderpad")
@@ -15748,6 +15748,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part #" "C1521614"
+			(at 198.12 132.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "T2"
 			(uuid "d5dd2c65-4b51-46c5-9e46-0ef5c6d680e7")
 		)
@@ -19701,6 +19710,15 @@
 			)
 		)
 		(property "MANUFACTURER_PART_NUMBER" "LFE5U-25F-6BG256C"
+			(at 261.62 132.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C1521614"
 			(at 261.62 132.08 0)
 			(effects
 				(font

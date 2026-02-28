@@ -6,8 +6,8 @@
 	(paper "A4")
 	(title_block
 		(title "GammaPi Zero")
-		(date "2026-02-08")
-		(rev "v2.7.0")
+		(date "2026-02-28")
+		(rev "v2.7.1")
 		(company "Vadym Vikulin, Chengyin Yao (cheyao)")
 		(comment 1 "https://github.com/vikulin/gammapi-zero")
 		(comment 2 "License: Solderpad")
@@ -10866,6 +10866,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part #" "C7429437"
+			(at 54.61 147.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "3"
 			(uuid "b5d971fe-863e-45c5-ae1b-70db44279a5d")
 		)
@@ -12886,6 +12895,15 @@
 			)
 		)
 		(property "MANUFACTURER_PART_NUMBER" "LFE5U-25F-6BG256C"
+			(at 179.07 120.65 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C1521614"
 			(at 179.07 120.65 0)
 			(effects
 				(font
@@ -15051,6 +15069,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part #" "C7429437"
+			(at 54.61 114.3 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "3"
 			(uuid "d6a8a5ab-1188-4675-8e3a-20baeb416fbb")
 		)
@@ -15404,6 +15431,15 @@
 			)
 		)
 		(property "MANUFACTURER_PART_NUMBER" "LFE5U-25F-6BG256C"
+			(at 104.14 121.92 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C1521614"
 			(at 104.14 121.92 0)
 			(effects
 				(font
@@ -16394,6 +16430,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part #" "C7429437"
+			(at 54.61 163.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "3"
 			(uuid "2b8f9c65-16e6-49a0-b2f7-197654f7b08d")
 		)
@@ -16949,6 +16994,15 @@
 			)
 		)
 		(property "MANUFACTURER_PART_NUMBER" "IN-PI15TAT5R5G5B"
+			(at 54.61 130.81 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C7429437"
 			(at 54.61 130.81 0)
 			(effects
 				(font
@@ -17777,6 +17831,15 @@
 			)
 		)
 		(property "MANUFACTURER_PART_NUMBER" "IN-PI15TAT5R5G5B"
+			(at 54.61 180.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C7429437"
 			(at 54.61 180.34 0)
 			(effects
 				(font

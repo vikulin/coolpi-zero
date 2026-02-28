@@ -6,8 +6,8 @@
 	(paper "A4")
 	(title_block
 		(title "GammaPi Zero")
-		(date "2026-02-08")
-		(rev "v2.7.0")
+		(date "2026-02-28")
+		(rev "v2.7.1")
 		(company "Vadym Vikulin, Chengyin Yao (cheyao)")
 		(comment 1 "https://github.com/vikulin/gammapi-zero")
 		(comment 2 "License: Solderpad")
@@ -6881,6 +6881,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part #" "C580579"
+			(at 158.75 92.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "8"
 			(uuid "e17f9c44-8a0c-48d2-9a5d-35b3414fe4a4")
 		)
@@ -7710,6 +7719,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part #" "C2156507"
+			(at 158.75 111.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "4b619a2c-280c-47f0-87a0-8fe50e40e241")
 		)
@@ -7790,6 +7808,15 @@
 			)
 		)
 		(property "MANUFACTURER_PART_NUMBER" "LFE5U-25F-6BG256C"
+			(at 115.57 105.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C1521614"
 			(at 115.57 105.41 0)
 			(effects
 				(font
@@ -8805,7 +8832,7 @@
 				)
 			)
 		)
-		(property "Value" "BM04B-ACHSS-A-GAN-TF_LF__SN_"
+		(property "Value" "BM04B-ACHSS-A-GAN-TF(LF)(SN)"
 			(at 223.52 105.41 0)
 			(effects
 				(font
@@ -8903,6 +8930,15 @@
 			)
 		)
 		(property "MANUFACTURER_PART_NUMBER" "M04B-ACHSS-A-GAN-TF(LF)(SN)"
+			(at 212.09 92.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C5246838"
 			(at 212.09 92.71 0)
 			(effects
 				(font
