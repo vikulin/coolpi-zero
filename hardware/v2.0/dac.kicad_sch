@@ -8832,7 +8832,7 @@
 				)
 			)
 		)
-		(property "Value" "BM04B-ACHSS-A-GAN-TF(LF)(SN)"
+		(property "Value" "GT-A1201WRS-104B1101"
 			(at 223.52 105.41 0)
 			(effects
 				(font
@@ -8851,7 +8851,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.jst-mfg.com/product/pdf/eng/eACH.pdf"
+		(property "Datasheet" "https://www.lcsc.com/datasheet/C22384775.pdf"
 			(at 231.14 287.63 0)
 			(effects
 				(font
@@ -8861,7 +8861,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "CONN HEADER SMD R/A 4POS 1.2MM"
+		(property "Description" "Connector Header 4 position 1.2mm Pitch 1.5A Surface Mount, Right Angle -25℃~+85℃"
 			(at 212.09 92.71 0)
 			(effects
 				(font
@@ -8880,26 +8880,6 @@
 				(hide yes)
 			)
 		)
-		(property "Mouser Part Number" "306-4BACHSSAGANTFL"
-			(at 231.14 587.63 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/JST-Commercial/BM04B-ACHSS-A-GAN-TFLFSN?qs=QpmGXVUTftFsbdf52tFLQQ%3D%3D"
-			(at 231.14 687.63 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
 		(property "Manufacturer_Name" "JST (JAPAN SOLDERLESS TERMINALS)"
 			(at 231.14 787.63 0)
 			(effects
@@ -8910,7 +8890,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer_Part_Number" "BM04B-ACHSS-A-GAN-TF(LF)(SN)"
+		(property "Manufacturer_Part_Number" "GT-A1201WRS-104B1101"
 			(at 231.14 887.63 0)
 			(effects
 				(font
@@ -8920,7 +8900,7 @@
 				(hide yes)
 			)
 		)
-		(property "MANUFACTURER" "JST Commercial"
+		(property "MANUFACTURER" "G-Switch"
 			(at 212.09 92.71 0)
 			(effects
 				(font
@@ -8929,7 +8909,7 @@
 				(hide yes)
 			)
 		)
-		(property "MANUFACTURER_PART_NUMBER" "M04B-ACHSS-A-GAN-TF(LF)(SN)"
+		(property "MANUFACTURER_PART_NUMBER" "GT-A1201WRS-104B1101"
 			(at 212.09 92.71 0)
 			(effects
 				(font
@@ -8938,7 +8918,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC Part #" "C5246838"
+		(property "LCSC Part #" "C22384775"
 			(at 212.09 92.71 0)
 			(effects
 				(font
