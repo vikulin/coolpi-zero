@@ -15,4 +15,5 @@
   (lib (name "LTC6409IUDB#TRPBF")(type "KiCad")(uri "${KIPRJMOD}/libraries/icepi-lib.petty/LTC6409IUDB#TRPBF")(options "")(descr ""))
   (lib (name "ADS6122IRHBT")(type "KiCad")(uri "${KIPRJMOD}/libraries/icepi-lib.petty/ADS6122IRHBT")(options "")(descr ""))
   (lib (name "Library")(type "KiCad")(uri "${KIPRJMOD}/libraries/Library.pretty")(options "")(descr ""))
+  (lib (name "ADA4932-1YCPZ-R7")(type "KiCad")(uri "${KIPRJMOD}/libraries/icepi-lib.petty/ADA4932-1YCPZ-R7")(options "")(descr ""))
 )

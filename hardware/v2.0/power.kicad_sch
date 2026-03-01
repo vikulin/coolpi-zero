@@ -19940,7 +19940,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC Part #" "C307435"
+		(property "LCSC Part #" "C3878619"
 			(at 177.8 80.01 0)
 			(effects
 				(font
@@ -20003,7 +20003,7 @@
 				(hide yes)
 			)
 		)
-		(property "MANUFACTURER" "Samsung Electro-Mechanics"
+		(property "MANUFACTURER" "muRata"
 			(at 177.8 80.01 0)
 			(effects
 				(font
@@ -20012,7 +20012,7 @@
 				(hide yes)
 			)
 		)
-		(property "MANUFACTURER_PART_NUMBER" "CL05B562KB5NNNC"
+		(property "MANUFACTURER_PART_NUMBER" "GRM1555C1H562GE01D"
 			(at 177.8 80.01 0)
 			(effects
 				(font

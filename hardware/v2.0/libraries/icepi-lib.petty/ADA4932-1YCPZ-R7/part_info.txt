@@ -1,0 +1,9 @@
+Manufacturer=Analog Devices
+PartNumber=ADA4932-1YCPZ-R7
+PartCategory=Integrated Circuit
+PackageCategory=Quad Flat No-Lead
+PinCount=17
+Version=1.1
+Released=2020-12-15 10:49:18
+Downloaded=2026-03-01 18:46:11
+3D=Y

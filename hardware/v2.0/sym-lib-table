@@ -9,7 +9,7 @@
   (lib (name "IN-PI15TAT5R5G5B")(type "KiCad")(uri "${KIPRJMOD}/libraries/icepi-lib.petty/IN-PI15TAT5R5G5B/IN-PI15TAT5R5G5B.kicad_sym")(options "")(descr ""))
   (lib (name "BM04B-ACHSS-A-GAN-TF_LF__SN_")(type "KiCad")(uri "${KIPRJMOD}/libraries/icepi-lib.petty/BM04B_ACHSS_A_GAN_TF_LF__SN/BM04B-ACHSS-A-GAN-TF_LF__SN_.kicad_sym")(options "")(descr ""))
   (lib (name "LM4040AIM3-2_0_NOPB")(type "KiCad")(uri "${KIPRJMOD}/libraries/icepi-lib.petty/LM4040AIM3-2.0_NOPB/LM4040AIM3-2_0_NOPB.kicad_sym")(options "")(descr ""))
-  (lib (name "LTC6409IUDB#TRPBF")(type "KiCad")(uri "${KIPRJMOD}/libraries/icepi-lib.petty/LTC6409IUDB#TRPBF/LTC6409IUDB#TRPBF.kicad_sym")(options "")(descr ""))
   (lib (name "ADS6122IRHBT")(type "KiCad")(uri "${KIPRJMOD}/libraries/icepi-lib.petty/ADS6122IRHBT/ADS6122IRHBT.kicad_sym")(options "")(descr ""))
   (lib (name "Coaxial Cables (RF) Assemblies")(type "KiCad")(uri "${KIPRJMOD}/libraries/icepi-lib.petty/Coaxial Cables (RF) Assemblies.kicad_sym")(options "")(descr ""))
+  (lib (name "ADA4932-1YCPZ-R7")(type "KiCad")(uri "${KIPRJMOD}/libraries/icepi-lib.petty/ADA4932-1YCPZ-R7/ADA4932-1YCPZ-R7.kicad_sym")(options "")(descr ""))
 )
