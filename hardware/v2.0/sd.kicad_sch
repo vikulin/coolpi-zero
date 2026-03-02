@@ -6899,6 +6899,15 @@
 				(hide yes)
 			)
 		)
+		(property "VENDOR" ""
+			(at 147.32 97.79 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "6119566b-8e3a-4a56-a1e4-4218c41ff861")
 		)
@@ -7004,6 +7013,15 @@
 			)
 		)
 		(property "LCSC Part #" "C1521614"
+			(at 100.33 97.79 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "VENDOR" ""
 			(at 100.33 97.79 0)
 			(effects
 				(font
@@ -7927,6 +7945,15 @@
 			)
 		)
 		(property "MANUFACTURER_PART_NUMBER" "TF-008"
+			(at 186.69 97.79 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "VENDOR" ""
 			(at 186.69 97.79 0)
 			(effects
 				(font

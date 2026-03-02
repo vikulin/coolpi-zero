@@ -289,6 +289,15 @@
 				(hide yes)
 			)
 		)
+		(property "VENDOR" ""
+			(at 157.48 81.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(instances
 			(project ""
 				(path "/f88da08e-cf42-4d03-a08f-3f602fe6658d/09ab8ae9-e7b5-471e-937e-142053f5a990"
@@ -379,6 +388,15 @@
 			)
 		)
 		(property "LCSC Part #" "C7541884"
+			(at 157.48 91.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "VENDOR" ""
 			(at 157.48 91.44 0)
 			(effects
 				(font

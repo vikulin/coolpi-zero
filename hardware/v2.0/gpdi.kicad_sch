@@ -8413,6 +8413,15 @@
 				(hide yes)
 			)
 		)
+		(property "VENDOR" ""
+			(at 104.14 120.65 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "e75e6900-47f2-4161-bc6f-9e35feb96f0e")
 		)
@@ -8561,6 +8570,15 @@
 				(hide yes)
 			)
 		)
+		(property "VENDOR" ""
+			(at 109.22 120.65 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "7fba3277-41eb-4278-a0b1-287ddd1e82b9")
 		)
@@ -8701,6 +8719,15 @@
 			)
 		)
 		(property "MANUFACTURER_PART_NUMBER" "0402WGF4701TCE"
+			(at 114.3 120.65 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "VENDOR" ""
 			(at 114.3 120.65 90)
 			(effects
 				(font
@@ -8982,6 +9009,15 @@
 				(hide yes)
 			)
 		)
+		(property "VENDOR" ""
+			(at 77.47 133.35 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "0e44b6cb-02f6-4135-863b-b0ef323541a3")
 		)
@@ -9129,6 +9165,15 @@
 				(hide yes)
 			)
 		)
+		(property "VENDOR" ""
+			(at 73.66 133.35 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "b1e57f4e-e808-4856-bfee-15678ed98fef")
 		)
@@ -9268,6 +9313,15 @@
 			)
 		)
 		(property "MANUFACTURER_PART_NUMBER" "0402WGF4700TCE"
+			(at 185.42 95.25 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "VENDOR" ""
 			(at 185.42 95.25 90)
 			(effects
 				(font
@@ -9424,6 +9478,15 @@
 				(hide yes)
 			)
 		)
+		(property "VENDOR" ""
+			(at 180.34 67.31 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "599e2658-ab2e-47c6-b3f8-bb5f632bcfcb")
 		)
@@ -9549,6 +9612,15 @@
 			)
 		)
 		(property "MANUFACTURER_PART_NUMBER" "BZT52C3V6S"
+			(at 175.26 99.06 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "VENDOR" ""
 			(at 175.26 99.06 90)
 			(effects
 				(font
@@ -9705,6 +9777,15 @@
 				(hide yes)
 			)
 		)
+		(property "VENDOR" ""
+			(at 180.34 62.23 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "63c2c458-6dcf-4630-8195-3d0fccef3da5")
 		)
@@ -9844,6 +9925,15 @@
 			)
 		)
 		(property "MANUFACTURER_PART_NUMBER" "0402WGF4700TCE"
+			(at 185.42 80.01 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "VENDOR" ""
 			(at 185.42 80.01 90)
 			(effects
 				(font
@@ -10000,6 +10090,15 @@
 				(hide yes)
 			)
 		)
+		(property "VENDOR" ""
+			(at 185.42 69.85 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "8d649953-18db-4781-a696-d89db18ee91e")
 		)
@@ -10148,6 +10247,15 @@
 				(hide yes)
 			)
 		)
+		(property "VENDOR" ""
+			(at 185.42 74.93 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "d8968f2b-3cbc-48ab-b30c-4f49067d8906")
 		)
@@ -10253,6 +10361,15 @@
 			)
 		)
 		(property "LCSC Part #" "C1521614"
+			(at 86.36 76.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "VENDOR" ""
 			(at 86.36 76.2 0)
 			(effects
 				(font
@@ -11183,6 +11300,15 @@
 				(hide yes)
 			)
 		)
+		(property "VENDOR" ""
+			(at 185.42 64.77 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "56250b6a-1864-4a0e-aedc-c143b6441e18")
 		)
@@ -11529,6 +11655,15 @@
 				(hide yes)
 			)
 		)
+		(property "VENDOR" ""
+			(at 185.42 92.71 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "c1f9db4d-7ce2-4c10-853c-6615da4fa2f8")
 		)
@@ -11669,6 +11804,15 @@
 			)
 		)
 		(property "MANUFACTURER_PART_NUMBER" "0402B223K500NT"
+			(at 180.34 57.15 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "VENDOR" ""
 			(at 180.34 57.15 90)
 			(effects
 				(font
@@ -11890,6 +12034,15 @@
 				(hide yes)
 			)
 		)
+		(property "VENDOR" ""
+			(at 90.17 142.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "8"
 			(uuid "ea2df291-ec42-48c4-9f93-d31e5e11fa6f")
 		)
@@ -12051,6 +12204,15 @@
 			)
 		)
 		(property "MANUFACTURER_PART_NUMBER" "A71-05H4-111N1"
+			(at 214.63 77.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "VENDOR" ""
 			(at 214.63 77.47 0)
 			(effects
 				(font
@@ -12261,6 +12423,15 @@
 				(hide yes)
 			)
 		)
+		(property "VENDOR" ""
+			(at 185.42 59.69 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "b80ed9ff-013f-4794-bd42-f686f00690f8")
 		)
@@ -12401,6 +12572,15 @@
 			)
 		)
 		(property "MANUFACTURER_PART_NUMBER" "0402B223K500NT"
+			(at 180.34 72.39 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "VENDOR" ""
 			(at 180.34 72.39 90)
 			(effects
 				(font
