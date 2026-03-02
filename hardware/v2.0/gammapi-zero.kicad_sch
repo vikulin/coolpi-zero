@@ -8790,7 +8790,7 @@
 	)
 	(wire
 		(pts
-			(xy 59.69 116.84) (xy 66.04 116.84)
+			(xy 60.96 116.84) (xy 67.31 116.84)
 		)
 		(stroke
 			(width 0)
@@ -10004,12 +10004,12 @@
 		(uuid "be2c4eee-6dbc-41d3-8ef0-b47cd9897366")
 	)
 	(label "LED_IC"
-		(at 60.96 116.84 0)
+		(at 67.31 116.84 180)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify left bottom)
+			(justify right bottom)
 		)
 		(uuid "be6bac2c-a79f-4909-9844-c2fa5e85b3e1")
 	)

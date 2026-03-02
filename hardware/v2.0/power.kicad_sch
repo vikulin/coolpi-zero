@@ -20555,7 +20555,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 105.7148 115.57 0)
 			(effects
 				(font
@@ -20573,7 +20573,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "10uF ±10% 10V Ceramic Capacitor X5R 0603"
+		(property "Description" "10uF ±20% 10V Ceramic Capacitor X5R 0402"
 			(at 106.68 111.76 0)
 			(effects
 				(font
@@ -20582,7 +20582,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC Part #" "C19702"
+		(property "LCSC Part #" "C315248"
 			(at 106.68 111.76 0)
 			(effects
 				(font
@@ -20591,7 +20591,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC Link" "https://lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_Samsung-Electro-Mechanics-CL10A106KP8NNNC_C19702.html"
+		(property "LCSC Link" "https://www.lcsc.com/product-detail/C315248.html"
 			(at 106.68 111.76 0)
 			(effects
 				(font
@@ -20600,7 +20600,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufactuer Part Number" "CL10A106KP8NNNC"
+		(property "Manufactuer Part Number" "CL05A106MP5NUNC"
 			(at 106.68 111.76 0)
 			(effects
 				(font
@@ -20645,7 +20645,7 @@
 				(hide yes)
 			)
 		)
-		(property "MANUFACTURER_PART_NUMBER" "CL10A106KP8NNNC"
+		(property "MANUFACTURER_PART_NUMBER" "CL05A106MP5NUNC"
 			(at 106.68 111.76 0)
 			(effects
 				(font
