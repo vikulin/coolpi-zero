@@ -6,8 +6,8 @@
 	(paper "A4")
 	(title_block
 		(title "GammaPi Zero")
-		(date "2026-02-28")
-		(rev "v2.7.1")
+		(date "2026-03-02")
+		(rev "v2.7.2")
 		(company "Vadym Vikulin, Chengyin Yao (cheyao)")
 		(comment 1 "https://github.com/vikulin/gammapi-zero")
 		(comment 2 "License: Solderpad")
@@ -1628,194 +1628,6 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "IN-PI15TAT5R5G5B:IN-PI15TAT5R5G5B"
-			(exclude_from_sim no)
-			(in_bom yes)
-			(on_board yes)
-			(property "Reference" "LED"
-				(at 24.13 7.62 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left top)
-				)
-			)
-			(property "Value" "IN-PI15TAT5R5G5B"
-				(at 24.13 5.08 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left top)
-				)
-			)
-			(property "Footprint" "INPI15TAT5R5G5B"
-				(at 24.13 -94.92 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left top)
-					(hide yes)
-				)
-			)
-			(property "Datasheet" ""
-				(at 24.13 -194.92 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left top)
-					(hide yes)
-				)
-			)
-			(property "Description" "TOP MOUNT / 1515 / 1.5 X 1.5 X 0"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Height" "0.75"
-				(at 24.13 -394.92 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left top)
-					(hide yes)
-				)
-			)
-			(property "Mouser Part Number" "743-IN-PI15TAT5R5G5B"
-				(at 24.13 -494.92 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left top)
-					(hide yes)
-				)
-			)
-			(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Inolux/IN-PI15TAT5R5G5B?qs=stqOd1AaK79AxVQMebgHsw%3D%3D"
-				(at 24.13 -594.92 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left top)
-					(hide yes)
-				)
-			)
-			(property "Manufacturer_Name" "Inolux"
-				(at 24.13 -694.92 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left top)
-					(hide yes)
-				)
-			)
-			(property "Manufacturer_Part_Number" "IN-PI15TAT5R5G5B"
-				(at 24.13 -794.92 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left top)
-					(hide yes)
-				)
-			)
-			(symbol "IN-PI15TAT5R5G5B_1_1"
-				(rectangle
-					(start 5.08 2.54)
-					(end 22.86 -5.08)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type background)
-					)
-				)
-				(pin passive line
-					(at 0 0 0)
-					(length 5.08)
-					(name "GND"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "4"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 0 -2.54 0)
-					(length 5.08)
-					(name "DIN"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 27.94 0 180)
-					(length 5.08)
-					(name "DOUT"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "3"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 27.94 -2.54 180)
-					(length 5.08)
-					(name "VDD"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-			)
-			(embedded_fonts no)
-		)
 		(symbol "Mechanical:MountingHole"
 			(pin_names
 				(offset 1.016)
@@ -2209,6 +2021,266 @@
 						(effects
 							(font
 								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
+		(symbol "WS2812B2020:WS2812B2020"
+			(pin_names
+				(offset 1.016)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "LED"
+				(at -3.048 3.302 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left bottom)
+				)
+			)
+			(property "Value" "WS2812B2020"
+				(at -10.16 -10.16 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left bottom)
+				)
+			)
+			(property "Footprint" "WS2812B2020:LED_WS2812B2020"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "MF" "WorldSemi"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+					(hide yes)
+				)
+			)
+			(property "MAXIMUM_PACKAGE_HEIGHT" "0.84 mm"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+					(hide yes)
+				)
+			)
+			(property "Package" "None"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+					(hide yes)
+				)
+			)
+			(property "Price" "None"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+					(hide yes)
+				)
+			)
+			(property "Check_prices" "https://www.snapeda.com/parts/WS2812B-2020/Worldsemi/view-part/?ref=eda"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+					(hide yes)
+				)
+			)
+			(property "STANDARD" "Manufacturer Recommendations"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+					(hide yes)
+				)
+			)
+			(property "PARTREV" "V1.0"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+					(hide yes)
+				)
+			)
+			(property "SnapEDA_Link" "https://www.snapeda.com/parts/WS2812B-2020/Worldsemi/view-part/?ref=snap"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+					(hide yes)
+				)
+			)
+			(property "MP" "WS2812B-2020"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+					(hide yes)
+				)
+			)
+			(property "Description_1" "Programmable LED; SMD; 2020; RGB; 2x2x0.84mm; 3.7÷5.3V; 2kHz"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+					(hide yes)
+				)
+			)
+			(property "Availability" "In Stock"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+					(hide yes)
+				)
+			)
+			(property "MANUFACTURER" "WorldSemi"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+					(hide yes)
+				)
+			)
+			(symbol "WS2812B2020_0_0"
+				(rectangle
+					(start -10.16 7.62)
+					(end 7.62 -0.254)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type background)
+					)
+				)
+				(pin power_in line
+					(at -15.24 5.08 0)
+					(length 5.08)
+					(name "VDD"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+					(number "4"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+				)
+				(pin output line
+					(at -15.24 2.54 0)
+					(length 5.08)
+					(name "DO"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at 12.7 5.08 180)
+					(length 5.08)
+					(name "DI"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+					(number "3"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+				)
+				(pin power_in line
+					(at 12.7 2.54 180)
+					(length 5.08)
+					(name "GND"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.016 1.016)
 							)
 						)
 					)
@@ -8207,40 +8279,10 @@
 		(uuid "72daa8a7-d61b-49eb-860d-12493f3a8c15")
 	)
 	(junction
-		(at 26.67 161.29)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "aadb57c8-0cbe-4e73-91f3-3f24b56c85af")
-	)
-	(junction
-		(at 26.67 111.76)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "bc4fc518-00da-4d2d-a68f-0b41e071af66")
-	)
-	(junction
-		(at 26.67 128.27)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "c5b1e4ac-6e02-497f-bbad-007874e0bf0e")
-	)
-	(junction
 		(at 48.26 90.17)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "d3a2e655-a69a-45e0-8d34-bcf7990f8415")
-	)
-	(junction
-		(at 26.67 177.8)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "d8bd7a07-4e45-41d0-a664-88b2513ce85a")
-	)
-	(junction
-		(at 26.67 144.78)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "de981af1-2b1f-4a67-907b-bf5106fd4c01")
 	)
 	(no_connect
 		(at 252.73 110.49)
@@ -8251,7 +8293,7 @@
 		(uuid "3fe9024c-e0e1-4347-9059-037223531a0a")
 	)
 	(no_connect
-		(at 26.67 180.34)
+		(at 25.4 185.42)
 		(uuid "69fae933-1e55-40a9-8240-d96e21775e96")
 	)
 	(no_connect
@@ -8308,7 +8350,7 @@
 	)
 	(wire
 		(pts
-			(xy 26.67 170.18) (xy 54.61 170.18)
+			(xy 25.4 175.26) (xy 53.34 175.26)
 		)
 		(stroke
 			(width 0)
@@ -8428,16 +8470,6 @@
 	)
 	(wire
 		(pts
-			(xy 21.59 128.27) (xy 26.67 128.27)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "39ebbe73-14ca-482e-8997-625a6231c748")
-	)
-	(wire
-		(pts
 			(xy 218.44 107.95) (xy 231.14 107.95)
 		)
 		(stroke
@@ -8528,16 +8560,6 @@
 	)
 	(wire
 		(pts
-			(xy 21.59 161.29) (xy 26.67 161.29)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "5a0c77d8-89d1-4d8a-851e-42156820d08f")
-	)
-	(wire
-		(pts
 			(xy 127 121.92) (xy 139.7 121.92)
 		)
 		(stroke
@@ -8568,17 +8590,7 @@
 	)
 	(wire
 		(pts
-			(xy 21.59 144.78) (xy 26.67 144.78)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "6f4885bf-9fd6-4c05-b8c4-46e1a94f1014")
-	)
-	(wire
-		(pts
-			(xy 26.67 153.67) (xy 54.61 153.67)
+			(xy 25.4 158.75) (xy 53.34 158.75)
 		)
 		(stroke
 			(width 0)
@@ -8588,7 +8600,7 @@
 	)
 	(wire
 		(pts
-			(xy 54.61 120.65) (xy 54.61 128.27)
+			(xy 53.34 125.73) (xy 53.34 133.35)
 		)
 		(stroke
 			(width 0)
@@ -8618,7 +8630,7 @@
 	)
 	(wire
 		(pts
-			(xy 26.67 120.65) (xy 54.61 120.65)
+			(xy 25.4 125.73) (xy 53.34 125.73)
 		)
 		(stroke
 			(width 0)
@@ -8638,7 +8650,7 @@
 	)
 	(wire
 		(pts
-			(xy 26.67 130.81) (xy 26.67 137.16)
+			(xy 25.4 135.89) (xy 25.4 142.24)
 		)
 		(stroke
 			(width 0)
@@ -8668,17 +8680,7 @@
 	)
 	(wire
 		(pts
-			(xy 21.59 177.8) (xy 26.67 177.8)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "868ae40a-b9b7-4f18-8795-a6ed07f8ed1d")
-	)
-	(wire
-		(pts
-			(xy 26.67 137.16) (xy 54.61 137.16)
+			(xy 25.4 142.24) (xy 53.34 142.24)
 		)
 		(stroke
 			(width 0)
@@ -8698,7 +8700,7 @@
 	)
 	(wire
 		(pts
-			(xy 26.67 114.3) (xy 26.67 120.65)
+			(xy 25.4 119.38) (xy 25.4 125.73)
 		)
 		(stroke
 			(width 0)
@@ -8788,7 +8790,7 @@
 	)
 	(wire
 		(pts
-			(xy 62.23 111.76) (xy 67.31 111.76)
+			(xy 59.69 116.84) (xy 66.04 116.84)
 		)
 		(stroke
 			(width 0)
@@ -8798,7 +8800,7 @@
 	)
 	(wire
 		(pts
-			(xy 54.61 137.16) (xy 54.61 144.78)
+			(xy 53.34 142.24) (xy 53.34 149.86)
 		)
 		(stroke
 			(width 0)
@@ -8908,7 +8910,7 @@
 	)
 	(wire
 		(pts
-			(xy 54.61 170.18) (xy 54.61 177.8)
+			(xy 53.34 175.26) (xy 53.34 182.88)
 		)
 		(stroke
 			(width 0)
@@ -8978,7 +8980,7 @@
 	)
 	(wire
 		(pts
-			(xy 54.61 153.67) (xy 54.61 161.29)
+			(xy 53.34 158.75) (xy 53.34 166.37)
 		)
 		(stroke
 			(width 0)
@@ -9008,7 +9010,7 @@
 	)
 	(wire
 		(pts
-			(xy 26.67 147.32) (xy 26.67 153.67)
+			(xy 25.4 152.4) (xy 25.4 158.75)
 		)
 		(stroke
 			(width 0)
@@ -9068,7 +9070,7 @@
 	)
 	(wire
 		(pts
-			(xy 26.67 163.83) (xy 26.67 170.18)
+			(xy 25.4 168.91) (xy 25.4 175.26)
 		)
 		(stroke
 			(width 0)
@@ -9125,16 +9127,6 @@
 			(type default)
 		)
 		(uuid "f98c3e94-a6a6-4abb-b347-d72a3711483c")
-	)
-	(wire
-		(pts
-			(xy 21.59 111.76) (xy 26.67 111.76)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "fa2fb525-2ed3-4fb7-a835-962e972127d4")
 	)
 	(wire
 		(pts
@@ -10012,7 +10004,7 @@
 		(uuid "be2c4eee-6dbc-41d3-8ef0-b47cd9897366")
 	)
 	(label "LED_IC"
-		(at 62.23 111.76 0)
+		(at 60.96 116.84 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -10163,7 +10155,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 54.61 130.81 0)
+		(at 53.34 135.89 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -10172,7 +10164,7 @@
 		(fields_autoplaced yes)
 		(uuid "00844e41-0aaa-4ad8-ab38-96ca02ae5235")
 		(property "Reference" "#PWR023"
-			(at 54.61 137.16 0)
+			(at 53.34 142.24 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10181,7 +10173,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 54.61 135.89 0)
+			(at 53.34 140.97 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10189,7 +10181,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 54.61 130.81 0)
+			(at 53.34 135.89 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10198,7 +10190,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 54.61 130.81 0)
+			(at 53.34 135.89 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10207,7 +10199,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 54.61 130.81 0)
+			(at 53.34 135.89 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10228,167 +10220,8 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:C")
-		(at 21.59 165.1 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "03d5692b-1ebb-4281-84ec-55015f9650bc")
-		(property "Reference" "C72"
-			(at 19.431 164.338 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Value" "100n"
-			(at 13.462 166.624 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
-			(at 22.5552 168.91 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 21.59 165.1 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "100nF ±10% 50V Ceramic Capacitor X7R 0402"
-			(at 21.59 165.1 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC Part #" "C307331"
-			(at 21.59 165.1 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC Link" "https://lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_Samsung-Electro-Mechanics-CL05B104KB54PNC_C307331.html"
-			(at 21.59 165.1 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Manufactuer Part Number" "CL05B104KB54PNC"
-			(at 21.59 165.1 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Note" ""
-			(at 21.59 165.1 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Notes" ""
-			(at 21.59 165.1 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Original" ""
-			(at 21.59 165.1 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Instructions/Notes" ""
-			(at 21.59 165.1 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MANUFACTURER_PART_NUMBER" "CL05B104KB54PNC"
-			(at 21.59 165.1 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MANUFACTURER" "Samsung Electro-Mechanics"
-			(at 21.59 165.1 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "VENDOR" ""
-			(at 21.59 165.1 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "977fbd80-38ba-49af-af25-6f69762ba3f3")
-		)
-		(pin "2"
-			(uuid "d8e897e2-29c6-4195-85e6-288269774bd8")
-		)
-		(instances
-			(project "gammapi-zero"
-				(path "/f88da08e-cf42-4d03-a08f-3f602fe6658d"
-					(reference "C72")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "power:GND")
-		(at 54.61 114.3 0)
+		(at 53.34 119.38 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -10397,7 +10230,7 @@
 		(fields_autoplaced yes)
 		(uuid "04131113-ea7b-4a7a-8c5f-a8f598c124f0")
 		(property "Reference" "#PWR0115"
-			(at 54.61 120.65 0)
+			(at 53.34 125.73 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10406,7 +10239,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 54.61 119.38 0)
+			(at 53.34 124.46 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10414,7 +10247,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 54.61 114.3 0)
+			(at 53.34 119.38 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10423,7 +10256,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 54.61 114.3 0)
+			(at 53.34 119.38 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10432,7 +10265,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 54.61 114.3 0)
+			(at 53.34 119.38 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10588,7 +10421,7 @@
 	)
 	(symbol
 		(lib_id "Device:R")
-		(at 58.42 111.76 90)
+		(at 57.15 116.84 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -10597,7 +10430,7 @@
 		(fields_autoplaced yes)
 		(uuid "1d7e2e85-6431-42e8-8eed-c7b20b0cf6f1")
 		(property "Reference" "R1"
-			(at 58.42 105.41 90)
+			(at 57.15 110.49 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10605,7 +10438,7 @@
 			)
 		)
 		(property "Value" "549R"
-			(at 58.42 107.95 90)
+			(at 57.15 113.03 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10613,7 +10446,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
-			(at 58.42 113.538 90)
+			(at 57.15 118.618 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10622,7 +10455,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 58.42 111.76 0)
+			(at 57.15 116.84 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10631,7 +10464,7 @@
 			)
 		)
 		(property "Description" "549Ω ±1% 62.5mW 0402 Thick Film Resistor"
-			(at 58.42 111.76 0)
+			(at 57.15 116.84 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10640,7 +10473,7 @@
 			)
 		)
 		(property "LCSC Part #" "C474081"
-			(at 58.42 111.76 0)
+			(at 57.15 116.84 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10649,7 +10482,7 @@
 			)
 		)
 		(property "LCSC Link" "https://www.lcsc.com/product-detail/C474081.html"
-			(at 58.42 111.76 90)
+			(at 57.15 116.84 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10658,7 +10491,7 @@
 			)
 		)
 		(property "Manufactuer Part Number" "0402WGF5490TCE"
-			(at 58.42 111.76 90)
+			(at 57.15 116.84 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10667,7 +10500,7 @@
 			)
 		)
 		(property "Note" ""
-			(at 58.42 111.76 90)
+			(at 57.15 116.84 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10676,7 +10509,7 @@
 			)
 		)
 		(property "Notes" ""
-			(at 58.42 111.76 90)
+			(at 57.15 116.84 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10685,7 +10518,7 @@
 			)
 		)
 		(property "Original" ""
-			(at 58.42 111.76 90)
+			(at 57.15 116.84 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10694,7 +10527,7 @@
 			)
 		)
 		(property "Instructions/Notes" ""
-			(at 58.42 111.76 90)
+			(at 57.15 116.84 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10703,7 +10536,7 @@
 			)
 		)
 		(property "MANUFACTURER" "UNI-ROYAL"
-			(at 58.42 111.76 90)
+			(at 57.15 116.84 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10712,7 +10545,7 @@
 			)
 		)
 		(property "MANUFACTURER_PART_NUMBER" "0402WGF5490TCE"
-			(at 58.42 111.76 90)
+			(at 57.15 116.84 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10721,7 +10554,7 @@
 			)
 		)
 		(property "VENDOR" ""
-			(at 58.42 111.76 90)
+			(at 57.15 116.84 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10739,185 +10572,6 @@
 			(project "gammapi-zero"
 				(path "/f88da08e-cf42-4d03-a08f-3f602fe6658d"
 					(reference "R1")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "IN-PI15TAT5R5G5B:IN-PI15TAT5R5G5B")
-		(at 54.61 147.32 180)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "276670e5-1a6f-4b32-aae6-3f44ec6fbb80")
-		(property "Reference" "LED3"
-			(at 40.64 145.796 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "IN-PI15TAT5R5G5B"
-			(at 40.64 139.7 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "INPI15TAT5R5G5B"
-			(at 30.48 52.4 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 30.48 -47.6 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Description" "SMD-4_1.5X1.5 LED Addressable, Specialty RoHS"
-			(at 54.61 147.32 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Height" "0.75"
-			(at 30.48 -247.6 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Mouser Part Number" "743-IN-PI15TAT5R5G5B"
-			(at 30.48 -347.6 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Inolux/IN-PI15TAT5R5G5B?qs=stqOd1AaK79AxVQMebgHsw%3D%3D"
-			(at 30.48 -447.6 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer_Name" "Inolux"
-			(at 30.48 -547.6 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer_Part_Number" "IN-PI15TAT5R5G5B"
-			(at 30.48 -647.6 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Original" ""
-			(at 54.61 147.32 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Instructions/Notes" ""
-			(at 54.61 147.32 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MANUFACTURER" "Inolux"
-			(at 54.61 147.32 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MANUFACTURER_PART_NUMBER" "IN-PI15TAT5R5G5B"
-			(at 54.61 147.32 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC Part #" "C7429437"
-			(at 54.61 147.32 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "VENDOR" ""
-			(at 54.61 147.32 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "3"
-			(uuid "b5d971fe-863e-45c5-ae1b-70db44279a5d")
-		)
-		(pin "2"
-			(uuid "3256c975-9069-42a6-8e91-3095d07bbe5f")
-		)
-		(pin "1"
-			(uuid "985f7131-17e5-4146-80a7-d844bfe28483")
-		)
-		(pin "4"
-			(uuid "2eac52e9-5efc-4719-94b2-1b9bb9aa4013")
-		)
-		(instances
-			(project "gammapi-zero"
-				(path "/f88da08e-cf42-4d03-a08f-3f602fe6658d"
-					(reference "LED3")
 					(unit 1)
 				)
 			)
@@ -11054,7 +10708,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 54.61 163.83 0)
+		(at 53.34 168.91 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -11063,7 +10717,7 @@
 		(fields_autoplaced yes)
 		(uuid "2fc3dd4e-8d4f-4809-b421-a3ac025bf413")
 		(property "Reference" "#PWR0122"
-			(at 54.61 170.18 0)
+			(at 53.34 175.26 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11072,7 +10726,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 54.61 168.91 0)
+			(at 53.34 173.99 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11080,7 +10734,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 54.61 163.83 0)
+			(at 53.34 168.91 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11089,7 +10743,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 54.61 163.83 0)
+			(at 53.34 168.91 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11098,7 +10752,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 54.61 163.83 0)
+			(at 53.34 168.91 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11543,6 +11197,218 @@
 		)
 	)
 	(symbol
+		(lib_id "WS2812B2020:WS2812B2020")
+		(at 40.64 171.45 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "38cb65ac-4734-45ed-8984-1460202d8ed2")
+		(property "Reference" "LED4"
+			(at 39.624 167.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "WS2812B2020"
+			(at 39.37 161.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "WS2812B2020:LED_WS2812B2020"
+			(at 40.64 171.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 40.64 171.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "SMD,2.2x2mm LED Addressable, Specialty RoHS"
+			(at 40.64 171.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MF" "WorldSemi"
+			(at 40.64 171.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "MAXIMUM_PACKAGE_HEIGHT" "0.84 mm"
+			(at 40.64 171.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Package" "None"
+			(at 40.64 171.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Price" "None"
+			(at 40.64 171.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Check_prices" "https://www.snapeda.com/parts/WS2812B-2020/Worldsemi/view-part/?ref=eda"
+			(at 40.64 171.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "STANDARD" "Manufacturer Recommendations"
+			(at 40.64 171.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "PARTREV" "V1.0"
+			(at 40.64 171.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "SnapEDA_Link" "https://www.snapeda.com/parts/WS2812B-2020/Worldsemi/view-part/?ref=snap"
+			(at 40.64 171.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "MP" "WS2812B-2020"
+			(at 40.64 171.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Description_1" "Programmable LED; SMD; 2020; RGB; 2x2x0.84mm; 3.7÷5.3V; 2kHz"
+			(at 40.64 171.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Availability" "In Stock"
+			(at 40.64 171.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER" "WorldSemi"
+			(at 40.64 171.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C965555"
+			(at 40.64 171.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER_PART_NUMBER" "WS2812B-2020"
+			(at 40.64 171.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "3"
+			(uuid "612aa07b-f365-47a4-b7f1-a08b3d682528")
+		)
+		(pin "4"
+			(uuid "42837b9e-a960-4869-926f-fb5dd5f1d129")
+		)
+		(pin "2"
+			(uuid "b4227bd2-fc2b-4403-b105-e8c6f3500cf1")
+		)
+		(pin "1"
+			(uuid "7dc02069-094f-4263-bec6-2d4158139710")
+		)
+		(instances
+			(project "gammapi-zero"
+				(path "/f88da08e-cf42-4d03-a08f-3f602fe6658d"
+					(reference "LED4")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Connector_Generic:Conn_02x20_Odd_Even")
 		(at 257.81 118.11 0)
 		(unit 1)
@@ -11917,165 +11783,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:C")
-		(at 21.59 132.08 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "3e8c33d8-26cb-4c61-8172-71a9e67fc938")
-		(property "Reference" "C70"
-			(at 19.431 131.318 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Value" "100n"
-			(at 13.462 133.604 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
-			(at 22.5552 135.89 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 21.59 132.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "100nF ±10% 50V Ceramic Capacitor X7R 0402"
-			(at 21.59 132.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC Part #" "C307331"
-			(at 21.59 132.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC Link" "https://lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_Samsung-Electro-Mechanics-CL05B104KB54PNC_C307331.html"
-			(at 21.59 132.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Manufactuer Part Number" "CL05B104KB54PNC"
-			(at 21.59 132.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Note" ""
-			(at 21.59 132.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Notes" ""
-			(at 21.59 132.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Original" ""
-			(at 21.59 132.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Instructions/Notes" ""
-			(at 21.59 132.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MANUFACTURER_PART_NUMBER" "CL05B104KB54PNC"
-			(at 21.59 132.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MANUFACTURER" "Samsung Electro-Mechanics"
-			(at 21.59 132.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "VENDOR" ""
-			(at 21.59 132.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "6793b444-156f-49f0-b40b-b7a155dc450d")
-		)
-		(pin "2"
-			(uuid "2fd9f944-7af8-4059-b30c-d0ffd522630e")
-		)
-		(instances
-			(project "gammapi-zero"
-				(path "/f88da08e-cf42-4d03-a08f-3f602fe6658d"
-					(reference "C70")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Mechanical:MountingHole")
 		(at 166.37 46.99 0)
 		(unit 1)
@@ -12337,7 +12044,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 54.61 147.32 0)
+		(at 53.34 152.4 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -12346,7 +12053,7 @@
 		(fields_autoplaced yes)
 		(uuid "47405b51-2274-4366-86b8-0f5029efc751")
 		(property "Reference" "#PWR0116"
-			(at 54.61 153.67 0)
+			(at 53.34 158.75 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12355,7 +12062,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 54.61 152.4 0)
+			(at 53.34 157.48 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12363,7 +12070,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 54.61 147.32 0)
+			(at 53.34 152.4 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12372,7 +12079,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 54.61 147.32 0)
+			(at 53.34 152.4 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12381,7 +12088,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 54.61 147.32 0)
+			(at 53.34 152.4 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12599,7 +12306,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 54.61 180.34 0)
+		(at 53.34 185.42 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -12608,7 +12315,7 @@
 		(fields_autoplaced yes)
 		(uuid "5616d1c5-268f-4ed8-b4ee-6b560cc1ff51")
 		(property "Reference" "#PWR0123"
-			(at 54.61 186.69 0)
+			(at 53.34 191.77 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12617,7 +12324,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 54.61 185.42 0)
+			(at 53.34 190.5 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12625,7 +12332,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 54.61 180.34 0)
+			(at 53.34 185.42 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12634,7 +12341,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 54.61 180.34 0)
+			(at 53.34 185.42 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12643,7 +12350,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 54.61 180.34 0)
+			(at 53.34 185.42 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12791,6 +12498,430 @@
 			(project "gammapi-zero"
 				(path "/f88da08e-cf42-4d03-a08f-3f602fe6658d"
 					(reference "#PWR018")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "WS2812B2020:WS2812B2020")
+		(at 40.64 187.96 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "60720866-e89c-4cf8-9f75-04d61851c73e")
+		(property "Reference" "LED5"
+			(at 39.624 184.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "WS2812B2020"
+			(at 39.37 177.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "WS2812B2020:LED_WS2812B2020"
+			(at 40.64 187.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 40.64 187.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "SMD,2.2x2mm LED Addressable, Specialty RoHS"
+			(at 40.64 187.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MF" "WorldSemi"
+			(at 40.64 187.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "MAXIMUM_PACKAGE_HEIGHT" "0.84 mm"
+			(at 40.64 187.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Package" "None"
+			(at 40.64 187.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Price" "None"
+			(at 40.64 187.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Check_prices" "https://www.snapeda.com/parts/WS2812B-2020/Worldsemi/view-part/?ref=eda"
+			(at 40.64 187.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "STANDARD" "Manufacturer Recommendations"
+			(at 40.64 187.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "PARTREV" "V1.0"
+			(at 40.64 187.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "SnapEDA_Link" "https://www.snapeda.com/parts/WS2812B-2020/Worldsemi/view-part/?ref=snap"
+			(at 40.64 187.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "MP" "WS2812B-2020"
+			(at 40.64 187.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Description_1" "Programmable LED; SMD; 2020; RGB; 2x2x0.84mm; 3.7÷5.3V; 2kHz"
+			(at 40.64 187.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Availability" "In Stock"
+			(at 40.64 187.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER" "WorldSemi"
+			(at 40.64 187.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C965555"
+			(at 40.64 187.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER_PART_NUMBER" "WS2812B-2020"
+			(at 40.64 187.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "3"
+			(uuid "653c54ea-d155-4236-82ca-3bbe03c85bd8")
+		)
+		(pin "4"
+			(uuid "258a1edf-d44c-4955-a8f5-a449a00398b3")
+		)
+		(pin "2"
+			(uuid "a69805da-1327-4b72-85b3-cec3c79020b1")
+		)
+		(pin "1"
+			(uuid "c20cddce-6ca9-4571-81b9-cc855c994e24")
+		)
+		(instances
+			(project "gammapi-zero"
+				(path "/f88da08e-cf42-4d03-a08f-3f602fe6658d"
+					(reference "LED5")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "WS2812B2020:WS2812B2020")
+		(at 40.64 154.94 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "71391034-4794-44bc-b461-3bec9fd6207c")
+		(property "Reference" "LED3"
+			(at 39.624 151.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "WS2812B2020"
+			(at 39.37 144.78 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "WS2812B2020:LED_WS2812B2020"
+			(at 40.64 154.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 40.64 154.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "SMD,2.2x2mm LED Addressable, Specialty RoHS"
+			(at 40.64 154.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MF" "WorldSemi"
+			(at 40.64 154.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "MAXIMUM_PACKAGE_HEIGHT" "0.84 mm"
+			(at 40.64 154.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Package" "None"
+			(at 40.64 154.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Price" "None"
+			(at 40.64 154.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Check_prices" "https://www.snapeda.com/parts/WS2812B-2020/Worldsemi/view-part/?ref=eda"
+			(at 40.64 154.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "STANDARD" "Manufacturer Recommendations"
+			(at 40.64 154.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "PARTREV" "V1.0"
+			(at 40.64 154.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "SnapEDA_Link" "https://www.snapeda.com/parts/WS2812B-2020/Worldsemi/view-part/?ref=snap"
+			(at 40.64 154.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "MP" "WS2812B-2020"
+			(at 40.64 154.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Description_1" "Programmable LED; SMD; 2020; RGB; 2x2x0.84mm; 3.7÷5.3V; 2kHz"
+			(at 40.64 154.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Availability" "In Stock"
+			(at 40.64 154.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER" "WorldSemi"
+			(at 40.64 154.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C965555"
+			(at 40.64 154.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER_PART_NUMBER" "WS2812B-2020"
+			(at 40.64 154.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "3"
+			(uuid "e41266da-8586-41eb-a5b0-6de67fe29833")
+		)
+		(pin "4"
+			(uuid "d9b4cb03-8dc7-4b2d-8788-56b20eb4c128")
+		)
+		(pin "2"
+			(uuid "db684cdb-cbdc-462a-8b53-0b93f72c6909")
+		)
+		(pin "1"
+			(uuid "52b57dcf-a117-4fd4-a897-e8c498c3746f")
+		)
+		(instances
+			(project "gammapi-zero"
+				(path "/f88da08e-cf42-4d03-a08f-3f602fe6658d"
+					(reference "LED3")
 					(unit 1)
 				)
 			)
@@ -13811,165 +13942,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:C")
-		(at 21.59 148.59 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "76fdd6d5-9114-4599-bbaf-707bdda72cc6")
-		(property "Reference" "C71"
-			(at 19.431 147.828 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Value" "100n"
-			(at 13.462 150.114 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
-			(at 22.5552 152.4 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 21.59 148.59 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "100nF ±10% 50V Ceramic Capacitor X7R 0402"
-			(at 21.59 148.59 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC Part #" "C307331"
-			(at 21.59 148.59 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC Link" "https://lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_Samsung-Electro-Mechanics-CL05B104KB54PNC_C307331.html"
-			(at 21.59 148.59 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Manufactuer Part Number" "CL05B104KB54PNC"
-			(at 21.59 148.59 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Note" ""
-			(at 21.59 148.59 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Notes" ""
-			(at 21.59 148.59 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Original" ""
-			(at 21.59 148.59 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Instructions/Notes" ""
-			(at 21.59 148.59 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MANUFACTURER_PART_NUMBER" "CL05B104KB54PNC"
-			(at 21.59 148.59 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MANUFACTURER" "Samsung Electro-Mechanics"
-			(at 21.59 148.59 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "VENDOR" ""
-			(at 21.59 148.59 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "f59bf041-d3ac-4fd7-bd66-a1778d945c2f")
-		)
-		(pin "2"
-			(uuid "03b6230f-464e-4977-8c16-64e2fa3c313d")
-		)
-		(instances
-			(project "gammapi-zero"
-				(path "/f88da08e-cf42-4d03-a08f-3f602fe6658d"
-					(reference "C71")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "oshw:OSHW_Certification_Mark_Stacked_Medium")
 		(at 24.13 20.32 0)
 		(unit 1)
@@ -14091,72 +14063,6 @@
 			(project ""
 				(path "/f88da08e-cf42-4d03-a08f-3f602fe6658d"
 					(reference "LOGO1")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:GND")
-		(at 21.59 152.4 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "79b160c1-3c86-49e3-8bb3-87a52ae44685")
-		(property "Reference" "#PWR0134"
-			(at 21.59 158.75 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "GND"
-			(at 21.59 157.48 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 21.59 152.4 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 21.59 152.4 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 21.59 152.4 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "8285ede4-3658-4af1-9c0c-ee834eaf9206")
-		)
-		(instances
-			(project "gammapi-zero"
-				(path "/f88da08e-cf42-4d03-a08f-3f602fe6658d"
-					(reference "#PWR0134")
 					(unit 1)
 				)
 			)
@@ -14349,72 +14255,6 @@
 			(project "gammapi-zero"
 				(path "/f88da08e-cf42-4d03-a08f-3f602fe6658d"
 					(reference "#FLG01")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:GND")
-		(at 21.59 168.91 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "7cb866c3-e73b-435a-be5a-8353de4ffa18")
-		(property "Reference" "#PWR0135"
-			(at 21.59 175.26 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "GND"
-			(at 21.59 173.99 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 21.59 168.91 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 21.59 168.91 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 21.59 168.91 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "8ce3e42b-7cc1-4199-93a8-a7985c1af01c")
-		)
-		(instances
-			(project "gammapi-zero"
-				(path "/f88da08e-cf42-4d03-a08f-3f602fe6658d"
-					(reference "#PWR0135")
 					(unit 1)
 				)
 			)
@@ -14676,72 +14516,6 @@
 			(project ""
 				(path "/f88da08e-cf42-4d03-a08f-3f602fe6658d"
 					(reference "#PWR06")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:GND")
-		(at 21.59 185.42 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "87c6a08a-65c5-4b29-a62e-58f65a971fca")
-		(property "Reference" "#PWR0136"
-			(at 21.59 191.77 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "GND"
-			(at 21.59 190.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 21.59 185.42 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 21.59 185.42 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 21.59 185.42 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "b9593855-b238-4fed-ba50-b407c8ff109c")
-		)
-		(instances
-			(project "gammapi-zero"
-				(path "/f88da08e-cf42-4d03-a08f-3f602fe6658d"
-					(reference "#PWR0136")
 					(unit 1)
 				)
 			)
@@ -15036,7 +14810,7 @@
 	)
 	(symbol
 		(lib_id "power:+5V")
-		(at 26.67 144.78 0)
+		(at 25.4 149.86 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -15045,7 +14819,7 @@
 		(fields_autoplaced yes)
 		(uuid "8e7a7d6c-2779-4349-a912-1da0322beab3")
 		(property "Reference" "#PWR0126"
-			(at 26.67 148.59 0)
+			(at 25.4 153.67 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15054,7 +14828,7 @@
 			)
 		)
 		(property "Value" "+5V"
-			(at 26.67 139.7 0)
+			(at 25.4 144.78 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15062,7 +14836,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 26.67 144.78 0)
+			(at 25.4 149.86 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15071,7 +14845,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 26.67 144.78 0)
+			(at 25.4 149.86 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15080,7 +14854,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+5V\""
-			(at 26.67 144.78 0)
+			(at 25.4 149.86 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15095,185 +14869,6 @@
 			(project "gammapi-zero"
 				(path "/f88da08e-cf42-4d03-a08f-3f602fe6658d"
 					(reference "#PWR0126")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "IN-PI15TAT5R5G5B:IN-PI15TAT5R5G5B")
-		(at 54.61 114.3 180)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "956d7ce7-f989-41d7-8892-b3a4d4a744ce")
-		(property "Reference" "LED1"
-			(at 40.64 112.776 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "IN-PI15TAT5R5G5B"
-			(at 40.64 106.68 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "INPI15TAT5R5G5B"
-			(at 30.48 19.38 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 30.48 -80.62 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Description" "SMD-4_1.5X1.5 LED Addressable, Specialty RoHS"
-			(at 54.61 114.3 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Height" "0.75"
-			(at 30.48 -280.62 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Mouser Part Number" "743-IN-PI15TAT5R5G5B"
-			(at 30.48 -380.62 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Inolux/IN-PI15TAT5R5G5B?qs=stqOd1AaK79AxVQMebgHsw%3D%3D"
-			(at 30.48 -480.62 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer_Name" "Inolux"
-			(at 30.48 -580.62 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer_Part_Number" "IN-PI15TAT5R5G5B"
-			(at 30.48 -680.62 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Original" ""
-			(at 54.61 114.3 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Instructions/Notes" ""
-			(at 54.61 114.3 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MANUFACTURER" "Inolux"
-			(at 54.61 114.3 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MANUFACTURER_PART_NUMBER" "IN-PI15TAT5R5G5B"
-			(at 54.61 114.3 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC Part #" "C7429437"
-			(at 54.61 114.3 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "VENDOR" ""
-			(at 54.61 114.3 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "3"
-			(uuid "d6a8a5ab-1188-4675-8e3a-20baeb416fbb")
-		)
-		(pin "2"
-			(uuid "a27f8eb1-8606-46c3-a5c5-13696778ccb6")
-		)
-		(pin "1"
-			(uuid "3f38b8b1-81af-4613-b445-545db09e7d47")
-		)
-		(pin "4"
-			(uuid "bfbf473c-5a1b-427b-abaf-f1ef749d7e02")
-		)
-		(instances
-			(project ""
-				(path "/f88da08e-cf42-4d03-a08f-3f602fe6658d"
-					(reference "LED1")
 					(unit 1)
 				)
 			)
@@ -15340,6 +14935,218 @@
 			(project ""
 				(path "/f88da08e-cf42-4d03-a08f-3f602fe6658d"
 					(reference "#PWR014")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "WS2812B2020:WS2812B2020")
+		(at 40.64 138.43 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "9c5ceda6-eea3-40d6-b349-47dce33382c0")
+		(property "Reference" "LED2"
+			(at 39.624 134.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "WS2812B2020"
+			(at 39.37 128.27 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "WS2812B2020:LED_WS2812B2020"
+			(at 40.64 138.43 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 40.64 138.43 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "SMD,2.2x2mm LED Addressable, Specialty RoHS"
+			(at 40.64 138.43 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MF" "WorldSemi"
+			(at 40.64 138.43 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "MAXIMUM_PACKAGE_HEIGHT" "0.84 mm"
+			(at 40.64 138.43 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Package" "None"
+			(at 40.64 138.43 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Price" "None"
+			(at 40.64 138.43 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Check_prices" "https://www.snapeda.com/parts/WS2812B-2020/Worldsemi/view-part/?ref=eda"
+			(at 40.64 138.43 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "STANDARD" "Manufacturer Recommendations"
+			(at 40.64 138.43 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "PARTREV" "V1.0"
+			(at 40.64 138.43 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "SnapEDA_Link" "https://www.snapeda.com/parts/WS2812B-2020/Worldsemi/view-part/?ref=snap"
+			(at 40.64 138.43 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "MP" "WS2812B-2020"
+			(at 40.64 138.43 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Description_1" "Programmable LED; SMD; 2020; RGB; 2x2x0.84mm; 3.7÷5.3V; 2kHz"
+			(at 40.64 138.43 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Availability" "In Stock"
+			(at 40.64 138.43 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER" "WorldSemi"
+			(at 40.64 138.43 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C965555"
+			(at 40.64 138.43 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER_PART_NUMBER" "WS2812B-2020"
+			(at 40.64 138.43 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "3"
+			(uuid "bb5bdb2b-e0ca-4fdd-bd15-7d26f6b60ec5")
+		)
+		(pin "4"
+			(uuid "846499f8-dbfe-40dd-80d3-0f71ebf5ef41")
+		)
+		(pin "2"
+			(uuid "d477ee92-3c40-4553-aef2-25e599eff830")
+		)
+		(pin "1"
+			(uuid "b8fb0909-a2ff-49fb-913e-fdbcad196887")
+		)
+		(instances
+			(project "gammapi-zero"
+				(path "/f88da08e-cf42-4d03-a08f-3f602fe6658d"
+					(reference "LED2")
 					(unit 1)
 				)
 			)
@@ -16425,7 +16232,7 @@
 	)
 	(symbol
 		(lib_id "power:+5V")
-		(at 26.67 111.76 0)
+		(at 25.4 116.84 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -16433,7 +16240,7 @@
 		(dnp no)
 		(uuid "a76d1b1e-42f7-4f78-93d0-76b4ee3172f4")
 		(property "Reference" "#PWR0124"
-			(at 26.67 115.57 0)
+			(at 25.4 120.65 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16442,7 +16249,7 @@
 			)
 		)
 		(property "Value" "+5V"
-			(at 26.67 106.68 0)
+			(at 25.4 111.76 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16450,7 +16257,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 26.67 111.76 0)
+			(at 25.4 116.84 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16459,7 +16266,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 26.67 111.76 0)
+			(at 25.4 116.84 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16468,7 +16275,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+5V\""
-			(at 26.67 111.76 0)
+			(at 25.4 116.84 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16483,251 +16290,6 @@
 			(project "gammapi-zero"
 				(path "/f88da08e-cf42-4d03-a08f-3f602fe6658d"
 					(reference "#PWR0124")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "IN-PI15TAT5R5G5B:IN-PI15TAT5R5G5B")
-		(at 54.61 163.83 180)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "a81010cb-fdf9-4993-b31c-a1c31e8b697b")
-		(property "Reference" "LED4"
-			(at 40.64 162.306 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "IN-PI15TAT5R5G5B"
-			(at 40.64 156.21 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "INPI15TAT5R5G5B"
-			(at 30.48 68.91 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 30.48 -31.09 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Description" "SMD-4_1.5X1.5 LED Addressable, Specialty RoHS"
-			(at 54.61 163.83 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Height" "0.75"
-			(at 30.48 -231.09 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Mouser Part Number" "743-IN-PI15TAT5R5G5B"
-			(at 30.48 -331.09 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Inolux/IN-PI15TAT5R5G5B?qs=stqOd1AaK79AxVQMebgHsw%3D%3D"
-			(at 30.48 -431.09 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer_Name" "Inolux"
-			(at 30.48 -531.09 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer_Part_Number" "IN-PI15TAT5R5G5B"
-			(at 30.48 -631.09 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Original" ""
-			(at 54.61 163.83 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Instructions/Notes" ""
-			(at 54.61 163.83 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MANUFACTURER" "Inolux"
-			(at 54.61 163.83 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MANUFACTURER_PART_NUMBER" "IN-PI15TAT5R5G5B"
-			(at 54.61 163.83 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC Part #" "C7429437"
-			(at 54.61 163.83 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "VENDOR" ""
-			(at 54.61 163.83 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "3"
-			(uuid "2b8f9c65-16e6-49a0-b2f7-197654f7b08d")
-		)
-		(pin "2"
-			(uuid "db906330-c6bb-48c3-a3a5-b3ca315d00fe")
-		)
-		(pin "1"
-			(uuid "d3d608e4-67d5-412e-9a01-e68279db6f30")
-		)
-		(pin "4"
-			(uuid "847afb95-e28c-44f6-a1fb-816e203de67a")
-		)
-		(instances
-			(project "gammapi-zero"
-				(path "/f88da08e-cf42-4d03-a08f-3f602fe6658d"
-					(reference "LED4")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:GND")
-		(at 21.59 119.38 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "aa5f2887-c85a-4056-ba26-c2c81b0b2d97")
-		(property "Reference" "#PWR0132"
-			(at 21.59 125.73 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "GND"
-			(at 21.59 124.46 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 21.59 119.38 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 21.59 119.38 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 21.59 119.38 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "82aad845-62a7-4222-992c-2dfedb561260")
-		)
-		(instances
-			(project "gammapi-zero"
-				(path "/f88da08e-cf42-4d03-a08f-3f602fe6658d"
-					(reference "#PWR0132")
 					(unit 1)
 				)
 			)
@@ -16863,167 +16425,8 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:C")
-		(at 21.59 115.57 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "b4733d0f-643d-438e-bbfb-f6a8f28894c6")
-		(property "Reference" "C68"
-			(at 19.431 114.808 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Value" "100n"
-			(at 13.462 117.094 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
-			(at 22.5552 119.38 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 21.59 115.57 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "100nF ±10% 50V Ceramic Capacitor X7R 0402"
-			(at 21.59 115.57 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC Part #" "C307331"
-			(at 21.59 115.57 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC Link" "https://lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_Samsung-Electro-Mechanics-CL05B104KB54PNC_C307331.html"
-			(at 21.59 115.57 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Manufactuer Part Number" "CL05B104KB54PNC"
-			(at 21.59 115.57 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Note" ""
-			(at 21.59 115.57 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Notes" ""
-			(at 21.59 115.57 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Original" ""
-			(at 21.59 115.57 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Instructions/Notes" ""
-			(at 21.59 115.57 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MANUFACTURER_PART_NUMBER" "CL05B104KB54PNC"
-			(at 21.59 115.57 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MANUFACTURER" "Samsung Electro-Mechanics"
-			(at 21.59 115.57 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "VENDOR" ""
-			(at 21.59 115.57 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "51bbe491-f920-42c8-979d-f6b55cc10c97")
-		)
-		(pin "2"
-			(uuid "aa16c300-9ac2-4ca5-b9d1-40f7ea6b99aa")
-		)
-		(instances
-			(project "gammapi-zero"
-				(path "/f88da08e-cf42-4d03-a08f-3f602fe6658d"
-					(reference "C68")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "power:+5V")
-		(at 26.67 128.27 0)
+		(at 25.4 133.35 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -17032,7 +16435,7 @@
 		(fields_autoplaced yes)
 		(uuid "b7065d26-a9ca-44cd-8431-89d8d459af97")
 		(property "Reference" "#PWR0125"
-			(at 26.67 132.08 0)
+			(at 25.4 137.16 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17041,7 +16444,7 @@
 			)
 		)
 		(property "Value" "+5V"
-			(at 26.67 123.19 0)
+			(at 25.4 128.27 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17049,7 +16452,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 26.67 128.27 0)
+			(at 25.4 133.35 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17058,7 +16461,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 26.67 128.27 0)
+			(at 25.4 133.35 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17067,7 +16470,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+5V\""
-			(at 26.67 128.27 0)
+			(at 25.4 133.35 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17088,187 +16491,8 @@
 		)
 	)
 	(symbol
-		(lib_id "IN-PI15TAT5R5G5B:IN-PI15TAT5R5G5B")
-		(at 54.61 130.81 180)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "b88976a8-ca4f-4945-853b-6941b0d06281")
-		(property "Reference" "LED2"
-			(at 40.64 129.286 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "IN-PI15TAT5R5G5B"
-			(at 40.64 123.19 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "INPI15TAT5R5G5B"
-			(at 30.48 35.89 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 30.48 -64.11 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Description" "SMD-4_1.5X1.5 LED Addressable, Specialty RoHS"
-			(at 54.61 130.81 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Height" "0.75"
-			(at 30.48 -264.11 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Mouser Part Number" "743-IN-PI15TAT5R5G5B"
-			(at 30.48 -364.11 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Inolux/IN-PI15TAT5R5G5B?qs=stqOd1AaK79AxVQMebgHsw%3D%3D"
-			(at 30.48 -464.11 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer_Name" "Inolux"
-			(at 30.48 -564.11 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer_Part_Number" "IN-PI15TAT5R5G5B"
-			(at 30.48 -664.11 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Original" ""
-			(at 54.61 130.81 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Instructions/Notes" ""
-			(at 54.61 130.81 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MANUFACTURER" "Inolux"
-			(at 54.61 130.81 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MANUFACTURER_PART_NUMBER" "IN-PI15TAT5R5G5B"
-			(at 54.61 130.81 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC Part #" "C7429437"
-			(at 54.61 130.81 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "VENDOR" ""
-			(at 54.61 130.81 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "3"
-			(uuid "228f74d4-2541-419f-8a0e-037510848178")
-		)
-		(pin "2"
-			(uuid "a71a6fc4-2931-47ab-9dfe-e0798afaca7b")
-		)
-		(pin "1"
-			(uuid "cf8f2050-2687-4faf-b5da-07468949b394")
-		)
-		(pin "4"
-			(uuid "be8e9860-547c-4947-8dc8-25bfdc629a9e")
-		)
-		(instances
-			(project "gammapi-zero"
-				(path "/f88da08e-cf42-4d03-a08f-3f602fe6658d"
-					(reference "LED2")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "power:+5V")
-		(at 26.67 161.29 0)
+		(at 25.4 166.37 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -17277,7 +16501,7 @@
 		(fields_autoplaced yes)
 		(uuid "c16a20b3-a11a-422f-bbc8-002baa47ce50")
 		(property "Reference" "#PWR0127"
-			(at 26.67 165.1 0)
+			(at 25.4 170.18 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17286,7 +16510,7 @@
 			)
 		)
 		(property "Value" "+5V"
-			(at 26.67 156.21 0)
+			(at 25.4 161.29 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17294,7 +16518,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 26.67 161.29 0)
+			(at 25.4 166.37 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17303,7 +16527,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 26.67 161.29 0)
+			(at 25.4 166.37 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17312,7 +16536,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+5V\""
-			(at 26.67 161.29 0)
+			(at 25.4 166.37 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17401,7 +16625,7 @@
 	)
 	(symbol
 		(lib_id "power:+5V")
-		(at 26.67 177.8 0)
+		(at 25.4 182.88 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -17410,7 +16634,7 @@
 		(fields_autoplaced yes)
 		(uuid "c4c8fadf-527a-4133-be52-a199de87719d")
 		(property "Reference" "#PWR0128"
-			(at 26.67 181.61 0)
+			(at 25.4 186.69 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17419,7 +16643,7 @@
 			)
 		)
 		(property "Value" "+5V"
-			(at 26.67 172.72 0)
+			(at 25.4 177.8 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17427,7 +16651,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 26.67 177.8 0)
+			(at 25.4 182.88 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17436,7 +16660,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 26.67 177.8 0)
+			(at 25.4 182.88 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17445,7 +16669,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+5V\""
-			(at 26.67 177.8 0)
+			(at 25.4 182.88 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17952,52 +17176,42 @@
 		)
 	)
 	(symbol
-		(lib_id "IN-PI15TAT5R5G5B:IN-PI15TAT5R5G5B")
-		(at 54.61 180.34 180)
+		(lib_id "WS2812B2020:WS2812B2020")
+		(at 40.64 121.92 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(uuid "dbfb7ebd-53a9-40c8-abca-3ad6307383ef")
-		(property "Reference" "LED5"
-			(at 40.64 178.816 0)
+		(uuid "d9435900-8d35-4b71-a560-43fb1f310937")
+		(property "Reference" "LED1"
+			(at 39.624 118.11 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Value" "IN-PI15TAT5R5G5B"
-			(at 40.64 172.72 0)
+		(property "Value" "WS2812B2020"
+			(at 39.37 111.76 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Footprint" "INPI15TAT5R5G5B"
-			(at 30.48 85.42 0)
+		(property "Footprint" "WS2812B2020:LED_WS2812B2020"
+			(at 40.64 121.92 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left top)
+				(justify bottom)
 				(hide yes)
 			)
 		)
 		(property "Datasheet" ""
-			(at 30.48 -14.58 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Description" "SMD-4_1.5X1.5 LED Addressable, Specialty RoHS"
-			(at 54.61 180.34 0)
+			(at 40.64 121.92 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18005,58 +17219,8 @@
 				(hide yes)
 			)
 		)
-		(property "Height" "0.75"
-			(at 30.48 -214.58 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Mouser Part Number" "743-IN-PI15TAT5R5G5B"
-			(at 30.48 -314.58 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Inolux/IN-PI15TAT5R5G5B?qs=stqOd1AaK79AxVQMebgHsw%3D%3D"
-			(at 30.48 -414.58 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer_Name" "Inolux"
-			(at 30.48 -514.58 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer_Part_Number" "IN-PI15TAT5R5G5B"
-			(at 30.48 -614.58 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Original" ""
-			(at 54.61 180.34 0)
+		(property "Description" "SMD,2.2x2mm LED Addressable, Specialty RoHS"
+			(at 40.64 121.92 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18064,8 +17228,128 @@
 				(hide yes)
 			)
 		)
-		(property "Instructions/Notes" ""
-			(at 54.61 180.34 0)
+		(property "MF" "WorldSemi"
+			(at 40.64 121.92 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "MAXIMUM_PACKAGE_HEIGHT" "0.84 mm"
+			(at 40.64 121.92 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Package" "None"
+			(at 40.64 121.92 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Price" "None"
+			(at 40.64 121.92 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Check_prices" "https://www.snapeda.com/parts/WS2812B-2020/Worldsemi/view-part/?ref=eda"
+			(at 40.64 121.92 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "STANDARD" "Manufacturer Recommendations"
+			(at 40.64 121.92 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "PARTREV" "V1.0"
+			(at 40.64 121.92 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "SnapEDA_Link" "https://www.snapeda.com/parts/WS2812B-2020/Worldsemi/view-part/?ref=snap"
+			(at 40.64 121.92 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "MP" "WS2812B-2020"
+			(at 40.64 121.92 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Description_1" "Programmable LED; SMD; 2020; RGB; 2x2x0.84mm; 3.7÷5.3V; 2kHz"
+			(at 40.64 121.92 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Availability" "In Stock"
+			(at 40.64 121.92 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER" "WorldSemi"
+			(at 40.64 121.92 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C965555"
+			(at 40.64 121.92 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18073,35 +17357,8 @@
 				(hide yes)
 			)
 		)
-		(property "MANUFACTURER" "Inolux"
-			(at 54.61 180.34 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MANUFACTURER_PART_NUMBER" "IN-PI15TAT5R5G5B"
-			(at 54.61 180.34 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC Part #" "C7429437"
-			(at 54.61 180.34 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "VENDOR" ""
-			(at 54.61 180.34 0)
+		(property "MANUFACTURER_PART_NUMBER" "WS2812B-2020"
+			(at 40.64 121.92 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18110,21 +17367,21 @@
 			)
 		)
 		(pin "3"
-			(uuid "d77224d1-a3a3-484d-8c52-1351caa862ff")
-		)
-		(pin "2"
-			(uuid "03df483d-5bc6-47a6-878d-d7c2aabaea16")
-		)
-		(pin "1"
-			(uuid "350f90d1-e544-4a3b-8088-01c569344526")
+			(uuid "4783e3bf-3616-4f23-9149-b22d412157c4")
 		)
 		(pin "4"
-			(uuid "0ecbc057-9fd2-44d3-9e9c-e75464b3e2b4")
+			(uuid "5eeae17a-8d2a-4c44-9e96-4580cc2d218b")
+		)
+		(pin "2"
+			(uuid "4a14a2ad-cba7-4aad-919d-0488a9413045")
+		)
+		(pin "1"
+			(uuid "2c9afcb0-eaea-4070-b71b-cd67e83d4198")
 		)
 		(instances
-			(project "gammapi-zero"
+			(project ""
 				(path "/f88da08e-cf42-4d03-a08f-3f602fe6658d"
-					(reference "LED5")
+					(reference "LED1")
 					(unit 1)
 				)
 			)
@@ -18350,165 +17607,6 @@
 			(project ""
 				(path "/f88da08e-cf42-4d03-a08f-3f602fe6658d"
 					(reference "SW1")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:C")
-		(at 21.59 181.61 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "e5ff6478-dd84-4f2d-97ce-927ae00143d8")
-		(property "Reference" "C73"
-			(at 19.431 180.848 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Value" "100n"
-			(at 13.462 183.134 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
-			(at 22.5552 185.42 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 21.59 181.61 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "100nF ±10% 50V Ceramic Capacitor X7R 0402"
-			(at 21.59 181.61 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC Part #" "C307331"
-			(at 21.59 181.61 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC Link" "https://lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_Samsung-Electro-Mechanics-CL05B104KB54PNC_C307331.html"
-			(at 21.59 181.61 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Manufactuer Part Number" "CL05B104KB54PNC"
-			(at 21.59 181.61 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Note" ""
-			(at 21.59 181.61 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Notes" ""
-			(at 21.59 181.61 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Original" ""
-			(at 21.59 181.61 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Instructions/Notes" ""
-			(at 21.59 181.61 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MANUFACTURER_PART_NUMBER" "CL05B104KB54PNC"
-			(at 21.59 181.61 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MANUFACTURER" "Samsung Electro-Mechanics"
-			(at 21.59 181.61 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "VENDOR" ""
-			(at 21.59 181.61 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "ba16b21d-3644-4f1a-a39c-292e1ffd89b1")
-		)
-		(pin "2"
-			(uuid "d3952ccc-358c-4c49-9815-c3aa75916021")
-		)
-		(instances
-			(project "gammapi-zero"
-				(path "/f88da08e-cf42-4d03-a08f-3f602fe6658d"
-					(reference "C73")
 					(unit 1)
 				)
 			)
@@ -18775,72 +17873,6 @@
 			(project "gammapi-zero"
 				(path "/f88da08e-cf42-4d03-a08f-3f602fe6658d"
 					(reference "#PWR012")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:GND")
-		(at 21.59 135.89 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "f5ba8f65-eebd-4a04-b38f-5ecd39510ad7")
-		(property "Reference" "#PWR0133"
-			(at 21.59 142.24 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "GND"
-			(at 21.59 140.97 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 21.59 135.89 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 21.59 135.89 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 21.59 135.89 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "ac8861a3-4326-4f1e-9a8a-190cc1e02eeb")
-		)
-		(instances
-			(project "gammapi-zero"
-				(path "/f88da08e-cf42-4d03-a08f-3f602fe6658d"
-					(reference "#PWR0133")
 					(unit 1)
 				)
 			)
