@@ -33,7 +33,7 @@ Moreover GammaPi Zero is fully open-source, no strings attached. Learn from the 
     * Lattice ECP5U-25F-CABGA256 FPGA
     * 256 Mib SDRAM
     * DVI video output via HDMI connector
-    * 25 MBPS ADC
+    * 50 MBPS ADC
     * 3× USB ports (1× programming/JTAG, 2× general purpose)
     * USB-JTAG programming interface
     * Mini SD card reader
